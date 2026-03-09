@@ -16,7 +16,7 @@ jobs:
       - name: Fetch RSS feed
         uses: Promptly-Technologies-LLC/rss-fetch-action@v1
         with:
-          feed_url: https://rss.aishort.top/?type=huxiu  # 替换成你要的 RSS
+          feed_url: https://feeds.bbci.co.uk/news/rss.xml  # 替换成你要的 RSS
           file_path: news/36kr-latest.json  # 保存路径
           remove_last_build_date: false
 

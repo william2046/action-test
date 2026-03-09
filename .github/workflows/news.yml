@@ -24,7 +24,7 @@ jobs:
         with:
           feed_url: https://feeds.bbci.co.uk/news/rss.xml
           file_path: news/36kr-latest.json
-          remove_published: false   # 修正：原 remove_last_build_date 无效
+          remove_last_build_date: false
 
       # 转成 Markdown 简报（feed-extractor 输出 description 而非 summary）
       - name: Convert to Markdown

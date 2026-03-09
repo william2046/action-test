@@ -16,9 +16,9 @@ jobs:
       - name: Fetch RSS feed
         uses: Promptly-Technologies-LLC/rss-fetch-action@v1
         with:
-          feed_url: https://www.huxiu.com/rss/0.xml  # 替换成你要的 RSS
+          feed_url: https://rss.aishort.top/?type=huxiu  # 替换成你要的 RSS
           file_path: news/36kr-latest.json  # 保存路径
-          max_entries: 10                  # 最多取10条
+          remove_last_build_date: false
 
       # 可选：转成 Markdown 简报
       - name: Convert to Markdown

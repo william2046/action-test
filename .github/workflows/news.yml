@@ -4,6 +4,9 @@ on:
     - cron: "0 1 * * *"  # 每天 UTC 1点（北京时间 9点）
   workflow_dispatch:      # 手动触发测试
 
+permissions:
+  contents: write        # 允许 push 到仓库
+
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
@@ -12,25 +15,29 @@ jobs:
         with:
           fetch-depth: 0
 
-      # 抓取 RSS 并保存为 JSON/Markdown
+      - name: Create news directory
+        run: mkdir -p news
+
+      # 抓取 RSS 并保存为 JSON
       - name: Fetch RSS feed
         uses: Promptly-Technologies-LLC/rss-fetch-action@v1
         with:
-          feed_url: https://feeds.bbci.co.uk/news/rss.xml  # 替换成你要的 RSS
-          file_path: news/36kr-latest.json  # 保存路径
-          remove_last_build_date: false
+          feed_url: https://feeds.bbci.co.uk/news/rss.xml
+          file_path: news/36kr-latest.json
+          remove_published: false   # 修正：原 remove_last_build_date 无效
 
-      # 可选：转成 Markdown 简报
+      # 转成 Markdown 简报（feed-extractor 输出 description 而非 summary）
       - name: Convert to Markdown
         run: |
           TODAY=$(date +%Y-%m-%d)
-          jq -r '.entries[] | "- **\(.title)**\n  \(.link)\n  \(.summary | gsub("<[^>]*>"; ""))\n"' news/36kr-latest.json > news/$TODAY-36kr.md
+          echo "TODAY=$TODAY" >> $GITHUB_ENV
+          jq -r '.entries[]? | "- **\(.title)**\n  \(.link)\n  \((.description // "") | gsub("<[^>]*>"; ""))\n"' news/36kr-latest.json > news/$TODAY-36kr.md || true
 
-      # 提交到仓库
+      # 提交到仓库（TODAY 由上一步通过 GITHUB_ENV 传入）
       - name: Commit and push
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add news/
-          git commit -m "Add news $TODAY" || echo "No changes"
+          git diff --staged --quiet || git commit -m "Add news $TODAY"
           git push

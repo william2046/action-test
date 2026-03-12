@@ -35,20 +35,29 @@ jobs:
 
       - name: Create directories
         run: |
-          mkdir -p "${{ github.event.inputs.rss_output_dir || 'news/rss' }}"
-          mkdir -p "${{ github.event.inputs.result_output_dir || 'news/gemini-result' }}"
+          TODAY=$(date +%Y-%m-%d)
+          RSS_BASE="${{ github.event.inputs.rss_output_dir || 'news/rss' }}"
+          RESULT_BASE="${{ github.event.inputs.result_output_dir || 'news/gemini-result' }}"
+          RSS_DIR="$RSS_BASE/$TODAY"
+          RESULT_DIR="$RESULT_BASE/$TODAY"
+          mkdir -p "$RSS_DIR" "$RESULT_DIR"
+          echo "TODAY=$TODAY" >> $GITHUB_ENV
+          echo "RSS_DIR=$RSS_DIR" >> $GITHUB_ENV
+          echo "RESULT_DIR=$RESULT_DIR" >> $GITHUB_ENV
+          echo "RSS_BASE=$RSS_BASE" >> $GITHUB_ENV
+          echo "RESULT_BASE=$RESULT_BASE" >> $GITHUB_ENV
 
       - name: Fetch RSS to directory
         uses: Promptly-Technologies-LLC/rss-fetch-action@v1
         with:
           feed_url: ${{ github.event.inputs.rss_feed_url || 'https://feeds.bbci.co.uk/news/rss.xml' }}
-          file_path: ${{ github.event.inputs.rss_output_dir || 'news/rss' }}/feed.json
+          file_path: ${{ env.RSS_DIR }}/feed.json
           remove_last_build_date: false
 
       - name: Read directory content as text for Gemini
         id: content
         run: |
-          RSS_DIR="${{ github.event.inputs.rss_output_dir || 'news/rss' }}"
+          RSS_DIR="${{ env.RSS_DIR }}"
           # 将 RSS JSON 转成可读文本（标题、链接、描述）
           CONTENT=$(jq -r '
             .rss.channel.item[]? |
@@ -63,8 +72,8 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           PROMPT_FILE="${{ github.event.inputs.prompt_file || '.github/prompts/gemini-news-prompt.txt' }}"
-          RESULT_DIR="${{ github.event.inputs.result_output_dir || 'news/gemini-result' }}"
-          RSS_DIR="${{ github.event.inputs.rss_output_dir || 'news/rss' }}"
+          RESULT_DIR="${{ env.RESULT_DIR }}"
+          RSS_DIR="${{ env.RSS_DIR }}"
           PROMPT=$(cat "$PROMPT_FILE")
           CONTENT=$(cat "$RSS_DIR/context.txt")
           # 使用 jq 构建请求体，避免 shell 转义问题
@@ -73,14 +82,14 @@ jobs:
             --arg content "$CONTENT" \
             '{
               contents: [{ parts: [{ text: ($prompt + "\n\n## 输入内容\n\n" + $content) }] }],
-              generationConfig: { temperature: 0.4, maxOutputTokens: 2048 }
+              generationConfig: { temperature: 0.4, maxOutputTokens: 20480 }
             }')
           RESPONSE=$(curl -s -X POST \
-            "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=$GEMINI_API_KEY" \
+            "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=$GEMINI_API_KEY" \
             -H "Content-Type: application/json" \
             -d "$BODY")
-          # 提取返回文本
-          TEXT=$(echo "$RESPONSE" | jq -r '.candidates[0].content.parts[0].text // empty' || echo "")
+          # 提取返回文本（拼接所有 parts，避免长回复被截断）
+          TEXT=$(echo "$RESPONSE" | jq -r '.candidates[0].content.parts | map(.text) | add // empty' || echo "")
           if [ -z "$TEXT" ]; then
             echo "Gemini API 未返回有效内容，原始响应（前 500 字符）："
             echo "$RESPONSE" | head -c 500
@@ -94,8 +103,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          RSS_DIR="${{ github.event.inputs.rss_output_dir || 'news/rss' }}"
-          RESULT_DIR="${{ github.event.inputs.result_output_dir || 'news/gemini-result' }}"
-          git add "$RSS_DIR" "$RESULT_DIR"
-          git diff --staged --quiet || git commit -m "RSS + Gemini summary $(date +%Y-%m-%d)"
+          git add "${{ env.RSS_BASE }}" "${{ env.RESULT_BASE }}"
+          git diff --staged --quiet || git commit -m "RSS + Gemini summary ${{ env.TODAY }}"
           git push

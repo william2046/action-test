@@ -85,7 +85,7 @@ jobs:
               generationConfig: { temperature: 0.4, maxOutputTokens: 20480 }
             }')
           RESPONSE=$(curl -s -X POST \
-            "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=$GEMINI_API_KEY" \
+            "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=$GEMINI_API_KEY" \
             -H "Content-Type: application/json" \
             -d "$BODY")
           # 提取返回文本（拼接所有 parts，避免长回复被截断）

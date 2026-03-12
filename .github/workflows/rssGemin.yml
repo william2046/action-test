@@ -1,0 +1,101 @@
+# RSS 抓取 → 指定目录 → Gemini API 处理 → 结果写入指定目录
+name: RSS + Gemini Summary
+on:
+  schedule:
+    - cron: "0 2 * * *"   # 每天 UTC 2 点（北京时间 10 点），在 daily-news-rss 之后
+  workflow_dispatch:
+    inputs:
+      rss_feed_url:
+        description: 'RSS 源地址'
+        required: false
+        default: 'https://feeds.bbci.co.uk/news/rss.xml'
+      rss_output_dir:
+        description: 'RSS 抓取结果保存目录'
+        required: false
+        default: 'news/rss'
+      prompt_file:
+        description: 'Gemini 使用的 prompt 文件路径（相对仓库根）'
+        required: false
+        default: '.github/prompts/gemini-news-prompt.txt'
+      result_output_dir:
+        description: 'Gemini 返回结果保存目录'
+        required: false
+        default: 'news/gemini-result'
+
+permissions:
+  contents: write
+
+jobs:
+  rss-and-gemini:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Create directories
+        run: |
+          mkdir -p "${{ github.event.inputs.rss_output_dir || 'news/rss' }}"
+          mkdir -p "${{ github.event.inputs.result_output_dir || 'news/gemini-result' }}"
+
+      - name: Fetch RSS to directory
+        uses: Promptly-Technologies-LLC/rss-fetch-action@v1
+        with:
+          feed_url: ${{ github.event.inputs.rss_feed_url || 'https://feeds.bbci.co.uk/news/rss.xml' }}
+          file_path: ${{ github.event.inputs.rss_output_dir || 'news/rss' }}/feed.json
+          remove_last_build_date: false
+
+      - name: Read directory content as text for Gemini
+        id: content
+        run: |
+          RSS_DIR="${{ github.event.inputs.rss_output_dir || 'news/rss' }}"
+          # 将 RSS JSON 转成可读文本（标题、链接、描述）
+          CONTENT=$(jq -r '
+            .rss.channel.item[]? |
+            "---\n标题: " + (.title // "") + "\n链接: " + (.link // "") + "\n描述: " + ((.description // "") | gsub("<[^>]*>"; "")) + "\n"
+          ' "$RSS_DIR/feed.json" 2>/dev/null || echo "[]")
+          # 多行内容放入 env 供下一步使用（用文件传递更稳妥）
+          echo "$CONTENT" > "$RSS_DIR/context.txt"
+          echo "context_file=$RSS_DIR/context.txt" >> $GITHUB_OUTPUT
+
+      - name: Call Gemini API and save result
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          PROMPT_FILE="${{ github.event.inputs.prompt_file || '.github/prompts/gemini-news-prompt.txt' }}"
+          RESULT_DIR="${{ github.event.inputs.result_output_dir || 'news/gemini-result' }}"
+          RSS_DIR="${{ github.event.inputs.rss_output_dir || 'news/rss' }}"
+          PROMPT=$(cat "$PROMPT_FILE")
+          CONTENT=$(cat "$RSS_DIR/context.txt")
+          # 使用 jq 构建请求体，避免 shell 转义问题
+          BODY=$(jq -n \
+            --arg prompt "$PROMPT" \
+            --arg content "$CONTENT" \
+            '{
+              contents: [{ parts: [{ text: ($prompt + "\n\n## 输入内容\n\n" + $content) }] }],
+              generationConfig: { temperature: 0.4, maxOutputTokens: 2048 }
+            }')
+          RESPONSE=$(curl -s -X POST \
+            "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=$GEMINI_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d "$BODY")
+          # 提取返回文本
+          TEXT=$(echo "$RESPONSE" | jq -r '.candidates[0].content.parts[0].text // empty' || echo "")
+          if [ -z "$TEXT" ]; then
+            echo "Gemini API 未返回有效内容，原始响应（前 500 字符）："
+            echo "$RESPONSE" | head -c 500
+            exit 1
+          fi
+          TODAY=$(date +%Y-%m-%d)
+          echo "$TEXT" > "$RESULT_DIR/${TODAY}.md"
+          echo "Result saved to $RESULT_DIR/${TODAY}.md"
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          RSS_DIR="${{ github.event.inputs.rss_output_dir || 'news/rss' }}"
+          RESULT_DIR="${{ github.event.inputs.result_output_dir || 'news/gemini-result' }}"
+          git add "$RSS_DIR" "$RESULT_DIR"
+          git diff --staged --quiet || git commit -m "RSS + Gemini summary $(date +%Y-%m-%d)"
+          git push

@@ -1,0 +1,738 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Sat, 14 Mar 2026 04:03:41 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Chancellor to offer support over rising heating oil costs",
+          "description": "Rachel Reeves says the Treasury is also looking at \"different options\" to help households most vulnerable to soaring energy bills.",
+          "link": "https://www.bbc.com/news/articles/cvg3y9dpvxgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvg3y9dpvxgo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Mar 2026 03:49:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc9a/live/87c0d0f0-1f3e-11f1-9120-a910fc22c6ac.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ethics adviser rejects Tory call for inquiry into PM over Mandelson appointment",
+          "description": "Sir Laurie Magnus said the relevant process appeared to have been followed when Lord Mandelson was made ambassador.",
+          "link": "https://www.bbc.com/news/articles/cy57zv3l0nvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy57zv3l0nvo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 22:17:38 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b1/live/ae2e46d0-1f27-11f1-a600-6bf0292beaaf.jpg"
+            }
+          }
+        },
+        {
+          "title": "F1 races in Middle East to be cancelled because of war in Iran",
+          "description": "The Bahrain and Saudi Arabia Grands Prix scheduled for next month are set to be cancelled as a result of the Middle East war.",
+          "link": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 17:12:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1583/live/811badb0-1efd-11f1-ba8d-c985cd7dd7c1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Austrian glaciers disintegrating due to climate change, say scientists",
+          "description": "Scientists say nearly all of the significant glaciers in the Austrian Alps have shrunk.",
+          "link": "https://www.bbc.com/news/articles/cd038pgrr1yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cd038pgrr1yo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 19:09:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e386/live/a4275090-1f0a-11f1-87bd-bb650a6d53bc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Doomed hereditary peers spy chance to stay in the Lords",
+          "description": "The Tories are deciding which hereditary peers to keep after being offered 15 seats in a compromise deal.",
+          "link": "https://www.bbc.com/news/articles/c89kjql73kqo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c89kjql73kqo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Mar 2026 01:41:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad1a/live/3b3b9e30-1edb-11f1-aedd-0da0e866b1f3.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Tigers and flies': Millions of officials later, why is Xi's corruption purge still going?",
+          "description": "Critics say Xi's purges reveal a ruthless drive for absolute loyalty and total control of the military.",
+          "link": "https://www.bbc.com/news/articles/c78xxyyqwe7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c78xxyyqwe7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 23:08:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12ea/live/99535ca0-1f09-11f1-801d-ed3cff6bf876.jpg"
+            }
+          }
+        },
+        {
+          "title": "'We're not profiteering on fuel. But my staff still face abuse'",
+          "description": "Independent retailer Goran Raven says the higher oil price is \"horrific\" for him as well as his customers.",
+          "link": "https://www.bbc.com/news/articles/c626mdvn6d5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c626mdvn6d5o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 22:42:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/171b/live/f55b1c10-1f11-11f1-9a3d-e74384ba5d85.jpg"
+            }
+          }
+        },
+        {
+          "title": "Los Angeles asks for investigation into LA28 Olympics chief over Epstein ties",
+          "description": "The LA city council voted unanimously for an investigation into LA28 chief Casey Wasserman over his Epstein ties. ",
+          "link": "https://www.bbc.com/news/articles/cn9ewxq98e5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cn9ewxq98e5o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Mar 2026 02:28:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4617/live/1cb62370-1f41-11f1-819c-915d97098230.jpg"
+            }
+          }
+        },
+        {
+          "title": "New Archbishop of Canterbury to walk 87 mile pilgrimage route ahead of installation",
+          "description": "Dame Sarah Mullally's six-day walk begins at Southwark Cathedral and travels along the Becket Way to Canterbury Cathedral.",
+          "link": "https://www.bbc.com/news/articles/c5yjm9zdn8no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c5yjm9zdn8no#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Mar 2026 01:46:42 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b01/live/ce740d30-1ed7-11f1-aedd-0da0e866b1f3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
+          "description": "A group of fighters based in Iraq say they are \"ready to go home\", as they face drone attacks from Tehran.",
+          "link": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c79505804lpo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 22:02:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ff/live/57adba20-1ef5-11f1-9120-a910fc22c6ac.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: Why Kharg Island is a lifeline for Iran",
+          "description": "BBC Security Brief's Mikey Kay breaks down why Kharg Island is so strategically important for Tehran.",
+          "link": "https://www.bbc.com/news/videos/c4g7ddn9xz0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/c4g7ddn9xz0o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Mar 2026 01:21:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ea/live/befde950-1f42-11f1-9120-a910fc22c6ac.jpg"
+            }
+          }
+        },
+        {
+          "title": "How the Iran war exposed cracks in Trump's Republican coalition",
+          "description": "The president's most dedicated supporters are on his side - but significant numbers of Republicans have serious doubts.",
+          "link": "https://www.bbc.com/news/articles/cev7wn213rvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cev7wn213rvo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Mar 2026 00:02:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "160",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/119f/live/155cf8a0-1ee3-11f1-801d-ed3cff6bf876.jpg"
+            }
+          }
+        },
+        {
+          "title": "As hopes of regime change in Iran fade, Netanyahu faces political test",
+          "description": "Israeli leaders are framing the bombing campaign as having transformed the Middle East in their favour as pressure to end the conflict builds.",
+          "link": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvg5yp7v0ppo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 15:35:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35b0/live/50d502f0-1ee4-11f1-9120-a910fc22c6ac.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why has Trump eased sanctions on Russian oil - and will it help Putin?",
+          "description": "The US said easing sanctions on Russian oil would provide only a limited financial boost to Putin.",
+          "link": "https://www.bbc.com/news/articles/cm2871wyz9ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cm2871wyz9ko#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 16:07:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af02/live/ab211230-1ef8-11f1-b048-c9424b2cf5fd.jpg"
+            }
+          }
+        },
+        {
+          "title": "Is Dubai's glossy image under threat? Not everyone thinks so",
+          "description": "Dubai has been seen as a safe haven by expats, tourists and influencers  - but that's now being tested.",
+          "link": "https://www.bbc.com/news/articles/c86y2gpgn54o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c86y2gpgn54o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Mar 2026 00:02:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e66/live/827f6f50-1ef0-11f1-9120-a910fc22c6ac.jpg"
+            }
+          }
+        },
+        {
+          "title": "They were told it wasn't for girls, but these could be the future faces of F1",
+          "description": "F1 Academy wants to nurture and develop female drivers who can compete at motorsport’s top level",
+          "link": "https://www.bbc.com/news/articles/c2d18ze2el1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c2d18ze2el1o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Mar 2026 02:21:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb9b/live/d1e7dfc0-1eee-11f1-b048-c9424b2cf5fd.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Like a trap you can't escape': The women who regret being mothers",
+          "description": "From mourning the life they no longer have to feeling never-ending pressure, women tell the BBC why they regret becoming mothers.",
+          "link": "https://www.bbc.com/news/articles/cvgkvge4rkmo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgkvge4rkmo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Mar 2026 02:33:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f8a/live/bfceb770-1e3d-11f1-801d-ed3cff6bf876.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: Epstein files photo 'bombshell' and 'Iran war spirals'",
+          "description": "The Middle East war and a photo Andrew Mountbatten-Windsor with Jeffrey Epstein and Peter Mandelson dominate Saturday's front pages.",
+          "link": "https://www.bbc.com/news/articles/cj4zjk2l8xjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cj4zjk2l8xjo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Mar 2026 01:27:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28cf/live/f2d7bad0-1f38-11f1-b048-c9424b2cf5fd.jpg"
+            }
+          }
+        },
+        {
+          "title": "From Mr Nobody to Oscar nominee: How one man took on Putin",
+          "description": "Pavel Talankin's film Mr Nobody Against Putin has already won a Bafta, and is now competing for an Oscar.",
+          "link": "https://www.bbc.com/news/articles/cx2ggjegj5lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx2ggjegj5lo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 17:00:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4569/live/b11f3720-1f25-11f1-801d-ed3cff6bf876.jpg"
+            }
+          }
+        },
+        {
+          "title": "She spent 16 hours on Instagram. It's up to a jury to decide if Meta is to blame",
+          "description": "A landmark lawsuit will set the stage for thousands of people who say social media platforms are intentionally addictive. ",
+          "link": "https://www.bbc.com/news/articles/c0mg3zd7xwpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c0mg3zd7xwpo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Mar 2026 00:02:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/219d/live/51f0ac50-1f09-11f1-801d-ed3cff6bf876.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why do Glasgow's historic buildings keep catching fire?",
+          "description": "The fire that devastated a building on Union Street is the latest in a series of blazes to strike the city's historic sites. ",
+          "link": "https://www.bbc.com/news/articles/cdxz0enqykgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cdxz0enqykgo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 22:52:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9359/live/3f5e8430-1eec-11f1-8cb7-433d6fa8d367.jpg"
+            }
+          }
+        },
+        {
+          "title": "Maya Jama: 'My dream acting role is to play a monster or villain'",
+          "description": "The Love Island host explains why she is keen to move into acting after joining the cast of The Gentlemen.",
+          "link": "https://www.bbc.com/news/articles/cq57x0nlnv9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cq57x0nlnv9o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Mar 2026 03:59:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62f0/live/9f47fb90-1efd-11f1-ba8d-c985cd7dd7c1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
+          "description": "The 84-year-old mother of US TV presenter Savannah Guthrie was kidnapped 41 days ago.",
+          "link": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx2lzlydg93o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 16:38:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6604/live/d5b552c0-1eff-11f1-b048-c9424b2cf5fd.jpg"
+            }
+          }
+        },
+        {
+          "title": "My stalker tricked random men into turning up at house for sex",
+          "description": "A family were visited by strange men, who had seen adverts created by Declan Guess for \"fun and sex\" online.",
+          "link": "https://www.bbc.com/news/articles/cev7lepl9jgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cev7lepl9jgo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Mar 2026 04:00:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e09/live/3b932890-1bb0-11f1-9a88-31f0efde6a8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Harry Styles breaks his own sales record as new album hits number one",
+          "description": "The star sells 183,000 albums as fans give a hearty embrace to Kiss All The Time. Disco Occasionally",
+          "link": "https://www.bbc.com/news/articles/c8r161p83y8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c8r161p83y8o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 17:46:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e0/live/5585bbf0-1ef3-11f1-a675-efbfbea036bf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ukraine and allies fear easing Russian sanctions will prolong war",
+          "description": "Ukraine's president says the US decision \"certainly does not help achieve peace\".",
+          "link": "https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c1d6l67122wo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 16:12:27 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af04/live/899c8480-1eeb-11f1-8cb7-433d6fa8d367.jpg"
+            }
+          }
+        },
+        {
+          "title": "Pink Floyd guitar sold for record-breaking $14.6m",
+          "description": "The guitar was used by David Gilmour on some of Pink Floyd's best-known albums, including Dark Side of the Moon.",
+          "link": "https://www.bbc.com/news/articles/cr45v7ey91eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cr45v7ey91eo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 21:50:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f395/live/d7cb3440-1f1c-11f1-b5ee-ad10117609fa.jpg"
+            }
+          }
+        },
+        {
+          "title": "Charges dropped against US teens whose teacher died during toilet paper prank",
+          "description": "The teacher's family had asked for charges, including one of homicide, to be dropped \"to prevent a separate tragedy from occuring\" over the prank turned fatal.",
+          "link": "https://www.bbc.com/news/articles/c1l76346dvlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c1l76346dvlo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Mar 2026 02:47:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da90/live/9cb69b50-1f4a-11f1-801d-ed3cff6bf876.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Taking Back Control: Why ‘Agency’ Could Be The Next Big Idea In Politics",
+          "description": "A top pollster explains how a sense of powerlessness amongst voters is shaping politics.",
+          "link": "https://www.bbc.co.uk/sounds/play/m002sg2c?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/m002sg2c#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 12 Mar 2026 06:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0lgrqgm.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Week: Jeremy Bowen On The Iran War",
+          "description": "Jeremy Bowen joins Newscast to discuss the latest with the Iran War.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0n6g293?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0n6g293#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 11:35:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Scotland's wild ride from false dawns and fatalism to tilt at history'",
+          "description": "Scotland spent decades staring in the window as Ireland and Wales partied in the Six Nations. In Dublin on Saturday, they finally have a shot at glory.",
+          "link": "https://www.bbc.com/sport/rugby-union/articles/cx24z4mgv3ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/rugby-union/articles/cx24z4mgv3ro#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 17:27:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c8/live/6492b5f0-1f05-11f1-87bd-bb650a6d53bc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Would Arsenal be 'ugliest title winners in history'? What stats say",
+          "description": "While Arsenal continue their challenge on four fronts, their style of play continues to be criticised by some. Is it justified?",
+          "link": "https://www.bbc.com/sport/football/articles/ckg1elxww4po?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/ckg1elxww4po#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 16:48:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d5c/live/9320c6e0-1d3f-11f1-8a7a-4725a6287ab3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Aberg sets Players pace as McIlroy and Scheffler toil",
+          "description": "Ludvig Aberg fires a sublime 63 to lead the Players Championship by two shots at halfway as Rory McIlroy and Scottie Scheffler narrowly make the cut.",
+          "link": "https://www.bbc.com/sport/golf/articles/c8d535nmrjqo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/c8d535nmrjqo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 19:24:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b38/live/2435e450-1f37-11f1-801d-ed3cff6bf876.jpg"
+            }
+          }
+        },
+        {
+          "title": "Wood 'improving' but thinking of life after cricket",
+          "description": "England bowler Mark Wood says his injured knee is improving but admits he has started thinking about life after cricket for the first time.",
+          "link": "https://www.bbc.com/sport/cricket/articles/cp32k08e1deo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/cricket/articles/cp32k08e1deo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 23:19:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f4/live/217f8c00-1f39-11f1-a5f8-65dd0d5d6dd7.jpg"
+            }
+          }
+        },
+        {
+          "title": "Bahrain & Saudi Arabia Grands Prix to be cancelled",
+          "description": "The Bahrain and Saudi Arabia Grands Prix scheduled for next month are set to be cancelled as a result of the Middle East war.",
+          "link": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 17:12:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1583/live/811badb0-1efd-11f1-ba8d-c985cd7dd7c1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Too good to go down? Ranking shock Premier League relegations",
+          "description": "Premier League champions, FA Cup winners and club legends have all suffered the unwanted fate, but which relegated side really was \"too good to go down\"?",
+          "link": "https://www.bbc.com/sport/football/articles/cn5gn06ldppo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cn5gn06ldppo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 13 Mar 2026 15:14:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a6/live/29de5cc0-1e33-11f1-801d-ed3cff6bf876.png"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

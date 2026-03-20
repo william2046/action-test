@@ -1,0 +1,814 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Fri, 20 Mar 2026 04:06:50 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Huge queues for meningitis B jabs as vaccination scheme expanded",
+          "description": "Some queueing for vaccines at the University of Kent were turned away on Thursday.",
+          "link": "https://www.bbc.com/news/articles/cwyk44px2j5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cwyk44px2j5o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Mar 2026 18:09:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ec6/live/a454f210-23b1-11f1-9a4e-e13728524fa3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Sir John Curtice: Why Labour's Brexit focus has shifted from Leavers to Remainers",
+          "description": "Will the pursuit of a closer relationship with the EU risk courting electoral disaster by alienating Brexit-backing voters? ",
+          "link": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4gjn1d74jlo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:01:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d920/live/219706b0-238e-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Reports of children as young as 11 abused in West Midlands mini-marts, BBC reveals",
+          "description": "Child sexual abuse reports go back 10 years and were seen by safeguarding group which included police",
+          "link": "https://www.bbc.com/news/articles/clyzy0y20qlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clyzy0y20qlo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Mar 2026 17:46:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2f/live/faba8b10-2393-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Taxpayers to fund clear-up of huge illegal waste dumps  ",
+          "description": "The government says it will step in to clean up some of the biggest illegal rubbish tips in England.",
+          "link": "https://www.bbc.com/news/articles/cx2expk404vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx2expk404vo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 03:34:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/372f/live/cd1454f0-f7ad-11f0-b385-5f48925de19a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Labour MPs threaten vote to show opposition to Mahmood's migration plans",
+          "description": "Opponents are considering using parliamentary procedure to force a vote to highlight their concerns.",
+          "link": "https://www.bbc.com/news/articles/cy514kv2vzro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy514kv2vzro#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:42:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e06a/live/028a3900-bbf5-11f0-afe7-091f65e80e83.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Salt Path author wrote secret first book despite claiming she was debut writer",
+          "description": "Raynor and Moth Winn published a book they hoped would help get them out of debt, the BBC confirms.",
+          "link": "https://www.bbc.com/news/articles/cj32vx61x6lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cj32vx61x6lo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Mar 2026 22:44:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c5/live/98bce270-23be-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tailgating at matches to become criminal offence",
+          "description": "Entering a football match in England and Wales without a ticket will become a criminal offence under new laws.",
+          "link": "https://www.bbc.com/sport/football/articles/cj0v8z7pm6eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cj0v8z7pm6eo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:01:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/592d/live/bae4bd90-23e2-11f1-8713-e14ce41b6576.jpg"
+            }
+          }
+        },
+        {
+          "title": "Woman who lost five family members in drowning tragedy wants surviving daughter to 'live life'",
+          "description": "Rionaghac McGrotty was four months old when she was rescued from a car that slid off a pier after a day at the seaside.",
+          "link": "https://www.bbc.com/news/articles/cqlgqq6qg26o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cqlgqq6qg26o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:00:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9705/live/fb53e820-22d3-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "US broadcaster pulls The Bachelorette after domestic abuse allegations",
+          "description": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
+          "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cp9vryml4d1o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 01:41:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3651/live/fe5510f0-23d5-11f1-92f6-6d3dbba93239.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK's most popular tourist attraction for 2025 takes top spot from British Museum",
+          "description": "The venue broke the record for the most visitors to any museum or gallery in a single year. ",
+          "link": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c70n09pz4y1o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:05:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1efb/live/f8c32050-2371-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK set for temperature rollercoaster as chilly nights follow warm days",
+          "description": "March is a fickle time for temperatures in the UK and can see some huge swings from day to night.",
+          "link": "https://www.bbc.com/weather/articles/c99500mplgeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/weather/articles/c99500mplgeo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 02:30:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/775c/live/6f806db0-238b-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
+          "description": "Just under 100 ships have passed thorough the Strait of Hormuz since the start of March, according to data analysed by BBC Verify.",
+          "link": "https://www.bbc.com/news/articles/c4geg0eeyjeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4geg0eeyjeo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:04:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8bd/live/077ff0d0-22bb-11f1-b297-95b0a0a8331e.png"
+            }
+          }
+        },
+        {
+          "title": "The global winners and losers of the war in Iran ",
+          "description": "As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit.",
+          "link": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3wlwnn05zqo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:08:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8699/live/2eb11fa0-23c7-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Iranians prepare for Persian new year under shadow of war",
+          "description": "Iranians speak to the BBC about preparing for the Nowruz new year festival during the war.",
+          "link": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgkg8p7zlko#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:04:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3660/live/2dc8e250-23a2-11f1-9699-87c229cb26a0.jpg"
+            }
+          }
+        },
+        {
+          "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
+          "description": "What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment?",
+          "link": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c8x7leknlywo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Mar 2026 23:19:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b1/live/97e8f3a0-239d-11f1-b297-95b0a0a8331e.png"
+            }
+          }
+        },
+        {
+          "title": "Gas shortage caused by Iran war may push India back to dirtier fuels",
+          "description": "Reports from across India point to rising sales of biomass fuels like firewood and cow dung cakes.",
+          "link": "https://www.bbc.com/news/articles/c1d6vyy9v61o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c1d6vyy9v61o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:59:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08ee/live/9ec5bb60-235f-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "BTS Arirang review: K-pop idols rekindle their fire",
+          "description": "The band's 10th album sees them return to the rebellious, rap-heavy sound of their early days.",
+          "link": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c070eg32dryo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 04:04:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d2b/live/414b95e0-23c8-11f1-b050-bdbe6e966f25.jpg"
+            }
+          }
+        },
+        {
+          "title": "Traitors, Amandaland - and Idris Elba -  get set for Comic Relief",
+          "description": "The charity telethon takes place on Friday night and will be hosted by Davina McCall.",
+          "link": "https://www.bbc.com/news/articles/cvg3gnlwn10o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvg3gnlwn10o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 01:10:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7db/live/a5f3cd80-22cb-11f1-b72c-95dabe3e6755.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: Iran unleashes 'world energy shock' and 'King of the coast'",
+          "description": "Fears of a global energy crisis after attacks on major gas sites in the Middle East dominates Friday's papers.",
+          "link": "https://www.bbc.com/news/articles/c80me79xlvjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c80me79xlvjo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:47:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0be7/live/90d88900-23ec-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Desperate for food drought-stricken Kenyans turn to the gingerbread tree",
+          "description": "Some 26 million people are \"facing extreme hunger\" in Kenya, Ethiopia and Somalia, warns humanitarian organisation Oxfam.",
+          "link": "https://www.bbc.com/news/articles/cvg521yj9lvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvg521yj9lvo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:06:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9be5/live/bef7b0c0-2150-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Weekly quiz: How did this man accidentally turn himself blue?",
+          "description": "How much attention did you pay to what happened in the world over the past seven days?",
+          "link": "https://www.bbc.com/news/articles/cwyd7xjw2r3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cwyd7xjw2r3o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Mar 2026 17:34:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b3b/live/159d9700-23b8-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Colombia's budding tech scene needs a cash boost",
+          "description": "Colombia has become a tech hub for Latin America, but attracting investors is a challenge.",
+          "link": "https://www.bbc.com/news/articles/c4g2kyg4e78o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4g2kyg4e78o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:09:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0521/live/472e0590-1317-11f1-801d-ed3cff6bf876.jpg"
+            }
+          }
+        },
+        {
+          "title": "Faisal Islam: Iran war is having a dramatic effect on the UK economy",
+          "description": "The knock-on effects of the war in the Gulf go beyond a hold on interest rates and are set to reverberate for months.",
+          "link": "https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c33lnd1gxxro#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Mar 2026 16:21:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45e/live/ef35c970-23ad-11f1-9a4e-e13728524fa3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Australia PM heckled at Sydney mosque Ramadan event",
+          "description": "The government's response to the Israel-Gaza war and rising Islamophobia has angered many Muslim Australians.",
+          "link": "https://www.bbc.com/news/articles/cz90wy2190go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cz90wy2190go#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 02:54:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3f6/live/a26d9f60-23fc-11f1-a32f-e53a8acb7c4f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Fifa rules women's teams must have female coaches",
+          "description": "Every team in Fifa's women's football tournaments must include at least one female head coach or assistant coach as part of new regulations.",
+          "link": "https://www.bbc.com/sport/football/articles/cge0djne300o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cge0djne300o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Mar 2026 17:25:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91bd/live/17a374f0-23bf-11f1-92e7-e70d0571c9f1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump 24-karat gold coin approved by hand-picked federal panel",
+          "description": "The coin, intended to mark the nation's 250th birthday, should be \"as large as possible\", says one panel member.",
+          "link": "https://www.bbc.com/news/articles/cwywxvgynr2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cwywxvgynr2o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 01:15:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d265/live/ca2514e0-23fa-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Workhorse' Land Rover fleet to be retired from Army after 70 years",
+          "description": "A service was held in Dorset to mark the beginning of Land Rover vehicles being phased out by the Army by 2030.",
+          "link": "https://www.bbc.com/news/articles/ckge29v8ddgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ckge29v8ddgo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:36:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cb6/live/0a445ec0-23bd-11f1-92e7-e70d0571c9f1.png"
+            }
+          }
+        },
+        {
+          "title": "Denmark planned to blow up Greenland runways if US invaded, reports say",
+          "description": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland.",
+          "link": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c33ln4mp1p2o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Mar 2026 21:52:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bd4/live/ce7b2b90-23d9-11f1-92f6-6d3dbba93239.jpg"
+            }
+          }
+        },
+        {
+          "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
+          "description": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
+          "link": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c895wwp3kqlo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Mar 2026 15:33:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d486/live/1ae92f10-2388-11f1-bbc4-054d2cdbb6e0.jpg"
+            }
+          }
+        },
+        {
+          "title": "Several injured as turbulence hits Delta flight into Sydney",
+          "description": "Three flight attendants were taken to hospital after the Airbus A350 experienced turbulence during its descent into Sydney Airport.",
+          "link": "https://www.bbc.com/news/articles/c78l572p4n7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c78l572p4n7o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 01:26:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d2f/live/4a7d6730-23f8-11f1-b6f7-2d6237dffb60.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "(Another) Labour Leadership Challenge?",
+          "description": "Angela Rayner sparks leadership speculation claiming Labour is “running out of time”.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0n6gzm1?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0n6gzm1#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 18 Mar 2026 20:15:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump threatens TV networks over unpatriotic Iran coverage",
+          "description": "And why has top counterterrorism official Joe Kent resigned?",
+          "link": "https://www.bbc.co.uk/sounds/play/p0n7dqvy?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0n7dqvy#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 18 Mar 2026 18:02:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "Is 'baby brain' real?",
+          "description": "Baby brain is a concept many mums can relate to. But what’s really going on?",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002r9bx/baby-brain-whats-really-going-on?at_mid=pPUMDQM1L5&at_campaign=Baby_Brain_Whats_Really_Going_On&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002r9bx&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Baby_Brain_Whats_Really_Going_On&at_bbc_team=BBC&at_creation=News",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m002r9bx/baby-brain-whats-really-going-on?at_mid=pPUMDQM1L5&at_campaign=Baby_Brain_Whats_Really_Going_On&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002r9bx&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Baby_Brain_Whats_Really_Going_On&at_bbc_team=BBC&at_creation=News#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 04 Mar 2026 06:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ecb/live/514ce050-17b8-11f1-801d-ed3cff6bf876.jpg"
+            }
+          }
+        },
+        {
+          "title": "Famous night for Forest in season to largely forget",
+          "description": "Nottingham Forest are fighting for Premier League survival but reaching the Europa League quarter-finals could provide hope in an otherwise torrid season.",
+          "link": "https://www.bbc.com/sport/football/articles/c747lzj20g8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c747lzj20g8o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Mar 2026 23:35:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4f2/live/87191ab0-23dd-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Littler fights back from 5-0 down to stun Price",
+          "description": "Luke Littler comes from 5-0 down to stun Gerwyn Price 6-5 in the final of Premier League Darts in Dublin where there were two maximum 170 checkouts in one game.",
+          "link": "https://www.bbc.com/sport/darts/articles/cx26g0jzw2wo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/darts/articles/cx26g0jzw2wo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Mar 2026 22:35:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b013/live/e18217e0-23dd-11f1-8afd-2d0cf3dc7503.jpg"
+            }
+          }
+        },
+        {
+          "title": "Villa's maybe men edge closer to finishing the job",
+          "description": "Aston Villa were urged not to become a \"maybe\" team. Yet maybe this is their year to end a 30-year trophy drought.",
+          "link": "https://www.bbc.com/sport/football/articles/c8jkl09407ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c8jkl09407ko#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:06:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d6c/live/90547a00-23ee-11f1-9034-51060f5c30df.jpg"
+            }
+          }
+        },
+        {
+          "title": "Who will be England's World Cup number 10? Tuchel's selection dilemmas",
+          "description": "The England squad Thomas Tuchel names on Friday will give a big hint about who will be on the plane to the World Cup - so what are the issues he still needs to resolve?",
+          "link": "https://www.bbc.com/sport/football/articles/cj989ywnwygo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cj989ywnwygo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Mar 2026 08:48:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9cb/live/dc535620-22da-11f1-90cb-27c5deaacbc1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Entering football match without ticket to become criminal offence",
+          "description": "Entering a football match in England and Wales without a ticket will become a criminal offence under new laws.",
+          "link": "https://www.bbc.com/sport/football/articles/cj0v8z7pm6eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cj0v8z7pm6eo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 20 Mar 2026 00:01:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/592d/live/bae4bd90-23e2-11f1-8713-e14ce41b6576.jpg"
+            }
+          }
+        },
+        {
+          "title": "Aston Martin make approach for Audi boss Wheatley",
+          "description": "Audi team principal Jonathan Wheatley is wanted by Aston Martin to lead their troubled Formula 1 team.",
+          "link": "https://www.bbc.com/sport/formula1/articles/c3w368246gyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/formula1/articles/c3w368246gyo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Mar 2026 19:14:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65fc/live/9fd64d20-23c4-11f1-9c2a-e916056a72f7.jpg"
+            }
+          }
+        },
+        {
+          "title": "Sutton's predictions v Crookhaven stars Amari Bacchus & Genesis Lynea",
+          "description": "Chris Sutton takes on Crookhaven stars Amari Bacchus and Genesis Lynea plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures and the Carabao Cup final.",
+          "link": "https://www.bbc.com/sport/football/articles/cj4zr17qn4ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cj4zr17qn4ko#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Mar 2026 18:20:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8001/live/73be0ac0-21f3-11f1-a79a-77e93010d956.png"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,833 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Wed, 25 Mar 2026 04:12:03 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Lyse Doucet: Small window open for US-Iran talks, but swift end to war still unlikely",
+          "description": "President Trump says the US is already dealing with a \"top person\" in Iran, but Tehran denies that any talks have begun.",
+          "link": "https://www.bbc.com/news/articles/c895xljyzewo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c895xljyzewo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 18:04:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e3a/live/a33b24e0-27a7-11f1-a8d3-5d54fcb90a80.jpg"
+            }
+          }
+        },
+        {
+          "title": "NHS waited two days before raising alarm about meningitis outbreak",
+          "description": "Experts say the wait was indefensible and possibly delayed identification of the outbreak.",
+          "link": "https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cp8dnxln3y5o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 00:26:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f869/live/3e6a6ad0-27ed-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Wildy unaffordable': The harsh reality of shared ownership",
+          "description": "For many, the promise of getting a foot on the property ladder has turned into a nightmare. ",
+          "link": "https://www.bbc.com/news/articles/cm25e8k2je1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cm25e8k2je1o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 01:23:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7778/live/132df010-27a9-11f1-9089-39d9725da55d.jpg"
+            }
+          }
+        },
+        {
+          "title": "Oil at $150 will trigger global recession, says boss of financial giant BlackRock",
+          "description": "Larry Fink says if oil prices stay high for a sustained period it will have \"profound implications\" for the world economy.",
+          "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c9wqrdkx8ppo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 00:00:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fd/live/65c23d50-27ad-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Social media bans and digital curfews to be trialled on UK teenagers",
+          "description": "The government will interview the young people and their parents before and after they try the limits to assess their impact.",
+          "link": "https://www.bbc.com/news/articles/cn89g3ngkyzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cn89g3ngkyzo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 22:37:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3d2/live/8bba8cc0-27a2-11f1-ac4d-5987f4dee3ad.jpg"
+            }
+          }
+        },
+        {
+          "title": "'It wasn't meant to end like this' - Salah exit tough but inevitable",
+          "description": "Less than a year ago, Mohamed Salah was sitting on a throne inside Anfield after renewing his contract - so why is he leaving?",
+          "link": "https://www.bbc.com/sport/football/articles/cq8wqq8neg1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cq8wqq8neg1o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 22:33:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a5/live/3c1db0f0-27c7-11f1-ac18-87607d10fbfe.jpg"
+            }
+          }
+        },
+        {
+          "title": "NHS dentistry is rotting. Will the plan to fix it work?",
+          "description": "As patients struggle to find NHS dentists, Labour has a plan but not everybody is convinced it will work",
+          "link": "https://www.bbc.com/news/articles/cr41lg6ddelo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cr41lg6ddelo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 01:26:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc52/live/28ea5050-2769-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Meta told to pay $375m for misleading users over child safety",
+          "description": "The owner of Instagram, Facebook and WhatsApp has been found liable by a court in New Mexico.",
+          "link": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cql75dn07n2o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 23:16:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438d/live/50569720-27d7-11f1-94c7-894c2c5c70c3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tough negotiations loom as Denmark's Social Democrats fail to secure a majority",
+          "description": "The party, which has governed since 2019, gained the most votes but saw its weakest results in over a century.",
+          "link": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c74v5qynl9vo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 03:40:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b2/live/8887c5f0-27fb-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Pilots killed in LaGuardia plane crash named",
+          "description": "Investigators released details from the final three minutes of cockpit and tower communications, which showed controllers cleared both the plane and a fire truck to cross the runway.",
+          "link": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cz67jq0enwpo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 20:34:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0098/live/44ce57b0-2770-11f1-82f7-f757ccb9d4bd.jpg"
+            }
+          }
+        },
+        {
+          "title": "Democrats flip Florida  seat that includes Trump's Mar-a-Lago home",
+          "description": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024.",
+          "link": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c9qd7wyln2jo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 03:36:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7003/live/f1067cf0-27ee-11f1-9321-33bc3b2b38dc.png"
+            }
+          }
+        },
+        {
+          "title": "Oil price slides as Trump talks up Iran peace negotiations",
+          "description": "The US president said talks to end the war are underway with Iran - a claim that officials in Tehran have disputed.",
+          "link": "https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c995xp4jxj2o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 03:35:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd61/live/b8c2d160-27e7-11f1-84b8-75a06f84718a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Prospect of US-Iran talks puts Netanyahu under pressure",
+          "description": "US President Donald Trump has pointed to diplomatic talks to end the offensive - but Israel might not yet be ready to walk away.",
+          "link": "https://www.bbc.com/news/articles/cwyk5v8vw05o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cwyk5v8vw05o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 18:00:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c3a/live/6e6ed280-27b0-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "What Iranians make of the possibility of talks to end the war",
+          "description": "Some Iranians dismiss the possibility of talks to end the war, others worry a deal may leave the current leaders in place. ",
+          "link": "https://www.bbc.com/news/articles/c3ex39w09gzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3ex39w09gzo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 19:36:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/743f/live/5c8522c0-27bc-11f1-b297-95b0a0a8331e.png"
+            }
+          }
+        },
+        {
+          "title": "Everyday life in Asia is being upended by Iran war fuel crisis",
+          "description": "Asia relies heavily on oil and gas from the Gulf, and shortages and higher prices are starting to bite.",
+          "link": "https://www.bbc.com/news/articles/c1450zj6n48o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c1450zj6n48o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 17:12:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca7d/live/f5c4bd60-27a3-11f1-b815-a14f790a1de4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Israel says it will take control of large buffer zone in southern Lebanon",
+          "description": "Thousands of displaced Lebanese residents will not be allowed to return home until northern Israel is safe, Israel's defence minister says.",
+          "link": "https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy91j9qwp4do#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 16:58:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/927f/live/235267a0-2786-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Iran war shows norms of international conflicts have been overturned",
+          "description": "US threats against energy infrastructure, and Iran's retaliation on its Gulf neighbours, signal a clear change.",
+          "link": "https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4gjv02g54ko#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 15:55:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50fe/live/5001efa0-27a4-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Is there an election in my area?",
+          "description": "Elections are taking place across the country in May. Use our postcode lookup to find out if there are elections where you live. ",
+          "link": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c0ljrp76ywxo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 18:24:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21a9/live/77748fa0-244f-11f1-934f-036468834728.png"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'US troops gather in Gulf' and 'Strictly No Baftas'",
+          "description": "Donald Trump plans to deploy US ground troops in the Gulf is a focus for Wednesday's front pages.",
+          "link": "https://www.bbc.com/news/articles/c4g4px01380o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4g4px01380o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 00:14:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9c5/live/2d4534a0-27da-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Most difficult decision ever': Receipts Podcast hosts step down after 10 years",
+          "description": "Audrey Indome and Tolly Shoneye have recorded almost 300 episodes of the hit podcast together since 2016.",
+          "link": "https://www.bbc.com/news/articles/cp8618mzen3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cp8618mzen3o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 01:58:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a20b/live/297a5550-27ab-11f1-9089-39d9725da55d.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I hugged armed man to stop him bombing hospital'",
+          "description": "Nathan Newby, who used kindness to persuade the \"lone-wolf terrorist\" to abandon his plan, is being awarded the George Medal.",
+          "link": "https://www.bbc.com/news/articles/c9q58xq9lxzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c9q58xq9lxzo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 02:00:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f496/live/2165df10-2774-11f1-82f7-f757ccb9d4bd.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Manchester is giving UK music 'a new lease of life' again",
+          "description": "Following on from the Brits, the city once dubbed Madchester hosts the MOBOs and 6 Music Festival.",
+          "link": "https://www.bbc.com/news/articles/cy03ewnkj45o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy03ewnkj45o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 02:03:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b44/live/264257a0-27b2-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "German outcry over deep fake porn  targeting actress prompts bid to change law",
+          "description": "Collien Fernandes has accused her ex-husband of spreading sexualised images of her online.",
+          "link": "https://www.bbc.com/news/articles/ckg9xvrxz8jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ckg9xvrxz8jo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 18:14:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad22/live/80786980-27a8-11f1-a8d3-5d54fcb90a80.jpg"
+            }
+          }
+        },
+        {
+          "title": "What happened in the seconds before Air Canada plane crashed at LaGuardia",
+          "description": "BBC Verify breaks down the moments before the deadly collision with a fire truck at the New York airport.",
+          "link": "https://www.bbc.com/news/videos/c70584eye0no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/c70584eye0no#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 20:55:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b3d/live/8e0056b0-27a5-11f1-934f-036468834728.png"
+            }
+          }
+        },
+        {
+          "title": "Families urged not to cuddle lambs after infection outbreak left dozens sick",
+          "description": "Health officials say it is vital to remember that young farm animals can carry germs that cause illness.",
+          "link": "https://www.bbc.com/news/articles/cj60kn2w32ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cj60kn2w32ko#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 22:34:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/419e/live/11ef1740-26d4-11f1-a79a-77e93010d956.png"
+            }
+          }
+        },
+        {
+          "title": "BTS comeback concert on Netflix draws 18.4m global viewers ",
+          "description": "The livestreamed show saw the band perform together for the first time since October 2022.",
+          "link": "https://www.bbc.com/news/articles/cy513rvg91ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy513rvg91ro#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 02:55:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/963d/live/7ca7cf50-27f1-11f1-abe2-ffb6ef329dc2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
+          "description": "Cities across Ukraine were hit, with local officials reporting at least eight people killed and dozens injured.",
+          "link": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cz90gpyw90wo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 21:47:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7be/live/4f08afa0-27b1-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Transgender girls told to leave Girlguiding groups by September",
+          "description": "It follows an announcement in December that transgender members would be banned from joining.",
+          "link": "https://www.bbc.com/news/articles/cx2rn250ddjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx2rn250ddjo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 13:32:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad42/live/339e2430-278d-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Reform UK's leader in Scotland denies homophobia after apologising for joke",
+          "description": "Reform UK's Scottish leader has been criticised for remarks he made during a 2018 Burns Night speech.",
+          "link": "https://www.bbc.com/news/articles/cly64g15j3wo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cly64g15j3wo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 18:44:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff5f/live/ef0d9c50-27b0-11f1-9089-39d9725da55d.jpg"
+            }
+          }
+        },
+        {
+          "title": "Journalists at Australia's national broadcaster strike for first time in 20 years",
+          "description": "Staff have walked out for 24 hours over a pay rise offer that was below inflation.",
+          "link": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c208ngv1mz7o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 03:07:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aa2/live/7858bf50-27d7-11f1-94c7-894c2c5c70c3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Al Fayed survivors frustrated at 'sceptism' about trafficking inquiry",
+          "description": "Survivors say the Met and government need to expand their investigation to include human trafficking.",
+          "link": "https://www.bbc.com/news/articles/cx2epd7x2wno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx2epd7x2wno#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 18:44:42 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e66/live/de877d90-27a3-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Are US-Iran Talks Actually Happening?",
+          "description": "What do we know about negotiations to de-escalate the Iran war?",
+          "link": "https://www.bbc.co.uk/sounds/play/p0n6h12v?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0n6h12v#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 19:58:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Americanswers… on 5 Live! Trump claims Iran wants to \"make a deal\" to end the war",
+          "description": "Iran denies talks with the US to stop the war as ‘fake news’",
+          "link": "https://www.bbc.co.uk/sounds/play/p0n8cp8x?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0n8cp8x#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 23 Mar 2026 21:49:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "Is 'baby brain' real?",
+          "description": "Baby brain is a concept many mums can relate to. But what’s really going on?",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002r9bx/baby-brain-whats-really-going-on?at_mid=pPUMDQM1L5&at_campaign=Baby_Brain_Whats_Really_Going_On&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002r9bx&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Baby_Brain_Whats_Really_Going_On&at_bbc_team=BBC&at_creation=News",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m002r9bx/baby-brain-whats-really-going-on?at_mid=pPUMDQM1L5&at_campaign=Baby_Brain_Whats_Really_Going_On&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002r9bx&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Baby_Brain_Whats_Really_Going_On&at_bbc_team=BBC&at_creation=News#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 04 Mar 2026 06:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ecb/live/514ce050-17b8-11f1-801d-ed3cff6bf876.jpg"
+            }
+          }
+        },
+        {
+          "title": "'It wasn't meant to end like this' - Salah exit tough but inevitable",
+          "description": "Less than a year ago, Mohamed Salah was sitting on a throne inside Anfield after renewing his contract - so why is he leaving?",
+          "link": "https://www.bbc.com/sport/football/articles/cq8wqq8neg1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cq8wqq8neg1o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 22:33:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a5/live/3c1db0f0-27c7-11f1-ac18-87607d10fbfe.jpg"
+            }
+          }
+        },
+        {
+          "title": "Bompastor demands more respect for women after disallowed Chelsea goal",
+          "description": "Chelsea manager Sonia Bompastor says the women's game needs \"more respect\" after her side have a goal controversially disallowed in their Women's Champions League quarter-final first leg against Arsenal. ",
+          "link": "https://www.bbc.com/sport/football/articles/cn8955jedlko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cn8955jedlko#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 23:44:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d186/live/38c32b90-27d8-11f1-94c7-894c2c5c70c3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Salah to leave Liverpool at end of season",
+          "description": "The Egypt forward says Liverpool fans \"gave me the best time of my life\" and \"stood by me in the toughest times\".",
+          "link": "https://www.bbc.com/sport/football/articles/c0e7ww12w2qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c0e7ww12w2qo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 20:34:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f604/live/e9c4cdc0-27bc-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Bairstow criticises level of care shown by England regime",
+          "description": "Jonny Bairstow criticises the England set-up, suggesting they need to bring \"the care back in the game\".",
+          "link": "https://www.bbc.com/sport/cricket/articles/c239vl9ngy0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/cricket/articles/c239vl9ngy0o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 16:29:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5707/live/240ae890-278e-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Russo settles thrilling Champions League first leg for Arsenal",
+          "description": "Arsenal beat Chelsea in a thrilling Women's Champions League quarter-final first leg that featured brilliant goals from England internationals Chloe Kelly, Lauren James and Alessia Russo.",
+          "link": "https://www.bbc.com/sport/football/videos/c5ywdenzn12o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/videos/c5ywdenzn12o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 22:23:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/111a/live/80ecd660-27cd-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Man Utd retain new stadium dream for 2035 Women's World Cup",
+          "description": "Manchester United are still aiming to have their new stadium built and ready to host the 2035 Women's World Cup final.",
+          "link": "https://www.bbc.com/sport/football/articles/cx24yyyypxko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cx24yyyypxko#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 20:43:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1780/live/81477e90-f86f-11f0-a422-4ba8a094a8fa.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Scotland reached the World Cup - told by those who made it happen",
+          "description": "Tom English speaks to those who returned Scotland to the men's World Cup finals  for the first time since 1998 about the epic win over Denmark.",
+          "link": "https://www.bbc.com/sport/football/articles/ckgl75x45z5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/ckgl75x45z5o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Mar 2026 13:38:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cf3/live/91759960-277b-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

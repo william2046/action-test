@@ -1,0 +1,719 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Fri, 27 Mar 2026 04:27:49 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Under-5s should not be on screens more than an hour a day, parents told in government advice",
+          "description": "New guidance suggests avoiding fast-paced children's content and sharing screen time where possible. ",
+          "link": "https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c1d936n7445o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 03:21:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ee1/live/739e5950-293c-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Three charts that are warning signs flashing for Trump on Iran war",
+          "description": "As gas prices rise, Trump's approval rating is heading into politically dangerous territory.",
+          "link": "https://www.bbc.com/news/articles/c3w384px52no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3w384px52no#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 00:13:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "158",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3547/live/0a787920-2986-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Mandelson personal phone messages requested for files release",
+          "description": "Officials are set to publish more documents related to his appointment as UK ambassador to the US - but have so far only had access to the peer's work phone.",
+          "link": "https://www.bbc.com/news/articles/czexpw3wgxeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/czexpw3wgxeo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 02:21:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a440/live/ec3d9e90-2980-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "US lawmaker makes direct plea to Sarah Ferguson to testify over 'close Epstein ties'",
+          "description": "The letter, seen by the BBC, also called on Ferguson to share any knowledge about Andrew Mountbatten-Windsor's links to Epstein.",
+          "link": "https://www.bbc.com/news/articles/c80m5y428xpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c80m5y428xpo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 00:52:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2814/live/53f19e40-2942-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Bright future for Wales despite end of World Cup dream, says coach Bellamy",
+          "description": "Head coach Craig Bellamy rues the chaos of Wales' World Cup play-off semi-final loss to Bosnia-Herzegovina - but says his team have a bright future.",
+          "link": "https://www.bbc.com/sport/football/articles/cx235x4xynjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cx235x4xynjo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 00:08:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7453/live/c50fb120-2992-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Olivia Dean's streak continues as she wins big at Mobo Awards ",
+          "description": "The pop star secured three of the biggest awards of the night as the show celebrated its 30th anniversary.",
+          "link": "https://www.bbc.com/news/articles/clyerj082p1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clyerj082p1o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 22:44:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48ff/live/e77646c0-2965-11f1-a2fb-cb82ebb56cce.jpg"
+            }
+          }
+        },
+        {
+          "title": "Spanish woman dies by euthanasia after long legal battle with father",
+          "description": "The European Court of Human Rights (ECHR) ruled in Noelia Castillo's favour earlier this week.",
+          "link": "https://www.bbc.com/news/articles/c7vqdd23y0vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c7vqdd23y0vo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 20:33:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bbc/live/d567f270-2939-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump's signature to appear on US dollars in first for sitting president",
+          "description": "The US president's signature will appear on new paper currency alongside Treasury Secretary Scott Bessent.",
+          "link": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cz0el909yp3o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 23:36:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aded/live/35f0f270-297d-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Two Cuba-bound aid ships missing after leaving Mexico",
+          "description": "Mexico's navy launches a rescue mission for ships delivering aid to Cuba, strained by food and fuel shortages amid a US embargo.",
+          "link": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cp84kw1y337o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 03:42:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9ad/live/243a9dd0-2980-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
+          "description": "There is renewed urgency for Ukraine to get a drone deal done, as the US increasingly focuses on Iran.",
+          "link": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx2r4wxdw3no#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 18:24:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fae/live/f2b9d3f0-293b-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Champion of MasterChef: The Professionals revealed",
+          "description": "The winner of the BBC One show beat 31 fellow contestants to take home the crown.",
+          "link": "https://www.bbc.com/news/articles/cq6jgg0jzvlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cq6jgg0jzvlo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 21:40:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c4d/live/dbbade00-292d-11f1-ab7f-bb4488da4213.jpg"
+            }
+          }
+        },
+        {
+          "title": "Beyond oil: The crucial exports blocked by Hormuz closure",
+          "description": "The price of a wide range of goods - from food, to smartphones, to medicines - could be affected by the US-Israel war with Iran.",
+          "link": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4gjxv5g19no#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 01:25:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/662d/live/36b792b0-290d-11f1-8742-11d9a3760e0c.png"
+            }
+          }
+        },
+        {
+          "title": "Israel says it has killed Iran's navy chief overseeing Strait of Hormuz blockade",
+          "description": "Israel's defence minister said a number of other \"senior Navy command officials\" have also been killed. Iran has not yet commented.",
+          "link": "https://www.bbc.com/news/articles/cy81p99x07no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy81p99x07no#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 15:26:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8025/live/a1e61480-290d-11f1-8742-11d9a3760e0c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
+          "description": "The disruption in oil supplies has caused shortages and concerns in several African countries.",
+          "link": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cq8wkq1n9epo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 17:57:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e6/live/a68f56a0-2920-11f1-babf-516204a6f1ce.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK forecast to see biggest hit to growth from Iran war out of major economies",
+          "description": "The OECD downgrades forecasts for many of the world's biggest economies due to the US-Israel war with Iran.",
+          "link": "https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cgk0j71g417o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 12:56:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/91905290-2916-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Raye comes out swinging on her new album, This Music May Contain Hope",
+          "description": "The star suffered writer's block while working on her second album, but it hits all the right notes.",
+          "link": "https://www.bbc.com/news/articles/c78r5jgkx2vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c78r5jgkx2vo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 00:40:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b1/live/ff84c340-28f7-11f1-a95f-75471ca6e71e.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers:  'Trump extends Hormuz deadline' and 'One hour of screen a day'",
+          "description": "Donald Trump giving Iran 10 days to re-open a vital shipping channel and new advice on screen time for under 5s is a focus for Friday's front pages.",
+          "link": "https://www.bbc.com/news/articles/c4g5721y552o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4g5721y552o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 00:12:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e714/live/499c7340-296d-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Weekly quiz: What sneaky snack was this bird of prey seen carrying?",
+          "description": "How much attention did you pay to what happened in the world over the past seven days?",
+          "link": "https://www.bbc.com/news/articles/cm291jz0321o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cm291jz0321o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 18:35:38 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf4c/live/e9b9d650-2932-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "What next for Northern Ireland as World Cup wait continues?",
+          "description": "Manager Michael O'Neill says he is positive for the future despite a World Cup play-off defeat by Italy in Bergamo, and questions about his own long-term plans.",
+          "link": "https://www.bbc.com/sport/football/articles/cr416evkyr9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cr416evkyr9o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 00:21:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3a/live/c3621610-296f-11f1-80ce-dd6cf1f905dd.jpg"
+            }
+          }
+        },
+        {
+          "title": "Don't panic - five ways to stop your kids' endless scrolling",
+          "description": "Parenting experts share their tips on how to keep children's screen time under control.",
+          "link": "https://www.bbc.com/news/articles/c86e3q5j992o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c86e3q5j992o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 16:19:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9877/live/55f3caf0-2902-11f1-be8b-2136d1c912ba.jpg"
+            }
+          }
+        },
+        {
+          "title": "Oscars moving to a new home outside Hollywood",
+          "description": "The centrally located Peacock Theater in Los Angeles will host the 101st Academy Awards ceremony when it begins streaming on YouTube in 2029.",
+          "link": "https://www.bbc.com/news/articles/c9wq5g5p174o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c9wq5g5p174o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 21:50:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96cd/live/87ee1320-295d-11f1-98c5-01603f6fa96c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Nepal to swear in ex-rapper as new prime minister",
+          "description": "Balendra Shah won the election by a landslide promising change to Nepalis who are angry at corruption.",
+          "link": "https://www.bbc.com/news/articles/c895v335xkgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c895v335xkgo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 01:08:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/228b/live/a98d2bb0-2980-11f1-bb4a-35e9b693d2a7.jpg"
+            }
+          }
+        },
+        {
+          "title": "Olympic women's sport limited to biological females",
+          "description": "The women's category of Olympic sports will be limited to biological females from 2028, says the International Olympic Committee.",
+          "link": "https://www.bbc.com/sport/olympics/articles/cdj7dgvlj0no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/olympics/articles/cdj7dgvlj0no#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 14:29:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2dc/live/e6c40530-294e-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty",
+          "description": "Two key supporters of Russia's war in Ukraine close ranks as Alexander Lukashenko visits Pyongyang.",
+          "link": "https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c8957dxjvkxo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 03:14:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b494/live/0842cd10-2989-11f1-9f06-7feda6c40cec.jpg"
+            }
+          }
+        },
+        {
+          "title": "Paul McCartney announces nostalgic new album, The Boys of Dungeon Lane",
+          "description": "The 83-year-old looks back at his childhood in Liverpool on the new record, which comes out in May.",
+          "link": "https://www.bbc.com/news/articles/c0krvre01m0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c0krvre01m0o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 15:00:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a00b/live/66642120-28f6-11f1-a95f-75471ca6e71e.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "The US-Iran Briefing Wars",
+          "description": "Are the US and Iran peace talks going anywhere?",
+          "link": "https://www.bbc.co.uk/sounds/play/p0n6h180?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0n6h180#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 20:18:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Will Trump succeed in changing the US voting system?",
+          "description": "And why have ICE agents been deployed to US airports?",
+          "link": "https://www.bbc.co.uk/sounds/play/p0n8scbp?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0n8scbp#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Mar 2026 21:11:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ruth Jones as the late Carry On actress Hattie Jacques",
+          "description": "How actress Hattie Jacques's home life was blown apart by a secret sexual liaison.",
+          "link": "https://www.bbc.co.uk/iplayer/episodes/b00xllyq?at_mid=rVZae6BqO2&at_campaign=Hattie&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b00xllyq&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Hattie&at_bbc_team=BBC&at_creation=film",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episodes/b00xllyq?at_mid=rVZae6BqO2&at_campaign=Hattie&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b00xllyq&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Hattie&at_bbc_team=BBC&at_creation=film#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jan 2025 23:41:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b6d/live/4b69b480-2841-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Bellamy rues chaos against Bosnia as Wales' World Cup dream ends",
+          "description": "Head coach Craig Bellamy rues the chaos of Wales' World Cup play-off semi-final loss to Bosnia-Herzegovina - but says his team have a bright future.",
+          "link": "https://www.bbc.com/sport/football/articles/cx235x4xynjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cx235x4xynjo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 00:08:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5813/live/79b46bb0-296c-11f1-9443-17acd1cc9ca5.jpg"
+            }
+          }
+        },
+        {
+          "title": "What next for Northern Ireland as World Cup wait continues?",
+          "description": "Manager Michael O'Neill says he is positive for the future despite a World Cup play-off defeat by Italy in Bergamo, and questions about his own long-term plans.",
+          "link": "https://www.bbc.com/sport/football/articles/cr416evkyr9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cr416evkyr9o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 00:21:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3a/live/c3621610-296f-11f1-80ce-dd6cf1f905dd.jpg"
+            }
+          }
+        },
+        {
+          "title": "Russell leads Mercedes one-two in Suzuka practice",
+          "description": "George Russell leads team-mate Kimi Antonelli to a Mercedes one-two ahead of McLaren's Lando Norris in first practice at the Japanese Grand Prix.",
+          "link": "https://www.bbc.com/sport/formula1/articles/cy41805p5g5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/formula1/articles/cy41805p5g5o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 03:47:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/516e/live/d95d80e0-298c-11f1-96bc-390c97eb596d.jpg"
+            }
+          }
+        },
+        {
+          "title": "Littler takes out 170 twice to beat Van Gerwen",
+          "description": "Luke Littler produces form close to his sensational best to overpower Michael van Gerwen and win his third Premier League night of the season in Berlin. ",
+          "link": "https://www.bbc.com/sport/darts/articles/c239n020e9zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/darts/articles/c239n020e9zo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 22:08:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0c1/live/f8d91670-295d-11f1-98c5-01603f6fa96c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Pain Hallgrimsson's overriding emotion after Czechs end Irish hopes",
+          "description": "\"Pain\" is the overriding emotion for Republic of Ireland manager Heimir Hallgrimsson as his side's World Cup dream ends on penalties in Prague.",
+          "link": "https://www.bbc.com/sport/football/articles/cj37eyn0yxeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cj37eyn0yxeo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 00:51:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea4e/live/017376a0-2976-11f1-8d53-a16d1c354884.jpg"
+            }
+          }
+        },
+        {
+          "title": "White must clear air with England team-mates - Tuchel",
+          "description": "England head coach Thomas Tuchel says Ben White must \"clear the air\" with his team-mates after returning to the England squad for the first time since 2022.",
+          "link": "https://www.bbc.com/sport/football/articles/c62jq8ddn76o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c62jq8ddn76o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 21:53:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c0b/live/dff72750-295d-11f1-98c5-01603f6fa96c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Wales lose on penalties as World Cup dream ended by Bosnia-Herzegovina",
+          "description": "Wales' hopes of reaching the 2026 World Cup are ended by Bosnia-Herzegovina in Cardiff as the away side score a late equaliser before winning on penalties in their play-off semi-final. ",
+          "link": "https://www.bbc.com/sport/football/videos/c62jqw8p4zdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/videos/c62jqw8p4zdo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Mar 2026 23:52:38 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf51/live/a328e560-2968-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

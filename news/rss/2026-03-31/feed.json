@@ -1,0 +1,738 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Tue, 31 Mar 2026 04:29:53 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Starmer gives doctors 48 hours to cancel strike or lose new jobs package",
+          "description": "The prime minister says the NHS could lose 1,000 extra training places if resident doctors go ahead with a six-day strike next week.",
+          "link": "https://www.bbc.com/news/articles/c23909pge35o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c23909pge35o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 22:47:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75c/live/9511a3e0-2cb5-11f1-8207-2f9bcae878ce.jpg"
+            }
+          }
+        },
+        {
+          "title": "Inside the cockpit of RAF tanker during defensive mission against Iranian drones",
+          "description": "Defence correspondent Jonathan Beale flies onboard a Royal Air Force Voyager as it refuels jets in the Middle East.",
+          "link": "https://www.bbc.com/news/articles/cdrmg6x2rgxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cdrmg6x2rgxo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 23:10:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cc3/live/38831e50-2c57-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why the benefit used by over 8 million people may not be fit for the future",
+          "description": "Can Universal Credit and the work and benefits system more generally reshape itself to meet a new reality?",
+          "link": "https://www.bbc.com/news/articles/c3r3w0w1gepo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3r3w0w1gepo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 23:09:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b58/live/df366ef0-2c48-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Labour to overhaul non-crime hate incident rules",
+          "description": "The Home Office says updated guidance will end the policing of \"everyday arguments\" online.",
+          "link": "https://www.bbc.com/news/articles/c80m7xyl0xgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c80m7xyl0xgo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 31 Mar 2026 03:19:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2035/live/82920d70-2c58-11f1-862e-73ba828c2693.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I sent eight letters': Drivers hope for payout from car finance redress scheme",
+          "description": "Millions of motorists could be entitled to compensation with the financial regulator setting out how to apply",
+          "link": "https://www.bbc.com/news/articles/c20dxdy33llo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c20dxdy33llo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 31 Mar 2026 04:17:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c46a/live/cb3713e0-2c7b-11f1-ab62-89fc276573a4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Beatrice and Eugenie won't be at royal Easter service",
+          "description": "They are understood to have made \"alternative plans\" instead of joining the Royal Family in Windsor.",
+          "link": "https://www.bbc.com/news/articles/cx247087ejko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx247087ejko#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 17:15:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bea4/live/cf19dae0-2c50-11f1-824a-573867676f63.jpg"
+            }
+          }
+        },
+        {
+          "title": "Céline Dion announces comeback shows four years after Stiff Person Syndrome diagnosis",
+          "description": "The star was diagnosed with a rare condition that affects her singing voice and her ability to walk.",
+          "link": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c0708dkm2lko#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 19:15:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1775/live/f8b3a060-2c0b-11f1-b5a6-011ae525765c.jpg"
+            }
+          }
+        },
+        {
+          "title": "King Charles should meet Epstein victims, US lawmaker says",
+          "description": "While the trip is not officially confirmed, the King and Queen Camilla are reportedly planning to visit the US at the end of April. ",
+          "link": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cn78xp0m75zo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 31 Mar 2026 02:57:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e1/live/bcc0df00-2c92-11f1-9e40-416836426f07.jpg"
+            }
+          }
+        },
+        {
+          "title": "New bin rules begin in England but not all councils are ready",
+          "description": "Weekly food waste collections are required for all English homes as new legislation takes effect.",
+          "link": "https://www.bbc.com/news/articles/cn4vwj0yj20o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cn4vwj0yj20o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 23:41:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a565/live/76ab2740-2c75-11f1-a75a-f95187682629.jpg"
+            }
+          }
+        },
+        {
+          "title": "Scott Mills sacked from BBC Radio 2 after allegations over 'historic relationship'",
+          "description": "He has not hosted his show since Tuesday and the BBC said he is \"no longer contracted to work\" there.",
+          "link": "https://www.bbc.com/news/articles/ckge1yn50y8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ckge1yn50y8o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 13:48:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0eb/live/3a0f3d60-2c27-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Shock, sadness and relief in town at centre of Australia's seven-month police manhunt",
+          "description": "Porepunkah has been in the spotlight since Dezi Freeman shot dead two police officers last year.",
+          "link": "https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cq59wj31vl4o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 31 Mar 2026 04:04:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aea/live/fbf1c0b0-2c95-11f1-85b2-2d183ed2ae9c.png"
+            }
+          }
+        },
+        {
+          "title": "How Pakistan won over Trump to become an unlikely mediator in the Iran war",
+          "description": "Pakistan's role as intermediary in this conflict took many by surprise. But perhaps it shouldn't have.",
+          "link": "https://www.bbc.com/news/articles/cy91vrzxn34o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy91vrzxn34o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 31 Mar 2026 02:33:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed4/live/2d00ae60-2cb8-11f1-b9bb-6dfb750e57ca.jpg"
+            }
+          }
+        },
+        {
+          "title": "What was the 1970s oil crisis, and are we heading for something worse?",
+          "description": "While both crises involve oil, experts say there are some important differences between what happened in the 1970s and today.",
+          "link": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c78lj4976lvo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 15:22:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9e7/live/befaf650-2c2b-11f1-b8c9-f5058c0aec9a.jpg"
+            }
+          }
+        },
+        {
+          "title": "How the US could try to seize Iran's Kharg Island",
+          "description": "Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.",
+          "link": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c937gd1vq7xo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 14:54:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/422b/live/289593e0-2c3b-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Long queues in Myanmar as Iran war fuel crisis deepens",
+          "description": "Drivers are queuing for hours at petrol stations in Myanmar as the Iran war continues to send shockwaves across the globe.",
+          "link": "https://www.bbc.com/news/videos/cn08w9ye38yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/cn08w9ye38yo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 22:03:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1e7/live/cc704a40-2c46-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "The personal items the Artemis II crew are taking to the Moon",
+          "description": "The crew, who are accomplished pilots, engineers and scientists, reveal their hopes, fears and family sacrifices.",
+          "link": "https://www.bbc.com/news/articles/cdj7e11pw10o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cdj7e11pw10o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 31 Mar 2026 03:46:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4da/live/9aa7fb10-26a7-11f1-9a4b-834c9ce445e3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Huge fires at Russian oil facilities following Ukraine strikes, satellite images show",
+          "description": "BBC Verify examines recent damage to three key Russian oil export facilities near the Baltic Sea.",
+          "link": "https://www.bbc.com/news/articles/c9qdwpnwzwpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c9qdwpnwzwpo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 23:36:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab03/live/094563d0-2c59-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "How will car finance compensation payments work? ",
+          "description": "Compensation could be given to many of those who took out a car loan between April 2007 and November 2024.",
+          "link": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c2l9vvj097lo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 16:50:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1582/live/8e71e720-a425-11f0-ba96-81d873a15aec.jpg"
+            }
+          }
+        },
+        {
+          "title": "Euphoria season three trailer: Everything we know so far",
+          "description": "The third season will air on 12 April and picks up five years on from the last episode.",
+          "link": "https://www.bbc.com/news/articles/cx23vxkj0zmo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx23vxkj0zmo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 17:38:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba8f/live/a0536de0-2c3f-11f1-88b9-4987f82331d9.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Scott Mills sacked by BBC' and 'Starmer's 48-hour ultimatum'",
+          "description": "Former BBC presenter Scott Mills appears on most of the papers, after he was sacked following allegations about his personal conduct.",
+          "link": "https://www.bbc.com/news/articles/c1mkekd3y78o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c1mkekd3y78o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 31 Mar 2026 00:08:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/382a/live/582eb100-2c8a-11f1-b297-95b0a0a8331e.png"
+            }
+          }
+        },
+        {
+          "title": "Veteran abused for being gay seeks £50k MoD payout",
+          "description": "A reparations scheme offers up to £70k to those who were forced to leave the military for being gay.",
+          "link": "https://www.bbc.com/news/articles/cm2r4zwkremo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cm2r4zwkremo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 23:41:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9a9/live/791229e0-2c2d-11f1-b8c9-f5058c0aec9a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
+          "description": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war.",
+          "link": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c0e7lrxrelwo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 17:53:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f026/live/0d729d50-2c5a-11f1-862e-73ba828c2693.jpg"
+            }
+          }
+        },
+        {
+          "title": "'A succulent Chinese meal' - iconic Australian quote immortalised in national film archive",
+          "description": "The theatrical monologue given by Jack Karlson as he was arrested in 1991 has been officially recognised as a \"lasting piece of cultural folklore\".",
+          "link": "https://www.bbc.com/news/articles/c3exvk1207ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3exvk1207ko#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 31 Mar 2026 02:51:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec5/live/8fa350f0-5559-11ef-aecb-49b8ad5d78f7.png"
+            }
+          }
+        },
+        {
+          "title": "Palestinians convicted of deadly attacks face death penalty under new Israeli law",
+          "description": "The new law, passed on Monday, was pushed hard by the far-right and Security Minister Itamar Ben-Gvir.",
+          "link": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cp8dkd6lnjdo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 21:11:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4290/live/72065650-2c80-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Barbie Dream Fest in Florida to issue refunds after fan complaints",
+          "description": "Fans, who paid up to $450 (£340), complained of a grey convention centre backdrop and a \"swag bag\" that included only a plastic pouch with a Barbie hand sanitiser. ",
+          "link": "https://www.bbc.com/news/articles/cp3l1422d3qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cp3l1422d3qo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 18:13:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e31d/live/7e4cf670-2c68-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "After sex abuse claims, activists and lawmakers rethink Cesar Chavez Day ",
+          "description": "California has renamed Cesar Chavez Day to Farmworkers Day after the labour-rights icon was accused of sexual abuse.",
+          "link": "https://www.bbc.com/news/articles/crm17m2gzl2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/crm17m2gzl2o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 31 Mar 2026 00:14:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed75/live/5c6a36d0-2c95-11f1-85b2-2d183ed2ae9c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Easter bank holiday weekend set to be busiest on roads in four years",
+          "description": "The bank holiday weekend is set to see the busiest roads since Easter 2022, despite rising fuel cost fears.",
+          "link": "https://www.bbc.com/news/articles/cy81eryy125o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy81eryy125o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 13:31:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b6/live/5934adc0-2c26-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Scott Mills Sacked By BBC",
+          "description": "Scott Mills has been sacked by the BBC following allegations about his personal conduct.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0n9jkqs?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0n9jkqs#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 18:54:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "What is RFK doing to vaccines for children in America?",
+          "description": "Trump’s Health Secretary hits a major setback to “Make America Healthy Again”",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8bzb?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/w3ct8bzb#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Mar 2026 16:01:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "De Zerbi in advanced talks to become Spurs manager",
+          "description": "Tottenham Hotspur enter into advanced talks with Roberto de Zerbi, with the former Brighton manager now willing to take charge immediately, according to sources.",
+          "link": "https://www.bbc.com/sport/football/articles/cq59wed70v5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cq59wed70v5o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 13:07:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb83/live/34091dd0-2c29-11f1-8768-1105331460e6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tuchel not angry over England withdrawals",
+          "description": "England manager Thomas Tuchel says he is not disappointed with the players who have pulled out of the squad for Tuesday's friendly against Japan.",
+          "link": "https://www.bbc.com/sport/football/articles/cvg39k8274ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cvg39k8274ko#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 13:59:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5deb/live/f18f4620-2c3a-11f1-a485-4515f7cdb641.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why Sky's TV picks are causing a massive headache for match-going fans ",
+          "description": "Premier League games being moved to Friday or Monday are a headache for the fans of some clubs. Is the system fair, and how does it work for Sky?",
+          "link": "https://www.bbc.com/sport/football/articles/ce3dq501573o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/ce3dq501573o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 15:06:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6190/live/496f8880-2c2e-11f1-b8c9-f5058c0aec9a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Five Euro 2028 tickets 'cost same as World Cup parking space'",
+          "description": "Uefa is to expected to broadly freeze prices at Euro 2028 - meaning supporters would be able to buy five tickets for the cost of one parking space at a World Cup stadium this summer.",
+          "link": "https://www.bbc.com/sport/football/articles/cwyd0pzmv0jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cwyd0pzmv0jo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 16:12:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f7b/live/a1d503d0-2c4a-11f1-b979-37139b7cb8c6.jpg"
+            }
+          }
+        },
+        {
+          "title": "England fitness issues put to bed - Edwards",
+          "description": "England women's head coach Charlotte Edwards says her players have \"100%\" been able to address issues surrounding their fitness.",
+          "link": "https://www.bbc.com/sport/cricket/articles/cr51dpn74y2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/cricket/articles/cr51dpn74y2o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 22:14:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a77/live/06375c80-2c85-11f1-a3bf-b52d013f1288.jpg"
+            }
+          }
+        },
+        {
+          "title": "Fit-again McGinn was 'petrified' he would miss World Cup",
+          "description": "John McGinn has been a Scotland international for a decade now as he looks forward to the World Cup after a big injury scare.",
+          "link": "https://www.bbc.com/sport/football/articles/cy81q4n6v3yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cy81q4n6v3yo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 17:03:38 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad01/live/d8894380-2c56-11f1-862e-73ba828c2693.jpg"
+            }
+          }
+        },
+        {
+          "title": "Will crash shake golf from its dependency on Woods?",
+          "description": "Golf correspondent Iain Carter assesses what the impact of Tiger Woods' latest crash might be on his roles in golf.",
+          "link": "https://www.bbc.com/sport/golf/articles/cvg0p8yzemyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/cvg0p8yzemyo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 30 Mar 2026 16:16:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a5c/live/d83b9ce0-2c4f-11f1-824a-573867676f63.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

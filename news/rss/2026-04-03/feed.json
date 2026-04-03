@@ -1,0 +1,795 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Fri, 03 Apr 2026 04:23:40 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Artemis II blasts ever closer to the far side of the Moon",
+          "description": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+          "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c937g7nd5x4o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 03 Apr 2026 03:35:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Marmalade to be re-branded in post-Brexit food deal",
+          "description": "The breakfast favourite will be legally renamed when Britain aligns with new EU labelling rules.",
+          "link": "https://www.bbc.com/news/articles/c0e53x475qjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c0e53x475qjo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 23:03:38 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db75/live/4fdfd640-2dc6-11f1-b5b8-bdb2c7a76bf2.png"
+            }
+          }
+        },
+        {
+          "title": "Police offered support to tackle rising threats against MPs",
+          "description": "Reports of crimes against MPs have more than doubled since 2019, reaching almost 1,000 last year.",
+          "link": "https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c8ej47g6w3jo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 23:24:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d34/live/a1786c10-2e93-11f1-90b9-6ffcd881a7dc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump removes US Attorney General Pam Bondi ",
+          "description": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files.",
+          "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce843ge47z4o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 03 Apr 2026 00:31:27 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6a/live/c6c715f0-2ef4-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+          "description": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
+          "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/crm1vj941x9o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 16:09:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/505d/live/74f65ce0-2e9a-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+          "description": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran. ",
+          "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cevk0e4ykwko#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 13:41:27 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7f7/live/248b3460-2e9a-11f1-90b9-6ffcd881a7dc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Crisis staff found 'unforgivable scene' at convicted undertaker's funeral home",
+          "description": "An international crisis team was drafted in after police raided Hull's Legacy funeral home.",
+          "link": "https://www.bbc.com/news/articles/cvg33l4g88lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvg33l4g88lo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 23:12:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/380b/live/a5dc77c0-2eba-11f1-a1dd-1bb91a29c2db.jpg"
+            }
+          }
+        },
+        {
+          "title": "Funeral fraudster who kept bodies and ashes was 'living beyond his means', ex-worker says",
+          "description": "Robert Bush conned the bereaved while living in luxury and enjoying foreign holidays.",
+          "link": "https://www.bbc.com/news/articles/c80ddxmlm8vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c80ddxmlm8vo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 17:01:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b5/live/039265f0-2ecf-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Judge dismisses most of Blake Lively's claims in harassment lawsuit against Baldoni ",
+          "description": "The judge left in place three allegations against Baldoni, meaning the civil trial will go ahead next month. ",
+          "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3ex59yy4j2o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 22:47:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8d/live/93aec9d0-2d08-11f1-b297-95b0a0a8331e.png"
+            }
+          }
+        },
+        {
+          "title": "Prince William praises £20m milestone for Bowelbabe fund",
+          "description": "The Bowelbabe fund, set up by Dame Deborah James in 2022, helps to support Cancer Research UK. ",
+          "link": "https://www.bbc.com/news/articles/c4gvd994x15o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4gvd994x15o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 15:53:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbda/live/ae6bd910-2e9e-11f1-90b9-6ffcd881a7dc.png"
+            }
+          }
+        },
+        {
+          "title": "BBC boss Tim Davie says it was 'very clear' Scott Mills had to go",
+          "description": "Outgoing BBC boss Davie says on his final day Scott Mills' sacking \"was a real shock to the organisation\".",
+          "link": "https://www.bbc.com/news/articles/cy01wd437x2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy01wd437x2o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 15:17:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f4b/live/cf5ed1f0-2ea7-11f1-aa0c-dd9a23733a84.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why isn't Artemis II landing on the Moon?",
+          "description": "The US is aiming to be the first country to land humans on the lunar surface again by 2028 - so what's this mission for?",
+          "link": "https://www.bbc.com/news/videos/c3w344wyxg5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/c3w344wyxg5o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 19:02:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d72/live/93cb1130-2ec5-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "What nearly went wrong on Nasa's space mission - and what still could",
+          "description": "The Artemis II crew are now hurtling around the Earth's orbit, carrying out final tests and checks before they head towards the Moon.",
+          "link": "https://www.bbc.com/news/articles/c36rxe9w97zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c36rxe9w97zo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 14:04:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb25/live/aab26e00-2eb3-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Artemis II is in orbit - what happens next?",
+          "description": "What are the mission's four astronauts doing and when will they go to the Moon?",
+          "link": "https://www.bbc.com/news/articles/c7vqre914pzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c7vqre914pzo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 12:20:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76de/live/a0ee6e00-2eb3-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "How a chance meeting shaped Canadian Jeremy Hansen's mission to the Moon",
+          "description": "Inspired by a picture of Neil Armstrong, the Ontario-born astronaut has dreamed of space since he was a child.",
+          "link": "https://www.bbc.com/news/articles/cy81n289739o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy81n289739o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 09:28:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4c3/live/aff22930-2e15-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Myanmar's coup leader who set off a brutal civil war is set to become president",
+          "description": "General Min Aung is set to be chosen as the next president by the newly-elected parliament.",
+          "link": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c1782nk0018o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 22:14:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d95d/live/05305d80-2eda-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Weekly quiz: Why did bananas cause a stir in Orkney?",
+          "description": "How much attention did you pay to what happened in the world over the past seven days?",
+          "link": "https://www.bbc.com/news/articles/ce8j09786pdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce8j09786pdo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 16:33:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1278/live/bd1a1870-2e88-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I ended up paying £500': Your subscription trap stories",
+          "description": "Many readers have experienced the ordeal of cancelling a subscription.",
+          "link": "https://www.bbc.com/news/articles/cz78lv9qej4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cz78lv9qej4o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 23:07:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66da/live/4f607160-2ea8-11f1-aa0c-dd9a23733a84.jpg"
+            }
+          }
+        },
+        {
+          "title": "Arlo Parks: 'I got out of my head and into my body'",
+          "description": "The singer-songwriter found herself on the dancefloor. On a new album, she asks us to join her.",
+          "link": "https://www.bbc.com/news/articles/cq8wzkyxyyyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cq8wzkyxyyyo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 23:11:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebe2/live/fa74e950-2e85-11f1-87f5-d72371d79a40.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK's 'most evil funeral director' and 'Back to the moon'",
+          "description": "A funeral director pleading guilty to preventing lawful and decent burial dominates Friday's papers.",
+          "link": "https://www.bbc.com/news/articles/c3v6dz590eno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3v6dz590eno#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 03 Apr 2026 03:57:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/154c/live/eaec04f0-2ee9-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ros Atkins on…the cost of the Iran war",
+          "description": "The BBC's Analysis Editor Ros Atkins takes a closer look at US costs as it continues its war with with Iran.",
+          "link": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/c1d9nnqqld0o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 18:29:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e85/live/f195a230-2ec0-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: Trump's shifting deadlines for ending Iran war",
+          "description": "The BBC's chief international correspondent analyses the US President's latest White House address.\n",
+          "link": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/ce8jz0239jxo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 17:13:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/881b/live/10429d50-2eb7-11f1-a1dd-1bb91a29c2db.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK and allies discuss sanctions to stop Iran blocking Strait of Hormuz",
+          "description": "Yvette Cooper said coordinated diplomatic and economic measures are required to reopen the shipping lane.",
+          "link": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx2d0md89v2o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 17:15:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e7/live/7b5c1ab0-2e6e-11f1-97bf-db9f3eb092dc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Iran's focus on survival means same regime still firmly in place",
+          "description": "Tehran is showing resilience despite Trump's claims of regime change, writes BBC Persian editor Amir Azimi.",
+          "link": "https://www.bbc.com/news/articles/cq8wzyz998xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cq8wzyz998xo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 13:45:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b950/live/f98d83a0-2e92-11f1-90b9-6ffcd881a7dc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Investigation into IVF clinics in northern Cyprus after UK families given wrong sperm",
+          "description": "Most of the families the BBC has spoken to have completed commercial DNA tests which have confirmed their fears.",
+          "link": "https://www.bbc.com/news/articles/ce9mx2ggdg3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce9mx2ggdg3o#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 15:02:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb20/live/15912550-2eb8-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Major Euston rail disruption across Easter weekend",
+          "description": "West Coast Main Line services will not run to London Euston station for six days from Good Friday.",
+          "link": "https://www.bbc.com/news/articles/cz0e18jjkx5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cz0e18jjkx5o#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 23:55:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e86/live/8454c150-2c32-11f1-b8c9-f5058c0aec9a.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Unbelievable!': Backshall overjoyed at rare sighting of orcas",
+          "description": "Steve Backshall spotted two of the UK's last surviving orcas which he described as one of his \"greatest British wildlife moments\".",
+          "link": "https://www.bbc.com/news/videos/c5y80gl0rd1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/c5y80gl0rd1o#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 16:21:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f520/live/91945d10-2eaf-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tiger Woods crash bodycam footage released by police",
+          "description": "Body camera footage showing Tiger Woods straight after he clipped a truck and rolled his car in Florida last month is released by police.",
+          "link": "https://www.bbc.com/sport/golf/articles/c393zx19xemo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/c393zx19xemo#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 21:29:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f1b/live/8ec56720-2ec6-11f1-934f-036468834728.png"
+            }
+          }
+        },
+        {
+          "title": "Fifa is charging up to $10,990 for World Cup final tickets in first open sale",
+          "description": "Fifa is charging what is thought to be the most expensive general admission price for a football match.",
+          "link": "https://www.bbc.com/sport/football/articles/ce8lzj0rprpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/ce8lzj0rprpo#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 13:10:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2345/live/462d3e80-2e8e-11f1-bf7c-65962cff9746.jpg"
+            }
+          }
+        },
+        {
+          "title": "Baby shot dead in pram in New York City, police say",
+          "description": "The seven-month-old child is the unintended victim of a suspected gang-related shooting, officials say.",
+          "link": "https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c203w57pkn3o#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 03 Apr 2026 02:15:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f63/live/7805e2a0-2ea1-11f1-a79a-77e93010d956.png"
+            }
+          }
+        },
+        {
+          "title": "Arrest after man and young girl die in pony and trap crash",
+          "description": "The pony and trap collided with a tipper truck near Tonbridge on Wednesday, say Kent Police.",
+          "link": "https://www.bbc.com/news/articles/ce9mxvglgd4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce9mxvglgd4o#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 17:59:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6a4/live/23d5aff0-2eae-11f1-b61b-b75b7cb9c2c8.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "NASA Returns To The Moon (And Beyond)",
+          "description": "Nasa launch first crewed mission around the moon in 50 years.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0n9jlp4?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0n9jlp4#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 16:12:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Emma Stone and Ryan Gosling star in an award-winning musical",
+          "description": "Exploring the joy and pain of pursuing your dreams",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m000309g?at_mid=96Mn1Kj3a2&at_campaign=La_La_Land&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000309g&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=La_La_Land&at_bbc_team=BBC",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m000309g?at_mid=96Mn1Kj3a2&at_campaign=La_La_Land&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000309g&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=La_La_Land&at_bbc_team=BBC#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 31 Mar 2026 05:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/643b/live/899b1140-2d0a-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Woods crash bodycam footage released by police",
+          "description": "Body camera footage showing Tiger Woods straight after he clipped a truck and rolled his car in Florida last month is released by police.",
+          "link": "https://www.bbc.com/sport/golf/articles/c393zx19xemo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/c393zx19xemo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 21:29:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f1b/live/8ec56720-2ec6-11f1-934f-036468834728.png"
+            }
+          }
+        },
+        {
+          "title": "Price wins in Manchester after Littler and Van Veen spat",
+          "description": "Gerywn Price secures victory in Manchester after Gian van Veen accuses Luke Littler of being \"out of order\" on night nine of the Premier League.",
+          "link": "https://www.bbc.com/sport/darts/articles/cx2el7j729jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/darts/articles/cx2el7j729jo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 22:13:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30f2/live/551984c0-2eda-11f1-8960-6f65e8ab1f9d.jpg"
+            }
+          }
+        },
+        {
+          "title": "De Zerbi apologises to fans for Greenwood comments",
+          "description": "New Tottenham boss Roberto de Zerbi apologises to fans over comments he made about Mason Greenwood.",
+          "link": "https://www.bbc.com/sport/football/articles/cwyvq3gqwpyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cwyvq3gqwpyo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 17:26:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f2f/live/9f76d740-2eb5-11f1-a1dd-1bb91a29c2db.jpg"
+            }
+          }
+        },
+        {
+          "title": "Chisora arrives to Wilder event in tank with Farage",
+          "description": "Derek Chisora arrives at Deontay Wilder news conference at London's York Hall in an army tank alongside politician Nigel Farage.",
+          "link": "https://www.bbc.com/sport/boxing/articles/c3r39nnr50vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/boxing/articles/c3r39nnr50vo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 19:15:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a5/live/86e65090-2ec2-11f1-8a0b-2f9cd022d3d2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Mickelson to miss Masters and take 'extended' break from golf",
+          "description": "Three-time champion Phil Mickelson will miss this year's Masters and step away from golf \"for an extended period of time\" because of a family health matter, the American says.",
+          "link": "https://www.bbc.com/sport/golf/articles/cpwjqy0gelko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/cpwjqy0gelko#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 20:28:27 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4a1/live/65039e80-2ecf-11f1-ade2-21c4f89d0ea3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Italian FA head and Buffon quit over World Cup failure",
+          "description": "Gabriele Gravina resigns as head of Italy's football federation after they fail to qualify for a third World Cup in a row, while ex-goalkeeper Gianluigi Buffon quits his role with the national team. ",
+          "link": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Apr 2026 15:44:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3da/live/5ac2b1b0-2ea0-11f1-bf13-db49faadbe93.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

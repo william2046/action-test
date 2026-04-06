@@ -1,0 +1,662 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Mon, 06 Apr 2026 04:38:07 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "How rescue of US airman in remote part of Iran unfolded",
+          "description": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies. ",
+          "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx2vpz1kwreo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 21:19:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc2/live/122ce0c0-30de-11f1-8ddd-d1b5840720ab.jpg"
+            }
+          }
+        },
+        {
+          "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
+          "description": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
+          "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cj0vyzmmy50o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 23:02:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62f7/live/d3a93f70-2fb0-11f1-9885-91ba338bedfd.jpg"
+            }
+          }
+        },
+        {
+          "title": "Benefits and pensions rise as two-child cap ends",
+          "description": "Families on some benefits with three or more children will get an average rise of £4,100 a year.",
+          "link": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cn085pdly86o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 23:00:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de0d/live/4e8fd160-2e9c-11f1-90b9-6ffcd881a7dc.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Two weeks will make such a difference': UK first as NI brings in miscarriage leave ",
+          "description": "Northern Ireland becomes first part of UK to bring in legal entitlement for parents affected by miscarriage at any stage of a pregnancy to have paid leave. ",
+          "link": "https://www.bbc.com/news/articles/c9d4g24y5x8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c9d4g24y5x8o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 23:00:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/945e/live/51451d60-2f4c-11f1-b471-73a11a0c1806.jpg"
+            }
+          }
+        },
+        {
+          "title": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
+          "description": "Sir Keir Starmer says it is \"deeply concerning\" the rapper is set to headline a festival after recent antisemitic comments.",
+          "link": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cp86942yj97o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 19:58:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183b/live/c46ba8f0-30e5-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+          "description": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
+          "link": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cj60x206dx1o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 19:17:42 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1f/live/b9410ce0-310d-11f1-8078-2797c344ad7d.jpg"
+            }
+          }
+        },
+        {
+          "title": "Disability benefits change means my son could lose £200 a month - it's terrifying",
+          "description": "Charities say families are facing financial worries as changes to disability benefits come into effect.",
+          "link": "https://www.bbc.com/news/articles/c78ljve3x7xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c78ljve3x7xo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 23:10:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e476/live/942e3740-2eae-11f1-b61b-b75b7cb9c2c8.jpg"
+            }
+          }
+        },
+        {
+          "title": "Family 'utterly devastated' after boy, 13, killed in crash as two charged",
+          "description": "Noah Campbell's family say he was a \"talented, versatile sportsman\" who was \"incredibly well-liked\".",
+          "link": "https://www.bbc.com/news/articles/c8jkm74yvzjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c8jkm74yvzjo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 18:11:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9c/live/baab9960-310d-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Seven arrested at RAF base demo accused of supporting Palestine Action",
+          "description": "Five men and two women at a peace camp at RAF Lakenheath are held on suspicion of supporting Palestine Action. ",
+          "link": "https://www.bbc.com/news/articles/cx26rkk2zr4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx26rkk2zr4o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 17:26:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dee/live/dd5c4d00-3104-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Royals attend Windsor Easter Sunday service",
+          "description": "Andrew-Mountbatten Windsor and his family are absent from the traditional family event. ",
+          "link": "https://www.bbc.com/news/articles/c80md8v473do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c80md8v473do#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 11:50:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b98e/live/e99993c0-30eb-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Oil prices choppy after expletive-laden Trump threat to Iran",
+          "description": "Brent crude rose above $110 before those gains eased after a report of US-Iran talks over a potential ceasefire.",
+          "link": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c8dl7g6e59eo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 06 Apr 2026 03:33:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fefe/live/5f932e40-314d-11f1-b849-f5bf4267dd5c.jpg"
+            }
+          }
+        },
+        {
+          "title": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz",
+          "description": "The BBC's Orla Guerin travels to the edge of the critical waterway that Iran has put a stranglehold on.",
+          "link": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/c3r3vw4j38do#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 21:30:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c34/live/1a05ce70-3132-11f1-934f-036468834728.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump declares victory in Iran war after rescue, but threats to US operation still loom",
+          "description": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
+          "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy01vg7x5ppo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 06 Apr 2026 00:23:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48c/live/26e619b0-311e-11f1-a70d-7539c9c1712e.jpg"
+            }
+          }
+        },
+        {
+          "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
+          "description": "The AI agent sparked a frenzy of \"raising lobsters\" in March, with users training the tool to suit their needs.",
+          "link": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy41n17e23go#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 22:07:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1892/live/f6ae7000-3139-11f1-819d-c96a4978551d.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I adore her now': Mother learns to cope with child's autism in a country with little help",
+          "description": "Malawian Martha Ongwane, brought low by her daughter's autism, found a rare support group.",
+          "link": "https://www.bbc.com/news/articles/cj608n98z1jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cj608n98z1jo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 23:32:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2834/live/eb97dc80-2c50-11f1-824a-573867676f63.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump's 'expletive-laden tirade' and US airman's 'got gun' miracle escape",
+          "description": "The majority of the papers lead with Donald Trump's latest threat to Iran to open the Strait of Hormuz.",
+          "link": "https://www.bbc.com/news/articles/c0lekzk59z5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c0lekzk59z5o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 06 Apr 2026 03:28:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea42/live/e7b881a0-3141-11f1-934f-036468834728.png"
+            }
+          }
+        },
+        {
+          "title": "Streetwear and crop tops take football fashion to new heights",
+          "description": "Inspired by football culture on and off the pitch, this year's World Cup kit collections mix archive classics with streetwear staples.\n\n",
+          "link": "https://www.bbc.com/news/articles/cr71vne5k70o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cr71vne5k70o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 04 Apr 2026 23:01:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b1c/live/9327bd30-30f2-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Apple at 50: Three products that changed how we live - and three that really didn't",
+          "description": "On the tech giant's 50th year, we ask analysts to give their top three Apple successes and misses",
+          "link": "https://www.bbc.com/news/articles/ckgxdn9lyd2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ckgxdn9lyd2o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 04 Apr 2026 23:56:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ee7/live/6a634ad0-2f4f-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "'The final indignity' - Families battle to claw back care home cash",
+          "description": "Relatives say it has taken months, and in some cases years, to get back money owed by a care home operator.",
+          "link": "https://www.bbc.com/news/articles/cx26j67x172o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx26j67x172o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 23:14:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7afc/live/89868690-2f75-11f1-8612-f1cd1152f88c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Artemis II astronauts have toilet trouble on their way towards the Moon",
+          "description": "The four astronauts aboard the Artemis II mission's Orion capsule have encountered intermittent complications with their spacecraft's toilet.",
+          "link": "https://www.bbc.com/news/articles/c87wy05wr4no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c87wy05wr4no#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 18:35:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1364/live/76cc98f0-310a-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
+          "description": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.",
+          "link": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/crk1zgjj7y1o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 12:35:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9d1/live/c42c9ff0-30ec-11f1-8697-1157c53c2504.jpg"
+            }
+          }
+        },
+        {
+          "title": "Two more murder arrests after boy, 14, shot dead",
+          "description": "A man and a boy are arrested on suspicion of murder after Eghosa Ogbebor was fatally shot.",
+          "link": "https://www.bbc.com/news/articles/cvg0v2lgp4lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvg0v2lgp4lo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 11:36:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e7/live/cb093260-2f76-11f1-9ab7-3fd8eff9efaa.jpg"
+            }
+          }
+        },
+        {
+          "title": "The little girl's belongings that tell the story of the Aberfan disaster",
+          "description": "Marylyn Minett’s school book, her dress and her brother’s football will be preserved by Wales’ national museum.",
+          "link": "https://www.bbc.com/news/articles/c4glr4670n9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4glr4670n9o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 06:07:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48e1/live/cc5600c0-2e91-11f1-90b9-6ffcd881a7dc.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "The ‘Not Fit For Purpose’ Department - Part 3",
+          "description": "Covering the Home Office.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nb9l78?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nb9l78#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 04 Apr 2026 05:01:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0nb9lrs.jpg"
+            }
+          }
+        },
+        {
+          "title": "Emma Stone and Ryan Gosling star in an award-winning musical",
+          "description": "Exploring the joy and pain of pursuing your dreams",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m000309g?at_mid=96Mn1Kj3a2&at_campaign=La_La_Land&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000309g&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=La_La_Land&at_bbc_team=BBC",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m000309g?at_mid=96Mn1Kj3a2&at_campaign=La_La_Land&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000309g&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=La_La_Land&at_bbc_team=BBC#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 31 Mar 2026 05:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/643b/live/899b1140-2d0a-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Leeds 'greedy to go to the next step' as Wembley awaits",
+          "description": "After a 39-year absence, Leeds are back in the FA Cup semi-finals, with supporters dreaming of a major trophy after a dramatic win over West Ham.",
+          "link": "https://www.bbc.com/sport/football/articles/cly9x7755w0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cly9x7755w0o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 22:02:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee3/live/beff7870-3134-11f1-8b28-677834599469.jpg"
+            }
+          }
+        },
+        {
+          "title": "Dubois outpoints bloodied Harper to unify titles",
+          "description": "Caroline Dubois floored Terri Harper before outpointing her British rival to become the unified lightweight world champion in London.",
+          "link": "https://www.bbc.com/sport/boxing/articles/crl15n14668o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/boxing/articles/crl15n14668o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 21:34:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c14a/live/c678f9f0-3139-11f1-819d-c96a4978551d.jpg"
+            }
+          }
+        },
+        {
+          "title": "Lijnders hints at Man City departure for  Silva",
+          "description": "Manchester City assistant manager Pep Lijnders hints that midfielder Bernardo Silva's could be leaving in the summer.",
+          "link": "https://www.bbc.com/sport/football/articles/c1krz9kxrdvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c1krz9kxrdvo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 21:30:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dff7/live/3ec64020-30e5-11f1-b519-432a7775734e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Was 11 minutes of stoppage time at West Ham excessive?",
+          "description": "There were 11 minutes of stoppage time at the end of the second half of West Ham's FA Cup quarter-final against Leeds - but was that an excessive or an explainable amount of added time?",
+          "link": "https://www.bbc.com/sport/football/articles/cvge47evx0no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cvge47evx0no#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 21:16:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/828f/live/ebd66d20-3127-11f1-92ba-d7f1365cb894.jpg"
+            }
+          }
+        },
+        {
+          "title": "Zhao thrashes Trump to win Tour Championship",
+          "description": "China's Zhao Xintong thrashes world number one Judd Trump 10-3 to claim his first Tour Championship title in Manchester. ",
+          "link": "https://www.bbc.com/sport/snooker/articles/cy41r7zwv9vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/snooker/articles/cy41r7zwv9vo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 20:22:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77c/live/632a73b0-312a-11f1-be53-d9f9bb5d8f9c.jpg"
+            }
+          }
+        },
+        {
+          "title": "O'Neill hails Celtic spirit as they stay in title hunt",
+          "description": "Celtic interim manager Martin O'Neill hails his team's spirit after they battle to a crucial victory in the Scottish Premiership at Dundee.",
+          "link": "https://www.bbc.com/sport/football/articles/c93e0gxp1zyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c93e0gxp1zyo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 20:36:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ff/live/48931b20-3124-11f1-806c-8f5b2321746a.jpg"
+            }
+          }
+        },
+        {
+          "title": "MacIntyre misses out as Spaun wins Texas Open",
+          "description": "Scotland's Robert MacIntyre misses out on a chance to win a third PGA Tour title as he is overtaken by American JJ Spaun at the weather-interrupted Texas Open.",
+          "link": "https://www.bbc.com/sport/golf/articles/cwywnxwr0y9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/cwywnxwr0y9o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 05 Apr 2026 23:13:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/920f/live/bf22cc00-3141-11f1-813c-0bf0ad33aa8d.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

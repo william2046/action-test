@@ -17,7 +17,7 @@
         "link": "https://www.bbc.co.uk/news"
       },
       "generator": "RSS for Node",
-      "lastBuildDate": "Thu, 09 Apr 2026 03:44:37 GMT",
+      "lastBuildDate": "Fri, 10 Apr 2026 03:57:10 GMT",
       "atom:link": {
         "$": {
           "href": "https://feeds.bbci.co.uk/news/rss.xml",
@@ -30,83 +30,292 @@
       "ttl": "15",
       "item": [
         {
-          "title": "Jeremy Bowen: Ceasefire means respite for civilians, but it might not last long",
-          "description": "Whether or not a lasting peace deal can be reached, the war and its consequences are reshaping the Middle East, writes international editor Jeremy Bowen.",
-          "link": "https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&at_campaign=rss",
+          "title": "'We should not be at the mercy of events abroad' - Starmer",
+          "description": "The prime minister says \"shocks\" like the conflict in Iran are becoming more frequent.",
+          "link": "https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/c62l597wl0yo#1",
+            "_": "https://www.bbc.com/news/articles/cly7d9rv4nro#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 08 Apr 2026 17:05:54 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90b9/live/12a4d210-335e-11f1-8079-85791470d942.jpg"
-            }
-          }
-        },
-        {
-          "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank' ",
-          "description": "The US president says Nato \"wasn't there when we needed them\" during the Iran war. ",
-          "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c05d8j9r5ejo#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 09 Apr 2026 01:59:34 GMT",
+          "pubDate": "Thu, 09 Apr 2026 22:51:51 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbe/live/73b7fdc0-33ae-11f1-b174-9b4b999c11fc.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3e9/live/01e72c10-3463-11f1-9998-694d81feb854.jpg"
             }
           }
         },
         {
-          "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
-          "description": "A US 15-point plan and an Iranian 10-point variant are oceans apart, writes the BBC's diplomatic correspondent.",
-          "link": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
+          "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+          "description": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks.",
+          "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/cvgkv9y97n0o#1",
+            "_": "https://www.bbc.com/news/articles/cge0xre3d27o#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 08 Apr 2026 20:26:48 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c5/live/64445c10-3383-11f1-9d5c-8ba507d7dbde.jpg"
-            }
-          }
-        },
-        {
-          "title": "'Even if Iran war ends now, farmers' costs will have to be passed on'",
-          "description": "Despite a ceasefire, the Iran war will continue to affect farmers' costs and therefore food prices.",
-          "link": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c0q98w57k25o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 08 Apr 2026 23:03:53 GMT",
+          "pubDate": "Fri, 10 Apr 2026 02:10:44 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ff/live/3e1e7ec0-32a3-11f1-bcd7-95478cdf5125.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb74/live/ad515bf0-347e-11f1-bbf7-7db5bb17fba6.jpg"
             }
           }
         },
         {
-          "title": "Iran warning adds to shipping uncertainty",
+          "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+          "description": "Both sides have reason to end the war but share no common ground.",
+          "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cp3l4yk5rlgo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 23:01:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
+          "description": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\". ",
+          "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3ex07l1qvpo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 22:27:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3575/live/4682ce20-3458-11f1-9d5c-8ba507d7dbde.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: Melania Trump's surprise Epstein statement in full",
+          "description": "She tells reporters at the White House that any claims linking the two \"need to end today\".",
+          "link": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/c0e7dz0zwd0o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 19:00:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/776d/live/a98b4650-3449-11f1-8606-05fe34b06e1b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ten cases a day - how 'blitz courts' could tackle the Crown Court backlog",
+          "description": "The scheme, to fast-track cases and to cut the court backlog, is being expanded in England and Wales.",
+          "link": "https://www.bbc.com/news/articles/cvgkv1x149eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgkv1x149eo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 10 Apr 2026 00:54:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac5f/live/41295f90-3429-11f1-a207-8b959fccb503.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hip-hop pioneer Afrika Bambaataa dies aged 67",
+          "description": "The Bronx-born rapper's global hit Planet Rock is credited with shaping hip-hop in the 1980s.",
+          "link": "https://www.bbc.com/news/articles/c2evppm30p7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c2evppm30p7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 10 Apr 2026 00:50:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7483/live/0aeb9580-3477-11f1-a27c-25e679607533.jpg"
+            }
+          }
+        },
+        {
+          "title": "Co-leader McIlroy's golf does the talking after busy Masters build-up",
+          "description": "With the pomp and celebration of his Masters victory finished, Rory McIlroy reminded everyone he is back at Augusta to win again.",
+          "link": "https://www.bbc.com/sport/golf/articles/cx24pn55dg9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/cx24pn55dg9o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 10 Apr 2026 00:13:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3184/live/4572f7e0-3470-11f1-9d5c-8ba507d7dbde.jpg"
+            }
+          }
+        },
+        {
+          "title": "Want to help garden birds? Don't feed them in warmer months, says RSPB ",
+          "description": "The UK's largest bird charity has issued new guidance advising people to stop using feeders to help wildlife thrive. ",
+          "link": "https://www.bbc.com/news/articles/c2lwvz1pl1no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c2lwvz1pl1no#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 10 Apr 2026 00:59:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f007/live/8452cfd0-3425-11f1-8606-05fe34b06e1b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Singapore government employees asked to work in 25C to save on air-con costs",
+          "description": "The rise in energy prices has hit Asia particularly hard as many nations are heavily reliant on Gulf oil.",
+          "link": "https://www.bbc.com/news/articles/c80mxrdvkpjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c80mxrdvkpjo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 22:03:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b85/live/c7b11ed0-3439-11f1-9d5c-8ba507d7dbde.jpg"
+            }
+          }
+        },
+        {
+          "title": "Russia and Ukraine agree to truce for Orthodox Easter ",
+          "description": "Vladimir Putin announced the truce, which will last from Saturday afternoon on 11 April through Easter Sunday.",
+          "link": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cn0wkkwev2vo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 22:33:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4df1/live/c3257f90-3462-11f1-879d-1b2f5c3919b8.jpg"
+            }
+          }
+        },
+        {
+          "title": "US plans to automatically register men for military draft eligibility",
+          "description": "The proposed new rule would end decades of mandatory self-registration for Selective Service in the US. ",
+          "link": "https://www.bbc.com/news/articles/cd6lx2lpl9xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cd6lx2lpl9xo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 14:22:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85cf/live/e998f110-3418-11f1-9fad-db21ae1095d5.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
+          "description": "The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war. ",
+          "link": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce84ngmjz8zo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 16:06:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc9e/live/c65471d0-3435-11f1-8606-05fe34b06e1b.jpg"
+            }
+          }
+        },
+        {
+          "title": "White House staff told not to place bets on prediction markets",
+          "description": "The platforms have grown in popularity, with some users making bets on global events.",
+          "link": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cgld65x396go#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 10 Apr 2026 02:32:27 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/8014eb80-3487-11f1-9bc8-f978f899d2ab.jpg"
+            }
+          }
+        },
+        {
+          "title": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz",
+          "description": "Israel says Lebanon is not included in the ceasefire the US agreed to halt the war with Iran. ",
+          "link": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cgk0edynpmzo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 17:16:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc0a/live/36f35b50-3412-11f1-a058-4f0eff2075b9.png"
+            }
+          }
+        },
+        {
+          "title": "Ships remain cautious approaching Strait of Hormuz amid fragile ceasefire",
           "description": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
           "link": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
           "guid": {
@@ -115,7 +324,7 @@
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 08 Apr 2026 17:21:31 GMT",
+          "pubDate": "Thu, 09 Apr 2026 13:58:43 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
@@ -125,420 +334,268 @@
           }
         },
         {
-          "title": "22,000 students told to pay back 'mis-sold' maintenance loans",
-          "description": "Those affected have been told their courses were never eligible for maintenance or childcare loans ",
-          "link": "https://www.bbc.com/news/articles/cq593g970z7o?at_medium=RSS&at_campaign=rss",
+          "title": "Weekly quiz: What might have made Paddington panic about his marmalade?",
+          "description": "How much attention did you pay to what happened in the world over the past seven days?",
+          "link": "https://www.bbc.com/news/articles/c4gvkm3j23do?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/cq593g970z7o#2",
+            "_": "https://www.bbc.com/news/articles/c4gvkm3j23do#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 09 Apr 2026 00:01:40 GMT",
+          "pubDate": "Thu, 09 Apr 2026 19:10:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/cf628f50-3435-11f1-879d-1b2f5c3919b8.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers:  'I'm not Epstein's victim' and 'We see you, Vlad'",
+          "description": "US First Lady Melania Trump is splashed across several of the papers, after she made a surprise White House address on Thursday.",
+          "link": "https://www.bbc.com/news/articles/c0j6een0l62o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c0j6een0l62o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 10 Apr 2026 00:12:42 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d4b/live/8c4eeee0-2e84-11f1-98e7-6b639170d418.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10f/live/cb965c90-346b-11f1-9d5c-8ba507d7dbde.png"
             }
           }
         },
         {
-          "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
-          "description": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
-          "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
+          "title": "EU fingerprint and photo travel rules come into force",
+          "description": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
+          "link": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/czx9kvqxeq5o#2",
+            "_": "https://www.bbc.com/news/articles/c39rkpe8mj2o#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 09 Apr 2026 01:01:26 GMT",
+          "pubDate": "Thu, 09 Apr 2026 23:04:32 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bf/live/93db7c00-3393-11f1-9d5c-8ba507d7dbde.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea5/live/1c47a510-89a2-11f0-9a26-53a7b49d8dfd.png"
             }
           }
         },
         {
-          "title": "Starmer says much work remains to make US-Iran ceasefire hold",
-          "description": "The prime minister says fully reopening the Strait of Hormuz would help \"stabilise\" prices in the UK.",
-          "link": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss",
+          "title": "BTS battle torrential rain to kick off $1bn world tour",
+          "description": "The K-Pop band are battered by the elements as they launch their marathon world tour in Goyang.",
+          "link": "https://www.bbc.com/news/articles/cq59qzzg93jo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/cj0ve1006g9o#2",
+            "_": "https://www.bbc.com/news/articles/cq59qzzg93jo#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 08 Apr 2026 22:42:46 GMT",
+          "pubDate": "Thu, 09 Apr 2026 13:59:24 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8195/live/1e35df00-3360-11f1-879d-1b2f5c3919b8.jpg"
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e827/live/0614a490-3420-11f1-aa50-fd39c44a0779.jpg"
             }
           }
         },
         {
-          "title": "Oil prices rise as traders eye fragile US-Iran ceasefire",
-          "description": "The cost of crude plunged on Wednesday after a deal was announced that includes the opening of the Strait of Hormuz.",
+          "title": "US has let in 4,499 refugees since October - all but three were South African",
+          "description": "Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation.",
+          "link": "https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4g89kkvenqo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 19:31:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d87/live/5be87750-3422-11f1-aa50-fd39c44a0779.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I want my heart attack story to inspire people to live life'",
+          "description": "Faith Harrison survived a seven-hour heart attack at the age of 22.",
+          "link": "https://www.bbc.com/news/articles/cgmej4yz0gzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cgmej4yz0gzo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 05:35:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58c3/live/e73c1e30-2dea-11f1-bdc6-c5114fc788c9.jpg"
+            }
+          }
+        },
+        {
+          "title": "Grand National pinstickers' guide to runners",
+          "description": "Runners, riders, trainers and form - all the key details you need to know for Saturday's big race at Aintree.",
+          "link": "https://www.bbc.com/sport/horse-racing/articles/cx2v5v04d4wo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/horse-racing/articles/cx2v5v04d4wo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 16:03:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8979/live/86647190-3400-11f1-8606-05fe34b06e1b.jpg"
+            }
+          }
+        },
+        {
+          "title": "People walk along motorway towards Dublin Airport as fuel protests continue",
+          "description": "The Irish military will be deployed to move vehicles \"blocking critical infrastructure\".",
+          "link": "https://www.bbc.com/news/articles/cjr9j87j8n3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cjr9j87j8n3o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 21:44:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c344/live/d4b47d40-3437-11f1-a18c-d7e9f5df98a8.png"
+            }
+          }
+        },
+        {
+          "title": "BBC tours Orion spacecraft model ahead of Artemis II return",
+          "description": "The Orion spacecraft is scheduled to bring the Artemis II crew back to Earth on 10 April.",
+          "link": "https://www.bbc.com/news/videos/cwydvv00r0wo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/cwydvv00r0wo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 21:25:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c439/live/d6efa7c0-3459-11f1-879d-1b2f5c3919b8.jpg"
+            }
+          }
+        },
+        {
+          "title": "French far-right leader romantically linked to Italian princess",
+          "description": "Presidential hopeful Jordan Bardella was pictured on a Corsican beach with Princess Maria Carolina of Bourbon-Two Sicilies.",
+          "link": "https://www.bbc.com/news/articles/clye1288l8no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clye1288l8no#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 15:05:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a33/live/4129ab80-341a-11f1-879d-1b2f5c3919b8.jpg"
+            }
+          }
+        },
+        {
+          "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
+          "description": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
+          "link": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clyd032ej70o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 20:36:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4825/live/fa97e0f0-3433-11f1-a18c-d7e9f5df98a8.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK says Russia ran submarine operation over cables and pipelines",
+          "description": "Defence Secretary John Healey says there is \"no evidence\" of any damage to UK infrastructure in the Atlantic.",
+          "link": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cre13qn9z7do#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 17:09:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8200/live/9a0ba670-340d-11f1-8be7-8b0656c72753.jpg"
+            }
+          }
+        },
+        {
+          "title": "Petrol and diesel prices rise again as concerns grow over ceasefire",
+          "description": "Motoring groups have warned drivers not to expect a significant drop in costs soon.",
           "link": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/cq6j0rnvlzeo#2",
+            "_": "https://www.bbc.com/news/articles/cq6j0rnvlzeo#4",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 09 Apr 2026 03:33:31 GMT",
+          "pubDate": "Thu, 09 Apr 2026 20:07:08 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f692/live/f835e010-33ba-11f1-8aa9-456a0c0f487e.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a8c/live/34695810-33f1-11f1-9d5c-8ba507d7dbde.jpg"
             }
           }
         },
         {
-          "title": "'Ketamine Queen' sentenced to 15 years in Matthew Perry overdose death",
-          "description": "Jasveen Sangha was found guilty of selling drugs that killed Friends actor Matthew Perry who had struggled with addiction for years.",
-          "link": "https://www.bbc.com/news/articles/c6258qe1yl0o?at_medium=RSS&at_campaign=rss",
+          "title": "Amazon to end support for older Kindles, prompting user outcry",
+          "description": "The move means owners of Kindles released before 2013 will be unable to download new e-books.",
+          "link": "https://www.bbc.com/news/articles/c98k91yy4z4o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/c6258qe1yl0o#2",
+            "_": "https://www.bbc.com/news/articles/c98k91yy4z4o#4",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 08 Apr 2026 19:34:29 GMT",
+          "pubDate": "Thu, 09 Apr 2026 13:12:45 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a70/live/e3eb39b0-3375-11f1-98b1-a33d5d12908a.png"
-            }
-          }
-        },
-        {
-          "title": "New light shed on who benefits most from weight-loss jabs",
-          "description": "People who carry variations in two genes linked to appetite and digestion can lose more weight when taking drugs to treat obesity, research suggests.",
-          "link": "https://www.bbc.com/news/articles/cn5317dkqnxo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cn5317dkqnxo#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 08 Apr 2026 15:07:19 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5498/live/0b6626c0-3345-11f1-9f60-37eac42daa69.jpg"
-            }
-          }
-        },
-        {
-          "title": "Jim Whittaker, first American to summit Mount Everest, dies aged 97",
-          "description": "The lifelong outdoors advocate and former president of retailer REI returned to Everest decades later with his son.",
-          "link": "https://www.bbc.com/news/articles/cx24n2v1v7wo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cx24n2v1v7wo#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 09 Apr 2026 02:35:55 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24c6/live/31650bd0-33bc-11f1-896b-0377f9eb6ddd.jpg"
-            }
-          }
-        },
-        {
-          "title": "Chinese researcher's death after questioning in US prompts anger in Beijing",
-          "description": "The semiconductor researcher was found dead after “hostile questioning” by US law enforcement.",
-          "link": "https://www.bbc.com/news/articles/cge0xd4g21qo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cge0xd4g21qo#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 09 Apr 2026 03:07:03 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c73b/live/2e8290e0-33b2-11f1-9073-417e1c9d86e2.jpg"
-            }
-          }
-        },
-        {
-          "title": "RSPCA says 250 dogs found crammed into one home",
-          "description": "The animal charity says it has been forced to refute that an image of the dogs was AI-generated.",
-          "link": "https://www.bbc.com/news/articles/c4gxkdeyk7ko?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c4gxkdeyk7ko#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 08 Apr 2026 20:00:20 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/977a/live/9487d020-3368-11f1-8606-05fe34b06e1b.jpg"
-            }
-          }
-        },
-        {
-          "title": "Watch: Fire damages roof of Rio's Olympic velodrome",
-          "description": "Around 80 firefighters and 20 fire trucks tackled the blaze, the state's military fire department said, adding that no one was hurt.",
-          "link": "https://www.bbc.com/news/videos/cn430515jzxo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/videos/cn430515jzxo#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 08 Apr 2026 17:14:44 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0529/live/f7adf260-336d-11f1-9d5c-8ba507d7dbde.jpg"
-            }
-          }
-        },
-        {
-          "title": "Man, 21, stabbed to death near Primrose Hill viewing point named",
-          "description": "The 21-year-old died on Tuesday evening after being stabbed at the north London beauty spot.",
-          "link": "https://www.bbc.com/news/articles/c62591119m1o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c62591119m1o#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 08 Apr 2026 14:17:58 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88c/live/03ea4760-3358-11f1-9d5c-8ba507d7dbde.jpg"
-            }
-          }
-        },
-        {
-          "title": "Five of Queen Elizabeth II's most iconic outfits - from new royal exhibit",
-          "description": "From fashion diplomacy in the US to a transparent raincoat, the late Queen's style was a powerful formula.",
-          "link": "https://www.bbc.com/news/articles/cd9ke9j445jo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cd9ke9j445jo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 08 Apr 2026 23:04:50 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba16/live/947a5c20-da93-11f0-a8dc-93c15fe68710.jpg"
-            }
-          }
-        },
-        {
-          "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
-          "description": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
-          "link": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/czjwp1vjn9lo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 08 Apr 2026 21:10:14 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9842/live/b3744770-336d-11f1-879d-1b2f5c3919b8.jpg"
-            }
-          }
-        },
-        {
-          "title": "The Papers: 'Fragile ceasefire at risk' and 'Putin mocks Starmer'",
-          "description": "The papers on Thursday focus on the aftermath of the two-week ceasefire deal agreed between the US, Israel and Iran.",
-          "link": "https://www.bbc.com/news/articles/cz67nqvz3vno?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cz67nqvz3vno#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 09 Apr 2026 00:40:19 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e47a/live/5a11b590-33a0-11f1-8606-05fe34b06e1b.png"
-            }
-          }
-        },
-        {
-          "title": "Is BTS losing its K-pop identity as it aims for a bigger world stage?",
-          "description": "BTS turned millions on to K-pop. But now it’s caught between Korea and the world.",
-          "link": "https://www.bbc.com/news/articles/cg73dnz0l1xo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cg73dnz0l1xo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 09 Apr 2026 03:28:15 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48d/live/cd614be0-3397-11f1-9d5c-8ba507d7dbde.jpg"
-            }
-          }
-        },
-        {
-          "title": "Euphoria stars hit red carpet at premiere of third - and possibly final - season",
-          "description": "Sydney Sweeney, Zendaya and Jacob Elordi reunite and are joined by some new cast members at the launch.",
-          "link": "https://www.bbc.com/news/articles/c5yjdr0ljydo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c5yjdr0ljydo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 08 Apr 2026 12:24:47 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f893/live/9c6ed5f0-336c-11f1-9d5c-8ba507d7dbde.png"
-            }
-          }
-        },
-        {
-          "title": "'Cold as ice': Serial killer admits to eight murders in case that haunted Long Island for years",
-          "description": "Rex Heuermann's plea ends a case that police took 13 years to solve, frustrating the public and victims' family. ",
-          "link": "https://www.bbc.com/news/articles/crl12xl2p4lo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/crl12xl2p4lo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 08 Apr 2026 17:44:33 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceaf/live/b969d720-3369-11f1-af12-a7b3159b34f1.jpg"
-            }
-          }
-        },
-        {
-          "title": "Watch: Pope Leo XIV spins basketball on his finger, with help from Harlem Globetrotters",
-          "description": "US exhibition squad, the Harlem Globetrotters, met the pontiff in the Vatican, helping him to spin a basketball on the tip of his finger.",
-          "link": "https://www.bbc.com/news/videos/cdrmnj7rz42o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/videos/cdrmnj7rz42o#5",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 09 Apr 2026 03:17:52 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba1/live/bb824bb0-33bd-11f1-8606-05fe34b06e1b.jpg"
-            }
-          }
-        },
-        {
-          "title": "US man arrested in case of Michigan woman's disappearance in Bahamas",
-          "description": "Lynette Hooker fell overboard from a small boat and was swept out to sea by strong currents, her husband told authorities.",
-          "link": "https://www.bbc.com/news/articles/c7471lzklyko?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c7471lzklyko#5",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 09 Apr 2026 02:07:58 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d612/live/ce787fe0-33a5-11f1-8606-05fe34b06e1b.jpg"
-            }
-          }
-        },
-        {
-          "title": "BBC upholds complaints over racial slur in Baftas broadcast",
-          "description": "The broadcast of a racial slur broke editorial standards, the corporation's complaints unit concludes.",
-          "link": "https://www.bbc.com/news/articles/c3dln2e93ypo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c3dln2e93ypo#5",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 08 Apr 2026 12:23:35 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/224a/live/56b31110-1950-11f1-9120-a910fc22c6ac.jpg"
-            }
-          }
-        },
-        {
-          "title": "Hospitals coping well with doctors' strike so far - NHS boss",
-          "description": "Resident doctors in England – the new name for junior doctors – are taking part in their 15th walkout in a long-running pay dispute.",
-          "link": "https://www.bbc.com/news/articles/clyrzrp0x5go?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/clyrzrp0x5go#5",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 08 Apr 2026 10:56:27 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6538/live/e8a44600-3356-11f1-9d5c-8ba507d7dbde.jpg"
-            }
-          }
-        },
-        {
-          "title": "Prosecutors seek Tiger Woods' prescription drug records after Florida arrest",
-          "description": "A legal order seeking the golfer's medications - including dosage and warnings about driving on pill bottles - will be issued later this month, court record shows.",
-          "link": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c77mz26ed80o#5",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 08 Apr 2026 22:46:58 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee2/live/d6bfd250-33a2-11f1-879d-1b2f5c3919b8.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53f/live/6fcfaf50-3417-11f1-9fad-db21ae1095d5.jpg"
             }
           }
         },
@@ -547,7 +604,7 @@
           "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
           "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/10628994#6",
+            "_": "https://www.bbc.co.uk/news/10628994#5",
             "$": {
               "isPermaLink": "false"
             }
@@ -562,16 +619,16 @@
           }
         },
         {
-          "title": "US-Iran Ceasefire Agreed (For Now)",
-          "description": "US & Iran agree a ceasefire but how long will it last?",
-          "link": "https://www.bbc.co.uk/sounds/play/p0nbyvvy?at_medium=RSS&at_campaign=rss",
+          "title": "Defence secretary interview on Russian submarine operation",
+          "description": "British warship and aircraft deployed to deter Russian submarine action.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nbyvz1?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0nbyvvy#7",
+            "_": "https://www.bbc.co.uk/sounds/play/p0nbyvz1#6",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 08 Apr 2026 18:42:00 GMT",
+          "pubDate": "Thu, 09 Apr 2026 13:24:00 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
@@ -585,7 +642,7 @@
           "description": "Trump’s threat to “wipe out” Iran has divided Republicans.",
           "link": "https://www.bbc.co.uk/sounds/play/p0nc8tq4?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0nc8tq4#7",
+            "_": "https://www.bbc.co.uk/sounds/play/p0nc8tq4#6",
             "$": {
               "isPermaLink": "false"
             }
@@ -600,116 +657,116 @@
           }
         },
         {
-          "title": "Liverpool still alive - but their season now hangs by a thread",
-          "description": "Negative tactics and no shots on target - but somehow Liverpool's Champions League campaign is still just about alive after a 2-0 loss at PSG.",
-          "link": "https://www.bbc.com/sport/football/articles/c3expgqy2zxo?at_medium=RSS&at_campaign=rss",
+          "title": "Co-leader McIlroy's golf does the talking after busy Masters build-up",
+          "description": "With the pomp and celebration of his Masters victory finished, Rory McIlroy reminded everyone he is back at Augusta to win again.",
+          "link": "https://www.bbc.com/sport/golf/articles/cx24pn55dg9o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/sport/football/articles/c3expgqy2zxo#9",
+            "_": "https://www.bbc.com/sport/golf/articles/cx24pn55dg9o#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 08 Apr 2026 23:08:51 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0de9/live/fa3e3630-3399-11f1-9d5c-8ba507d7dbde.jpg"
-            }
-          }
-        },
-        {
-          "title": "Fury wants to face Joshua after comeback fight",
-          "description": "Tyson Fury says he wants to face long-term rival Anthony Joshua after his heavyweight comeback against Arslanbek Makhmudov on Saturday.",
-          "link": "https://www.bbc.com/sport/boxing/articles/cj401jp9q48o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/sport/boxing/articles/cj401jp9q48o#9",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 08 Apr 2026 18:34:06 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74ec/live/b43a9d50-3370-11f1-98b1-a33d5d12908a.jpg"
-            }
-          }
-        },
-        {
-          "title": "Prosecutors seek Tiger Woods' prescription drug records after Florida arrest",
-          "description": "A legal order seeking the golfer's medications - including dosage and warnings about driving on pill bottles - will be issued later this month, court record shows.",
-          "link": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c77mz26ed80o#9",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 08 Apr 2026 22:46:58 GMT",
+          "pubDate": "Fri, 10 Apr 2026 00:13:23 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee2/live/d6bfd250-33a2-11f1-879d-1b2f5c3919b8.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3184/live/4572f7e0-3470-11f1-9d5c-8ba507d7dbde.jpg"
             }
           }
         },
         {
-          "title": "World Cup winners Packer & Galligan expecting baby",
-          "description": "England World Cup winners Rosie Galligan and Marlie Packer announce they are expecting a baby together, with Galligan due to give birth in October.",
-          "link": "https://www.bbc.com/sport/rugby-union/articles/c93exvp6lxeo?at_medium=RSS&at_campaign=rss",
+          "title": "Jolly Fury takes aim at heavyweight rivals & even Spurs",
+          "description": "A jolly Tyson Fury delivers typically theatrical monologue as he takes aim at rival heavyweights and even a struggling Premier League club.",
+          "link": "https://www.bbc.com/sport/boxing/articles/c1krpzrnzgyo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/sport/rugby-union/articles/c93exvp6lxeo#9",
+            "_": "https://www.bbc.com/sport/boxing/articles/c1krpzrnzgyo#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 08 Apr 2026 17:24:01 GMT",
+          "pubDate": "Thu, 09 Apr 2026 20:00:08 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b822/live/a0dd2c90-336c-11f1-af12-a7b3159b34f1.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecbf/live/f76355f0-344b-11f1-acfc-bb3dca3045bc.jpg"
             }
           }
         },
         {
-          "title": "Family fun and holes in one - the Masters tradition crossing generations",
-          "description": "The Masters Par 3 contest is a unique tradition that features 90-year-old Gary Player holing birdie putts and nine-year-old Frankie Fleetwood focusing on hitting a green.",
-          "link": "https://www.bbc.com/sport/golf/articles/c9953eek39vo?at_medium=RSS&at_campaign=rss",
+          "title": "'Hungry' Watkins is man on mission but will Tuchel take notice?",
+          "description": "Ollie Watkins' response to being dropped by England has been nothing short of emphatic, with two strikes in Bologna adding to his goal against West Ham before the international break.",
+          "link": "https://www.bbc.com/sport/football/articles/cx2rdd3pv7eo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/sport/golf/articles/c9953eek39vo#9",
+            "_": "https://www.bbc.com/sport/football/articles/cx2rdd3pv7eo#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 08 Apr 2026 23:31:32 GMT",
+          "pubDate": "Thu, 09 Apr 2026 22:53:12 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07db/live/d01f6c60-3395-11f1-8f72-b7ebe6fa9119.jpg"
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fb/live/da8200d0-345a-11f1-9d5c-8ba507d7dbde.jpg"
             }
           }
         },
         {
-          "title": "Dominant PSG beat Liverpool in quarter-final first leg ",
-          "description": "Goals from Desire Doue and Khvicha Kvaratskhelia give PSG a 2-0 victory over Liverpool in the first-leg of their Champions League quarter-final. \n\n\n",
-          "link": "https://www.bbc.com/sport/football/videos/c78l1jdep92o?at_medium=RSS&at_campaign=rss",
+          "title": "Transgender women banned from women's PDC darts",
+          "description": "The Darts Regulation Authority bans transgender women from competing in its women's events with immediate effect.",
+          "link": "https://www.bbc.com/sport/darts/articles/c33lm6d154eo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/sport/football/videos/c78l1jdep92o#9",
+            "_": "https://www.bbc.com/sport/darts/articles/c33lm6d154eo#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 08 Apr 2026 21:35:06 GMT",
+          "pubDate": "Thu, 09 Apr 2026 17:21:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8209/live/982f21a0-3436-11f1-a18c-d7e9f5df98a8.jpg"
+            }
+          }
+        },
+        {
+          "title": "Clayton wins in Brighton to go top of Premier League",
+          "description": "Jonny Clayton comes back from 5-2 down to beat Michael van Gerwen 6-5 and claim his third nightly win to move top of the Premier League.",
+          "link": "https://www.bbc.com/sport/darts/articles/cm25vyg61vpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/darts/articles/cm25vyg61vpo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 22:30:24 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094b/live/9fa99d80-338b-11f1-9d5c-8ba507d7dbde.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da74/live/84b1efe0-345e-11f1-bc4b-397e08bede59.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watson's call for lifetime bans shows PGA Tour-LIV scars still run deep",
+          "description": "Golf icon Tom Watson says LIV defectors like Brooks Koepka and Patrick Reed should not have been allowed back on the PGA Tour and banned for life.",
+          "link": "https://www.bbc.com/sport/golf/articles/c9957gp7yp5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/c9957gp7yp5o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 18:54:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa9/live/b24e03f0-343e-11f1-b9ad-1b2c6d3e9278.jpg"
             }
           }
         }

@@ -1,0 +1,814 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Mon, 13 Apr 2026 04:52:48 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+          "description": "Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
+          "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cd9vg782kx7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Apr 2026 02:52:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f59d/live/801b0a00-36cc-11f1-828f-1966deb3b122.jpg"
+            }
+          }
+        },
+        {
+          "title": "Viktor Orbán's Hungarian experiment runs out of steam",
+          "description": "Péter Magyar's historic win offers peace for a country exhausted by the tensions of Viktor Orbán's rule,  Nick Thorpe reports from Budapest.",
+          "link": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy81lg4yzeyo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Apr 2026 01:58:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef0/live/8a0c0940-36d3-11f1-8606-05fe34b06e1b.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK could adopt EU single market rules under new legislation",
+          "description": "Sir Keir Starmer is planning a law which will mean that the UK government can adopt EU single market rules, without them being voted on in Parliament.",
+          "link": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c937jkvp3w8o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Apr 2026 04:00:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c7d/live/6ce58d70-36e5-11f1-9232-4b9563be44e7.jpg"
+            }
+          }
+        },
+        {
+          "title": "Swinney says Scottish independence referendum could be held in 2028",
+          "description": "The SNP leader made the claim in the BBC's televised debate ahead of next month's Scottish election. ",
+          "link": "https://www.bbc.com/news/articles/cm2r89y9n3go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cm2r89y9n3go#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 21:07:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db3f/live/d94dbd00-36bf-11f1-a340-2998b6e14fe8.jpg"
+            }
+          }
+        },
+        {
+          "title": "The surprising reality of how teenage girls still define themselves",
+          "description": "Despite strides in feminism, why do teen girls still seem to view themselves through the lens of boys?",
+          "link": "https://www.bbc.com/news/articles/c62je1g000eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c62je1g000eo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 23:06:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6669/live/41191660-34ee-11f1-8606-05fe34b06e1b.png"
+            }
+          }
+        },
+        {
+          "title": "Olivier Awards 2026: Rachel Zegler's heroes, Brian Cranston's nap schedule and more moments from the night",
+          "description": "The 50th Oliviers at the Royal Albert Hall provided some memorable conversations away from the ceremony.",
+          "link": "https://www.bbc.com/news/articles/c78rjxj19mno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c78rjxj19mno#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 22:13:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "160",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/133f/live/a8ca3e10-36ab-11f1-8606-05fe34b06e1b.jpg"
+            }
+          }
+        },
+        {
+          "title": "McIlroy defends Masters title, underlining why he is one of the game's greats",
+          "description": "Moments after winning the Masters last year, Rory McIlroy said it would be transformative. He has proved that by defending the title at Augusta National.",
+          "link": "https://www.bbc.com/sport/golf/articles/cgqkgvxgv2xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/cgqkgvxgv2xo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 23:16:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1716/live/aabe5500-36ef-11f1-bbe5-d90277900dee.jpg"
+            }
+          }
+        },
+        {
+          "title": "Deep-fried food banned in new plans for school dinners",
+          "description": "Schools are being told to cut down on sugary desserts, and provide more vegetables and whole grains.",
+          "link": "https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c624vezv52do#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 21:55:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3914/live/ff412930-34ed-11f1-be84-6f37fe66395b.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK will not join Trump's blockade of Iran's ports in the Strait of Hormuz",
+          "description": "UK minesweepers and anti-drone capabilities will continue operating in the region, as pressure ramps up to reopen the key shipping route.",
+          "link": "https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c393wxzw4yjo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Apr 2026 01:03:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b758/live/7cb49b90-36ce-11f1-8f70-07c0b2585c38.jpg"
+            }
+          }
+        },
+        {
+          "title": "Wider licence extensions for pubs during World Cup",
+          "description": "The government had previously announced opening hour extensions in England and Wales for some knockout matches - but has now widened the eligibility.",
+          "link": "https://www.bbc.com/news/articles/ce8jw1w1674o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce8jw1w1674o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 23:06:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f462/live/6c6309b0-3666-11f1-ac54-83d2c42adad4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Pope prioritises world's fastest-growing Catholic region in major Africa tour",
+          "description": "Leo XIV wants the world's attention on a continent vital to the Church's future, an aide says.",
+          "link": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvg0jyx4qq7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 23:08:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5de/live/3400fcd0-3503-11f1-879d-1b2f5c3919b8.png"
+            }
+          }
+        },
+        {
+          "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
+          "description": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
+          "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c8dl5mly2rzo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 22:57:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a79/live/1fe25240-369c-11f1-a64d-95608276955d.jpg"
+            }
+          }
+        },
+        {
+          "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
+          "description": "Donald Trump says that the US is going to start blockading the Strait of Hormuz. What does this mean in practice? ",
+          "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c5yv6xr6me3o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 21:31:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6fd/live/37a1bc90-36ab-11f1-8606-05fe34b06e1b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Iran talks were a major test for JD Vance. How did he do?",
+          "description": "It was a difficult mission, negotiating on behalf of a president whose messaging on the war has been mixed from the start.",
+          "link": "https://www.bbc.com/news/articles/c5y7k4y0veyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c5y7k4y0veyo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 22:22:42 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7041/live/070dfd10-36af-11f1-8589-db320d1899d1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
+          "description": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
+          "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cn781z4lgg4o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Apr 2026 03:06:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/872c/live/2cfeb0f0-36dc-11f1-951e-7783ff0b6757.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tom Hiddleston, Cate Blanchett and Paddington walk Oliviers red carpet",
+          "description": "Stage stars posed for pictures ahead of a night of celebration for UK theatre at the Royal Albert Hall.",
+          "link": "https://www.bbc.com/news/articles/c8r402zz2gpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c8r402zz2gpo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 17:10:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c58b/live/4a868cd0-36ad-11f1-9d5c-8ba507d7dbde.jpg"
+            }
+          }
+        },
+        {
+          "title": "'A truly historic moment': Hungarian opposition wins election landslide",
+          "description": "Rajini Vaidyanathan broadcasts from outside Hungary's parliament as crowds hear about the prime minister's concession.",
+          "link": "https://www.bbc.com/news/videos/c2lwrjwg29lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/c2lwrjwg29lo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Apr 2026 00:52:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b928/live/373acf50-36a9-11f1-879d-1b2f5c3919b8.jpg"
+            }
+          }
+        },
+        {
+          "title": "Frostbite is least of worries for Canada forces grappling with new Arctic reality",
+          "description": "Across 5,200 km of Canada's Arctic, some 1,300 members of Canada's military spent two winter months on a mission to meet the challenges of a changing north. ",
+          "link": "https://www.bbc.com/news/articles/cwyj8jjkl78o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cwyj8jjkl78o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 23:07:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/822a/live/e81a1bb0-35f9-11f1-879d-1b2f5c3919b8.jpg"
+            }
+          }
+        },
+        {
+          "title": "Political turmoil in Indian border state as nine million lose voting rights",
+          "description": "Nine million voters have been dropped from rolls in West Bengal, raising concerns over exclusion and fairness.",
+          "link": "https://www.bbc.com/news/articles/cy51qg00dezo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy51qg00dezo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 23:59:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d67/live/a1a47d30-3309-11f1-adde-cd036dc687f9.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'PM refuses to join blockade' and 'Hungary enters new era'",
+          "description": "Starmer ruling out the UK's role in the US blockade of Iran's ports and Hungary electing a new leader lead Monday's papers.",
+          "link": "https://www.bbc.com/news/articles/cqxld498z9qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cqxld498z9qo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 23:13:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a431/live/55d2dcb0-36bc-11f1-879d-1b2f5c3919b8.jpg"
+            }
+          }
+        },
+        {
+          "title": "The BBC Scotland election debate fact-checked",
+          "description": " Claims made by leaders of six political parties who took part in a TV debate for the 2026 Holyrood election campaign are checked.",
+          "link": "https://www.bbc.com/news/articles/c62j07q046eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c62j07q046eo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 22:30:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23d4/live/ec4f1f50-36a8-11f1-879d-1b2f5c3919b8.png"
+            }
+          }
+        },
+        {
+          "title": "The Dutch village at risk of being demolished",
+          "description": "Moerdijk has been earmarked for removal, to make way for a vast electricity substation.",
+          "link": "https://www.bbc.com/news/articles/cm2k8v027k0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cm2k8v027k0o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 23:20:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e8/live/0f638c80-33dc-11f1-8606-05fe34b06e1b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Congressman Eric Swalwell quits California governor race amid sexual misconduct claims",
+          "description": "Top Democratic allies intensified pressure on him to exit the gubernatorial race.",
+          "link": "https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c74vwdpj7kdo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Apr 2026 02:35:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a728/live/d8b51170-35f9-11f1-b318-7b5d3f2d5800.jpg"
+            }
+          }
+        },
+        {
+          "title": "Paddington musical dominates Olivier Awards",
+          "description": "The beloved bear's stage show won seven prizes including best new musical and three acting prizes.",
+          "link": "https://www.bbc.com/news/articles/c3v6n7wqd07o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3v6n7wqd07o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 21:07:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ef4/live/1134e920-36a5-11f1-9d5c-8ba507d7dbde.jpg"
+            }
+          }
+        },
+        {
+          "title": "Eight to be awarded for bravery in Bondi Junction stabbing in Sydney",
+          "description": "Six people were killed and ten injured after a man went on a stabbing rampage in an Australian mall. ",
+          "link": "https://www.bbc.com/news/articles/c1w4539z0y9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c1w4539z0y9o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Apr 2026 01:35:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2233/live/67b4bd10-36d8-11f1-951e-7783ff0b6757.jpg"
+            }
+          }
+        },
+        {
+          "title": "Woman killed in dog attack at house named",
+          "description": "Police say the seized dog - a family pet - is believed to be a Lurcher cross.",
+          "link": "https://www.bbc.com/news/articles/c79jr971p5do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c79jr971p5do#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 19:05:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d649/live/302ae3b0-3665-11f1-ac54-83d2c42adad4.png"
+            }
+          }
+        },
+        {
+          "title": "Woman raped by several men outside church",
+          "description": "A woman in her 20s was followed after leaving a nightclub and raped outside Epsom Methodist Church.",
+          "link": "https://www.bbc.com/news/articles/crk18mke8gjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/crk18mke8gjo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 11:55:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/81acbe40-3663-11f1-abac-374b30aeab76.png"
+            }
+          }
+        },
+        {
+          "title": "Row over Reform UK deputy leader's £91,000 tax is 'minor admin error', party says",
+          "description": "A property company owned by the Reform UK deputy leader failed to pay £91,000 in tax on dividends, according to the Sunday Times.\n",
+          "link": "https://www.bbc.com/news/articles/c8x7yj99jrwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c8x7yj99jrwo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 16:34:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bddc/live/34f595e0-368b-11f1-abe5-5d7d921c70a4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Cold sore virus left mum with brain damage",
+          "description": "Helen could never have imagined a virus she may have had for years would leave her with brain damage.",
+          "link": "https://www.bbc.com/news/articles/c0lenp4r70eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c0lenp4r70eo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 20:45:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71e2/live/db4d9ce0-2dc5-11f1-b372-019434fa5473.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Artemis II: Return to the Moon",
+          "description": "Four astronauts. One historic mission. Venturing further from Earth than ever before.",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002vdtj?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m002vdtj#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 11 Apr 2026 05:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0ncmzcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "US-Iran Talks Fail - What Happens Next?",
+          "description": "And what stopped an agreement?",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nbywjx?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nbywjx#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 14:20:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Unpack all the latest drama from Race Across the World",
+          "description": "Celebrity superfans and travel expert Alfie Watts join Tyler West to discuss the episode!",
+          "link": "https://www.bbc.co.uk/sounds/play/m002vdcz?at_mid=7hBjnISdNu&at_campaign=Race_Across_the_World_The_Detour_9Apr&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=m002tp5n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Race_Across_the_World_The_Detour_9Apr&at_bbc_team=BBC",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/m002vdcz?at_mid=7hBjnISdNu&at_campaign=Race_Across_the_World_The_Detour_9Apr&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=m002tp5n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Race_Across_the_World_The_Detour_9Apr&at_bbc_team=BBC#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 09 Apr 2026 19:55:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0nb6ckj.jpg"
+            }
+          }
+        },
+        {
+          "title": "How young men's lives are influenced by the manosphere",
+          "description": "James Blake enters the manosphere, joining men seeking status, wealth and relationships.",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002m7j5/men-of-the-manosphere?at_mid=5f7Y7hmZf6&at_campaign=Men_of_the_Manosphere&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002m7j5&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Men_of_the_Manosphere&at_bbc_team=BBC",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m002m7j5/men-of-the-manosphere?at_mid=5f7Y7hmZf6&at_campaign=Men_of_the_Manosphere&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002m7j5&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Men_of_the_Manosphere&at_bbc_team=BBC#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 12 Nov 2025 06:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0dd/live/7cbff570-26e4-11f1-b297-95b0a0a8331e.jpg"
+            }
+          }
+        },
+        {
+          "title": "McIlroy underlines greatness by defending Masters title",
+          "description": "Moments after winning the Masters last year, Rory McIlroy said it would be transformative. He has proved that by defending the title at Augusta National.",
+          "link": "https://www.bbc.com/sport/golf/articles/cgqkgvxgv2xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/cgqkgvxgv2xo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 23:16:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1716/live/aabe5500-36ef-11f1-bbe5-d90277900dee.jpg"
+            }
+          }
+        },
+        {
+          "title": "McIlroy holds nerve to win second successive Masters",
+          "description": "Rory McIlroy holds his nerve to shoot a one-under par final round to win the 2026 Masters at Augusta, one shot ahead of Scottie Scheffler.",
+          "link": "https://www.bbc.com/sport/golf/videos/cly7xgdx22no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/videos/cly7xgdx22no#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 23:27:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5324/live/3ad94ca0-36c6-11f1-8606-05fe34b06e1b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Man City smell blood - why Arsenal should fear title rivals",
+          "description": "Manchester City capitalise on Arsenal's latest slip-up in style - and now Pep Guardiola's side must be feared as the Premier League title race hots up.",
+          "link": "https://www.bbc.com/sport/football/articles/cpd58x923jyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cpd58x923jyo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 21:21:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c8/live/278b5820-36b5-11f1-879d-1b2f5c3919b8.jpg"
+            }
+          }
+        },
+        {
+          "title": "Will Romero's tears become the enduring image of Tottenham's season?",
+          "description": "Cristian Romero's tears at Sunderland could prove the lasting image of Tottenham's season if it ends with relegation, writes Phil McNulty.",
+          "link": "https://www.bbc.com/sport/football/articles/ce8lnjd7n4po?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/ce8lnjd7n4po#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 17:35:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7826/live/993a11b0-3696-11f1-879d-1b2f5c3919b8.jpg"
+            }
+          }
+        },
+        {
+          "title": "Donald hails Europe's 'best' as McIlroy nears majors record",
+          "description": "Rory McIlroy says \"I don't want to stop here\" after emerging victorious from a rollercoaster final round to retain the Masters and match European great Sir Nick Faldo's haul of six major titles.",
+          "link": "https://www.bbc.com/sport/golf/articles/cd0r3vknlmpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/cd0r3vknlmpo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Apr 2026 02:21:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35f4/live/c1cb7100-36d7-11f1-951e-7783ff0b6757.jpg"
+            }
+          }
+        },
+        {
+          "title": "Will thrilling Scottish title race be decided on goal difference?",
+          "description": "Rangers' 6-3 win over Falkirk extends the Ibrox side's advantage over leaders Heart of Midlothian and Celtic should the Scottish Premiership title be decided on goal difference.",
+          "link": "https://www.bbc.com/sport/football/articles/clyxgvq0lyro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/clyxgvq0lyro#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 16:57:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83b3/live/0e5b3e40-368f-11f1-879d-1b2f5c3919b8.png"
+            }
+          }
+        },
+        {
+          "title": "Five key shots that helped McIlroy win second Masters",
+          "description": "BBC Sport NI looks back on the moments that won Rory McIlroy the 2026 Masters, his second title at Augusta National.",
+          "link": "https://www.bbc.com/sport/golf/articles/cpqxwdxjl2jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/cpqxwdxjl2jo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Apr 2026 00:13:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/780b/live/1a1a3a60-36d0-11f1-8606-05fe34b06e1b.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

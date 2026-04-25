@@ -1,0 +1,776 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Sat, 25 Apr 2026 04:30:00 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
+          "description": "On Friday morning, souring relations between Europe and the United States  reared its Medusa-like head again, writes the BBC's Europe editor. ",
+          "link": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cj40r2gw24wo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 25 Apr 2026 00:10:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcbe/live/62677690-4038-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Killing in prison is not difficult' - the rise in cold-blooded attacks behind bars",
+          "description": "Is a culture of prisoners intimidating inmates into inflicting pain on others too normalised to change?",
+          "link": "https://www.bbc.com/news/articles/cwyd47911nwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cwyd47911nwo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 23:00:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4072/live/f08ee8f0-3fc9-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "Falklands  veteran hopes King can persuade Trump to 'back down'",
+          "description": "Simon Weston says reports the US is reviewing the UK's claim to the territory makes his sacrifice feel \"irrelevant\".\n\n",
+          "link": "https://www.bbc.com/news/articles/c62lp853214o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c62lp853214o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 25 Apr 2026 02:28:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3182/live/4522c360-4055-11f1-ac78-2112837ce2aa.png"
+            }
+          }
+        },
+        {
+          "title": "King's 'high stakes' visit with Trump will be toughest test yet of his reign",
+          "description": "The state visit to the US looks fraught with difficulty - but could be key to rescuing the special relationship.  ",
+          "link": "https://www.bbc.com/news/articles/ce35xkgjqd5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce35xkgjqd5o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 23:36:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/018f/live/30b79860-3f2e-11f1-8bc8-b593f442a966.jpg"
+            }
+          }
+        },
+        {
+          "title": "Man charged with murder of Kamonnan Thiamphanit after extradition",
+          "description": "Kamonnan Thiamphanit, 27, who was also known as Angela, was stabbed in Westminster in 2024.",
+          "link": "https://www.bbc.com/news/articles/ce9mkxy0drro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce9mkxy0drro#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 25 Apr 2026 01:27:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3855/live/9daa5b90-4043-11f1-825b-b326ba12ad7f.jpg"
+            }
+          }
+        },
+        {
+          "title": "I'm A Celebrity 'legend' crowned in heated live final",
+          "description": "Adam Thomas, Craig Charles, Mo Farah and Harry Redknapp were in the final of I'm A Celebrity... South Africa.",
+          "link": "https://www.bbc.com/news/articles/cy8138z5zn7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy8138z5zn7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 22:26:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ede1/live/d777e110-3fbe-11f1-b61b-1d0ccf7b6022.jpg"
+            }
+          }
+        },
+        {
+          "title": "Meet the men calling out 'masculinity' trends",
+          "description": "Influencers promoting looksmaxxing and narrow male beauty standards are being called out by a new wave of men on social media.",
+          "link": "https://www.bbc.com/news/articles/c4grw1rnynxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4grw1rnynxo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 23:08:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/453e/live/62573ec0-2340-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
+          "description": "The flood warning system at Imja glacial lake has not been maintained since 2016, fearful locals tell BBC.",
+          "link": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/czjwr93vrrzo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 23:28:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/001b/live/825a5210-3fd4-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "China car giant BYD says it can thrive without US",
+          "description": "With the price of fuel rising China's BYD says it is positioning itself to benefit from the global shift away from fossil fuels. ",
+          "link": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy01ele412yo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 21:25:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8597/live/4f286c70-3ff6-11f1-b7e9-5d346a313b73.jpg"
+            }
+          }
+        },
+        {
+          "title": "31 sloths die in Florida before opening of attraction ",
+          "description": "Many died due to conditions at a Florida warehouse where they'd been shipped, while others arrived from South America dead, authorities say.",
+          "link": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cz675j3y151o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 25 Apr 2026 04:02:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dba/live/87570de0-3e93-11f1-b83a-1531f70021ef.jpg"
+            }
+          }
+        },
+        {
+          "title": "'My living nightmare': Rob Reiner's son on how he found out parents were dead",
+          "description": "Jake Reiner says the grief of his parents' brutal deaths and the arrest of his own brother left him in a \"trance\".",
+          "link": "https://www.bbc.com/news/articles/c74v2enw8l7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c74v2enw8l7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 22:54:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f1/live/38b57920-4004-11f1-b11d-6552be9f85b2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Who is making decisions in Iran?",
+          "description": "Iran's new supreme leader is supposed to have the final say, but in practice the picture is far murkier.",
+          "link": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cm29m732vgno#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 16:38:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3bc/live/0b32ac80-3fef-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: 'A dangerous standoff' as Strait of Hormuz blockade continues",
+          "description": "The US and Iran's rival blockades of the Strait of Hormuz have become a \"test of wills\", says Lyse Doucet.",
+          "link": "https://www.bbc.com/news/videos/ckgwlgyyyv0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/ckgwlgyyyv0o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 09:26:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c18/live/60b33850-3fb3-11f1-b61b-1d0ccf7b6022.jpg"
+            }
+          }
+        },
+        {
+          "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+          "description": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
+          "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cz78x703lrvo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 16:04:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e03/live/e25af9c0-3fcb-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "Couple discovers Lebanon home destroyed by Israel from satellite image",
+          "description": "Joe Elias contacted BBC Verify following reports that his village was among several destroyed by Israeli forces.",
+          "link": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvg30jkvklno#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 02:58:42 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abfb/live/a4e67080-3f38-11f1-b55d-0f258dce1735.png"
+            }
+          }
+        },
+        {
+          "title": "Touring is a costly struggle for bands like us. Now Harry Styles is helping",
+          "description": "Ticket money from some stadium and arena gigs is helping support struggling grassroots artists and venues.",
+          "link": "https://www.bbc.com/news/articles/c2lwy12j2j8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c2lwy12j2j8o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 25 Apr 2026 01:22:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d2/live/1074cba0-3e33-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Loud eaters and phones nearly spoiled my cinema trip - and it's not just me",
+          "description": "Some people are being disruptive in cinemas - despite routine reminders to be considerate to others. ",
+          "link": "https://www.bbc.com/news/articles/c2482ql0zp4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c2482ql0zp4o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 25 Apr 2026 00:32:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/986c/live/40712e30-3fd1-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Falklands tell Trump to back off' and 'Harry does a Diana'",
+          "description": "Many of the papers lead on a leaked Pentagon memo, which suggests the US could back Argentine sovereignty of the Falklands. ",
+          "link": "https://www.bbc.com/news/articles/cp8d3kev87eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cp8d3kev87eo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 25 Apr 2026 04:07:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf6/live/68cb0720-4030-11f1-bd52-e755d604ece4.png"
+            }
+          }
+        },
+        {
+          "title": "Heated Rivalry, The Housemaid and Fourth Wing: TikTok launches BookTok bestseller list",
+          "description": "The inaugural top 20 is entirely made up of female authors, with Chloe Walsh appearing most frequently.",
+          "link": "https://www.bbc.com/news/articles/c5yxmy5gnd0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c5yxmy5gnd0o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 25 Apr 2026 01:38:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "160",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffe/live/33a22000-3ff0-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "I moved 1,500 miles to be with my deported husband",
+          "description": "The spouses of illegal immigrants facing deportation must choose between separation or moving to a new country.",
+          "link": "https://www.bbc.com/news/articles/cly032z5e71o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cly032z5e71o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 25 Apr 2026 01:03:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d38d/live/0ebba0c0-2878-11f1-831a-89df8c4bf49f.jpg"
+            }
+          }
+        },
+        {
+          "title": "US looks to Falklands as opportunity for diplomatic pressure on UK",
+          "description": "This story will make greater waves in the UK than in the US, which for Donald Trump is an opportunity for leverage, Joe Inwood writes.",
+          "link": "https://www.bbc.com/news/articles/cly7w3zjl38o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cly7w3zjl38o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 13:26:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1464/live/a8038e50-4051-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Chris Mason: A grim week for Starmer – but things could be about to get worse",
+          "description": "The Mandelson vetting row has reignited questions over the PM's future just two weeks before crucial elections in Scotland, Wales and England.",
+          "link": "https://www.bbc.com/news/articles/cvg423lnlp5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvg423lnlp5o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 17:16:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d89d/live/10fb2170-3fda-11f1-9365-9d68a044e038.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Australians celebrate Anzac Day with a bit of gambling",
+          "description": "Two-up is a coin toss betting game that was played by Australian soldiers during World War One - it’s now only legal across Australia on 25 April.",
+          "link": "https://www.bbc.com/news/videos/ceqw389d5yvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/ceqw389d5yvo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 18:05:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d49e/live/39d2b0c0-3f87-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Starmer plans new powers to ban state-backed terror groups",
+          "description": "The new powers would allow ministers to label Iran's Islamic Revolutionary Guards Corps as a terror group.",
+          "link": "https://www.bbc.com/news/articles/cy01xn7wwx9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy01xn7wwx9o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 17:04:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5e0/live/cf410ef0-3ff9-11f1-afbb-e15d65961cef.jpg"
+            }
+          }
+        },
+        {
+          "title": "US justice department drops probe into Fed chairman Jerome Powell",
+          "description": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
+          "link": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cdxd1v0028vo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 19:10:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad5/live/487e57a0-3feb-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "Giant leaves BBC's Gladiators after three series",
+          "description": "Jamie Bigg, known as Giant, says his departure \"wasn't a decision I made\".",
+          "link": "https://www.bbc.com/news/articles/cpvx9yjk9ggo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cpvx9yjk9ggo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 10:49:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d196/live/f6356e40-3fc5-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "Stock markets are too high and set to fall, says Bank of England deputy",
+          "description": "It is unusual for a senior figure at the Bank to be so forthright on market movements.",
+          "link": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c75kp1y43lgo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 09:03:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec20/live/a11b3480-3f34-11f1-b23e-977dc8cd7ec8.jpg"
+            }
+          }
+        },
+        {
+          "title": "Zack Polanski calls for Trump to be 'kicked out' of his Scottish golf courses",
+          "description": "Trump International responded calling the Greens leader an \"imbecile\" after he shared his personal opinion on the Holyrood campaign trail.",
+          "link": "https://www.bbc.com/news/articles/c8954xe8yjpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c8954xe8yjpo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 18:22:38 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/037c/live/bffed980-3ffa-11f1-a269-2b0eab1d0b0e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Former Nigeria striker Eneramo dies during match",
+          "description": "Michael Eneramo, who won 10 caps for the Super Eagles, dies aged 40 after suffering a suspected cardiac arrest during a friendly game.",
+          "link": "https://www.bbc.com/sport/football/articles/c05d3zd1npjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c05d3zd1npjo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 15:10:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c52/live/4875a1e0-3fe7-11f1-8822-8b5e0ff935ca.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Will another week of Starmer drama impact the elections?",
+          "description": "We look at if the latest problems for the PM are impacting the campaign trail",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nfg1gs?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nfg1gs#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 10:55:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0ngc4fq.jpg"
+            }
+          }
+        },
+        {
+          "title": "Donald Trump gets on the phone... with Americast’s Sarah Smith",
+          "description": "The president talks to Americast’s Sarah Smith about Starmer, the King and Iran.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0ng84b4?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0ng84b4#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 23 Apr 2026 19:51:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "Puss in Boots, voiced by Antonio Banderas, is on an exciting quest",
+          "description": "Puss teams up with a fellow thieving feline and Humpty Dumpty to go on an exciting quest.",
+          "link": "https://www.bbc.co.uk/iplayer/episode/b01p6y1c/puss-in-boots?at_mid=ovYA47yS9y&at_campaign=Film_Puss_in_Boots&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b01p6y1c&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Film_Puss_in_Boots&at_bbc_team=BBC&at_creation=Film",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/b01p6y1c/puss-in-boots?at_mid=ovYA47yS9y&at_campaign=Film_Puss_in_Boots&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b01p6y1c&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Film_Puss_in_Boots&at_bbc_team=BBC&at_creation=Film#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Apr 2026 10:35:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bddb/live/56fa9de0-37fb-11f1-879d-1b2f5c3919b8.jpg"
+            }
+          }
+        },
+        {
+          "title": "All eyes on Spurs & West Ham? 'Unbelievable' Forest edge towards safety",
+          "description": "After Nottingham Forest's stunning win at Sunderland, is the Premier League relegation battle now a two-horse race?",
+          "link": "https://www.bbc.com/sport/football/articles/c30rgm097vyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c30rgm097vyo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 22:29:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9729/live/99ebb6a0-4027-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why I stayed at 'struggling' Man Utd and didn't think we'd be third now - Fernandes",
+          "description": "Manchester United captain Bruno Fernandes speaks to club legend Wayne Rooney in a wide-ranging interview.",
+          "link": "https://www.bbc.com/sport/football/articles/c0rxl475x8jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c0rxl475x8jo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 17:01:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d8/live/2ec35680-3fff-11f1-b11d-6552be9f85b2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Defending champion Alcaraz to miss French Open",
+          "description": "Two-time defending champion Carlos Alcaraz says he will miss next month's French Open with an ongoing wrist injury.",
+          "link": "https://www.bbc.com/sport/tennis/articles/c15de9d91jwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/tennis/articles/c15de9d91jwo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 17:30:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dd8/live/72433610-3ff9-11f1-afbb-e15d65961cef.jpg"
+            }
+          }
+        },
+        {
+          "title": "Bristol go fourth with big win at Newcastle ",
+          "description": "Bristol Bears run in eight tries to move back into The Prem's top four with a 52-19 win at Newcastle Red Bulls.",
+          "link": "https://www.bbc.com/sport/rugby-union/articles/c1w4x35d40yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/rugby-union/articles/c1w4x35d40yo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 21:00:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3eb/live/e2c4b110-4018-11f1-9bc4-e5d238db6f07.jpg"
+            }
+          }
+        },
+        {
+          "title": "Leeds stay top with eight-try win over Catalans",
+          "description": "Leeds Rhinos stay top of Super League as they run in eight tries to steamroller Catalans Dragons at Headingley.",
+          "link": "https://www.bbc.com/sport/rugby-league/articles/c995dz05ed1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/rugby-league/articles/c995dz05ed1o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 22:04:38 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe9c/live/46b87c30-4021-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Something special' - O'Sullivan & Higgins renew rivalry",
+          "description": "Thirty years after their first match at the Crucible, 50-year-olds Ronnie O'Sullivan and John Higgins again go head-to-head on the biggest stage.",
+          "link": "https://www.bbc.com/sport/snooker/articles/c5yw15y0gy6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/snooker/articles/c5yw15y0gy6o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 24 Apr 2026 22:13:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f0/live/93e17e90-400c-11f1-ac78-2112837ce2aa.png"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

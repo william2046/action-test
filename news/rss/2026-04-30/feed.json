@@ -1,0 +1,795 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Thu, 30 Apr 2026 05:24:04 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Watch: Met Police body-worn footage of Golders Green arrest",
+          "description": "Footage shows the moment a man was arrested after two Jewish men were stabbed in north London.",
+          "link": "https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/c332v47mmd2o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 21:53:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04e4/live/fa80d100-444e-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Have the royals got their mojo back from US visit?",
+          "description": "Many commentators, even critics of the monarchy, seem delighted at the spectacle. ",
+          "link": "https://www.bbc.com/news/articles/cqxpr404053o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cqxpr404053o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 30 Apr 2026 03:48:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661a/live/dc173130-443c-11f1-adcb-799f507df11c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
+          "description": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+          "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx21m88rd14o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 30 Apr 2026 04:06:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/e9ca4ae0-442a-11f1-84a0-55946b952877.jpg"
+            }
+          }
+        },
+        {
+          "title": "The city caught in the middle of the big energy shift debate",
+          "description": "Is the UK fumbling the shift away from oil and gas jobs?",
+          "link": "https://www.bbc.com/news/articles/c1k239p409po?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c1k239p409po#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 30 Apr 2026 00:08:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c81/live/edf5abe0-43b8-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "'We will kill you and burn your house': Council staff under attack from High Street gangs",
+          "description": "Dozens of Trading Standards officers describe intimidation from criminals running mini-marts and vape shops.",
+          "link": "https://www.bbc.com/news/articles/cdxplq92rx1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cdxplq92rx1o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 30 Apr 2026 05:00:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9fb/live/ec24e4c0-430e-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
+          "description": "Before the fragile ceasefire in the region, this was one of the most heavily targeted US and UK military bases in the Middle East.",
+          "link": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/c5y9wdprpyyo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 30 Apr 2026 01:46:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f34/live/f5e8fd30-43fd-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "Women can wait years for an endometriosis diagnosis. New tech could change that",
+          "description": "A new scan technique could spot areas of endometriosis missed by conventional scans, scientists say.",
+          "link": "https://www.bbc.com/news/articles/clyplwvgxjvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clyplwvgxjvo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 30 Apr 2026 00:08:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c53/live/bf414990-4452-11f1-87a4-bb86886cd70a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Interest rates expected to be held as uncertainty over Iran war continues",
+          "description": "Future base rate changes are hard to predict as analysts judge the economic impact of the Iran war.",
+          "link": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cg7p89mp2rjo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 23:01:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bbe/live/b1192200-43d7-11f1-a133-a9dbeae5d5f3.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
+          "description": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home.",
+          "link": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cddp4y0rzjdo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 30 Apr 2026 03:15:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/914e/live/c21ba570-4420-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hereditary peers' last hurrah as 700-year-old system abolished",
+          "description": "It comes after legislation to remove their right to sit in the upper chamber passed last month.",
+          "link": "https://www.bbc.com/news/articles/ckgp5j5gpplo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ckgp5j5gpplo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 18:45:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4149/live/802947b0-43fa-11f1-a314-cde9f81d6d3e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Meta shares slide as investors weigh Big Tech's AI spending spree",
+          "description": "Meta, Amazon, Alphabet and Microsoft all reported earnings at the same time on Wednesday.\n",
+          "link": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/crkpd4r2y7eo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 30 Apr 2026 00:48:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6a0/live/137a2f70-43f1-11f1-9113-1988573e8ff7.jpg"
+            }
+          }
+        },
+        {
+          "title": "What we know about the Golders Green stabbings",
+          "description": "Two Jewish men have been stabbed in Golders Green, north London, an attack police have declared a terrorist incident.",
+          "link": "https://www.bbc.com/news/articles/cvgzdn665x6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgzdn665x6o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 30 Apr 2026 03:53:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a74/live/230ee520-4405-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "Newspaper headlines: 'Terror on our streets' and 'UK antisemitism out of control'",
+          "description": "The stabbing of two Jewish men in north London being declared a terrorist incident dominates Thursday's papers.",
+          "link": "https://www.bbc.com/news/articles/cpwp5xv2kg1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cpwp5xv2kg1o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 30 Apr 2026 04:37:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/091c/live/47b73fb0-4420-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "A son overlooked and a jailed tycoon: Inside Samsung's succession drama",
+          "description": "The family dynasty behind Samsung is so complicated it regularly makes headline news in South Korea.",
+          "link": "https://www.bbc.com/news/articles/c9d313g91g4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c9d313g91g4o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 23:21:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/733a/live/0970f1e0-4369-11f1-bd5c-f7e837bf2c66.jpg"
+            }
+          }
+        },
+        {
+          "title": "The 'Polar Bear Capital' with Arctic gateway ambitions",
+          "description": "Canada is weighing whether a year-round northern trade route to Europe from Churchill, Manitoba, is viable, as climate change speeds Arctic warming.",
+          "link": "https://www.bbc.com/news/articles/cyv1zdey7pmo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cyv1zdey7pmo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 23:35:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8557/live/a143aa40-43f9-11f1-a314-cde9f81d6d3e.jpg"
+            }
+          }
+        },
+        {
+          "title": "How UAE's exit could affect Opec's influence over the oil price",
+          "description": "The BBC takes a look in charts at what the UAE's departure could mean for the oil cartel and more widely.",
+          "link": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c70vjpny0dno#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 16:37:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1989/live/7cc9b4e0-43ed-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Numbskull, moron and too stupid': Trump and Powell's biggest clashes",
+          "description": "How the US President Donald Trump and Federal Reserve chair Jerome Powell came to blows.",
+          "link": "https://www.bbc.com/news/articles/c7v952p61dgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c7v952p61dgo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 16:12:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec3/live/fb8a4270-43e5-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Comey's seashell post got him indicted. But experts are sceptical the government can win",
+          "description": "Acting AG Todd Blanche said the case was investigated for months, adding \"it's serious when you threaten the president.\"",
+          "link": "https://www.bbc.com/news/articles/clyp70l1egeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clyp70l1egeo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 20:18:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5293/live/218ec610-440b-11f1-8343-8378511e4aa9.png"
+            }
+          }
+        },
+        {
+          "title": "Smiles and wonder: How the US reacted to King Charles ",
+          "description": "A divided US has come together to watch King Charles' visit with a mix of awe, delight and hope. ",
+          "link": "https://www.bbc.com/news/articles/ce8pd1kr387o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce8pd1kr387o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 21:43:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/970d/live/874a8120-442d-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "King and Queen lay flowers at 9/11 Memorial in New York",
+          "description": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
+          "link": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cd7pxnv4j7ro#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 23:33:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5169/live/b73242a0-43fc-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "The subtle messages hidden in the King's speeches",
+          "description": "How King Charles III navigated a diplomatic tightrope in his speech to the US Congress.",
+          "link": "https://www.bbc.com/news/articles/c5y73ndv83qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c5y73ndv83qo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 13:11:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d6a/live/6e563890-43d7-11f1-bd52-e755d604ece4.png"
+            }
+          }
+        },
+        {
+          "title": "'King Charles is coming to Harlem': What the royals did in the Big Apple",
+          "description": "After visiting the 9/11 Memorial, Queen Camilla read to children at the New York Public Library and King Charles visited a community organisation in Harlem.",
+          "link": "https://www.bbc.com/news/videos/ce9pj2ygmkno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/ce9pj2ygmkno#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 30 Apr 2026 00:37:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3803/live/25879b90-442c-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "The state visit in pictures",
+          "description": "King Charles III and Queen Camilla continued their state visit to the US by attending a ceremony at the National September 11 Memorial in New York City.",
+          "link": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c86e6z26xdpo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 18:21:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8e6/live/3e1d9990-43a8-11f1-ac78-2112837ce2aa.png"
+            }
+          }
+        },
+        {
+          "title": "Bondi shooting inquiry calls for gun reform and more security at Jewish festivals",
+          "description": "An interim report says country should prioritise 'nationally consistent' firearms reforms.",
+          "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cdjpw0n889yo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 30 Apr 2026 03:08:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/283d/live/261df4e0-443c-11f1-adcb-799f507df11c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
+          "description": "Elon Musk was cross-examined on the third day of the trial over his lawsuit against Sam Altman and OpenAI.",
+          "link": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/czj29yygyzgo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 23:18:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76bf/live/66a898a0-43db-11f1-a133-a9dbeae5d5f3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Stephen Fry sues tech conference for up to £100,000 after falling off stage",
+          "description": "The star said he broke his leg, hip, pelvis and a \"bunch of ribs\" at the CogX convention in 2023.",
+          "link": "https://www.bbc.com/news/articles/cvgzr2yy6vro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgzr2yy6vro#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 16:45:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f222/live/6b392040-43ba-11f1-a5aa-c74cdbf526ae.jpg"
+            }
+          }
+        },
+        {
+          "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
+          "description": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
+          "link": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgzll79529o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 30 Apr 2026 01:43:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fb3/live/aa703ff0-3e8d-11f1-93dd-c79ff08bbda8.jpg"
+            }
+          }
+        },
+        {
+          "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
+          "description": "Powell's news conference after holding rates covered the US-Israel war with Iran, inflation, legal attacks, and the Fed's independence. ",
+          "link": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c62rm4zk3kgo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 20:01:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd7/live/ddeb2720-43ea-11f1-9113-1988573e8ff7.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ex-FBI director James Comey surrenders over charge of threatening Trump's life in Instagram post",
+          "description": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
+          "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c70vzj1nrddo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 20:24:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e34/live/becbd370-43fa-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "Christchurch mass killer loses bid to overturn conviction",
+          "description": "White supremacist Brenton Tarrant's appeal is \"utterly devoid of merit\", a New Zealand court has ruled.",
+          "link": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cg5p6zq19npo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 30 Apr 2026 04:10:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5653/live/f71452a0-4451-11f1-87a4-bb86886cd70a.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "What The King Did (And Didn’t) Say To Trump",
+          "description": "Decoding what the King said to President Trump.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nh7mdf?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nh7mdf#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 18:23:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Who is Trump’s 'would-be assassin' and were there security failings at DC shooting?",
+          "description": "The US president was evacuated from the White House Correspondents Dinner",
+          "link": "https://www.bbc.co.uk/sounds/play/p0ngrsbh?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0ngrsbh#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 26 Apr 2026 23:14:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "Were Arsenal right to be 'fuming' with refereeing after Atletico draw?",
+          "description": "Mikel Arteta was left \"fuming\" with the officials after Arsenal's draw at Atletico Madrid - what did they get right and wrong?",
+          "link": "https://www.bbc.com/sport/football/articles/cr5p4335v7qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cr5p4335v7qo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 22:53:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/4546f540-441b-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "Arsenal 'hunt' Man City - what 7-0 win means for WSL title race",
+          "description": "Arsenal have made up ground on Manchester City, but can they actually win the Women's Super League title this season?",
+          "link": "https://www.bbc.com/sport/football/articles/ce3pwllz5kjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/ce3pwllz5kjo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 21:56:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e2b/live/87df3b50-4412-11f1-a1ef-492c49f57c20.jpg"
+            }
+          }
+        },
+        {
+          "title": "Murphy to face Higgins after dashing Zhao's Crucible hopes",
+          "description": "Shaun Murphy dashes Zhao Xintong's hopes of lifting the Crucible curse with a superb 13-10 win as he moves into the semi-finals of the World Championship.",
+          "link": "https://www.bbc.com/sport/snooker/articles/c62er2ey37xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/snooker/articles/c62er2ey37xo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 22:49:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f28d/live/89e1b750-43ec-11f1-9113-1988573e8ff7.png"
+            }
+          }
+        },
+        {
+          "title": "Liverpool expect Salah return before end of season",
+          "description": "Liverpool expect Mohamed Salah to return from injury before the end of the season after he was forced off against Crystal Palace on Saturday.",
+          "link": "https://www.bbc.com/sport/football/articles/crlp8npylnpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/crlp8npylnpo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 17:57:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eef/live/e4166140-43f0-11f1-9113-1988573e8ff7.jpg"
+            }
+          }
+        },
+        {
+          "title": "VAR denies Arsenal late penalty in draw against Atletico ",
+          "description": "Viktor Gyokeres puts Arsenal ahead from the spot before an equalising penalty from Atletico Madrid's Julian Alvarez in the second half. A third penalty call for the Gunners is overturned by VAR which ensures the first leg of their Champions League semi-final ends in a 1-1 draw. ",
+          "link": "https://www.bbc.com/sport/football/videos/cpqpj58lpzno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/videos/cpqpj58lpzno#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 22:01:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c352/live/0db77e80-4414-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Chelsea's Mudryk appeals against four-year FA ban",
+          "description": "Chelsea winger Mykhailo Mudryk takes his fight against a Football Association drugs ban to the Court of Arbitration for Sport.",
+          "link": "https://www.bbc.com/sport/football/articles/cevpyjxz0eno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cevpyjxz0eno#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 15:37:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feee/live/2fbc1cd0-43cd-11f1-903c-97fc83b422d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Joshua warm-up defeat would scupper Fury fight'",
+          "description": "The long-awaited showdown between Tyson Fury and Anthony Joshua will not happen if Joshua loses his July warm-up bout, says promoter Frank Warren.",
+          "link": "https://www.bbc.com/sport/boxing/articles/c1l25l3zlm0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/boxing/articles/c1l25l3zlm0o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Apr 2026 13:03:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffd2/live/beffd430-43d8-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,738 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Thu, 07 May 2026 05:24:48 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship early",
+          "description": "They do not have symptoms and health officials say the risk to the general public remains very low.",
+          "link": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c9wepl8we90o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 07 May 2026 04:35:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1804/live/f15df230-4960-11f1-8cde-350b393d70a2.jpg"
+            }
+          }
+        },
+        {
+          "title": "What is hantavirus and how does it spread? Key questions after outbreak",
+          "description": "The Andes strain of the virus, which can rarely be passed from person to person,  has been confirmed in some passengers. ",
+          "link": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c8r8j1l6j0go#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 07 May 2026 04:16:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5668/live/80aa6580-4953-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+          "description": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
+          "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/crmpjjl02l2o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 19:58:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb1a/live/fc55db50-4981-11f1-b768-41eba02d8af8.jpg"
+            }
+          }
+        },
+        {
+          "title": "Can CCTV really stop children being abused in nurseries?",
+          "description": "With reports of abuse and deaths fuelling concern among parents, questions are growing over whether CCTV can offer real protection for children - or not.",
+          "link": "https://www.bbc.com/news/articles/czx2kn4n5wxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/czx2kn4n5wxo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 22:59:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dde6/live/23638f10-488a-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "Serving Met officer and four ex-officers investigated for handling of Al Fayed allegations",
+          "description": "A serving officer and four former officers are being investigated over the handling of reports against the businessman.",
+          "link": "https://www.bbc.com/news/articles/crepwqzppqgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/crepwqzppqgo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 07 May 2026 05:01:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c132/live/03f26340-4989-11f1-a49f-cb939a5301ad.jpg"
+            }
+          }
+        },
+        {
+          "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+          "description": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\". ",
+          "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cj0pq2q8221o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 07 May 2026 04:06:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b568/live/479e7760-498d-11f1-9cba-7526402c46eb.png"
+            }
+          }
+        },
+        {
+          "title": "German tourist wins payout after losing sun lounger race",
+          "description": "The man sued his tour operator for allowing people to reserve sun loungers with towels despite a hotel ban on the practice.",
+          "link": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c5y72g09d7jo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 07 May 2026 00:41:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3777/live/2bcbe410-49a5-11f1-bda3-292dfcf82c73.jpg"
+            }
+          }
+        },
+        {
+          "title": "Up to 150 former WHSmith high street stores to close",
+          "description": "The stores were purchased by Modella Capital last year, and then rebranded under the name TGJones.",
+          "link": "https://www.bbc.com/news/articles/clypzvqzqd7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clypzvqzqd7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 15:22:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/257a/live/919ac350-4956-11f1-91ca-0f2f4e61b132.jpg"
+            }
+          }
+        },
+        {
+          "title": "Millions across England, Scotland and Wales to vote in key elections",
+          "description": "The polls on Thursday will be the biggest test of public opinion since the general election in 2024.",
+          "link": "https://www.bbc.com/news/articles/c62xkw1pyvzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c62xkw1pyvzo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 22:59:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a13b/live/76fd5e30-497a-11f1-b9d6-9f6a897bd1ff.jpg"
+            }
+          }
+        },
+        {
+          "title": "'We had people come just to see it': Amazon delivers its first UK parcels by drone",
+          "description": "The unmanned aircraft can drop off 100 parcels a day within a 12km radius of Amazon's hub.",
+          "link": "https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx21k21vnmgo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 23:02:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fff0/live/3de903e0-496d-11f1-8ac1-2336fddb3c06.jpg"
+            }
+          }
+        },
+        {
+          "title": "From ego-ridden team to complete package - why PSG pose ultimate test",
+          "description": "Luis Enrique's expertise at rebuilding a culture as well as a team means Arsenal will confront the complete package when they meet holders PSG in the Champions League final.",
+          "link": "https://www.bbc.com/sport/football/articles/cx218q541lvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cx218q541lvo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 22:58:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d81b/live/cae2cfa0-4996-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Key bridge linking North Korea and Russia almost finished, satellite images show",
+          "description": "The road crossing is the latest sign of the deepening relationship between Pyongyang and Moscow.",
+          "link": "https://www.bbc.com/news/articles/cwy2e3wwd55o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cwy2e3wwd55o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 23:25:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75b9/live/cad42540-4978-11f1-b55d-0f258dce1735.png"
+            }
+          }
+        },
+        {
+          "title": "What you need to know about the 7 May elections in England, Scotland and Wales",
+          "description": "Millions will vote in parliamentary elections in Scotland and Wales, and local elections in England.",
+          "link": "https://www.bbc.com/news/articles/c62nq678nyzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c62nq678nyzo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 05 May 2026 15:38:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c955/live/f503d810-0e6d-11f1-9120-a910fc22c6ac.png"
+            }
+          }
+        },
+        {
+          "title": "Who can I vote for in my area?",
+          "description": "Elections are taking place across the UK. Find out whether there is one where you live and who you can vote for. ",
+          "link": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c0ljrp76ywxo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 16:51:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a464/live/7c6647f0-283d-11f1-a79a-77e93010d956.png"
+            }
+          }
+        },
+        {
+          "title": "What photo ID will you need to vote in the May elections?",
+          "description": "Everyone voting in person in the local elections in England on 7 May will have to show valid photo ID.",
+          "link": "https://www.bbc.com/news/articles/czjg288xk93o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/czjg288xk93o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 05 May 2026 10:53:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c19/live/70e44ed0-fc4c-11f0-8ee8-9f8ad0c97346.jpg"
+            }
+          }
+        },
+        {
+          "title": "How does the BBC report polling day? ",
+          "description": "The BBC cannot report on campaigning or election issues while polls are open on Thursday 7 May.",
+          "link": "https://www.bbc.com/news/articles/cy417dvg80ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy417dvg80ro#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 16 Apr 2026 13:50:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07b/live/e30168c0-38c1-11f1-9d5c-8ba507d7dbde.png"
+            }
+          }
+        },
+        {
+          "title": "Trump's hopes for an Iran peace deal come with caveats",
+          "description": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution. ",
+          "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgzp74rvj5o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 17:32:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e05/live/f0085a00-4970-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: Passengers told virus-hit ship 'not infectious' after first death",
+          "description": "YouTuber Ruhi Çenet was on board the ship, and filmed the announcement made on 12 April.",
+          "link": "https://www.bbc.com/news/videos/cx21gp04gglo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/cx21gp04gglo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 16:25:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e028/live/37fe7c40-4967-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "In 'Musk v Altman', this judge will make the final call",
+          "description": "The feud has fuelled a costly showdown between two tech titans.",
+          "link": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx214rnlpn7o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 23:52:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "160",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a81d/live/b32b0210-4969-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia",
+          "description": "Protests have taken place at the prestigious arts fair over the inclusion of Russia for the first time since the full-scale invasion of Ukraine. ",
+          "link": "https://www.bbc.com/news/articles/cvgz14e1zeno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgz14e1zeno#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 21:29:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e1/live/196c22f0-494e-11f1-bd44-e578c5bd51ff.jpg"
+            }
+          }
+        },
+        {
+          "title": "People urged not to cancel flights over fuel shortage fears",
+          "description": "Airlines have cut 13,000 flights globally in May as jet fuel prices soar due to the conflict in the Middle East.",
+          "link": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cyv24v3mpdmo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 16:11:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf1e/live/7bb43ee0-491f-11f1-9546-d74beef04f02.jpg"
+            }
+          }
+        },
+        {
+          "title": "Massive Alaska megatsunami was second largest ever recorded",
+          "description": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+          "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c1m253033m4o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 12:00:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3642/live/5902acb0-487f-11f1-b133-d51692f10715.jpg"
+            }
+          }
+        },
+        {
+          "title": "Harry Potter TV series renewed for second season at HBO",
+          "description": "Filming is scheduled for autumn later this year and will likely adapt the second book in JK Rowling's series, The Chamber of Secrets.",
+          "link": "https://www.bbc.com/news/articles/cyv2em4r3mno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cyv2em4r3mno#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 07 May 2026 02:11:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/133f/live/1400c7b0-499b-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "Bonnie Tyler recovering after being taken to hospital for surgery",
+          "description": "The Total Eclipse of the Heart singer is being treated in Faro, Portugal, where she has a home. ",
+          "link": "https://www.bbc.com/news/articles/clyprk8prmzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clyprk8prmzo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 17:43:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b178/live/24378fc0-496d-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
+          "description": "Shivon Zilis is the mother of four of Musk's children. That relationship began as she advised OpenAI.",
+          "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c33243j44p8o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 20:05:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e3/live/2dfa9ad0-496c-11f1-8ac1-2336fddb3c06.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
+          "description": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980.",
+          "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c1k2jnx8gmlo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 07 May 2026 03:20:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46ba/live/72ac4170-4957-11f1-91ca-0f2f4e61b132.jpg"
+            }
+          }
+        },
+        {
+          "title": "Woman stabbed in heart before explosion, court told",
+          "description": "Annabel Rook was stabbed multiple times by her partner, who admits manslaughter but denies murder.",
+          "link": "https://www.bbc.com/news/articles/c5yxekrjxkyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c5yxekrjxkyo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 12:02:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07da/live/f7e14700-486c-11f1-ba51-89e146a2916a.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Electioncast: It’s Time To Vote!",
+          "description": "Adam, Laura, Chris, James and Felicity bring you one last update before the polls open.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0njf9sj?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0njf9sj#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 19:08:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Is Donald Trump close to finishing his war with Iran?",
+          "description": "Or has the US president lost control?",
+          "link": "https://www.bbc.co.uk/sounds/play/p0njpzv3?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0njpzv3#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 18:02:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "From ego-ridden team to complete package - why PSG pose ultimate test",
+          "description": "Luis Enrique's expertise at rebuilding a culture as well as a team means Arsenal will confront the complete package when they meet holders PSG in the Champions League final.",
+          "link": "https://www.bbc.com/sport/football/articles/cx218q541lvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cx218q541lvo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 22:58:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d81b/live/cae2cfa0-4996-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why resolute Arsenal will believe prolific PSG can be beaten in final",
+          "description": "With Paris St-Germain waiting in the Champions League final, will Arsenal withstand the firepower of one of Europe's most formidable attacks and lift the trophy for the first time on 30 May?",
+          "link": "https://www.bbc.com/sport/football/articles/ckgpxp9q8yno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/ckgpxp9q8yno#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 22:19:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c422/live/943ce2a0-499c-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "Inside Man City's WSL title-winning season",
+          "description": "Manchester City have won a first Women's Super League title in 10 years - but how did they achieve it?",
+          "link": "https://www.bbc.com/sport/football/articles/c2lrzd4x02vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c2lrzd4x02vo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 20:47:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e2/live/62490d00-4997-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "Late Bayern pressure not enough as PSG return to Champions League final",
+          "description": "Harry Kane's injury-time equaliser earns Bayern Munich a 1-1 second leg draw at the Allianz Arena as holders PSG seal their return to the Champions League final 6-5 on aggregate, where they will meet Arsenal in Budapest.",
+          "link": "https://www.bbc.com/sport/football/videos/cx21jp2egxzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/videos/cx21jp2egxzo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 21:23:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06aa/live/b7a2bcd0-4990-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "Injury row, yacht trip & petition - what's going on with Mbappe?",
+          "description": "It's been a difficult second season for Kylian Mbappe at Real Madrid. What's gone wrong? ",
+          "link": "https://www.bbc.com/sport/football/articles/cdeplyje9zzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cdeplyje9zzo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 14:20:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13c7/live/01da6d70-4941-11f1-861c-270dbba6d6ae.jpg"
+            }
+          }
+        },
+        {
+          "title": "Celtic could win double - but is change inevitable?",
+          "description": "Celtic could yet have another successful domestic season despite a rancorous and turbulent campaign. But is lots of change at the club inevitable even with success?",
+          "link": "https://www.bbc.com/sport/football/articles/c24213eqv87o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c24213eqv87o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 17:11:42 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad0f/live/5eb9d3f0-4964-11f1-a87a-55dfd3c7a311.jpg"
+            }
+          }
+        },
+        {
+          "title": "Saka the hero as Arsenal reach first Champions League final in 20 years",
+          "description": "Bukayo Saka scores the only goal of the game to send Arsenal back to the Champions League final for the first time since 2006, as Mikel Arteta's side see off Atletico Madrid 1-0 at the Emirates Stadium.",
+          "link": "https://www.bbc.com/sport/football/videos/cy42mxj22jdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/videos/cy42mxj22jdo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 06 May 2026 21:00:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7368/live/1ce7fa20-48c8-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

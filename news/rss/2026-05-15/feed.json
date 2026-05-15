@@ -1,0 +1,795 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Fri, 15 May 2026 05:48:02 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Analysis: Andy Burnham's route back to the Commons is clearer - but one big hurdle remains",
+          "description": "The Greater Manchester mayor faces a messy and bitter by-election battle with Reform UK. ",
+          "link": "https://www.bbc.com/news/articles/cx21x2rpm12o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx21x2rpm12o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 00:17:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8434/live/c3ec01a0-4ff2-11f1-bbdf-91a6190ca3e7.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: The day Labour's potential leadership race began to heat up",
+          "description": "Political turmoil continued in Westminster on Thursday after Health Secretary Wes Streeting resigned Starmer's government saying he had \"lost confidence\" in his leadership.",
+          "link": "https://www.bbc.com/news/videos/c3w2ngny1v6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/c3w2ngny1v6o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 20:41:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f63/live/c5e7d830-501f-11f1-8b8c-6d33e1d5abb6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Brutal raid on woman's birthday party highlights rise of Russian vigilante group",
+          "description": "The Russkaya Obshina group stages raids to look for activities contravening\n\"traditional Russian values\". \n",
+          "link": "https://www.bbc.com/news/articles/cq5p306l7weo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cq5p306l7weo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 00:04:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/e25b3560-4e04-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "Royal finances face a cut. But will much really change?",
+          "description": "The monarchy’s finances have long been protected by tradition. Now experts say the public are demanding for more transparency ",
+          "link": "https://www.bbc.com/news/articles/c4g0e92dp6ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4g0e92dp6ko#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 23:11:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe80/live/e31e1790-4e01-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Don't swim' warnings in place at nearly all of England's official river bathing sites",
+          "description": "Too much bacteria linked to faeces found at almost all England's designated river bathing sites",
+          "link": "https://www.bbc.com/news/articles/cvgzvqq9345o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgzvqq9345o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 04:13:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f912/live/1d0d4f60-4efd-11f1-85df-7fe19d922bf1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hundreds of comedians unpaid by one of UK's biggest comedy festivals",
+          "description": "Leicester Comedy Festival says it is committed to paying comedians but waiting on money themselves.",
+          "link": "https://www.bbc.com/news/articles/czx2ypgwxx7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/czx2ypgwxx7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 23:35:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5a/live/352babb0-4d21-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
+          "description": "As the jury deliberates, this is what we found out during the weeks-long trial with two tech titans at its heart.",
+          "link": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cg7pj8p5mv4o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 05:03:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c136/live/238809b0-4eae-11f1-bd52-e755d604ece4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Australia soars into Eurovision final as UK song debuts",
+          "description": "Delta Goodrem is now a favourite to win Eurovision, following a spectacular semi-final performance.",
+          "link": "https://www.bbc.com/news/articles/c9weyz8nk4ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c9weyz8nk4ro#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 22:54:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ea/live/67040640-4fe8-11f1-bb02-e3cccdfcefab.jpg"
+            }
+          }
+        },
+        {
+          "title": "Zack Polanski did not vote in local elections, Green Party says",
+          "description": "The Green Party leader previously told Hackney mayoral candidate Zoë Garbett \"you have my vote\".",
+          "link": "https://www.bbc.com/news/articles/c8e8133xp5eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c8e8133xp5eo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 21:55:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/268f/live/327a5fd0-4fbd-11f1-b682-cf91850925ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "One dead and two ill after meningitis cases",
+          "description": "Agencies said the risk to pupils and the wider public following the cases of meningitis remains low.",
+          "link": "https://www.bbc.com/news/articles/cn4p750q857o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cn4p750q857o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 05:42:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a23/live/66b78830-4fcd-11f1-8b8c-6d33e1d5abb6.png"
+            }
+          }
+        },
+        {
+          "title": "At a glance: Starmer fights to stay on as prime minister",
+          "description": "The prime minister is fighting to stay on in No 10 as heavy election losses trigger a Labour revolt.",
+          "link": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c8jv1mzzkjgo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 20:19:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b107/live/4fb40250-4de6-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "Key excerpts from Streeting's resignation letter as he quits as health secretary",
+          "description": "He quits as health secretary after days of speculation that he is preparing to launch a leadership challenge against Sir Keir Starmer.",
+          "link": "https://www.bbc.com/news/articles/c626wvqy1yzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c626wvqy1yzo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 17:08:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0a3/live/c2053cb0-4fa4-11f1-95ec-23912032462e.png"
+            }
+          }
+        },
+        {
+          "title": "The potential challengers to Keir Starmer",
+          "description": "Andy Burnham, Angela Rayner and Wes Streeting are all potential candidates for the top job. ",
+          "link": "https://www.bbc.com/news/articles/c3e2n7xn14xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3e2n7xn14xo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 03:34:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6bc/live/a2d47da0-4e24-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK anti-immigration social media accounts traced to Sri Lanka and Vietnam",
+          "description": "Overseas fakers are using AI videos to push a narrative of UK decline to large audiences, BBC finds.",
+          "link": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ckgpyn30dp3o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 05:01:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c664/live/adc17350-4f8f-11f1-9ab5-d7f2c647b333.png"
+            }
+          }
+        },
+        {
+          "title": "Trump brought top CEOs to Beijing but few big deals emerge",
+          "description": "There were plenty of choreographed ceremonies but no sweeping trade breakthrough as Trump met Xi in Beijing.",
+          "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clypj01189lo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 05:38:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a95/live/0f64b3c0-5011-11f1-a835-fd35f0b27034.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hotel owners expected a World Cup boom - so far it hasn't happened",
+          "description": "An industry body survey found hotels in World Cup host cities see the tournament as a \"non-event\".",
+          "link": "https://www.bbc.com/news/articles/cn0p2532xn4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cn0p2532xn4o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 05:01:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bae/live/95af6540-4fb9-11f1-af25-433bf2cc2fce.jpg"
+            }
+          }
+        },
+        {
+          "title": "Weekly quiz: Which animal delivered the King's birthday card to Sir David Attenborough?",
+          "description": "How much attention did you pay to what happened in the world over the past seven days?",
+          "link": "https://www.bbc.com/news/articles/cwy2pzpgerzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cwy2pzpgerzo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 17:25:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3599/live/21fe99f0-4fb3-11f1-8b8c-6d33e1d5abb6.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Starmer's battle begins' and 'Rivals'",
+          "description": "The papers are dominated by Sir Keir Starmer's fight to stay on as prime minister.",
+          "link": "https://www.bbc.com/news/articles/c4g56g3wezgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4g56g3wezgo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 05:21:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/821b/live/9d241d40-4fe9-11f1-89a3-d1f559421220.png"
+            }
+          }
+        },
+        {
+          "title": "I've never seen anything like the abuse during this election",
+          "description": "Councillors tell of the abuse they faced from the public in recent weeks. Why is it on the rise?",
+          "link": "https://www.bbc.com/news/articles/crepvpqgz18o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/crepvpqgz18o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 05:15:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f33/live/44a8a590-4fa4-11f1-95ec-23912032462e.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK Eurovision act: The BBC gave me a stress test to check I could cope under pressure",
+          "description": "\"It could go well or completely wrong, I'm just here for the ride,\" says song contest hopeful Sam Battle.",
+          "link": "https://www.bbc.com/news/articles/clyp6w9ejyko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clyp6w9ejyko#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 23:44:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/111e/live/ee0e8eb0-4f77-11f1-9bf8-a147799c023a.jpg"
+            }
+          }
+        },
+        {
+          "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
+          "description": "Eben Upton warns against claims that Artificial Intelligence will destroy vast numbers of computing roles over the coming years.",
+          "link": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clypr8p2lewo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 23:01:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b124/live/7a8cb440-4fc1-11f1-b651-41ca043d3d3f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Five Italians die during cave dive in Maldives",
+          "description": "Italy says the incident happened at a depth of 50m. Maldivian rescuers have so far found one body.",
+          "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c62e0p7rd2ro#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 20:48:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c108/live/0e164e80-4fd4-11f1-a2ac-8711222752cc.jpg"
+            }
+          }
+        },
+        {
+          "title": "New Zealand's Māori Queen meets King Charles at Buckingham Palace",
+          "description": "The meeting with the British monarch was Te Arikinui's first since she became Maori Queen in 2024.",
+          "link": "https://www.bbc.com/news/articles/ckgp2vpp70yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ckgp2vpp70yo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 02:43:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/531d/live/d261af90-5002-11f1-8df4-df03c64273d2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hundreds of illegal motorbikes bulldozed in New York City crime crackdown",
+          "description": "A moped had been used in the deadly stray-bullet shooting of a 7-month-old in Brooklyn last month, officials said.",
+          "link": "https://www.bbc.com/news/videos/c1m2p42v847o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/c1m2p42v847o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 20:17:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/5bb86cf0-4fc9-11f1-b682-cf91850925ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "CIA chief visits Cuba as energy crisis worsens",
+          "description": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade.",
+          "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cd7pyrj0vx7o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 02:40:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a8/live/b2271bc0-4fad-11f1-b2ff-f5e2d2fddf7e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Farage says £5m gift a reward for Brexit campaigning",
+          "description": "The Reform UK leader, who is facing a Commons standards probe, said he \"cannot be bought by anybody\".",
+          "link": "https://www.bbc.com/news/articles/c072prlxlddo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c072prlxlddo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 18:12:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed04/live/c1f59430-4fc3-11f1-b682-cf91850925ea.png"
+            }
+          }
+        },
+        {
+          "title": "Original Coronation Street cast member dies aged 89",
+          "description": "Alan Rothwell was best known for playing David Barlow in the original cast of Coronation Street.",
+          "link": "https://www.bbc.com/news/articles/cwy234lp8rzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cwy234lp8rzo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 20:12:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f560/live/0706c450-4fcd-11f1-8613-a3f9ee46d7a6.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Andy Burnham makes his move",
+          "description": "Andy Burnham targets Westminster return & Wes Streeting resigns",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nkrkk0?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nkrkk0#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 19:28:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Does Trump need China to end the war in Iran?",
+          "description": "What you need to know about Donald Trump vs President Xi",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nl1r5w?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nl1r5w#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 13 May 2026 18:28:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "The story of how England's 'Golden Generation' unravelled",
+          "description": "Why did the England football team not fulfill their potential at the World Cup?",
+          "link": "http://www.bbc.co.uk/iplayer/episode/m002wbmg?at_mid=fwcDQ6qW9A&at_campaign=England_2006_The_Golden_Generation&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002wbmg&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=England_2006_The_Golden_Generation&at_bbc_team=BBC",
+          "guid": {
+            "_": "http://www.bbc.co.uk/iplayer/episode/m002wbmg?at_mid=fwcDQ6qW9A&at_campaign=England_2006_The_Golden_Generation&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002wbmg&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=England_2006_The_Golden_Generation&at_bbc_team=BBC#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 11 May 2026 05:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/276cc4a0-4ae2-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why golf is losing its swing as cycling gains momentum",
+          "description": "Mark Hodkinson investigates why golf is declining while cycling thrives.",
+          "link": "https://www.bbc.co.uk/sounds/play/b08wn9mj?at_mid=ok3t01oGcT&at_campaign=In_the_Rough_Golfs_Uncertain_Future&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=b08wn9mj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=In_the_Rough_Golfs_Uncertain_Future&at_bbc_team=BBC",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/b08wn9mj?at_mid=ok3t01oGcT&at_campaign=In_the_Rough_Golfs_Uncertain_Future&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=b08wn9mj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=In_the_Rough_Golfs_Uncertain_Future&at_bbc_team=BBC#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Jul 2017 19:30:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/221f/live/461671f0-4d29-11f1-ac78-2112837ce2aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "A Bafta-winning story of music and resistance in Auschwitz",
+          "description": "It was hell. But music gave prisoners at Auschwitz a lifeline - and even a way to resist.",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0027g70?at_mid=T1XlugS2dh&at_campaign=The_Last_Musician_of_Auschwitz&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0027g70&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Last_Musician_of_Auschwitz&at_bbc_team=BBC",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m0027g70?at_mid=T1XlugS2dh&at_campaign=The_Last_Musician_of_Auschwitz&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0027g70&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Last_Musician_of_Auschwitz&at_bbc_team=BBC#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 27 Jan 2025 06:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75f/live/6c156150-4e40-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "Scheffler shares US PGA lead as Aronimink bites back ",
+          "description": "As many of the world's best struggle at the US PGA Championship, Scottie Scheffler - the world's very best - is among a select few to get change out of Aronimink.",
+          "link": "https://www.bbc.com/sport/golf/articles/cdjp21k8ry2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/cdjp21k8ry2o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 00:17:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ce2/live/7a6970d0-4fed-11f1-8907-399d2a5c7879.jpg"
+            }
+          }
+        },
+        {
+          "title": "Play-off final may be delayed by Spygate hearing",
+          "description": "The Championship play-off final may not go ahead on Saturday 23 May as the EFL investigates the Spygate scandal surrounding finalists Southampton. ",
+          "link": "https://www.bbc.com/sport/football/articles/cyv2nl9vl72o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cyv2nl9vl72o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 16:35:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b0c/live/e524c470-4fab-11f1-b2ff-f5e2d2fddf7e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Parlour? Villa? Gerrard? Ranking best FA Cup final goals",
+          "description": "From Ricky Villa to Steven Gerrard, Ray Parlour to Roberto di Matteo - here are 10 of the best FA Cup final goals of all time.",
+          "link": "https://www.bbc.com/sport/football/articles/c23205xj91no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c23205xj91no#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 15 May 2026 05:12:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcc/live/0074b530-4bad-11f1-bd52-e755d604ece4.png"
+            }
+          }
+        },
+        {
+          "title": "'Dangerous' Bolton come full circle for play-off final",
+          "description": "Bolton Wanderers' final game of 2025-26 is a repeat of their first match of the season as they take on Stockport County for a place in the Championship.",
+          "link": "https://www.bbc.com/sport/football/articles/cn0p20443d5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cn0p20443d5o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 22:51:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abe2/live/d6bae140-4fe6-11f1-b25f-11d991ea08a3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Man City beat rivals Man Utd 2-1 to win FA Youth Cup",
+          "description": "Reigan Heskey smashes home a late winner as Manchester City beat Manchester United to win the FA Youth Cup.",
+          "link": "https://www.bbc.com/sport/football/articles/cjdpyv93vdmo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cjdpyv93vdmo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 21:44:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d022/live/7c479060-4fd1-11f1-89a3-d1f559421220.jpg"
+            }
+          }
+        },
+        {
+          "title": "Humphries & Price seal Premier League play-off spots",
+          "description": "Defending champion Luke Humphries beats Gerwyn Price to win his first night of the Premier League season, but the pair both seal play-off spots in Birmingham. ",
+          "link": "https://www.bbc.com/sport/darts/articles/c042r6kwd1eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/darts/articles/c042r6kwd1eo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 21:59:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652a/live/91ef96f0-4fe1-11f1-b25f-11d991ea08a3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Sutton's predictions v Blossoms & Songer",
+          "description": "Chris Sutton takes on indie band Blossoms and rapper Songer plus the BBC readers and AI with his predictions for the FA Cup final and this weekend's Premier League fixtures.",
+          "link": "https://www.bbc.com/sport/football/articles/cd6p2n4ydjqo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cd6p2n4ydjqo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 14 May 2026 20:15:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/427f/live/e1e525d0-4fd7-11f1-8b8c-6d33e1d5abb6.png"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

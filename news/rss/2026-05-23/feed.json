@@ -1,0 +1,719 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Sat, 23 May 2026 05:33:30 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "At least 82 dead in Chinese coal mine explosion, state media reports",
+          "description": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
+          "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c5y0ve18qlko#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 23 May 2026 05:19:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png"
+            }
+          }
+        },
+        {
+          "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+          "description": "Ukraine says it hit Russia's elite Rubicon drone military unit in a Moscow-occupied region. ",
+          "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c5y74lwx395o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 23 May 2026 04:05:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db1a/live/dadb5390-5608-11f1-b682-cf91850925ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hot weather to intensify in UK over bank holiday weekend",
+          "description": "Amber heat health alerts are in place for the Midlands, eastern and south-east England.",
+          "link": "https://www.bbc.com/weather/articles/crmp8dlyz3ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/weather/articles/crmp8dlyz3ko#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 23:04:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6020/live/9c469cc0-5603-11f1-ad45-8ffb2d2085e2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Attorney general to review teen boys' rape sentences",
+          "description": "The three teenagers were not given custodial sentences for their roles in the rape of two girls.",
+          "link": "https://www.bbc.com/news/articles/cwy2x7wxjego?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cwy2x7wxjego#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 15:55:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd5/live/0bec13a0-55f7-11f1-b682-cf91850925ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "Rubio tries to reassure Nato allies over US troop deployments",
+          "description": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
+          "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cedpz9669deo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 15:18:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4f/live/0b4bb9f0-55c0-11f1-99e4-4d92e48ba181.jpg"
+            }
+          }
+        },
+        {
+          "title": "Red Arrows to fly with fewer jets to preserve ageing fleet",
+          "description": "The famous display team will fly with seven rather than nine aircraft for most of its displays.",
+          "link": "https://www.bbc.com/news/articles/cj9p8rvl0d0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cj9p8rvl0d0o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 21:03:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a86f/live/194d4350-5612-11f1-bec1-f9b39ec8a876.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Eat, sleep, rave, repeat': Fatboy Slim lights up Radio 1's Big Weekend",
+          "description": "The veteran DJ closed out the dance-focused day as the festival landed in Sunderland's Herrington Country Park.",
+          "link": "https://www.bbc.com/news/articles/cp8p1wl8pr6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cp8p1wl8pr6o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 21:29:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc71/live/0d90b460-5622-11f1-ac06-bb88c895e68b.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Panorama exposed rape allegations on Married at First Sight UK",
+          "description": "Two women said they were raped by their on-screen husbands during filming of the Channel 4 show.",
+          "link": "https://www.bbc.com/news/articles/cy02349wgy5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy02349wgy5o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 23:02:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8906/live/1f6a4740-5605-11f1-8b8c-6d33e1d5abb6.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Speed, money and compassion' - lessons from an Ebola survivor and other experts",
+          "description": "Those caught up in West Africa's Ebola outbreak a decade ago on how best to tackle the current epidemic.",
+          "link": "https://www.bbc.com/news/articles/cj3p2rdx0l8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cj3p2rdx0l8o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 23:07:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b3/live/8445c700-55d0-11f1-8b8c-6d33e1d5abb6.jpg"
+            }
+          }
+        },
+        {
+          "title": "North Korea's powerhouse women footballers are in Seoul to fight for title",
+          "description": "They beat the South Korean club to progress to the final of the Asian Women's Champions League.",
+          "link": "https://www.bbc.com/news/articles/cewpz05k941o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cewpz05k941o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 22:00:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98f2/live/1ff54b00-55ca-11f1-adcb-c17fd6ea17a6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
+          "description": "Latest polls suggest the centre-right figure is the only candidate who can defeat Marine Le Pen or Jean-Luc Mélenchon.",
+          "link": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4g0410gnv5o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 23:07:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f59b/live/89f9ba00-55f1-11f1-b682-cf91850925ea.png"
+            }
+          }
+        },
+        {
+          "title": "UK officials suggested single market for goods with Europe",
+          "description": "Industry figures briefed on the move said the idea has not been taken forward at this point, after EU scepticism.",
+          "link": "https://www.bbc.com/news/articles/cr5plpm3g2ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cr5plpm3g2ro#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 23 May 2026 03:47:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3389/live/3106c820-564b-11f1-b682-cf91850925ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ice baths, almond milk, meditation and a 'house like a hospital': The secrets of Salah's success",
+          "description": "He's been hailed as an all-time great - but there's more to his success than meets the eye.",
+          "link": "https://www.bbc.com/news/articles/cd0p3v7kn1mo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cd0p3v7kn1mo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 23:28:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72bd/live/57062370-55f3-11f1-a174-f9c47fab594e.png"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Heat leaves Africa and Med in shade' and 'Can't cope without Catherine'",
+          "description": "An expected heatwave, tax proposals and the Prince of Wales are prominent on Saturday's papers.",
+          "link": "https://www.bbc.com/news/articles/cj6pddx64jko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cj6pddx64jko#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 23 May 2026 04:45:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e24/live/de9f8d10-5640-11f1-89a3-d1f559421220.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I wish I had done it sooner': Why breast reductions are more popular now",
+          "description": "More women in the UK are choosing to have breast reductions than enlargements for the first time. ",
+          "link": "https://www.bbc.com/news/articles/c3d2k4xz42no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3d2k4xz42no#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 23:06:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/9bfa1f90-54f4-11f1-8b8c-6d33e1d5abb6.png"
+            }
+          }
+        },
+        {
+          "title": "The 'raucous' debut novel set entirely on one epic night out",
+          "description": "Sufiyaan Salam has won an award from Stormzy, been nominated for a Bafta and made a video for Elton John.",
+          "link": "https://www.bbc.com/news/articles/czx281ngrppo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/czx281ngrppo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 23:39:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebfa/live/676bc0e0-539a-11f1-960b-071e01d068d2.jpg"
+            }
+          }
+        },
+        {
+          "title": "The space race to create gym equipment for future astronauts",
+          "description": "Scientists are attempting to build exercise equipment to be used on future space flights.",
+          "link": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cg4pe6dl03ro#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 23:42:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd0/live/e73aafd0-55c4-11f1-99e4-4d92e48ba181.jpg"
+            }
+          }
+        },
+        {
+          "title": "Charmain 'was on a mission' to find out who her prophet husband was. Then she died. ",
+          "description": "After a whirlwind romance and quickfire wedding, she was mysteriously found dead in a bathtub in Ghana.",
+          "link": "https://www.bbc.com/news/articles/c1d2xgvgy9yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c1d2xgvgy9yo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 21:52:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f8c/live/aa743190-329a-11f1-8cba-9df81803c83c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump is putting pressure on Cuba - why and to what end?",
+          "description": "The US has warned that a peaceful agreement with Cuba is unlikely, Havana insists this is a \"fraudulent case\" designed to justify military intervention.",
+          "link": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c5yrkl96xwvo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 18:33:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca01/live/b51e3b60-55f2-11f1-9773-43c89bcb1e91.jpg"
+            }
+          }
+        },
+        {
+          "title": "She was killed by her stalker. Could social media companies have saved her?",
+          "description": "A new law in the US will compel social media companies to comply with police warrants within days in cases of stalking.",
+          "link": "https://www.bbc.com/news/articles/cx214l1n9xzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx214l1n9xzo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 23:18:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0098/live/5efdf150-5627-11f1-8589-31b3a11d3050.jpg"
+            }
+          }
+        },
+        {
+          "title": "How to keep cool at your summer festivals",
+          "description": "As the summer festival season kicks off, temperatures are set to soar this bank holiday weekend.",
+          "link": "https://www.bbc.com/news/articles/clypzp9drq0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clypzp9drq0o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 23:40:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d1/live/486c9be0-5509-11f1-b61b-7bb15f916dcd.png"
+            }
+          }
+        },
+        {
+          "title": "King appears as surprise guest at sold-out Shakespeare play ",
+          "description": "The monarch sat with the audience to watch a performance of the Royal Shakespeare Company's The Tempest.",
+          "link": "https://www.bbc.com/news/articles/cpwp0pz72pxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cpwp0pz72pxo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 23 May 2026 03:36:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ed4/live/93780200-563f-11f1-b682-cf91850925ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tulsi Gabbard to resign as US director of national intelligence  ",
+          "description": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
+          "link": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgj2gkv1x1o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 20:30:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db89/live/999c35e0-5606-11f1-b1da-2de1b3f74b08.jpg"
+            }
+          }
+        },
+        {
+          "title": "Rubio visits India to sell energy as Iran oil shock persists",
+          "description": "The top US diplomat has made statements offering to support India’s energy needs - but should Delhi give in?",
+          "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c87qrwyyrn2o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 23 May 2026 03:55:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ff/live/1c0d22f0-54db-11f1-8a44-d3e9da00a02a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Most people seeking US green cards must now apply from outside the country",
+          "description": "A new policy closes a loophole that has allowed people to apply for a green card, or permanent residency, while in the country.",
+          "link": "https://www.bbc.com/news/articles/cgrpz4l1klgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cgrpz4l1klgo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 23 May 2026 02:14:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf3d/live/f5b14250-563b-11f1-9f4f-b375cfeddc7b.jpg"
+            }
+          }
+        },
+        {
+          "title": "More than 40,000 Californians evacuated due to chemical tank leak",
+          "description": "Officials have warned that the tank contains a \"highly volatile\" substance that could lead to an explosion.",
+          "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3w2l249j8go#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 23 May 2026 01:59:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88d2/live/98fd8540-5650-11f1-b682-cf91850925ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "By-Electioncast: Everything You Need To Know About Makerfield",
+          "description": "Is this the most consequential by-election ever?",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nm3xf3?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nm3xf3#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 09:33:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0nmqrmr.jpg"
+            }
+          }
+        },
+        {
+          "title": "Will Trump invade Cuba?",
+          "description": "The US charges Cuba’s 94-year-old former president Raul Castro with murder.",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8lz3?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/w3ct8lz3#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 00:08:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Unselfish' over 'ego' - what do leaks say about Tuchel's England?",
+          "description": "BBC Sport explores why the whole world knew the England World Cup squad before it was announced, and what Thomas Tuchel's response says about England's culture.",
+          "link": "https://www.bbc.com/sport/football/articles/cg4pgve33kyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cg4pgve33kyo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 15:39:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db67/live/b12fa270-55fa-11f1-b682-cf91850925ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "Russell edges Antonelli to take pole for Canada sprint",
+          "description": "George Russell edges out Mercedes team-mate Kimi Antonelli to take pole position for the sprint race at the Canadian Grand Prix.",
+          "link": "https://www.bbc.com/sport/formula1/articles/ckgplmj1rg9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/formula1/articles/ckgplmj1rg9o#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 22:47:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4522/live/ffe72e10-5627-11f1-89a3-d1f559421220.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hull and Middlesbrough set for unique play-off final",
+          "description": "BBC Sport looks at the Championship play-off finalists Hull City and Middlesbrough after the build-up was dominated by Southampton and Spygate.",
+          "link": "https://www.bbc.com/sport/football/articles/cwy2815zvv7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cwy2815zvv7o#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 16:31:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b84c/live/840e5d20-55ed-11f1-89a3-d1f559421220.png"
+            }
+          }
+        },
+        {
+          "title": "Usyk v Verhoeven world title fight predictions",
+          "description": "Boxing world offer their predictions for Oleksandr Usyk's world title defence against Rico Verhoeven on Saturday.",
+          "link": "https://www.bbc.com/sport/boxing/articles/ckgpjr78kdxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/boxing/articles/ckgpjr78kdxo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 23 May 2026 05:31:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1098/live/9f9cce70-55c8-11f1-9a5f-8f70d4bfa4fc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Sabalenka cuts news conference short as French Open players protest over pay",
+          "description": "Leading players, including Aryna Sabalenka, Coco Gauff and Jannik Sinner, limit their French Open media duties to 15 minutes in a row over prize money.",
+          "link": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 14:59:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99fc/live/607ef200-55e5-11f1-9d25-db25c0e2fcc3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Final heartbreak in Bilbao - but how have Ulster progressed?",
+          "description": "Ulster head coach Richie Murphy accepts his side were second best to Montpellier in the Challenge Cup final, but how have they progressed this season?",
+          "link": "https://www.bbc.com/sport/rugby-union/articles/cwy2ggpj82yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/rugby-union/articles/cwy2ggpj82yo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 22:43:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48f5/live/3ee6e640-562e-11f1-8785-cd247fa904f8.jpg"
+            }
+          }
+        },
+        {
+          "title": "Maguire World Cup omission a shock - Rooney",
+          "description": "Former England captain Wayne Rooney says Harry Maguire is \"very unlucky\" to miss out on a place in Thomas Tuchel's World Cup squad this summer.",
+          "link": "https://www.bbc.com/sport/football/articles/c4g02kdwp4go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c4g02kdwp4go#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 22 May 2026 17:07:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2955/live/a20dbfe0-55f3-11f1-a174-f9c47fab594e.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

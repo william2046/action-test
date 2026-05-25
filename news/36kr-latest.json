@@ -17,7 +17,7 @@
         "link": "https://www.bbc.co.uk/news"
       },
       "generator": "RSS for Node",
-      "lastBuildDate": "Sun, 24 May 2026 04:58:41 GMT",
+      "lastBuildDate": "Mon, 25 May 2026 05:16:38 GMT",
       "atom:link": {
         "$": {
           "href": "https://feeds.bbci.co.uk/news/rss.xml",
@@ -30,140 +30,292 @@
       "ttl": "15",
       "item": [
         {
-          "title": "Suspect killed after opening fire on Secret Service near White House",
-          "description": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
-          "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+          "title": "Starmer 'appalled' by case of boys spared jail after raping teenage girls",
+          "description": "The prime minister said it was \"right\" that the sentences were being urgently reviewed.",
+          "link": "https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/cjwp82ye4y3o#0",
+            "_": "https://www.bbc.com/news/articles/c332ljdkd81o#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 24 May 2026 03:59:51 GMT",
+          "pubDate": "Mon, 25 May 2026 02:15:36 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a817/live/fec30310-571c-11f1-83cc-573d6bc3aa6b.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5305/live/6c77b5c0-5779-11f1-bafe-434e6ec4ac4b.jpg"
             }
           }
         },
         {
-          "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-          "description": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
-          "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+          "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+          "description": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media. ",
+          "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/crmp121z3z8o#0",
+            "_": "https://www.bbc.com/news/articles/clyp0040x7po#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 24 May 2026 01:18:31 GMT",
+          "pubDate": "Mon, 25 May 2026 04:16:33 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a16c/live/d497f740-57a7-11f1-9a13-456ad0ca259e.jpg"
             }
           }
         },
         {
-          "title": "Heatwave likely to be confirmed as record-breaking temperatures forecast",
-          "description": "The soaring temperatures could lead to new national May temperature records being set on bank holiday Monday.",
-          "link": "https://www.bbc.com/weather/articles/c86dy6468epo?at_medium=RSS&at_campaign=rss",
+          "title": "UK braces for hottest May day on record as 30C heat continues",
+          "description": "Temperatures are forecast to reach as high as 34C, after eight England regions entered heatwave conditions on Sunday.",
+          "link": "https://www.bbc.com/weather/articles/c794j5zwppno?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/weather/articles/c86dy6468epo#0",
+            "_": "https://www.bbc.com/weather/articles/c794j5zwppno#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 24 May 2026 00:54:51 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfd2/live/cc2e1e60-570a-11f1-b6ba-0f41b010246c.jpg"
-            }
-          }
-        },
-        {
-          "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-          "description": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine. ",
-          "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cvgz05jyrrpo#0",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 23 May 2026 23:34:33 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ff/live/6628b250-56f7-11f1-89a3-d1f559421220.jpg"
-            }
-          }
-        },
-        {
-          "title": "Midnight Sun-derland: Zara Larsson electrifies the crowd at Big Weekend ",
-          "description": "The Swedish pop star treated the crowds to back-to-back, high-energy pop bangers on day two of the festival. ",
-          "link": "https://www.bbc.com/news/articles/c4g07gdzneno?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c4g07gdzneno#0",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 23 May 2026 22:34:14 GMT",
+          "pubDate": "Mon, 25 May 2026 00:18:27 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd4d/live/6fc525c0-56fa-11f1-82bd-1de3abb70411.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1e4/live/0d5d2ee0-57af-11f1-aa74-05adf4c4bc25.png"
             }
           }
         },
         {
-          "title": "France suspends extra EU border checks at Dover after hours-long queues",
-          "description": "The port said extra checks would be suspended, after travellers faced queues as temperatures soared.",
-          "link": "https://www.bbc.com/news/articles/cp3p2ver9k6o?at_medium=RSS&at_campaign=rss",
+          "title": "How Saudi Arabia's spending spree reached the end of the line",
+          "description": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten",
+          "link": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/cp3p2ver9k6o#0",
+            "_": "https://www.bbc.com/news/articles/cx21g0828reo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 23 May 2026 16:55:59 GMT",
+          "pubDate": "Mon, 25 May 2026 01:08:39 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa6b/live/ba1bf5f0-5690-11f1-9615-e14e530a4b81.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fad/live/a0a6efd0-55e6-11f1-89a3-d1f559421220.jpg"
             }
           }
         },
         {
-          "title": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
-          "description": "Reforms are needed of the welfare system to tackle the high numbers of young people not in work or education, says Alan Milburn.",
-          "link": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
+          "title": "RAF jet carrying defence secretary has signal jammed near Russian border",
+          "description": "Pilots on board had to use a different navigation system while the plane's GPS was disabled.",
+          "link": "https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/crrpx4p1z71o#0",
+            "_": "https://www.bbc.com/news/articles/clyp0jrxv7ro#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 23 May 2026 12:00:31 GMT",
+          "pubDate": "Sun, 24 May 2026 21:30:13 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ee3/live/a517c720-5699-11f1-9615-e14e530a4b81.jpg"
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af6e/live/5649ddc0-57b3-11f1-96df-91543f9dfe88.jpg"
             }
           }
         },
         {
-          "title": "It's like the Olympics - except steroids are allowed",
+          "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+          "description": "Nearly five years on from the school ban, young women say they have waved goodbye to their dreams.",
+          "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce3pgn48wnqo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 24 May 2026 21:02:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b38b/live/bb0494a0-57b6-11f1-b682-cf91850925ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "Olivia Dean brings the curtain down on Radio 1's Big Weekend with 'magic' set",
+          "description": "The British pop star has closed out a star-studded line-up at Big Weekend, which also included Fatboy Slim and Zara Larsson.",
+          "link": "https://www.bbc.com/news/articles/c5yex3j7v72o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c5yex3j7v72o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 24 May 2026 22:24:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e2/live/b2423610-57ca-11f1-8147-b5d93f19201e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Education secretary to ask competition watchdog to review hidden childcare costs",
+          "description": "Bridget Phillipson will ask the competition watchdog to examine costs that families are still facing in government-funded childcare.",
+          "link": "https://www.bbc.com/news/articles/c4g7d6ngjldo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4g7d6ngjldo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 25 May 2026 01:24:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f4c/live/0f8ecf60-57c4-11f1-b682-cf91850925ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ebola outbreak poses massive challenges, warns senior charity official",
+          "description": "Kate White says she is \"extremely concerned about the inability to get resources\" to the Democratic Republic of Congo.",
+          "link": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy421wgr2mpo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 24 May 2026 17:46:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a68/live/f16f5390-5793-11f1-85d6-97cd1565aacc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+          "description": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+          "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clyp6831yp5o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 25 May 2026 04:45:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/321a/live/ffcd6860-5783-11f1-b682-cf91850925ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "EasyJet flight diverts to Rome over power bank in luggage",
+          "description": "Many airlines have toughened their rules on power banks, often requiring that they be stored in hand luggage not checked luggage.",
+          "link": "https://www.bbc.com/news/articles/cg7p3pdl8m7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cg7p3pdl8m7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 24 May 2026 19:10:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d8f/live/4b455b60-579b-11f1-9682-21332c7159b4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Could title win start period of dominance for Arsenal?",
+          "description": "It's been a long wait but after 22 years, Arsenal finally have their hands on the Premier League trophy once more.",
+          "link": "https://www.bbc.com/sport/football/articles/ckgp902q4jxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/ckgp902q4jxo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 24 May 2026 20:42:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/624a/live/c35a29d0-57b1-11f1-b682-cf91850925ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'I don't make bad deals' and 'Now you're Gunner believe us'",
+          "description": "US-Iran negotiations and Arsenal's win of the Premier League lead Monday's front pages.",
+          "link": "https://www.bbc.com/news/articles/c0j26l1e5ljo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c0j26l1e5ljo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 25 May 2026 04:09:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b682/live/dc75f300-57c4-11f1-89a3-d1f559421220.png"
+            }
+          }
+        },
+        {
+          "title": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
+          "description": "The Moroccan government wants more Western holidaymakers to visit the territory it claims to own.",
+          "link": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgldqk4w95o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 24 May 2026 23:13:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a151/live/7319ee50-5442-11f1-be9a-315565996c62.jpg"
+            }
+          }
+        },
+        {
+          "title": "Beer boom goes flat as breweries call last orders",
+          "description": "The UK's brewery scene is shrinking as pubs close, costs rise and drinking habits change.",
+          "link": "https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c9werp5keqlo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 25 May 2026 00:21:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d4f/live/bca26360-4892-11f1-9c3f-fddcc2cc89aa.jpg"
+            }
+          }
+        },
+        {
+          "title": "It's like the Olympics, except steroids are allowed",
           "description": "The first ever Enhanced Games are taking place this weekend in Las Vegas, with big names, big money and much controversy.",
           "link": "https://www.bbc.com/news/articles/cedpz1zqp8po?at_medium=RSS&at_campaign=rss",
           "guid": {
@@ -177,45 +329,7 @@
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0a9/live/8f6fd080-569d-11f1-b682-cf91850925ea.jpg"
-            }
-          }
-        },
-        {
-          "title": "Spurred on by the painful death of her dad, Natalie Cassidy trains as a carer",
-          "description": "The actress's experience caring for her father inspired her to return to education in a new BBC show.",
-          "link": "https://www.bbc.com/news/articles/c70v1yy9nn1o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c70v1yy9nn1o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 24 May 2026 00:58:49 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5866/live/f2c605b0-55ed-11f1-8c9d-3b2d3d323501.jpg"
-            }
-          }
-        },
-        {
-          "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-          "description": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war. ",
-          "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/ce8pn63q771o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 23 May 2026 23:24:03 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f545/live/50de57c0-56c9-11f1-89a3-d1f559421220.png"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d26/live/8ada5c70-57a6-11f1-8b8c-6d33e1d5abb6.jpg"
             }
           }
         },
@@ -239,211 +353,154 @@
           }
         },
         {
-          "title": "New James Bond game shows more vulnerable side to iconic British spy ",
-          "description": "The video game presents a young Bond before he has earned his \"00\" spy status.",
-          "link": "https://www.bbc.com/news/articles/cvgzdr177mvo?at_medium=RSS&at_campaign=rss",
+          "title": "'I live in survival mode': The rise of the multi-job workforce",
+          "description": "More people are taking second jobs as rising costs and insecure work reshape how we earn a living. ",
+          "link": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/cvgzdr177mvo#1",
+            "_": "https://www.bbc.com/news/articles/c70vwr8z7pyo#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 24 May 2026 01:07:40 GMT",
+          "pubDate": "Mon, 25 May 2026 00:26:38 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0510/live/9716ea80-56ca-11f1-89a3-d1f559421220.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08c/live/f7103250-55c8-11f1-9a5f-8f70d4bfa4fc.jpg"
             }
           }
         },
         {
-          "title": "Electronic music meets orchestra as DJ Black Coffee stuns O2 crowds",
-          "description": "In London for one night only ahead of his Ibiza residency, this sell-out show represented far more than just a performance.",
-          "link": "https://www.bbc.com/news/articles/cvgz0dzpxpxo?at_medium=RSS&at_campaign=rss",
+          "title": "Army runs secret wargames under central London",
+          "description": "The exercise tested the army's ability to plan military operations involving NATO and UK forces.",
+          "link": "https://www.bbc.com/news/articles/c2e2vjl2ry8o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/cvgz0dzpxpxo#2",
+            "_": "https://www.bbc.com/news/articles/c2e2vjl2ry8o#3",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 23 May 2026 17:05:51 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2bb/live/ce3cba10-56bd-11f1-8b8c-6d33e1d5abb6.jpg"
-            }
-          }
-        },
-        {
-          "title": "The Papers: 'We'll axe tax on overtime' and 'Brolly hot, isn't it'",
-          "description": "Reform UK leader Nigel Farage's pledge to scrap income tax on overtime is prominent across Sunday's papers.",
-          "link": "https://www.bbc.com/news/articles/cpwpjxelwd5o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cpwpjxelwd5o#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 24 May 2026 02:02:07 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5a6/live/f28e97c0-56fa-11f1-8b8c-6d33e1d5abb6.jpg"
-            }
-          }
-        },
-        {
-          "title": "In Japan, divorce splits parents from children. Could a law change end sole custody?",
-          "description": "An amendment to Japan's Civil Code looks set to allow shared parenting for the first time.",
-          "link": "https://www.bbc.com/news/articles/clyp15g9nk4o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/clyp15g9nk4o#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 23 May 2026 23:44:22 GMT",
+          "pubDate": "Sun, 24 May 2026 12:15:24 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d5f/live/e2904a70-542b-11f1-89a3-d1f559421220.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae8e/live/60b5e790-5745-11f1-9775-9bc21faae243.jpg"
             }
           }
         },
         {
-          "title": "East Africa wants to curb imports of used clothes. But it's not easy",
-          "description": "Kenya, Uganda and Tanzania are major importers of used garments from the West and China.",
-          "link": "https://www.bbc.com/news/articles/c2l2k5pxrgdo?at_medium=RSS&at_campaign=rss",
+          "title": "Girls Aloud star Nicola Roberts announces birth of baby girl",
+          "description": "The Girls Aloud singer said in an Instagram post that becoming a mother was \"heaven on earth\".",
+          "link": "https://www.bbc.com/news/articles/cvgz35e8xm3o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/c2l2k5pxrgdo#2",
+            "_": "https://www.bbc.com/news/articles/cvgz35e8xm3o#3",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 23 May 2026 23:55:13 GMT",
+          "pubDate": "Sun, 24 May 2026 19:53:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79c9/live/d4460e10-57a4-11f1-81ec-3fafea991d6c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Body found after boy, 15, went missing in nature reserve lake",
+          "description": "The boy was seen getting into difficulty at Swanholme Lakes in Lincoln earlier, police say.",
+          "link": "https://www.bbc.com/news/articles/cp8pdd4833po?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cp8pdd4833po#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 25 May 2026 01:59:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aae9/live/6a43c980-579f-11f1-9682-21332c7159b4.png"
+            }
+          }
+        },
+        {
+          "title": "Blast targeting train kills at least 20 in Pakistan",
+          "description": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+          "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cm2pkd58xldo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 24 May 2026 22:11:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc37/live/290cfef0-574a-11f1-934b-4138723911fd.jpg"
+            }
+          }
+        },
+        {
+          "title": "Turkish riot police storm opposition offices after leaders ousted",
+          "description": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
+          "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c87qwrqre83o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 24 May 2026 19:49:39 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/092e/live/8bc5e2c0-55d6-11f1-8b8c-6d33e1d5abb6.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a802/live/2b6400f0-578f-11f1-85d6-97cd1565aacc.jpg"
             }
           }
         },
         {
-          "title": "Scrap tax on overtime hours, says Reform UK",
-          "description": "The party says its proposed policy would cost £5bn a year and could be paid for through cuts to welfare. ",
-          "link": "https://www.bbc.com/news/articles/cn7p1ee447xo?at_medium=RSS&at_campaign=rss",
+          "title": "Suspect killed after opening fire on Secret Service near White House",
+          "description": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+          "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/cn7p1ee447xo#2",
+            "_": "https://www.bbc.com/news/articles/cjwp82ye4y3o#3",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 23 May 2026 19:29:40 GMT",
+          "pubDate": "Sun, 24 May 2026 15:24:11 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcda/live/6d064c50-56d8-11f1-9293-99e5c9ccfa5a.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3777/live/e04870b0-5775-11f1-89a3-d1f559421220.jpg"
             }
           }
         },
         {
-          "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-          "description": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
-          "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+          "title": "Britain's Jones breaks through at French Open after 'hardest moment of career'",
+          "description": "Britain's Francesca Jones earns an emotional first Grand Slam match win at the French Open following \"the hardest moment\" of her career.",
+          "link": "https://www.bbc.com/sport/tennis/articles/cze20w3859no?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/c759knxln0wo#2",
+            "_": "https://www.bbc.com/sport/tennis/articles/cze20w3859no#3",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 23 May 2026 19:55:16 GMT",
+          "pubDate": "Sun, 24 May 2026 19:44:29 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4e9/live/1fde0380-56bc-11f1-89a3-d1f559421220.jpg"
-            }
-          }
-        },
-        {
-          "title": "Race Across the World pairs unite for tribute run",
-          "description": "Pairs from every series will race in the Greater Manchester Run a year after Sam Gardiner's death.",
-          "link": "https://www.bbc.com/news/articles/cvgzrd2yj5qo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cvgzrd2yj5qo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 16 May 2026 08:24:11 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a97d/live/e2af4a90-50fe-11f1-b557-f9ad8062a82b.jpg"
-            }
-          }
-        },
-        {
-          "title": "The twins who make people look twice at emergency callouts",
-          "description": "Identical twins Lee and Liam Myers both work with the emergency services in the Scottish Borders.",
-          "link": "https://www.bbc.com/news/articles/c1m28r5lgjjo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c1m28r5lgjjo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Tue, 19 May 2026 05:14:34 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e810/live/d062aaa0-52c8-11f1-90ba-cb59a8072381.jpg"
-            }
-          }
-        },
-        {
-          "title": "Giant moon and UFO take over Chelsea streets",
-          "description": "London's largest free flower festival returns to Chelsea with a cosmic \"Out of this World\" theme.",
-          "link": "https://www.bbc.com/news/articles/cy02714pnw8o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cy02714pnw8o#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 20 May 2026 05:16:40 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecfa/live/04a79190-5391-11f1-b2cc-ef524c94883c.jpg"
-            }
-          }
-        },
-        {
-          "title": "Pony rescued from inside tractor tyre",
-          "description": "The RSPCA slowly freed the pony with help from residents in Stoke-on-Trent.",
-          "link": "https://www.bbc.com/news/articles/c5yr5xy1v0ro?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c5yr5xy1v0ro#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 20 May 2026 18:18:28 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8d3/live/969ec390-5475-11f1-b287-b773a2980223.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c05/live/25fb3f90-57a1-11f1-9682-21332c7159b4.jpg"
             }
           }
         },
@@ -452,7 +509,7 @@
           "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
           "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "_": "https://www.bbc.co.uk/news/10628994#4",
             "$": {
               "isPermaLink": "false"
             }
@@ -471,7 +528,7 @@
           "description": "Newscast is live at Hay Festival and looking at the UK’s relationship with the EU.",
           "link": "https://www.bbc.co.uk/sounds/play/p0nmrhjf?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0nmrhjf#6",
+            "_": "https://www.bbc.co.uk/sounds/play/p0nmrhjf#5",
             "$": {
               "isPermaLink": "false"
             }
@@ -490,7 +547,7 @@
           "description": "The US charges Cuba’s 94-year-old former president Raul Castro with murder.",
           "link": "https://www.bbc.co.uk/sounds/play/w3ct8lz3?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/w3ct8lz3#6",
+            "_": "https://www.bbc.co.uk/sounds/play/w3ct8lz3#5",
             "$": {
               "isPermaLink": "false"
             }
@@ -505,135 +562,135 @@
           }
         },
         {
-          "title": "Farewell to Salah, Liverpool's 'Egyptian king'",
-          "description": "As Mohamed Salah's time at Liverpool comes to an end, a look at his legacy with insight from Jurgen Klopp, Ian Rush, Steven Gerrard and more.",
-          "link": "https://www.bbc.com/sport/football/articles/cgkp386p60jo?at_medium=RSS&at_campaign=rss",
+          "title": "The title battle finally came alive - then Antonelli took control",
+          "description": "The Formula 1 title battle caught light in Canada - but then took a potentially decisive turn, writes Andrew Benson.",
+          "link": "https://www.bbc.com/sport/formula1/articles/czr2ed3zrr5o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/sport/football/articles/cgkp386p60jo#8",
+            "_": "https://www.bbc.com/sport/formula1/articles/czr2ed3zrr5o#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 23 May 2026 18:03:26 GMT",
+          "pubDate": "Mon, 25 May 2026 00:59:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6510/live/66bdf5f0-57d2-11f1-89a3-d1f559421220.jpg"
+            }
+          }
+        },
+        {
+          "title": "Spurs survival celebrations can't disguise season of embarrassment",
+          "description": "Tottenham Hotspur's celebrations in survival cannot cover up their embarrassment of a season that almost ended in the unthinkable, says chief football writer Phil McNulty.",
+          "link": "https://www.bbc.com/sport/football/articles/c5y7j7752ppo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c5y7j7752ppo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 24 May 2026 19:19:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e680/live/8f18f080-57a6-11f1-9a13-456ad0ca259e.jpg"
+            }
+          }
+        },
+        {
+          "title": "What happens now at relegated West Ham?",
+          "description": "West Ham's 14-year stay in the Premier League is over - but what changes lie ahead as they prepare for life in the Championship?",
+          "link": "https://www.bbc.com/sport/football/articles/cvgz1zl14k3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cvgz1zl14k3o#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 24 May 2026 19:19:40 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddde/live/abbdae30-4e49-11f1-ae62-ab9d6bf96137.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0183/live/60c9d120-5389-11f1-89a3-d1f559421220.jpg"
             }
           }
         },
         {
-          "title": "Usyk keeps titles with controversial Verhoeven stoppage",
-          "description": "Oleksandr Usyk retained his world heavyweight titles in Egypt with a highly controversial stoppage win against boxing novice Rico Verhoeven.",
-          "link": "https://www.bbc.com/sport/boxing/articles/c3r23q3qr7do?at_medium=RSS&at_campaign=rss",
+          "title": "'A big ask' in Paris - will a stronger Raducanu emerge at Wimbledon?",
+          "description": "Emma Raducanu's French Open first-round defeat was not unexpected, but the nature of it may have left her wishing she had stayed at home.",
+          "link": "https://www.bbc.com/sport/tennis/articles/c202q242lnyo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/sport/boxing/articles/c3r23q3qr7do#8",
+            "_": "https://www.bbc.com/sport/tennis/articles/c202q242lnyo#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 23 May 2026 23:20:25 GMT",
+          "pubDate": "Sun, 24 May 2026 22:07:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d7/live/b9604000-57a1-11f1-9682-21332c7159b4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Who has made Troy's Premier League team of the season?",
+          "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. This time, it's team of the season. Do you agree with his choices?",
+          "link": "https://www.bbc.com/sport/football/articles/c8r842g0pkzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c8r842g0pkzo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 24 May 2026 20:42:39 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/466c/live/a7a343a0-56ff-11f1-8d92-8f8e2571f153.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93aa/live/fd129c10-57ad-11f1-8b8c-6d33e1d5abb6.jpg"
             }
           }
         },
         {
-          "title": "'Not mentally doable to stay like this' - Verstappen renews quit threat",
-          "description": "Max Verstappen threatens to quit Formula 1 at the end of this season if planned changes to the engine regulations are blocked.",
-          "link": "https://www.bbc.com/sport/formula1/articles/cpvpx41k2r3o?at_medium=RSS&at_campaign=rss",
+          "title": "The moment that broke Guardiola on day a decade of glory ended",
+          "description": "Pep Guardiola was playing it cool in his final game in charge of Manchester City - until the magnitude of the day gripped him on the hour mark.",
+          "link": "https://www.bbc.com/sport/football/articles/cg5p4p87lgyo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/sport/formula1/articles/cpvpx41k2r3o#8",
+            "_": "https://www.bbc.com/sport/football/articles/cg5p4p87lgyo#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 23 May 2026 22:48:47 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f699/live/87efcfa0-56f6-11f1-b682-cf91850925ea.jpg"
-            }
-          }
-        },
-        {
-          "title": "Wembley, Vegas, Premier League - jubilant Hull back in the big time",
-          "description": "Even the most dedicated Hull City fan could not have envisaged their season ending like this, with Wembley glory and a return to the top flight.",
-          "link": "https://www.bbc.com/sport/football/articles/ckgpe8krnkro?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/sport/football/articles/ckgpe8krnkro#8",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 23 May 2026 20:05:39 GMT",
+          "pubDate": "Sun, 24 May 2026 20:07:17 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee3a/live/7b22bae0-56e1-11f1-ac8a-55a283d57d05.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae9/live/69e78570-57af-11f1-aa74-05adf4c4bc25.jpg"
             }
           }
         },
         {
-          "title": "The big question after Celtic win double - will O'Neill stay?",
-          "description": "Martin O'Neill was only supposed to be in charge of Celtic for a few weeks in the autumn, but has now won a double. So what happens next?",
-          "link": "https://www.bbc.com/sport/football/articles/cgqpkyzj48jo?at_medium=RSS&at_campaign=rss",
+          "title": "Djokovic shakes off rust to sidestep Mpetshi Perricard",
+          "description": "Novak Djokovic shows signs of rust as he is forced to fight back from a set down to beat Giovanni Mpetshi Perricard in the first round of the French Open.",
+          "link": "https://www.bbc.com/sport/tennis/articles/cy821evgv5go?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/sport/football/articles/cgqpkyzj48jo#8",
+            "_": "https://www.bbc.com/sport/tennis/articles/cy821evgv5go#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 23 May 2026 18:45:33 GMT",
+          "pubDate": "Sun, 24 May 2026 22:44:10 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/027d/live/d327d970-56cb-11f1-8061-9f414900f587.jpg"
-            }
-          }
-        },
-        {
-          "title": "Russell edges Antonelli to claim Canada pole 'out of nowhere'",
-          "description": "George Russell beats Mercedes team-mate Kimi Antonelli to take pole position at the Canadian Grand Prix.",
-          "link": "https://www.bbc.com/sport/formula1/articles/c0m2jz208gdo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/sport/formula1/articles/c0m2jz208gdo#8",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 23 May 2026 22:32:29 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6be/live/1c665400-56df-11f1-b682-cf91850925ea.jpg"
-            }
-          }
-        },
-        {
-          "title": "A one-horse French Open or will somebody stop Sinner?",
-          "description": "Jannik Sinner's dominance - and Carlos Alcaraz's absence - means the French Open has its biggest favourite for the men's title since Rafael Nadal in his pomp.",
-          "link": "https://www.bbc.com/sport/tennis/articles/clypjgzgy8vo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/sport/tennis/articles/clypjgzgy8vo#8",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 23 May 2026 18:35:42 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8905/live/65214780-56c2-11f1-a46a-27799ce67605.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8721/live/e18b0330-57bf-11f1-beb8-bfafbae73b6e.jpg"
             }
           }
         }

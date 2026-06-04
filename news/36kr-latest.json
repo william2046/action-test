@@ -17,7 +17,7 @@
         "link": "https://www.bbc.co.uk/news"
       },
       "generator": "RSS for Node",
-      "lastBuildDate": "Wed, 03 Jun 2026 06:00:10 GMT",
+      "lastBuildDate": "Thu, 04 Jun 2026 05:52:40 GMT",
       "atom:link": {
         "$": {
           "href": "https://feeds.bbci.co.uk/news/rss.xml",
@@ -30,217 +30,312 @@
       "ttl": "15",
       "item": [
         {
-          "title": "Key moments of police bodycam footage",
-          "description": "BBC Verify has analysed bodycam footage that was released by the police of Henry Nowak after being stabbed by Vickrum Digwa.",
-          "link": "https://www.bbc.com/news/videos/cvgz7gv4w8no?at_medium=RSS&at_campaign=rss",
+          "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+          "description": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says.",
+          "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/videos/cvgz7gv4w8no#0",
+            "_": "https://www.bbc.com/news/articles/c5y01pdqvkgo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 02 Jun 2026 18:51:31 GMT",
+          "pubDate": "Thu, 04 Jun 2026 00:16:44 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2220/live/efa0cf90-5eae-11f1-8b8c-6d33e1d5abb6.png"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea2/live/caf5c620-5fb5-11f1-89a3-d1f559421220.jpg"
             }
           }
         },
         {
-          "title": "Three quarters of workers not on track for 'moderate' pension income, report suggests",
-          "description": "A newly-published report suggests a moderate lifestyle in retirement costs £32,700 for one person and £45,400 for two.",
-          "link": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss",
+          "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
+          "description": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
+          "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/c3928m30v89o#0",
+            "_": "https://www.bbc.com/news/articles/cj6pldg39deo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 02 Jun 2026 23:02:23 GMT",
+          "pubDate": "Thu, 04 Jun 2026 03:36:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9757/live/80b94b40-5f9c-11f1-b682-cf91850925ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "New ovarian cancer drug offers patients more time and better quality of life",
+          "description": "Women taking the drug tell the BBC it has given them their lives back.",
+          "link": "https://www.bbc.com/news/articles/ce8p57y35lzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce8p57y35lzo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 03 Jun 2026 23:34:59 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8519/live/55388150-5ea4-11f1-9c69-5be5e9be5821.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/901a/live/e954f760-5f53-11f1-b658-099eb92ce9d6.jpg"
             }
           }
         },
         {
-          "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
-          "description": "US launches fresh strikes on Iran and an oil tanker as Tehran says it attacked US bases in the Gulf.",
-          "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+          "title": "NHS staff should be banned from wearing pro-Palestinian badges, report recommends",
+          "description": "The recommendation is one of several from Lord Mann, whose review examined antisemitism within the organisation. ",
+          "link": "https://www.bbc.com/news/articles/cn0plkd4wdno?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/c5yx135yg53o#0",
+            "_": "https://www.bbc.com/news/articles/cn0plkd4wdno#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 03 Jun 2026 03:40:53 GMT",
+          "pubDate": "Wed, 03 Jun 2026 23:07:31 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c96/live/bd99f610-5ec8-11f1-9a1b-293f5ae3cc4e.png"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1ca/live/86499e60-5f75-11f1-bb1e-872b6e9ba8be.jpg"
             }
           }
         },
         {
-          "title": "Police sent personal details to the wrong person, says alleged Al Fayed victim  ",
-          "description": "Joanna Brittan says notes about her alleged abuse were sent by the Met to another alleged victim in error. ",
-          "link": "https://www.bbc.com/news/articles/c04200dvel7o?at_medium=RSS&at_campaign=rss",
+          "title": "MI5 warns Chinese spies are using job websites to target government staff",
+          "description": "Undercover agents are posing as fake job recruiters to try and identify useful targets, MI5 warns.",
+          "link": "https://www.bbc.com/news/articles/cq6peqrnzpro?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/c04200dvel7o#0",
+            "_": "https://www.bbc.com/news/articles/cq6peqrnzpro#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 03 Jun 2026 05:05:47 GMT",
+          "pubDate": "Wed, 03 Jun 2026 21:26:03 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b373/live/b671aa00-5e90-11f1-9690-35f336f605a0.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9df/live/46511960-5f92-11f1-b682-cf91850925ea.jpg"
             }
           }
         },
         {
-          "title": "Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes ",
-          "description": "The Bank of England is asking the public which animals should appear on future banknotes.",
-          "link": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss",
+          "title": "What a hair loss breakthrough could mean for women like me",
+          "description": "As scientists edge closer to new treatments for hair loss, Victoria Derbyshire examines what such breakthroughs could mean for women.",
+          "link": "https://www.bbc.com/news/articles/cg7p8n9g2klo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/cvgzrpe6mzjo#0",
+            "_": "https://www.bbc.com/news/articles/cg7p8n9g2klo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 02 Jun 2026 23:02:18 GMT",
+          "pubDate": "Wed, 03 Jun 2026 23:42:35 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c174/live/30ee9420-5dbd-11f1-b682-cf91850925ea.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed01/live/2c3845a0-446f-11f1-b55d-0f258dce1735.jpg"
             }
           }
         },
         {
-          "title": "More heatwaves likely as warmer-than-normal summer forecast",
-          "description": "Long-range summer forecasts have been issued and they point to warmer and drier condtions compared to average, as Simon King explains",
-          "link": "https://www.bbc.com/weather/articles/clypk7j0qqdo?at_medium=RSS&at_campaign=rss",
+          "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
+          "description": "Johann Wadephul said it was \"no secret\" Russia had stirred up sentiment against Germany over its support for Ukraine.",
+          "link": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/weather/articles/clypk7j0qqdo#0",
+            "_": "https://www.bbc.com/news/articles/cgmp3pg71edo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 02 Jun 2026 23:37:45 GMT",
+          "pubDate": "Thu, 04 Jun 2026 01:02:24 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89fd/live/48e16e80-5da0-11f1-b199-9da46582c1b0.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed59/live/fd296c40-5fac-11f1-b5ab-a55eacf8090d.jpg"
             }
           }
         },
         {
-          "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
-          "description": "The oil giant says the documents ignore the critical context of the complex operating environment at the time.",
-          "link": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss",
+          "title": "'I left a children's home – and was embraced by love'",
+          "description": "How a new scheme for young people leaving care is tackling what was once a cliff-edge for this vulnerable group.",
+          "link": "https://www.bbc.com/news/articles/c3d2grdep8mo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/cdrp8v7407ro#0",
+            "_": "https://www.bbc.com/news/articles/c3d2grdep8mo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 03 Jun 2026 05:13:02 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c045/live/b1ca0800-5e9d-11f1-8b8c-6d33e1d5abb6.jpg"
-            }
-          }
-        },
-        {
-          "title": "Trump administration drops $1.8bn 'compensation fund'",
-          "description": "Acting Attorney General Todd Blanche's announcement to abandon the fund comes amid pushback from top Republican lawmakers. ",
-          "link": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/crkpyj41m15o#0",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 03 Jun 2026 00:16:09 GMT",
+          "pubDate": "Thu, 04 Jun 2026 04:55:43 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfb/live/4cc04e80-5ee1-11f1-87cb-438295cdc723.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d23c/live/ba4e90d0-5f66-11f1-8dad-8347ac6f73d8.png"
             }
           }
         },
         {
-          "title": "King told me Post Office scandal was 'dreadful', says oldest victim",
-          "description": "Betty Brown says she is accepting the honour on behalf of all the victims of the scandal.",
-          "link": "https://www.bbc.com/news/articles/czr2dlerv0zo?at_medium=RSS&at_campaign=rss",
+          "title": "Police chief apologises to Henry Nowak's family over handcuffing and arrest",
+          "description": "Chief Constable Alexis Boon tells the BBC the footage of how the murder victim had been treated was distressing.",
+          "link": "https://www.bbc.com/news/articles/crlpg54wgpxo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/czr2dlerv0zo#0",
+            "_": "https://www.bbc.com/news/articles/crlpg54wgpxo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 02 Jun 2026 17:08:41 GMT",
+          "pubDate": "Wed, 03 Jun 2026 18:58:12 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d128/live/be4ec750-5eed-11f1-8b8c-6d33e1d5abb6.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8be/live/36f18800-5f7f-11f1-8b8c-6d33e1d5abb6.jpg"
             }
           }
         },
         {
-          "title": "South West Water fined £1.8m over Devon parasite outbreak",
-          "description": "Four people were hospitalised and there were more than 140 cases of sickness and diarrhoea in Devon.",
-          "link": "https://www.bbc.com/news/articles/c62xevydk05o?at_medium=RSS&at_campaign=rss",
+          "title": "SpaceX says it’s worth $1.75tn as it nears stock market debut",
+          "description": "Elon Musk’s space exploration company set a target price for buyers earlier than expected.\n",
+          "link": "https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/c62xevydk05o#0",
+            "_": "https://www.bbc.com/news/articles/cvgz237n40jo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 02 Jun 2026 17:18:43 GMT",
+          "pubDate": "Thu, 04 Jun 2026 02:05:51 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560f/live/b8c07b00-5e9b-11f1-be30-5d712cf191bd.jpg"
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d260/live/b4a84e40-5f99-11f1-994c-dd7b6299b2d3.jpg"
             }
           }
         },
         {
-          "title": "Watch: Man attacked by bear at steel works in Japan",
-          "description": "The bear, which injured four people in the attack on Tuesday, remains on the loose within the factory compound.",
-          "link": "https://www.bbc.com/news/videos/cm2pjed56j3o?at_medium=RSS&at_campaign=rss",
+          "title": "Three die in Royal Navy helicopter crash during training exercise",
+          "description": "The Royal Family, prime minister and head of the navy offer condolences after the crash in Devon.",
+          "link": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/videos/cm2pjed56j3o#0",
+            "_": "https://www.bbc.com/news/articles/ce3pdv1gl41o#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 03 Jun 2026 01:13:45 GMT",
+          "pubDate": "Wed, 03 Jun 2026 20:01:37 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08b0/live/560aad80-5ee8-11f1-89a3-d1f559421220.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4d3/live/f72e4a00-5f7e-11f1-a5fe-95d95c103a6a.jpg"
             }
           }
         },
         {
-          "title": "Could lifting weights actually help you live longer?",
-          "description": "Regular weight training can significantly reduce the risk of early death, research suggests.",
+          "title": "Norwegian teen was in UK to 'undertake a hit', court hears",
+          "description": "Johannes Natland was due to carry out a shooting on behalf of a Swedish criminal group, trial hears.",
+          "link": "https://www.bbc.com/news/articles/cm2pjk8ggrdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cm2pjk8ggrdo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 03 Jun 2026 12:55:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea9b/live/d8d0af90-5f55-11f1-bb7a-41653d1de4b5.png"
+            }
+          }
+        },
+        {
+          "title": "Grab what you can while you can: The new reality in the South China Sea ",
+          "description": "After years of watching China create land to back its expansive claims, others are doing the same.  ",
+          "link": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy823n3ln29o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 03 Jun 2026 22:00:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a80/live/357b5b10-5e74-11f1-8b8c-6d33e1d5abb6.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Top cop sorry' and 'Prince of pubs'",
+          "description": "The fallout from the Henry Nowak case and the Prince of Wales' pledge to support pubs dominate Thursday's papers.",
+          "link": "https://www.bbc.com/news/articles/cpvp9x48jv7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cpvp9x48jv7o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 04 Jun 2026 05:29:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3329/live/397cb0d0-5fad-11f1-89a3-d1f559421220.jpg"
+            }
+          }
+        },
+        {
+          "title": "Henry Nowak murder: What we know about how the events unfolded",
+          "description": "The student was 18 when he was stabbed by 23-year-old Vickrum Digwa in Southampton in December 2025.",
+          "link": "https://www.bbc.com/news/articles/cjepqy29jdpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cjepqy29jdpo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 03 Jun 2026 20:34:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5a/live/8a288b40-5f3e-11f1-ae51-c396b5163a64.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+          "description": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents. ",
+          "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgz21pq3g6o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 03 Jun 2026 20:28:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6bf/live/8d8a2c00-5f6e-11f1-bb1e-872b6e9ba8be.jpg"
+            }
+          }
+        },
+        {
+          "title": "Can two hours of strength training a week reduce the risk of dying early?",
+          "description": "Regular weight training can help you keep fit and strengthen muscles to live longer, research suggests.",
           "link": "https://www.bbc.com/news/articles/c0r2lekenlpo?at_medium=RSS&at_campaign=rss",
           "guid": {
             "_": "https://www.bbc.com/news/articles/c0r2lekenlpo#1",
@@ -248,221 +343,145 @@
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 02 Jun 2026 23:44:13 GMT",
+          "pubDate": "Wed, 03 Jun 2026 11:52:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/103b/live/36d46c10-5f1c-11f1-b682-cf91850925ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+          "description": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island. ",
+          "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c5yx135yg53o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 03 Jun 2026 20:05:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9df3/live/72b3c3e0-5f42-11f1-89a3-d1f559421220.jpg"
+            }
+          }
+        },
+        {
+          "title": "PM accuses Farage of exploiting Nowak case and denies 'two-tier policing' claim",
+          "description": "It comes after the Reform UK leader said the public should respond with \"pure, cold rage\" to the actions of police.",
+          "link": "https://www.bbc.com/news/articles/cvgz23p8117o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgz23p8117o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 03 Jun 2026 15:47:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2399/live/e07d73e0-5f4b-11f1-ae51-c396b5163a64.jpg"
+            }
+          }
+        },
+        {
+          "title": "Molly-Mae Hague and Tommy Fury welcome second child",
+          "description": "The reality TV star made the announcement on Instagram with a photo of her, Fury, their daughter Bambi and the new baby.",
+          "link": "https://www.bbc.com/news/articles/ce8p5jyk271o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce8p5jyk271o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 04 Jun 2026 04:03:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660b/live/cf7f2b90-5fc5-11f1-977e-754e7ceb4955.jpg"
+            }
+          }
+        },
+        {
+          "title": "Senate Republicans axe $1bn for Trump's new White House ballroom",
+          "description": "The bill to fund immigration agencies has been delayed by opposition to Trump's \n'anti-weaponisation fund'.",
+          "link": "https://www.bbc.com/news/articles/c0r2kxrvlgpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c0r2kxrvlgpo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 04 Jun 2026 01:18:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d1/live/2c466a40-5fa9-11f1-af92-19e0296632ef.jpg"
+            }
+          }
+        },
+        {
+          "title": "Konate reveals depression after deaths of Jota and father",
+          "description": "Liverpool defender Ibrahima Konate opens up on how the deaths of team-mate Diogo Jota and his father left him battling depression during his final season at the club. ",
+          "link": "https://www.bbc.com/sport/football/articles/cwy2081rrr7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cwy2081rrr7o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 03 Jun 2026 21:36:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ff2/live/614cf9c0-5f90-11f1-936d-73eb385ab97d.jpg"
+            }
+          }
+        },
+        {
+          "title": "Flesh-eating screwworm arrives in US with first case detected in Texas cattle",
+          "description": "A calf near the US-Mexico border is the first case of the parasite in the US in 60 years.",
+          "link": "https://www.bbc.com/news/articles/c936r25grrlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c936r25grrlo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 04 Jun 2026 03:45:20 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/296e/live/e8328490-5e9c-11f1-be30-5d712cf191bd.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e61f/live/48109850-5fc1-11f1-8b8c-6d33e1d5abb6.jpg"
             }
           }
         },
         {
-          "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-          "description": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
-          "link": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
+          "title": "MP sues Musk's xAI after deepfake bikini picture",
+          "description": "Suffolk MP Jess Asato claims the firm's tool Grok was used to create fake images of her in a bikini.",
+          "link": "https://www.bbc.com/news/articles/c62xpv34d9do?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/news/articles/cy82339793go#1",
+            "_": "https://www.bbc.com/news/articles/c62xpv34d9do#3",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 02 Jun 2026 23:33:34 GMT",
+          "pubDate": "Wed, 03 Jun 2026 20:02:41 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a79/live/ddbe4530-5e8d-11f1-89a3-d1f559421220.jpg"
-            }
-          }
-        },
-        {
-          "title": "The Papers: 'Plea for calm ignored' and 'Arrest that outraged nation'",
-          "description": "The aftermath of the sentencing of Vickrum Digwa for the murder of Henry Nowak dominates Wednesday's papers.",
-          "link": "https://www.bbc.com/news/articles/c93x0p19q79o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c93x0p19q79o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 03 Jun 2026 00:36:41 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb6/live/f474f6a0-5edf-11f1-89a3-d1f559421220.png"
-            }
-          }
-        },
-        {
-          "title": "Sailors stressed and exhausted after months trapped by Strait of Hormuz blockade",
-          "description": "The uncertainty has weighed heavily on the 20,000 seafarers trapped in the Iran war zone.",
-          "link": "https://www.bbc.com/news/articles/cy02rz27l32o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cy02rz27l32o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Tue, 02 Jun 2026 23:40:27 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7d2/live/460834f0-5e9f-11f1-89a3-d1f559421220.jpg"
-            }
-          }
-        },
-        {
-          "title": "We now know how Peter Murrell embezzled from the SNP - but not why",
-          "description": "Details revealed in court show the persistence, cynicism and devious tactics used by the former chief executive.",
-          "link": "https://www.bbc.com/news/articles/cdxpwwzlvzno?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cdxpwwzlvzno#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 03 Jun 2026 05:26:21 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e7c/live/58b90110-5e9a-11f1-8b8c-6d33e1d5abb6.jpg"
-            }
-          }
-        },
-        {
-          "title": "Peabo Bryson, R&B singer behind Beauty and the Beast, dies aged 75",
-          "description": "Bryson was best known as the voice behind Disney songs like \"A Whole New World\" and \"Beauty and the Beast\".",
-          "link": "https://www.bbc.com/news/articles/cy826nlp158o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cy826nlp158o#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 03 Jun 2026 01:06:50 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1537/live/d3a22030-5ee7-11f1-882a-ef7f0e0c8f2b.jpg"
-            }
-          }
-        },
-        {
-          "title": "Watch: Protesters and riot police clash near home of Henry Nowak's killer",
-          "description": "BBC correspondent Peter Cooke reports from protests in Southampton over the murder of Henry Nowak.",
-          "link": "https://www.bbc.com/news/videos/cn0pd491gn2o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/videos/cn0pd491gn2o#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 03 Jun 2026 05:13:36 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9afb/live/5b019ca0-5f0a-11f1-b883-b9726b219387.jpg"
-            }
-          }
-        },
-        {
-          "title": "Ex-BBC presenter John Humphrys on being drunk during live Nixon resignation report",
-          "description": "The former Today presenter has released a new podcast in which he talks about growing up in Cardiff.",
-          "link": "https://www.bbc.com/news/articles/crrpydkklqro?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/crrpydkklqro#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 03 Jun 2026 05:12:13 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa66/live/30dbaab0-5eb5-11f1-9877-71c2729415b9.jpg"
-            }
-          }
-        },
-        {
-          "title": "Mysteriously missing congressman wins primary after Trump endorsement",
-          "description": "Republican lawmaker Tom Kean Jr has not been seen in Washington or his New Jersey district for several months.",
-          "link": "https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/c5y7nnjlrd5o#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 03 Jun 2026 02:10:07 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b9/live/d5510eb0-5ea5-11f1-9c69-5be5e9be5821.jpg"
-            }
-          }
-        },
-        {
-          "title": "Liverpool agree deal with Iraola to succeed Slot",
-          "description": "Liverpool reach a verbal agreement with Andoni Iraola to take over as head coach following the sacking of Arne Slot.",
-          "link": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Tue, 02 Jun 2026 20:56:47 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf3d/live/a47d3130-5e62-11f1-9e22-3514086b3d4d.jpg"
-            }
-          }
-        },
-        {
-          "title": "Canada formally requests 16-year renewal of North American free trade pact",
-          "description": "In a letter to his North American counterparts, US-Canada Trade Minister Dominic LeBlanc said the three countries should renew the USMCA trade deal.",
-          "link": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cn9prr3w9nlo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 03 Jun 2026 01:40:44 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eecf/live/1a0fa640-5e94-11f1-926a-77cd300adf90.jpg"
-            }
-          }
-        },
-        {
-          "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
-          "description": "The tech giant predicts it will have a quantum computer that can solve commercially useful problems by the end of the decade.",
-          "link": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/news/articles/cj4p7gyvp52o#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Tue, 02 Jun 2026 19:24:31 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/823e/live/9bf6bfd0-5e9a-11f1-95ff-f5086c3b3d40.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e119/live/3101b250-efb1-11f0-b61c-6bc75d705b6c.jpg"
             }
           }
         },
@@ -486,21 +505,21 @@
           }
         },
         {
-          "title": "Why Was Henry Nowak Handcuffed By Police As He Lay Dying?",
-          "description": "Starmer says he 'felt sick' watching footage of Henry Nowak's arrest.",
-          "link": "https://www.bbc.co.uk/sounds/play/p0nphd4s?at_medium=RSS&at_campaign=rss",
+          "title": "By-Electioncast: Chris Reports Back From Makerfield",
+          "description": "What's happening on the ground in the Makerfield by-election campaign?",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nphd6d?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0nphd4s#5",
+            "_": "https://www.bbc.co.uk/sounds/play/p0nphd6d#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 02 Jun 2026 19:22:00 GMT",
+          "pubDate": "Wed, 03 Jun 2026 16:36:00 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0npwvct.jpg"
             }
           }
         },
@@ -524,116 +543,135 @@
           }
         },
         {
-          "title": "Liverpool agree deal with Iraola to succeed Slot",
-          "description": "Liverpool reach a verbal agreement with Andoni Iraola to take over as head coach following the sacking of Arne Slot.",
-          "link": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro?at_medium=RSS&at_campaign=rss",
+          "title": "A teen with no desire to be Messi: How Lamine Yamal is forging own path",
+          "description": "Lamine Yamal is a key figure in Spain's World Cup squad, but why is the 18-year-old quick to dismiss Messi comparisons?",
+          "link": "https://www.bbc.com/sport/football/articles/cy82mpzg3n4o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro#7",
+            "_": "https://www.bbc.com/sport/football/articles/cy82mpzg3n4o#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 02 Jun 2026 20:56:47 GMT",
+          "pubDate": "Thu, 04 Jun 2026 05:27:39 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf3d/live/a47d3130-5e62-11f1-9e22-3514086b3d4d.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdb2/live/b6786430-5b84-11f1-bcbb-431c39a62187.jpg"
             }
           }
         },
         {
-          "title": "Man Utd agree £35m fee for Atalanta's Ederson",
-          "description": "Atalanta's Brazilian midfielder Ederson is set to become Michael Carrick's first signing after Manchester United agreed a £35m deal for the 26-year-old",
-          "link": "https://www.bbc.com/sport/football/articles/c78q2dxv89go?at_medium=RSS&at_campaign=rss",
+          "title": "Ukraine-Russia tension hangs over French Open semi-finals",
+          "description": "Russia's war in Ukraine will provide an unavoidable backdrop to the French Open women's semi-finals - and possibly the final.",
+          "link": "https://www.bbc.com/sport/tennis/articles/cq5pvj280eqo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/sport/football/articles/c78q2dxv89go#7",
+            "_": "https://www.bbc.com/sport/tennis/articles/cq5pvj280eqo#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 02 Jun 2026 22:24:08 GMT",
+          "pubDate": "Thu, 04 Jun 2026 05:12:21 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f7/live/0ac749f0-5ecf-11f1-8b8c-6d33e1d5abb6.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7c9/live/cdc99350-5f78-11f1-a37a-115c56b3a187.jpg"
             }
           }
         },
         {
-          "title": "Never any doubt about Knight's England spot - Edwards",
-          "description": "England head coach Charlotte Edwards praises Heather Knight's resilience after the former captain's timely return to form before the T20 World Cup. ",
-          "link": "https://www.bbc.com/sport/cricket/articles/c9d3z7pvlg1o?at_medium=RSS&at_campaign=rss",
+          "title": "Man City have opening Anderson bid rejected by Forest",
+          "description": "Manchester City have an opening transfer bid for midfielder Elliot Anderson rejected by Nottingham Forest.",
+          "link": "https://www.bbc.com/sport/football/articles/c042w3w601yo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/sport/cricket/articles/c9d3z7pvlg1o#7",
+            "_": "https://www.bbc.com/sport/football/articles/c042w3w601yo#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 02 Jun 2026 23:00:32 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab2b/live/bd63e990-5ed6-11f1-89a3-d1f559421220.jpg"
-            }
-          }
-        },
-        {
-          "title": "Will 2026's 'yo-yo racing' mean overtaking in Monaco?",
-          "description": "Andrew Benson assesses whether the 2026 rules will change the character of the race where overtaking is most difficult.",
-          "link": "https://www.bbc.com/sport/formula1/articles/cewpe9z7w09o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/sport/formula1/articles/cewpe9z7w09o#7",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 03 Jun 2026 05:48:40 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6120/live/c63385d0-5e86-11f1-82d1-3f140356d043.jpg"
-            }
-          }
-        },
-        {
-          "title": "The anatomy of a Golden Boot winner - and who could win it in 2026?",
-          "description": "A look at the common attributes of World Cup Golden Boot winners and the claims of the leading 2026 candidates examined.",
-          "link": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo#7",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 03 Jun 2026 05:22:46 GMT",
+          "pubDate": "Wed, 03 Jun 2026 22:41:17 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ed/live/d0b9db20-5464-11f1-90bc-1d92dab59cbe.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ee/live/e4b46300-5f9c-11f1-b6fe-b5a1635bcbcc.jpg"
             }
           }
         },
         {
-          "title": "No more delayed flag? Fifa adds new offside tech for World Cup",
-          "description": "The delayed offside flag could almost become a thing of the past after Fifa unveiled new technology to be used at the 2026 World Cup.",
-          "link": "https://www.bbc.com/sport/football/articles/c232d34kkyzo?at_medium=RSS&at_campaign=rss",
+          "title": "England in serious debt after Ashes and repayment must start now",
+          "description": "England have invested in Brendon McCullum once again but now it is time for his team to start paying back the faith, writes Stephan Shemilt.",
+          "link": "https://www.bbc.com/sport/cricket/articles/cvgz2nk7z8yo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.com/sport/football/articles/c232d34kkyzo#7",
+            "_": "https://www.bbc.com/sport/cricket/articles/cvgz2nk7z8yo#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 02 Jun 2026 18:42:29 GMT",
+          "pubDate": "Wed, 03 Jun 2026 16:57:52 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bdc/live/db7aed70-ebe5-11f0-9332-4db5e65f7000.jpg"
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eda/live/d216d360-5f36-11f1-8b8c-6d33e1d5abb6.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Part-timer' McIlroy will continue to pick and choose events",
+          "description": "Rory McIlroy says he will continue to \"pick and choose\" the events he plays on the PGA Tour's new-look schedule \"because it brings balance to my life\". ",
+          "link": "https://www.bbc.com/sport/golf/articles/cpvp911d404o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/cpvp911d404o#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 03 Jun 2026 16:41:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79f4/live/7ed466d0-5f69-11f1-94f2-15925644642f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Cobolli using Nadal's shower in bid for French Open glory",
+          "description": "Flavio Cobolli is doing everything he can to help secure a first Grand Slam title - including using Rafael Nadal's favoured shower cubicle at Roland Garros.",
+          "link": "https://www.bbc.com/sport/tennis/articles/c332g8v03mjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/tennis/articles/c332g8v03mjo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 03 Jun 2026 21:57:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db78/live/4f82bbe0-5f7b-11f1-b00b-7df84d56ef76.jpg"
+            }
+          }
+        },
+        {
+          "title": "Most experience? Youngest? Best leagues? World Cup squads in numbers",
+          "description": "BBC Sport look at all of the World Cup 2026 squads and answer some of the key questions.",
+          "link": "https://www.bbc.com/sport/football/articles/c89348x0x14o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c89348x0x14o#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 03 Jun 2026 18:00:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1be4/live/e6317170-5f6d-11f1-bb1e-872b6e9ba8be.jpg"
             }
           }
         }

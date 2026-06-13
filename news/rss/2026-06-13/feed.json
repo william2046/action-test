@@ -1,0 +1,776 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Sat, 13 Jun 2026 06:08:54 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Rugby star Sinfield and authors Blackman and Donaldson lead honours list",
+          "description": "Noughts & Crosses author Malorie Blackman and Gruffalo creator Julia Donaldson are made dames, as the rugby league star is knighted.",
+          "link": "https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4gyx4dnr21o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 06:02:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a4d/live/fa2bd400-664c-11f1-8e1d-bbbb1017d210.png"
+            }
+          }
+        },
+        {
+          "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+          "description": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
+          "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clypy0ndvjlo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 05:00:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf0/live/889a7100-666c-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+          "description": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
+          "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4gypy3wwl7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 22:00:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f94f/live/233c68e0-66a3-11f1-80bb-fb4d08542828.jpg"
+            }
+          }
+        },
+        {
+          "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+          "description": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+          "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c39y02x98k8o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 00:51:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/012b/live/29d4f250-667e-11f1-9286-5160d00e7bd3.jpg"
+            }
+          }
+        },
+        {
+          "title": "I have a duty to stay on, says Starmer, as he justifies defence spending decisions",
+          "description": "Sir Keir Starmer argues he has made \"hard-edged\" decisions, one day after his defence secretary quit in a row over money.",
+          "link": "https://www.bbc.com/news/articles/c621wr1zg97o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c621wr1zg97o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 21:09:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b02/live/202639c0-6657-11f1-9afd-55fafa742f4a.png"
+            }
+          }
+        },
+        {
+          "title": "Harry Styles revisits X Factor as he kicks off Wembley residency",
+          "description": "The pop star reminisces about his X Factor audition, which took place near Wembley Stadium in 2010.",
+          "link": "https://www.bbc.com/news/articles/cwy0381xxd7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cwy0381xxd7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 02:00:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2df1/live/98ddcfe0-66c5-11f1-b59f-5fac4ee8d999.jpg"
+            }
+          }
+        },
+        {
+          "title": "Karren Brady stayed at West Ham despite knowing of Sullivan women's team ban",
+          "description": "Brady's lawyers said she had \"no knowledge\" of the allegations made against long-time business partner David Sullivan.",
+          "link": "https://www.bbc.com/news/articles/cd0me8p579ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cd0me8p579ko#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 21:59:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e2/live/9d4ffb70-3d62-11f1-a7f7-c90fc0a93ea1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Switzerland to vote on plan to cap population at 10 million",
+          "description": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
+          "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx23kz7e76po#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 23:02:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a38/live/7d8c7ac0-663e-11f1-8ff0-0decefcc55ec.jpg"
+            }
+          }
+        },
+        {
+          "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+          "description": "The BBC breaks down how the tech mogul's fortune has grown.",
+          "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4gyp523ly8o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 23:05:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "136",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a3/live/56817dd0-6680-11f1-b1db-af71d47507d6.png"
+            }
+          }
+        },
+        {
+          "title": "Palestine Action activists jailed over factory raid",
+          "description": "The case is believed to be the first time that convictions for criminal damage have been classified as terrorism.",
+          "link": "https://www.bbc.com/news/articles/ce950111xk7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce950111xk7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 01:23:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b57/live/0fc42780-667b-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "England have training equipment stolen",
+          "description": "England are victims of a theft of their training equipment before their arrival in Kansas City on Saturday.",
+          "link": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 02:13:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e71/live/4205c1a0-66c5-11f1-b59f-5fac4ee8d999.jpg"
+            }
+          }
+        },
+        {
+          "title": "Staying up for the football? Here's how to survive a World Cup all-nighter",
+          "description": "Forget blocks and tackles, this is the tactical plan you need for the football.",
+          "link": "https://www.bbc.com/news/articles/c3wyel830w8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3wyel830w8o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 01:39:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3562/live/eee42b50-667a-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: Why is Trump not at the World Cup?",
+          "description": "All three leaders of the North America host nations have missed the tournament opening matches.",
+          "link": "https://www.bbc.com/news/videos/ced48dv99lvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/ced48dv99lvo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 00:56:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/527a/live/3e573ff0-66c2-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "'It's all they're talking about': Scotland gripped by World Cup fever",
+          "description": "Excitement is building ahead of Scotland's first game in the men's World Cup for 28 years.",
+          "link": "https://www.bbc.com/news/articles/c78ydv8er7no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c78ydv8er7no#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 21:59:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329d/live/8e4f4170-6658-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Niagara Falls: Is there a better spot to watch a World Cup game?",
+          "description": "Football fans gathered at a FIFA World Cup watch party at Niagara Falls for the Canadian and USA teams' opening matches.",
+          "link": "https://www.bbc.com/news/videos/c62132n53exo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/c62132n53exo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 01:13:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/168b/live/aeb75670-66c4-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Fans on concourses instead of in seats, claims Fifa",
+          "description": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses.",
+          "link": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 20:26:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141f/live/52c65db0-6698-11f1-ba1a-d91f8cef28c9.jpg"
+            }
+          }
+        },
+        {
+          "title": "Scotland's McTominay 'ready to go' after illness",
+          "description": "Scotland midfielder Scott McTominay takes part in training on the eve of the World Cup opener against Haiti, having missed out the previous day because of an upset stomach.",
+          "link": "https://www.bbc.com/sport/football/articles/c78y50pmd2go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c78y50pmd2go#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 16:31:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a4/live/85d150d0-666a-11f1-b68a-af11ef3c7f8c.jpg"
+            }
+          }
+        },
+        {
+          "title": "South Africa trolled by African fans in wake of World Cup loss",
+          "description": "The taunting reflects anger from parts of the continent over reports of xenophobia in South Africa.",
+          "link": "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cm2jewrxvmjo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 10:52:42 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fb3/live/84c9eb60-6648-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "David Hockney depicted a 'peaceful, gay paradise' when homosexuality was a crime",
+          "description": "Hockney broke social taboos by celebrating same-sex relationships in his art - often by depicting the quiet, everyday moments of gay domestic life.",
+          "link": "https://www.bbc.com/news/articles/cpq393dz535o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cpq393dz535o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 01:14:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40db/live/40a0bd90-667c-11f1-8546-8f19e4fe30f4.png"
+            }
+          }
+        },
+        {
+          "title": "The night people in Belfast fled their homes because of racist violence",
+          "description": "Reporter Richard Morgan recalls the chaotic scenes he witnessed when reporting on days of disorder in Northern Ireland.",
+          "link": "https://www.bbc.com/news/articles/cvgjxxz0mp8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgjxxz0mp8o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 23:00:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/badf/live/e68939a0-65a8-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Starmer braced for exodus' and 'Giant of art'",
+          "description": "The death of celebrated British artist David Hockney features on many of Saturday's front pages.",
+          "link": "https://www.bbc.com/news/articles/c5yz8nyeen6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c5yz8nyeen6o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 04:19:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de3f/live/5444af90-66b4-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ed Sheeran found this record in a second-hand store - now it's finally getting attention",
+          "description": "Allan Taylor is receiving overdue recognition after Ed Sheeran found his 1978 LP in a second-hand shop.",
+          "link": "https://www.bbc.com/news/articles/ce8my1mrv7mo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce8my1mrv7mo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 23:00:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc0/live/db02c280-663f-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Defence row exposes tensions over how to keep UK safe",
+          "description": "Ex-Defence Secretary John Healey has said the defence investment plan is \"well short of what is required\".",
+          "link": "https://www.bbc.com/news/articles/c8d2q84y1gno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c8d2q84y1gno#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 14:46:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6bc/live/cd97eab0-6678-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I've never been this good' – revolutionary immune reset puts lupus in remission",
+          "description": "Patients on the trial have not needed medication to manage their condition.",
+          "link": "https://www.bbc.com/news/articles/c4gy2d9y5z3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4gy2d9y5z3o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 11 Jun 2026 23:31:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b06d/live/120b1c40-65b5-11f1-9fd1-0b44a7e33c3f.jpg"
+            }
+          }
+        },
+        {
+          "title": "King leads tributes to 'giant of the art world' David Hockney",
+          "description": "The artist, who has died at the age of 88, \"was one of life's true originals\", King Charles says.",
+          "link": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvgjxdr27z4o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 19:10:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb9/live/10dffaf0-667f-11f1-9286-5160d00e7bd3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Anthropic suspends new AI tools over US government security concerns",
+          "description": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
+          "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c932g3v3e13o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 03:54:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54a1/live/35ba2f90-66c9-11f1-b891-a117aef409ef.jpg"
+            }
+          }
+        },
+        {
+          "title": "Girl, 17, stabbed in the neck in street attack",
+          "description": "A 30-year-old man has been arrested on suspicion of attempted murder, say Lancashire Police.",
+          "link": "https://www.bbc.com/news/articles/c4gypqp0rp9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4gypqp0rp9o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 19:27:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/781a/live/753c4ae0-6692-11f1-a8c3-dfaa8d57c0a6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: David Beckham receives star on the Hollywood Walk of Fame",
+          "description": "The former footballer was joined by his wife Victoria Beckham and their children, as well as actor Tom Cruise.",
+          "link": "https://www.bbc.com/news/videos/c1jy0444k3wo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/videos/c1jy0444k3wo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 20:29:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d71/live/4e56d1c0-669c-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+          "description": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
+          "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cp36z37knlko#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 04:09:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bf/live/d798f640-66d1-11f1-bb58-c91c9b854a9d.jpg"
+            }
+          }
+        },
+        {
+          "title": "Delta Goodrem becomes third celebrity to join Strictly Come Dancing",
+          "description": "Goodrem rose to fame in Australian soap opera Neighbours",
+          "link": "https://www.bbc.com/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cg74gvy8lgjo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 18:28:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e8f/live/82e01390-6686-11f1-a8c3-dfaa8d57c0a6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Warner Bros $111bn sale to Paramount approved by US justice department",
+          "description": "The approval marks a key development in the merger that will reshape media, allowing the continue of the takeover of the Hollywood studio, which owns CNN and HBO. ",
+          "link": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cjwgled9jxwo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 03:28:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6251/live/3d15a8f0-66a6-11f1-b7ab-1591368af17a.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "The Keir Starmer Interview: The Analysis",
+          "description": "Adam and Chris breakdown the Keir Starmer interview.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nq8mmz?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nq8mmz#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 15:19:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Profile: Bradford celebrates David Hockney",
+          "description": "David Hockney: iconic British artist.",
+          "link": "https://www.bbc.co.uk/sounds/play/m002m914?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/m002m914#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 15 Nov 2025 19:15:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0mh34gc.jpg"
+            }
+          }
+        },
+        {
+          "title": "USA start World Cup in style - but will they finally join the elite?",
+          "description": "If there were any doubts that the USA were ready to live up to the pressure of being one of the World Cup hosts, they were dispelled in 45 brilliant minutes.",
+          "link": "https://www.bbc.com/sport/football/articles/c621z2k51rdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c621z2k51rdo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 04:40:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1011/live/994e0f20-66cb-11f1-a266-03e5ce1bfa47.jpg"
+            }
+          }
+        },
+        {
+          "title": "Balogun stars in impressive USA win over Paraguay",
+          "description": "Folarin Balogun scores twice as the USA begin their World Cup campaign with a convincing 4-1 victory over Paraguay at the Los Angeles Stadium.",
+          "link": "https://www.bbc.com/sport/football/videos/cwydp9463wko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/videos/cwydp9463wko#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 04:21:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba8a/live/608aeaa0-66d5-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Mummy hundred' gives Wyatt-Hodge her deserved day in the sun",
+          "description": "Danni Wyatt-Hodge gives England's T20 World Cup campaign lift-off with a 'mummy hundred', writes Matthew Henry.",
+          "link": "https://www.bbc.com/sport/cricket/articles/c23yvjpv7kpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/cricket/articles/c23yvjpv7kpo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 23:55:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0281/live/1f7338a0-66b3-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "England have training equipment stolen",
+          "description": "England are victims of a theft of their training equipment before their arrival in Kansas City on Saturday.",
+          "link": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 02:13:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e71/live/4205c1a0-66c5-11f1-b59f-5fac4ee8d999.jpg"
+            }
+          }
+        },
+        {
+          "title": "Club revokes Mickelson membership over allegations ",
+          "description": "Phil Mickelson's membership at Farms Golf Club has been revoked amid allegations of inappropriate contact with a female employee at the Californian establishment.",
+          "link": "https://www.bbc.com/sport/golf/articles/cjrg2we25zxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/golf/articles/cjrg2we25zxo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 22:50:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88ea/live/5a20f9a0-66aa-11f1-86e8-197ee9caa4dc.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

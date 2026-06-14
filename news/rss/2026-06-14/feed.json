@@ -1,0 +1,833 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Sun, 14 Jun 2026 06:26:03 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+          "description": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\". ",
+          "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cvglmn49xz0o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 14 Jun 2026 05:41:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4ff/live/e53f0010-674d-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Resident doctors cancel strike after new offer from government",
+          "description": "The walkout had been due to start at 07:00 BST on Monday and last until Friday.",
+          "link": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cj9g1wgxng2o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 20:46:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7d/live/40c89fc0-675f-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Molly Russell's dad says PM rushing social media restrictions 'deplorable'",
+          "description": "Father of a teenager who took her own life after viewing harmful content says plans appear to have been brought forward for a \"political reason\".",
+          "link": "https://www.bbc.com/news/articles/cwykw759v3po?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cwykw759v3po#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 21:27:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b593/live/15325220-6750-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Jarvis says Labour must 'meet the moment' on defence spending",
+          "description": "The new defence secretary tells the Sunday Telegraph he is determined to ensure the military gets \"what they need\".",
+          "link": "https://www.bbc.com/news/articles/c4gyx962pepo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4gyx962pepo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 14 Jun 2026 00:42:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0fa/live/f73aab30-6783-11f1-879f-db78628a546c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Norway braces for verdict in rape trial of crown princess's son Høiby",
+          "description": "Marius Borg Høiby will appear via video link, almost three months after his trial came to an end on 40 charges, including four counts of rape.",
+          "link": "https://www.bbc.com/news/articles/cd95xvk4vn2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cd95xvk4vn2o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 23:11:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b782/live/b3f93840-6699-11f1-80bb-fb4d08542828.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why Haiti v Scotland was antidote to the ills of world football",
+          "description": "It might have been nervy. It might not have been pretty. But Scotland are here. And Scotland have won. Tom English reports from Boston.",
+          "link": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cdjkdmel292o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 14 Jun 2026 04:54:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e63/live/af1c92f0-67ab-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "McGinn 'beaming with pride' - and hopes kids around Scotland are too",
+          "description": "Scotland's John McGinn says his \"scuffed\" goal which downed Haiti in their World Cup opener leaves him \"beaming with pride\".",
+          "link": "https://www.bbc.com/sport/football/articles/cy06p3xke5lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cy06p3xke5lo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 14 Jun 2026 03:40:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2bd/live/9f36ee60-67a8-11f1-881b-3b97a2dda258.jpg"
+            }
+          }
+        },
+        {
+          "title": "The trauma and hope behind Haiti's rare World Cup appearance",
+          "description": "Haiti's first appearance at a men's World Cup for 52 years is as much about hope as it is goals for the conflict-torn nation.",
+          "link": "https://www.bbc.com/sport/football/articles/c23yvvv7kr3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c23yvvv7kr3o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 11:29:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3b7/live/8e5d9990-65b9-11f1-bdbe-7dc6d39617db.jpg"
+            }
+          }
+        },
+        {
+          "title": "Has Vinicius Jr brilliance just papered over the Brazilian cracks?",
+          "description": "Vinicius Jr scores a wonder goal to rescue his side but Brazil's performance against Morocco raises more questions than answers.",
+          "link": "https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cjdge0dr9rgo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 14 Jun 2026 01:56:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ad9/live/cba907c0-6790-11f1-b55c-7599ca5b0a48.jpg"
+            }
+          }
+        },
+        {
+          "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+          "description": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?",
+          "link": "https://www.bbc.com/sport/football/articles/c5yze64d362o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/c5yze64d362o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 18:22:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b5f/live/105ab990-6728-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Iran win four staff visa appeals but 11  banned",
+          "description": "Four members of Iran's World Cup delegation win appeals against having their visa applications rejected but 11 staff remain banned from travelling to the United States.",
+          "link": "https://www.bbc.com/sport/football/articles/czxqkwrr1k6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/czxqkwrr1k6o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 18:25:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c4c/live/f9ac4510-674f-11f1-a29f-9110ebac7fe1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why football is called 'soccer' in the US and Canada",
+          "description": "Football is life for millions of fans around the world, but in two World Cup co-host nations, they tend to call it by a different name.",
+          "link": "https://www.bbc.com/news/articles/clyexj7dggpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/clyexj7dggpo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 15:33:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5369/live/ccae6480-66b9-11f1-b6ff-c7966f2c58b5.jpg"
+            }
+          }
+        },
+        {
+          "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+          "description": " A niche group of content creators called \"virtual parents\" have become hugely popular among young people.",
+          "link": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cpq3dnr5vlzo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 22:05:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/963c/live/e31fbd90-1e93-11f1-9120-a910fc22c6ac.jpg"
+            }
+          }
+        },
+        {
+          "title": "As Trump turns 80, what's it really like to work as an octogenarian? ",
+          "description": "As President Donald Trump celebrates his birthday, we ask people who have worked into their 80s themselves about what it takes to keep going.",
+          "link": "https://www.bbc.com/news/articles/cm20vyxppneo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cm20vyxppneo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 23:22:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f415/live/35e17930-6672-11f1-bfb6-f5752cbbcf38.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Myles Smith turned five years of therapy notes into a debut album",
+          "description": "Myles Smith's debut album looks back at the experiences that shaped him pre-fame. ",
+          "link": "https://www.bbc.com/news/articles/c1dy5xvwrgvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c1dy5xvwrgvo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 23:09:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3821/live/1dc36890-666d-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "For your ears only: How music brought the new James Bond game to life",
+          "description": "The BBC went behind the scenes as the score for the blockbuster James Bond video game was recorded.",
+          "link": "https://www.bbc.com/news/articles/cy8wn864q46o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cy8wn864q46o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 23:27:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2146/live/d7b94130-665d-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Are the Downing Street dominoes about to fall?",
+          "description": "John Healey's resignation as defence secretary is a disaster for the prime minister, writes Laura Kuenssberg.",
+          "link": "https://www.bbc.com/news/articles/c6213rkyp3lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c6213rkyp3lo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 11:59:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a0a/live/92ca7a40-6661-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "The nuclear challenge at the heart of Trump's Iran negotiations",
+          "description": "US officials say the deal will lead to the destruction of Iran's enriched uranium, but details are still to be worked out.",
+          "link": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cqj1zxv1jyeo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 20:38:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de2c/live/88b7f730-6684-11f1-b1db-af71d47507d6.png"
+            }
+          }
+        },
+        {
+          "title": "In pictures: Trooping the Colour marks King's official birthday",
+          "description": "The King and Queen were cheered on as they rode along The Mall towards Horseguard's Parade.",
+          "link": "https://www.bbc.com/news/articles/cpv3mmlg872o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cpv3mmlg872o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 14:46:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b34/live/4b6400b0-6722-11f1-90d2-07b4bd908511.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why the US economy keeps defying the odds",
+          "description": "Why has the American economy continued to outperform so many of its peers, despite facing the same global shocks?",
+          "link": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cwy031el03po#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 14 Jun 2026 05:14:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0cd/live/4877abc0-6599-11f1-99b8-5530f29d65f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "New York Knicks win NBA championship for first time in over 50 years",
+          "description": "The Knicks clinched the title against the San Antonio Spurs, 94-90, in the fifth game of the best-of-seven series.",
+          "link": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c78yw4zw19do#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 14 Jun 2026 04:59:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f24/live/ab871ab0-67ac-11f1-a57b-d5e3922c455e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Does the UK have a blind spot on UFO sightings?",
+          "description": "A campaigner is calling on the government to resume investigations into alleged encounters.",
+          "link": "https://www.bbc.com/news/articles/c3929kk7gdjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3929kk7gdjo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 23:36:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81bf/live/cc19f4f0-65c2-11f1-b1db-af71d47507d6.png"
+            }
+          }
+        },
+        {
+          "title": "The Papers:  'PM overrules Miliband' and 'We was robbed!'",
+          "description": "Sunday's papers lead with stories including the prime minister's plans for the electric vehicle mandate.",
+          "link": "https://www.bbc.com/news/articles/c1lyvq4gqg1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c1lyvq4gqg1o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 14 Jun 2026 03:56:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/558e/live/a1512e90-6776-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+          "description": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
+          "link": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cwy24v72n19o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 23:19:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64d9/live/b23a6ab0-666c-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Canadian Prime Minister Mark Carney 'back home' on two-day visit to Ireland",
+          "description": "He, and his wife Diana Fox Carney, arrived at Dublin Airport at about 10:00 local time and met Taoiseach (Irish PM) Micheál Martin.\n",
+          "link": "https://www.bbc.com/news/articles/cx2xpv8v7v9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx2xpv8v7v9o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 21:00:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bd7/live/95ee19a0-672b-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ruthless Raducanu powers into Queen's final",
+          "description": "An inspired Emma Raducanu wins twice in a day to reach the Queen's final but fellow Briton Katie Boulter loses her semi-final.",
+          "link": "https://www.bbc.com/sport/tennis/articles/crlwkx2j5nyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/tennis/articles/crlwkx2j5nyo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 18:10:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cae8/live/6c677450-672b-11f1-90d2-07b4bd908511.jpg"
+            }
+          }
+        },
+        {
+          "title": "Nigerian author accuses hospital of stalling review into her son's death",
+          "description": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
+          "link": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cgk6jzkr0xvo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 14 Jun 2026 01:08:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e80/live/e9ef2460-677e-11f1-9177-9b1b06fa8e36.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump's name removed from Kennedy Center after court order",
+          "description": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
+          "link": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c5yzd4dgxw4o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 17:00:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba3a/live/39e7e860-6745-11f1-b4c1-47ccd10ce929.jpg"
+            }
+          }
+        },
+        {
+          "title": "Switzerland votes on plan to cap population at 10 million",
+          "description": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
+          "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/cx23kz7e76po#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 14 Jun 2026 05:36:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a38/live/7d8c7ac0-663e-11f1-8ff0-0decefcc55ec.jpg"
+            }
+          }
+        },
+        {
+          "title": "Healey wanted UK to join global defence bank, BBC told",
+          "description": "Allies of the former defence secretary claim the Treasury tried to shut down the idea.",
+          "link": "https://www.bbc.com/news/articles/ce8jyd85ejeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/ce8jyd85ejeo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 21:02:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6d8/live/81c85b30-66f8-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Woman seriously injured in shark attack at Sydney beach",
+          "description": "The woman, 35, was pulled from the water by members of the public and then airlifted to hospital, police say.",
+          "link": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c3ryw807133o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 15:24:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc78/live/5a8ddf40-6739-11f1-baaa-b1eba7000c81.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ewe won't believe it: 8ft fleece sheared from sheep",
+          "description": "The fleece came from a Lincoln Longwool sheep on a farm near Spilsby.",
+          "link": "https://www.bbc.com/news/articles/czj8y2k3v8ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/czj8y2k3v8ro#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 07 Jun 2026 13:23:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c49/live/6fb365d0-625b-11f1-89a3-d1f559421220.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Birdwatching saved me from my gaming addiction'",
+          "description": "At his lowest ebb Edward Bartlett was playing video games 20 hours a day. Now he goes birdwatching.",
+          "link": "https://www.bbc.com/news/articles/c4gy09r507jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c4gy09r507jo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 09 Jun 2026 04:55:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6056/live/502f8810-6328-11f1-b31a-bb3d090df46a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Mystery of village's elusive 'Granny H' knitter solved",
+          "description": "Granny H has been leaving hundreds of knitted teddy bears, rabbits, dogs and lambs in Hartford village.",
+          "link": "https://www.bbc.com/news/articles/c74y8qwxw0ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c74y8qwxw0ko#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 09 Jun 2026 05:08:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fc/live/90ef68c0-63dc-11f1-add6-53e983221998.jpg"
+            }
+          }
+        },
+        {
+          "title": "Painting bought for $100 in US charity shop sells for £190,000",
+          "description": "Art teacher Helene Plotkin bought the work in White Plans, New York in 1966, unaware it was by Scottish Colourist FCB Cadell.",
+          "link": "https://www.bbc.com/news/articles/c7070ll021zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/news/articles/c7070ll021zo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 05 Jun 2026 13:34:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b5/live/8cd592a0-60da-11f1-82ca-1380a42b6773.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "By-Electioncast: Could Restore Britain Help Andy Burnham Win?",
+          "description": "A new poll suggests the party could steal a significant number of voters from Reform UK.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nrn4dk?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nrn4dk#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 13 Jun 2026 18:26:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0nrw4nl.jpg"
+            }
+          }
+        },
+        {
+          "title": "The battle in rural America against AI data centres",
+          "description": "Utah approves the world’s largest data centre (62sq miles) but opposition is growing",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8lz6?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/w3ct8lz6#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 12 Jun 2026 15:50:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why Haiti v Scotland was antidote to the ills of world football",
+          "description": "It might have been nervy. It might not have been pretty. But Scotland are here. And Scotland have won. Tom English reports from Boston.",
+          "link": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cdjkdmel292o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 14 Jun 2026 04:54:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e63/live/af1c92f0-67ab-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "McGinn fires Scotland to first World Cup win for 36 years",
+          "description": "John McGinn's goal was enough as Scotland beat Haiti 1-0 at the Boston Stadium to record their first win at a World Cup for 36 years. ",
+          "link": "https://www.bbc.com/sport/football/videos/cvgq4j59rw1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/videos/cvgq4j59rw1o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 14 Jun 2026 04:06:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6641/live/b3f832b0-679d-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Has Vinicius Jr brilliance just papered over the Brazilian cracks?",
+          "description": "Vinicius Jr scores a wonder goal to rescue his side but Brazil's performance against Morocco raises more questions than answers.",
+          "link": "https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/articles/cjdge0dr9rgo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 14 Jun 2026 01:56:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ad9/live/cba907c0-6790-11f1-b55c-7599ca5b0a48.jpg"
+            }
+          }
+        },
+        {
+          "title": "Spectacular Vinicius Jr goal earns Brazil draw against Morocco",
+          "description": "Vinicius Jr scores a spectacular solo goal to earn a draw for five-time winners Brazil against Morocco at MetLife Stadium in New Jersey.",
+          "link": "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 14 Jun 2026 00:42:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f56/live/6cbea220-6785-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

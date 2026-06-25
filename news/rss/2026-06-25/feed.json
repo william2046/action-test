@@ -1,0 +1,776 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Thu, 25 Jun 2026 05:58:36 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Moment quakes hit Venezuela, causing people to rush on to streets",
+          "description": "Video filmed by BBC reporters, contributors and locals shows the aftermath, as frantic residents evacuate.",
+          "link": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 23:40:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2974/live/9bd46650-7057-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "How to cope in a heatwave - according to you",
+          "description": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat. ",
+          "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cze9w9xnprno#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 00:18:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d072/live/d29105b0-6ffb-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Scotland fans face anxious World Cup wait after bruising Brazil defeat",
+          "description": "Steve Clarke's side lost 3-0 to Brazil in Miami but a third place finish Group C means they could still make the last 32 of the World Cup.",
+          "link": "https://www.bbc.co.uk/news/articles/cdejr7gey9do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cdejr7gey9do#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 01:03:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8174/live/f13330f0-7029-11f1-a63b-8b60bf46b11a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Reeves backs Burnham to become next prime minister",
+          "description": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 05:00:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da97/live/28663c60-701c-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Obesity cases rising fastest in young adults",
+          "description": "Experts say the cost of living, pandemic and boom in unhealthy food are behind the rise in cases.",
+          "link": "https://www.bbc.co.uk/news/articles/c8j2m2zrrxko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c8j2m2zrrxko#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 23:11:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b31/live/91ee8f70-6ff4-11f1-91bd-23fe59e75f62.png"
+            }
+          }
+        },
+        {
+          "title": "Trump describes Burnham as 'the mayor of a town' and 'extremely liberal'",
+          "description": "Donald Trump gives his first public reaction to the prospect of Andy Burnham becoming prime minister.",
+          "link": "https://www.bbc.co.uk/news/videos/cly81w5g1qwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cly81w5g1qwo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 04:30:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e84/live/bdd8ed80-7024-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "VAT cut on theme parks and kids' meals comes into force",
+          "description": "The government will reduce tax from 20% to 5% on a range of attractions as schools begin to break-up.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 23:02:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03f1/live/ff8d5100-6f0f-11f1-93e4-574a66c90712.jpg"
+            }
+          }
+        },
+        {
+          "title": "Bodies found in 'advanced deterioration' at under-fire trust",
+          "description": "An inspection of NUH mortuaries found 10 shortfalls, the Human Tissue Authority said.",
+          "link": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 05:23:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e02/live/d7712130-700c-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
+          "description": "But the budget faces an uphill battle, coming a day after lawmakers rebuked Trump's military action. ",
+          "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 00:51:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6509/live/094ddba0-702e-11f1-86a5-c78e0086fe7e.jpg"
+            }
+          }
+        },
+        {
+          "title": "GTA 6 will cost £70 - and physical edition will not contain a disc",
+          "description": "Rockstar has said physical copies of the game will contain a code for a digital download for the game.",
+          "link": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 23:20:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a00/live/c7ebc1c0-6f1c-11f1-a375-a3e02c3e348e.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Typical Scotland': Tartan Army give their verdict on Miami match against Brazil",
+          "description": "Scotland's hopes of reaching the knockout stages of the World Cup are in peril after Brazil won 3-0 in Miami.",
+          "link": "https://www.bbc.co.uk/news/videos/cgqjl2kkg7ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cgqjl2kkg7ko#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 03:07:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb3f/live/7976b050-7042-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Vinicius Jr stops fun and leaves Scots down... but are they out?",
+          "description": "Scotland's party stops at the hands of Brazil in Miami, but might they still find themselves in the last 32?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 01:25:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1118/live/81fedd50-7034-11f1-a04c-33d78a0285d7.jpg"
+            }
+          }
+        },
+        {
+          "title": "'It is what it is' - Canadians react to loss against Switzerland",
+          "description": "Despite the loss, Canada has still reached the World Cup knockout stage for the first time in its history.",
+          "link": "https://www.bbc.co.uk/news/videos/c4gywll9x0no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/c4gywll9x0no#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 02:09:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e7f/live/2f9e0280-7038-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "June's temperature record set to be broken again",
+          "description": "Thursday is expected to be a hotter day for parts of England and Wales with June's record temperature set to be broken for a second day in a row as Simon King explains.",
+          "link": "https://www.bbc.co.uk/weather/articles/cqj1ek2zpyxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/cqj1ek2zpyxo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 05:27:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdd6/live/bf16c7b0-7003-11f1-8742-85fd2b900eec.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
+          "description": "Heat records were broken when temperatures soared across southern England on Wednesday afternoon.",
+          "link": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c30y619glveo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 02:25:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6551/live/0e9d3450-6fea-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why this heatwave feels worse than the last one",
+          "description": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains",
+          "link": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/c3vyzly206no#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 12:24:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5db2/live/91a05a20-6fcd-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Air conditioning creates political divide in France",
+          "description": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar. ",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 13:51:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8057/live/f19c7bb0-6fc9-11f1-8b2e-bdb65bec8399.jpg"
+            }
+          }
+        },
+        {
+          "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
+          "description": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent. ",
+          "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c78y4102n1zo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 21:39:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e66/live/9b1b95b0-6feb-11f1-a9c4-37da5d161ee0.jpg"
+            }
+          }
+        },
+        {
+          "title": "I've spent 30 years in recruitment - this is how to get a job",
+          "description": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
+          "link": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c8r2vljglgno#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 23:06:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b813/live/a1869260-6fb9-11f1-8dfa-636ee713b41c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Venezuela earthquake: What we know so far",
+          "description": "The two quakes have killed at least 32 people and injured around 700.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyjgreg1ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c4gyjgreg1ro#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 05:10:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf8f/live/29a689f0-702f-11f1-86a5-c78e0086fe7e.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I thought building would fall on top of me' - Venezuelans describe earthquake panic",
+          "description": "Two quakes hit the capital seconds apart, the first at a magnitude of 7.2 and the second at 7.5.",
+          "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 02:27:27 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a3b/live/534f7160-703c-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Never again' and 'No 10 of the north'",
+          "description": "A major hospital maternity review and Burnham's mooted plans for prime minister lead Thursday's papers.",
+          "link": "https://www.bbc.co.uk/news/articles/cj4gy79x9g7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cj4gy79x9g7o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 05:09:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46e6/live/15cadef0-701f-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "The woman who fought for Pakistan's disappeared men now faces life in jail ",
+          "description": "The Nobel Peace Prize nominee has spent years demanding answers about the missing in Balochistan province.",
+          "link": "https://www.bbc.co.uk/news/articles/c0ry07x87kvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c0ry07x87kvo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 22:14:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d9b/live/3a505760-6fba-11f1-8dfa-636ee713b41c.jpg"
+            }
+          }
+        },
+        {
+          "title": "The ICE raids are over, but some Minnesotans say they still live in fear ",
+          "description": "Six months after he Trump administration's immigration crackdown ended, Minneapolis is still feeling the impact.  ",
+          "link": "https://www.bbc.co.uk/news/articles/c0eyww7280xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c0eyww7280xo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 02:40:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e37/live/a8c5c670-65ac-11f1-9fd1-0b44a7e33c3f.jpg"
+            }
+          }
+        },
+        {
+          "title": "'From excitement to emptiness': Families affected by largest NHS maternity scandal tell their stories",
+          "description": "Families explain how they became part of the biggest maternity scandal in NHS history.",
+          "link": "https://www.bbc.co.uk/news/articles/cgepllq9npvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cgepllq9npvo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 15:10:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5700/live/99c04830-6e3a-11f1-8a85-d1d176b992ab.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump launches America250 festivities with a rally on the National Mall",
+          "description": "A stealth bomber flyover and a Trump speech in the nation's capital kicks off weeks of festivities.",
+          "link": "https://www.bbc.co.uk/news/articles/c5y8nnj33e1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5y8nnj33e1o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 02:39:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f6/live/b818fdb0-7031-11f1-86a5-c78e0086fe7e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+          "description": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 03:12:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7085/live/09a38e00-7034-11f1-a04c-33d78a0285d7.jpg"
+            }
+          }
+        },
+        {
+          "title": "Texas family sues Tesla over fatal crash into home",
+          "description": "A woman in her 70s was killed after a Tesla crashed directly into the family’s home.",
+          "link": "https://www.bbc.co.uk/news/articles/c8x2rzke05yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c8x2rzke05yo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 22:33:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14c8/live/fcfc06d0-7017-11f1-9ca7-8b09da4b9ec2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Badenoch won't say sorry for language at fiery Commons session",
+          "description": "The Tory leader used Prime Minister's Questions to attack government ministers and Labour MPs following Sir Keir Starmer's resignation as Labour leader.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2jn1k4le8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx2jn1k4le8o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 15:46:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c30/live/8dde41e0-6ff5-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Independent MPs launch new Australian centrist party ",
+          "description": "Zali Steggall and Allegra Spender say Community Strong Australia will offer citizens 'reason over rage'.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 02:41:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7022/live/43c6b380-7031-11f1-86a5-c78e0086fe7e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump accuses big oil firms of price-gouging drivers",
+          "description": "The US president named Shell, ExxonMobil, BP and Chevron when talking to reporters about a probe into fuel prices.",
+          "link": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cly790j1j6ro#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 01:45:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f3c/live/b5ef2030-702e-11f1-86a5-c78e0086fe7e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Two more Met officers sacked over Panorama film",
+          "description": "The officers were filmed glorifying force against detainees during an undercover investigation.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yzvzr8n5jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5yzvzr8n5jo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 17:14:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb1/live/ffec7c80-bc1c-11f0-a507-f146f575b402.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "What The UK's Biggest Maternity Review Tells Us About Maternity Care",
+          "description": "A review has found “systemic failures” in maternity care at a hospital in Nottingham.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0ntfdp7?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0ntfdp7#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 19:15:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Can Trump convince Republicans he’s won the war on Iran?",
+          "description": "Republicans are critical of the US lifting sanctions against Iran",
+          "link": "https://www.bbc.co.uk/sounds/play/p0ntx01g?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0ntx01g#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 24 Jun 2026 17:50:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "Vinicius Jr stops fun and leaves Scots down... but are they out?",
+          "description": "Scotland's party stops at the hands of Brazil in Miami, but might they still find themselves in the last 32?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 01:25:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e320/live/62e3adb0-7057-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Think we're going home' - Clarke & McGinn rue Scotland mistakes ",
+          "description": "Scotland will have to wait until potentially the early hours of Sunday to find out if their World Cup campaign will continue, but midfielder John McGinn suspects that is \"unlikely\" and head coach Steve Clarke suspects they are \"going home\".",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cd7w27eg5jro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cd7w27eg5jro#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 00:58:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b723/live/74f09880-702d-11f1-86a5-c78e0086fe7e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Scotland hopes on the brink following defeat against Brazil",
+          "description": "Scotland's hopes of reaching the knockout stages of the World Cup for the first time are in significant peril with calamitous defending allowed Brazil to win 3-0 in Miami and finish top of Group C.",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cd0mzld5lpeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/videos/cd0mzld5lpeo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 00:38:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce02/live/f53f26d0-702a-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "What do Scotland need to make World Cup knockouts?",
+          "description": "After their 3-0 defeat by Brazil, BBC Sport looks at what Scotland require to reach the knockout phase.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 03:40:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c3d/live/db5e6680-7044-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

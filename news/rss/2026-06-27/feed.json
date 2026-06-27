@@ -1,0 +1,871 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Sat, 27 Jun 2026 05:46:30 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "US strikes on Iran after attack on cargo ship",
+          "description": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions. ",
+          "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 02:48:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731d/live/eebb89d0-71a0-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Home Office to introduce new asylum routes to UK",
+          "description": "The home secretary said \"capped safe and legal\" routes would help to restore confidence in the asylum system.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5yz952dm74o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 04:37:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b677/live/8a16eaa0-71ab-11f1-a700-c5ebf7bd79d0.jpg"
+            }
+          }
+        },
+        {
+          "title": "Weekend to bring cooldown after record-breaking heatwave",
+          "description": "The record-breaking heatwave is set to end with cooler and more unsettled weather by \nSunday.",
+          "link": "https://www.bbc.co.uk/weather/articles/crkvl343jj3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/crkvl343jj3o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 00:21:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab7f/live/10f0a900-7191-11f1-8268-a773f3902180.png"
+            }
+          }
+        },
+        {
+          "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+          "description": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
+          "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c39y79g7gzko#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 04:09:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/798c/live/7e611570-719a-11f1-ac61-7d0e237a354c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Three unusual things about the King's tax bill",
+          "description": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation.",
+          "link": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 23:00:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6317/live/78d38340-7186-11f1-bcec-7f8ed2660388.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Cape Verde stunned World Cup to set up Argentina tie",
+          "description": "How has a group of islands with just 525,000 inhabitants made it to the knockout rounds of the World Cup?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 03:41:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f88/live/e73f2050-71d6-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview",
+          "description": "All the revelations from Madonna's chat with Graham Norton, including a big hint about Glastonbury.",
+          "link": "https://www.bbc.co.uk/news/articles/cn07rpn0rkxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cn07rpn0rkxo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 01:41:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e28a/live/8e7dedc0-7078-11f1-a866-abbad6b6b076.jpg"
+            }
+          }
+        },
+        {
+          "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+          "description": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
+          "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cze962pgk27o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 23:01:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e7c/live/7a76a060-7190-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "How messages between two dads helped expose the largest NHS maternity scandal",
+          "description": "Among the hundreds of affected families in Nottingham, two sets of parents led the fight to get answers.",
+          "link": "https://www.bbc.co.uk/news/articles/cd7pqqzznevo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cd7pqqzznevo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 00:03:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ed/live/5e471550-6e4d-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Harry and Meghan accept offer to stay at royal estate during UK visit",
+          "description": "The royal residence the pair will use has not been made public, but they will also be staying in private accommodation during the trip.",
+          "link": "https://www.bbc.co.uk/news/articles/cdjk8gggnndo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cdjk8gggnndo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 01:27:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8340/live/4c953d90-71be-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump threatens 100% tariff on European nations over tech tax",
+          "description": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
+          "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cn4rd71411ko#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 01:37:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41d0/live/53fe5940-71a0-11f1-91d4-ab93ad9f4654.jpg"
+            }
+          }
+        },
+        {
+          "title": "Conservatives offer tax incentive as part of 50,000 reservist pledge",
+          "description": "Labour accused the Conservatives of trying to \"rewrite history\" after making defence cuts while in power.",
+          "link": "https://www.bbc.co.uk/news/articles/c9v219gx79wo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c9v219gx79wo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 21:00:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45f7/live/df741550-7182-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK search team joins Venezuela earthquake rescue effort",
+          "description": "The 68-strong team left Brize Norton airbase on Friday onboard an RAF plane carrying aid supplies. ",
+          "link": "https://www.bbc.co.uk/news/articles/cr7xlr2ndxno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cr7xlr2ndxno#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 20:50:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d94/live/059ab600-719f-11f1-91d4-ab93ad9f4654.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: Moment woman pulled from rubble alive",
+          "description": "First responders and volunteers pulled a survivor from under the rubble of a collapsed building in La Guaira.",
+          "link": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/clyxgxr2672o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 10:06:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6092/live/4c18f0d0-713e-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Quake reveals challenges facing country's battered infrastructure",
+          "description": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces. ",
+          "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 02:12:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca4e/live/476ba1c0-7104-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "What we know so far",
+          "description": "The quakes killed at least 589 people and injured more than 2,980, with more feared trapped under rubble. ",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyjgreg1ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c4gyjgreg1ro#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 18:09:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a636/live/f9a8bb80-7077-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Are we in for a summer of serial heatwaves?",
+          "description": "Forecasters have suggested that summer is likely to be warmer than average with an increased chance of more heatwaves, as Simon King explains.",
+          "link": "https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/cgrk4w57e74o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 03:16:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd1/live/823efca0-717e-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
+          "description": "Suffolk saw the highest temperature on Friday - but many will feel the heatwave begin to ease over the weekend. ",
+          "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 05:38:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f2a/live/cc364a40-716d-11f1-a4f8-ed826651ef10.jpg"
+            }
+          }
+        },
+        {
+          "title": "Europe's deadly heatwave breaks German record and halts public events",
+          "description": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 18:14:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ef7/live/9635ade0-7187-11f1-bcec-7f8ed2660388.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: Lightning strikes seen across UK",
+          "description": "Lightning strikes lit up the sky across the UK during the early hours of Friday as thunderstorms were triggered by the intense heat.",
+          "link": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 19:26:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6416/live/757933b0-7191-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "See it, say it, not sorted. I was let down when I reported my train sexual assault",
+          "description": "After reporting an incident on a train, Esme Rice waited 13 hours for a response from the British Transport Police.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yzr58xy0ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5yzr58xy0ro#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 01:33:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ad/live/16744780-6aff-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Burnham election call' and 'Too hot for tennis'",
+          "description": "Andy Burnham and the record-breaking heatwave across the UK and Europe is prominent across Saturday's papers.",
+          "link": "https://www.bbc.co.uk/news/articles/c3ey093d039o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c3ey093d039o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 04:10:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df6c/live/a8c63510-71b4-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Two years ago, she was delivering parcels - now KWN is an R&B star",
+          "description": "The R&B singer broke out with the single Worst Behaviour, which she sold on a custom-built website.",
+          "link": "https://www.bbc.co.uk/news/articles/cg74d834lzpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cg74d834lzpo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 23:04:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72e4/live/21715b40-6f06-11f1-87e9-1dc598ae70b3.jpg"
+            }
+          }
+        },
+        {
+          "title": "They quit the West for Russia's traditional values, but it wasn't what they expected",
+          "description": "The BBC asks Westerners who moved to Russia if life there lives up to expectations.",
+          "link": "https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cn075j04pnyo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 23:02:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3bb/live/e7896c00-7163-11f1-a589-278435dff441.jpg"
+            }
+          }
+        },
+        {
+          "title": "Going to a festival as a neurodivergent person can be tough - but there are ways to recharge",
+          "description": "Some festivals are rolling out calm spaces and noise-cancelling headphones, but there are calls to go further.",
+          "link": "https://www.bbc.co.uk/news/articles/cgl3ew1j64go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cgl3ew1j64go#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 23:03:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e8/live/6c3122f0-6ffb-11f1-8403-496d85cbebac.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why GTA 6 will launch without a disc - and what it means for gamers",
+          "description": "Music and films are now largely digital-only - does the lack of a disc for GTA 6 mean gaming is going the same way?",
+          "link": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6210nj8gpro#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 23:03:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fad/live/746eb010-7166-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "The first non-stop London to Sydney flight is coming - with challenges",
+          "description": "Some analysts say the first non-stop London to Sydney flight is a major milestone - but would you buy a ticket?",
+          "link": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 23:02:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22df/live/e20d5010-717d-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "How completing the World Cup sticker book is like having a second job",
+          "description": "From car park meet ups to Facebook groups, how families try to complete the set on a budget. ",
+          "link": "https://www.bbc.co.uk/news/articles/c3eyv0v28gwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c3eyv0v28gwo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 00:27:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c0b/live/e8920360-7158-11f1-a40a-e7ca3e8cfa47.jpg"
+            }
+          }
+        },
+        {
+          "title": "Billionaire Leon Black walks out of Epstein investigation hearing ",
+          "description": "The House panel then issued subpoenas demanding the private equity tycoon, who co-founded Apollo Global Management, testify on camera and under oath.",
+          "link": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 03:07:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c04/live/881cc950-71a0-11f1-91d4-ab93ad9f4654.jpg"
+            }
+          }
+        },
+        {
+          "title": "A smartphone ban in English schools is coming into force. What's changing?",
+          "description": "Schools must now follow government guidance that says schools should be phone-free for the entire day.",
+          "link": "https://www.bbc.co.uk/news/articles/cy8wjv3x81qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cy8wjv3x81qo#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 00:52:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d572/live/4cd628c0-6e3d-11f1-8a85-d1d176b992ab.jpg"
+            }
+          }
+        },
+        {
+          "title": "PSNI officer 'had intelligence on Donaldson abuse a year before complaint'",
+          "description": "A BBC investigation has been told a detective and a child safeguarding expert identified Donaldson after speaking to a victim.",
+          "link": "https://www.bbc.co.uk/news/articles/cly947gp9z8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cly947gp9z8o#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 23:00:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abd9/live/b83337c0-7176-11f1-a417-dfae8167aae6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+          "description": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
+          "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cg5315n1v5go#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 22:55:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91cd/live/9c0fbac0-718d-11f1-b32d-379da24cff6f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hit South African show gets the world talking about polygamy and cheating",
+          "description": "The Zulu-language series about a man with multiple wives is a worldwide hit. ",
+          "link": "https://www.bbc.co.uk/news/articles/cx2djde7v2do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx2djde7v2do#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 23:02:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad6a/live/9c2aa9b0-7175-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Alan Carr doesn't want them, do you? Contents of comedian's castle to be sold",
+          "description": "The sale includes dozens of items from a \"concrete menagerie\" of animals, figures and rural scenes.",
+          "link": "https://www.bbc.co.uk/news/articles/cjwg7zyl92no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cjwg7zyl92no#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 22:01:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5ad/live/cb5acd70-7164-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Religion row as Texas makes Bible stories required reading in schools",
+          "description": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 00:31:42 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ea2/live/c60f3030-71a6-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Boiling point: The week of extreme heat",
+          "description": "Danger to life warnings and record heat: how the UK and Europe struggled to cope.",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002ypkf?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m002ypkf#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 16:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0nv84k9.jpg"
+            }
+          }
+        },
+        {
+          "title": "The King (sort of) reveals his finances",
+          "description": "King Charles has become the first monarch to reveal their tax bill, paying £12.9m.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0ntfdw5?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0ntfdw5#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 26 Jun 2026 15:07:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Gripping, star-studded environmental thriller",
+          "description": "Past ties drag corporate lawyer Rob into conflict with a company he usually assists.",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m001j65w/dark-waters?at_mid=ZBSEF4bP71&at_campaign=Dark_Waters&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m001j65w&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Dark_Waters&at_bbc_team=BBC&at_creation=Film",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m001j65w/dark-waters?at_mid=ZBSEF4bP71&at_campaign=Dark_Waters&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m001j65w&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Dark_Waters&at_bbc_team=BBC&at_creation=Film#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 01:49:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a86b/live/96818070-8d68-11f0-9cf6-cbf3e73ce2b9.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Cape Verde stunned World Cup to set up Argentina tie",
+          "description": "How has a group of islands with just 525,000 inhabitants made it to the knockout rounds of the World Cup?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 03:41:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f88/live/e73f2050-71d6-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+          "description": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 04:04:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/146c/live/3a4596b0-71e3-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "England qualify for World Cup knockout stage",
+          "description": "England's place in the knockout stages of the World Cup is confirmed by other results before they face Panama in their final group game on Saturday.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 02:47:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/867c/live/668f4290-70f1-11f1-be4e-5da6babab635.jpg"
+            }
+          }
+        },
+        {
+          "title": "Cape Verde's incredible World Cup journey continues after Saudi draw",
+          "description": "Cape Verde deliver a valiant performance to earn their third draw of the group stage, a result that means they qualify for the last 32 in their World Cup debut while Saudi Arabia crash out.\n\n\n",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cql1v2p7949o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/videos/cql1v2p7949o#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 02:53:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b24/live/6e9c08b0-71cd-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tuchel defends full-back selection after James injury",
+          "description": "Thomas Tuchel defends his full-back selections after confirming Reece James will miss the match against Panama through injury.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cly70v1n22eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cly70v1n22eo#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 27 Jun 2026 02:12:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa9/live/1cb87300-71b7-11f1-90a3-353a1a876450.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

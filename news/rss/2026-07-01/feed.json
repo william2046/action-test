@@ -1,0 +1,757 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Wed, 01 Jul 2026 06:17:40 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Superdry co-founder was my boss when he raped me",
+          "description": "The woman raped by James Holder exclusively reveals she worked for him and had to face him days after he attacked her.",
+          "link": "https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cd95jzy4zyeo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 05:00:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48cd/live/c47affb0-6e45-11f1-bb1f-fde176159761.png"
+            }
+          }
+        },
+        {
+          "title": "Chris Mason: Starmer's defence plan leaves crunching trade‑offs for Burnham to confront",
+          "description": "The BBC's political editor Chris Mason reflects on the fallout from the Defence Investment Plan.",
+          "link": "https://www.bbc.co.uk/news/articles/c3vy7z35ve0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c3vy7z35ve0o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 05:09:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea25/live/d9b77e00-750a-11f1-88e4-c3278122d22b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Plea for households to read energy meter as prices rise",
+          "description": "Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 23:02:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7116/live/a644e1c0-746f-11f1-b8da-6d87dfdc4508.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why Gen Z are planning for life without a state pension",
+          "description": "Many younger people do not believe the state pension will exist when they are older",
+          "link": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 23:05:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a03/live/0c434d60-716c-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump made more than $1bn from crypto in first year back in office",
+          "description": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.  ",
+          "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 03:31:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ba7/live/0575aa80-7510-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+          "description": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+          "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 06:03:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9778/live/5b9c0de0-74c1-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Women with PMOS should have yearly NHS checks, says health watchdog",
+          "description": "Despite affecting millions of women in the UK, PMOS is still under-diagnosed and inconsistently managed, say experts.",
+          "link": "https://www.bbc.co.uk/news/articles/cd0m3g05kx2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cd0m3g05kx2o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 23:04:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63d6/live/de074300-74b0-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "E-scooters being advertised for commuting despite UK road ban",
+          "description": "A Press Association investigation found major retailers advertising e-scooters for \"commuting\" and \"urban riding\".",
+          "link": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 23:05:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0355/live/78145a40-74ad-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Thomas Tuchel says England will stick to Gareth Southgate's penalty plan",
+          "description": "England manager Thomas Tuchel had revealed that his team will follow his predecessor Sir Gareth Southgate's penalty shootout blueprint at the World Cup.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cz9lq5y9pj2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cz9lq5y9pj2o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 01:49:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebbd/live/c4762920-74a5-11f1-9c5b-41132a229f02.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK charities launch Venezuela earthquakes appeal",
+          "description": "At least 1,700 people have died and tens of thousands are feared missing after the twin quakes.",
+          "link": "https://www.bbc.co.uk/news/articles/c982qy7qv5go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c982qy7qv5go#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 23:04:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed9/live/e8b80b00-7513-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "120mph serves but movement a struggle - how did Williams' return go?",
+          "description": "Serena Williams loses on her singles return to Wimbledon - but what can we expect next from the tennis legend?",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/c621g6z0przo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/tennis/articles/c621g6z0przo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 00:29:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06a1/live/368039c0-74e2-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Right-backs Quansah and James out of DR Congo game",
+          "description": "Right-backs Jarell Quansah and Reece James will miss England's World Cup last-32 match against DR Congo because of injury.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c23yz02rrkgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c23yz02rrkgo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 01:25:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ea5/live/b7af52f0-74b1-11f1-9c5b-41132a229f02.png"
+            }
+          }
+        },
+        {
+          "title": "Mexico rampant at fortress Azteca - and England could be next",
+          "description": "Mexico have won all four games and not conceded a goal at this World Cup. Their last-16 opponents must also contend with playing at the Azteca Stadium.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 05:38:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b5/live/db53d370-750b-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "United, free and brilliant - can anyone stop France masterclass?",
+          "description": "France boss Didier Deschamps urges caution despite watching his side dismantle Sweden to leave Les Bleus fans dreaming of winning the World Cup.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 01:07:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6d/live/b724c890-74e5-11f1-970c-3df9d79440a4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Defying logic - how Haaland could end up with 260 international goals",
+          "description": "Erling Haaland delivers on the biggest stage yet for Norway - but just how many goals could he end up with in international football?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 21:18:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5089/live/7f3e5d60-74cc-11f1-a83d-c354d9be0694.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: Mount Etna eruption creates trail of bright orange lava",
+          "description": "A stream of thick orange lava was seen trailing from Europe's biggest active volcano, Mount Etna in Italy, snaking through the mountain.",
+          "link": "https://www.bbc.co.uk/news/videos/cy4ew7dyv7go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cy4ew7dyv7go#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 03:33:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3589/live/7c7a5a90-74fc-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Can China target critics abroad with its new 'ethnic unity' law?",
+          "description": "Rights groups fear the new law gives Beijing legal authority to go after people beyond its borders.",
+          "link": "https://www.bbc.co.uk/news/articles/cx23dwx0232o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx23dwx0232o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 05:34:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32b8/live/0d3f5890-74f9-11f1-9bbd-83e44a2dbbf0.jpg"
+            }
+          }
+        },
+        {
+          "title": "Legally Blonde revival Elle - boring and tedious or a hot pink delight?",
+          "description": "The spin-off introduces a new generation to Elle Woods, but critics say young people deserve better.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yzj5m22lro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5yzj5m22lro#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 14:57:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d198/live/0d248130-7483-11f1-a63e-8369d3f8e6b7.jpg"
+            }
+          }
+        },
+        {
+          "title": "Canada celebrates its birthday as Mark Carney battles to keep it intact",
+          "description": "As Canadians celebrate their nation's birthday, independence movements in two provinces are eyeing the exit from the country.",
+          "link": "https://www.bbc.co.uk/news/articles/cwykxwd43pwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwykxwd43pwo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 05:00:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5562/live/56c54890-74ad-11f1-9c5b-41132a229f02.jpg"
+            }
+          }
+        },
+        {
+          "title": "Will Starmer's plan for defence help UK hit Nato's spending target?",
+          "description": "BBC Verify looks at what the big numbers around the Defence Investment Plan mean for spending on the military and hitting the government's pledges.",
+          "link": "https://www.bbc.co.uk/news/articles/cn07ey43xpeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cn07ey43xpeo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 20:21:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/163a/live/aa950ff0-7499-11f1-8e1d-bbbb1017d210.png"
+            }
+          }
+        },
+        {
+          "title": "'Could be worse' - Americans on the state of the nation in its 250th year",
+          "description": "The BBC spoke to US citizens across the country ahead of its big anniversary celebration this weekend.",
+          "link": "https://www.bbc.co.uk/news/videos/c05yv6d9yq4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/c05yv6d9yq4o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 05:07:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba0e/live/4747c060-74c5-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+          "description": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 22:29:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1a/live/16f1e680-74c4-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Anthropic says US lifts export ban on its advanced AI tools",
+          "description": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
+          "link": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cdr42623e1do#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 03:39:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b490/live/1a317af0-74e1-11f1-b04d-d9f777e609eb.jpg"
+            }
+          }
+        },
+        {
+          "title": "Patient tests negative after Ebola alert at Glasgow hospital",
+          "description": "Precautionary measures were taken after the patient was admitted to the Queen Elizabeth University Hospital early on Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/cly7z8ey088o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cly7z8ey088o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 23:04:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f897/live/4d53d9c0-74cb-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Normal birth drive' criticism removed from maternity report, expert claims",
+          "description": "Dr Bill Kirkup says he resigned from a government-commissioned review into NHS maternity services over the omission. ",
+          "link": "https://www.bbc.co.uk/news/articles/c3eywv0np13o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c3eywv0np13o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 23:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c3b/live/e2d6bb80-74a7-11f1-9c5b-41132a229f02.jpg"
+            }
+          }
+        },
+        {
+          "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+          "description": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
+          "link": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c621g086ek4o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 23:49:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da8c/live/75e572e0-74da-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Defence black hole' and 'Starmer's gift to Burnham'",
+          "description": "Many of Wednesday's papers lead on the fallout from the Defence Investment Plan released yesterday.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gy2e0ww4lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c4gy2e0ww4lo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 04:32:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa45/live/f466a620-74d5-11f1-8e1d-bbbb1017d210.png"
+            }
+          }
+        },
+        {
+          "title": "Starmer trims budgets to fund extra £15bn for defence",
+          "description": "The plan outlines how billions will be spent on equipping the UK armed forces in the years ahead.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 20:17:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cedb/live/3a35ce80-7470-11f1-b8da-6d87dfdc4508.jpg"
+            }
+          }
+        },
+        {
+          "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+          "description": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident.",
+          "link": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/crlwe28dz44o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 23:24:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee9/live/f266eb80-7446-11f1-b2c7-5138402a5536.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "What Does It Cost To Keep The UK Safe?",
+          "description": "The government releases it’s long awaited defence investment plan.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nvr8wv?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nvr8wv#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 19:38:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Has the Supreme Court just made Trump the most powerful president in history?",
+          "description": "A landmark decision expands Trump’s presidential power",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nvtmx4?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nvtmx4#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 29 Jun 2026 19:14:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "Mexico rampant at fortress Azteca - and England could be next",
+          "description": "Mexico have won all four games and not conceded a goal at this World Cup. Their last-16 opponents must also contend with playing at the Azteca Stadium.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 05:38:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b5/live/db53d370-750b-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tuchel will stick to Southgate's penalty plan",
+          "description": "England manager Thomas Tuchel had revealed that his team will follow his predecessor Sir Gareth Southgate's penalty shootout blueprint at the World Cup.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cz9lq5y9pj2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cz9lq5y9pj2o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 01:49:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebbd/live/c4762920-74a5-11f1-9c5b-41132a229f02.jpg"
+            }
+          }
+        },
+        {
+          "title": "United, free and brilliant - can anyone stop France masterclass?",
+          "description": "France boss Didier Deschamps urges caution despite watching his side dismantle Sweden to leave Les Bleus fans dreaming of winning the World Cup.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 01:07:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6d/live/b724c890-74e5-11f1-970c-3df9d79440a4.jpg"
+            }
+          }
+        },
+        {
+          "title": "120mph serves but movement a struggle - how did Williams' return go?",
+          "description": "Serena Williams loses on her singles return to Wimbledon - but what can we expect next from the tennis legend?",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/c621g6z0przo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/tennis/articles/c621g6z0przo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 00:29:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06a1/live/368039c0-74e2-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Koeman resigns, while Netherlands report racist abuse",
+          "description": "Ronald Koeman resigns as Netherlands manager after their World Cup exit, which led to \"appalling\" racist abuse aimed at players who missed penalties.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cly0g1y3v00o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cly0g1y3v00o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 22:30:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d3/live/6fd8e880-74cd-11f1-a83d-c354d9be0694.jpg"
+            }
+          }
+        },
+        {
+          "title": "Lobbing Federer changed his life – the cult hero back at Wimbledon",
+          "description": "Marcus Willis is best known for playing Roger Federer on Wimbledon's Centre Court but, 10 years on, he says he is not defined by that magical moment.",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/ckg5127471yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/tennis/articles/ckg5127471yo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 05:04:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4785/live/c58e3e20-74cc-11f1-a83d-c354d9be0694.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,776 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Thu, 02 Jul 2026 05:50:41 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "People smuggler convicted in France now seeking asylum in UK, BBC discovers",
+          "description": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+          "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Jul 2026 05:00:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c00/live/0635e400-73a1-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: People smuggler tracked down and confronted by BBC",
+          "description": "A convicted people smuggler is living in Leicestershire and seeking asylum while working illegally, the BBC can reveal.",
+          "link": "https://www.bbc.co.uk/news/videos/cnv9648nd5vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cnv9648nd5vo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Jul 2026 05:08:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7979/live/bd9bb8d0-7587-11f1-92e5-efd489c4d444.jpg"
+            }
+          }
+        },
+        {
+          "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+          "description": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Jul 2026 05:00:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2e/live/248b9c60-75d1-11f1-be8b-cbfeee563106.jpg"
+            }
+          }
+        },
+        {
+          "title": "Superstar Kane produces his biggest England moment",
+          "description": "Harry Kane's England career is filled with great moments - his World Cup rescue act against DR Congo in Atlanta is his greatest, says chief football writer Phil McNulty.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 20:41:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5f9/live/7090c5c0-759c-11f1-a4da-6bfef02f3f53.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+          "description": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+          "link": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Jul 2026 04:59:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec3/live/6f002bc0-709b-11f1-86cf-0fd142c2b6fb.jpg"
+            }
+          }
+        },
+        {
+          "title": "Third UK heatwave increasingly likely as 30C temperatures forecast",
+          "description": "Temperatures are forecast to climb throughout the weekend, potentially leading to a heatwave being declared in parts of the UK ",
+          "link": "https://www.bbc.co.uk/weather/articles/c4gyjvpl4eno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/c4gyjvpl4eno#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 23:04:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8586/live/a3eae070-7454-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: Couple scale Empire State Building, get engaged and are arrested",
+          "description": "The two were atop the 1,454 ft (443m) building for at least ten minutes and displayed a large banner before climbing down.",
+          "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Jul 2026 04:16:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/d1aff6d0-75d5-11f1-a627-714adb4eed6e.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I spent $6,000 on a World Cup trip but was left stranded at the gate'",
+          "description": "Hundreds of fans who bought World Cup tickets on resale site StubHub say they have had them cancelled at the last minute.",
+          "link": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/crkvlekgy07o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Jul 2026 04:59:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e82/live/5992ae70-7573-11f1-9510-1546718f668b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Don't expect trackers to save your stolen car, experts say",
+          "description": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
+          "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 23:31:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c12/live/954cafe0-75d9-11f1-a627-714adb4eed6e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+          "description": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
+          "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Jul 2026 00:26:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e305/live/80da2240-75ac-11f1-9510-1546718f668b.jpg"
+            }
+          }
+        },
+        {
+          "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+          "description": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
+          "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c70yk07vq0po#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 22:36:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcae/live/0a189580-759b-11f1-aa81-a5efa93da41b.jpg"
+            }
+          }
+        },
+        {
+          "title": "More than 300 arrests in crackdown on illegal trade and organised immigration crime",
+          "description": "The National Police Chiefs' Council says said the five-day operation led to hundreds of arrests and seizures of more than £1m in cash.",
+          "link": "https://www.bbc.co.uk/news/articles/cgev8ey9wrwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cgev8ey9wrwo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 21:41:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f73/live/a7be5ee0-75ce-11f1-9510-1546718f668b.jpg"
+            }
+          }
+        },
+        {
+          "title": "England into last 16 - what is their path to the final?",
+          "description": "BBC Sport takes a look at what England will need to do to reach the final after progressing the last 16",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 18:17:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbaf/live/d94933c0-7576-11f1-afe7-df77d8cf5f2d.jpg"
+            }
+          }
+        },
+        {
+          "title": "Lions sneak through - but who had a nightmare start? Player ratings",
+          "description": "BBC Sport England reporter Alex Howell rates the players after the World Cup comeback win over DR Congo - plus have your say.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 18:00:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50d5/live/ba14fdb0-7574-11f1-8cb9-93182970858a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: Fans react to tense World Cup game",
+          "description": "England Captain Harry Kane rescued England from a major upset, with two late goals, after DR Congo took an early lead.\n",
+          "link": "https://www.bbc.co.uk/news/videos/cy4ewx4832jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cy4ewx4832jo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 18:49:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/471b/live/ea7c7c10-757b-11f1-9510-1546718f668b.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Beautiful and terrible' - the world's thoughts on America at 250",
+          "description": "From Brazil to India to Egypt, the BBC asked people across the world what they think of America today.",
+          "link": "https://www.bbc.co.uk/news/videos/cvgmv2rmjqno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cvgmv2rmjqno#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Jul 2026 04:59:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/606c/live/8d2ead70-7586-11f1-9510-1546718f668b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Apple butter, sightseeing and puppets: How UK is marking US independence milestone",
+          "description": "As America turns 250 years old, people across the pond are running events of their own to mark the big breakup. ",
+          "link": "https://www.bbc.co.uk/news/articles/cgk68z6m8l8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cgk68z6m8l8o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 23:05:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f79/live/81aff530-7572-11f1-9510-1546718f668b.jpg"
+            }
+          }
+        },
+        {
+          "title": "As Taylor Swift and Travis Kelce prepare to tie the knot, we look back at their relationship",
+          "description": "Taylor Swift and Travis Kelce are expected to celebrate their wedding with a party at New York's Madison Square Garden this weekend.",
+          "link": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqj19p112qjo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 23:08:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba0/live/67d41d10-756f-11f1-8eb5-8b4f46f6e33b.png"
+            }
+          }
+        },
+        {
+          "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
+          "description": "When the US-Israel war with Iran began, fuel costs jumped, but they are now plummeting as hope of lasting peace grows.",
+          "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 23:01:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
+          "description": "Chizi, one of China’s biggest stand-up comedians, has found a new stage after falling afoul of China's censors.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 22:04:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/696c/live/219ce6d0-73e2-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Kane to the rescue' and 'defence black hole triples'",
+          "description": "England Captain Harry Kane's World Cup goals against DR Congo dominate Thursday's front pages.",
+          "link": "https://www.bbc.co.uk/news/articles/c621d2k3wxqo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c621d2k3wxqo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Jul 2026 04:24:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/927c/live/b7607d80-759f-11f1-a627-714adb4eed6e.png"
+            }
+          }
+        },
+        {
+          "title": "Did this AI anti-drug video make drugs look appealing?",
+          "description": "Hong Kong’s Correctional Services Department removed an AI-generated K-pop video, after facing backlash that it made substances look too appealing.",
+          "link": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Jul 2026 01:54:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/437e/live/066f07f0-75bb-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Teenage boy injured in Birmingham shooting",
+          "description": "The boy was taken to hospital with \"potentially life-threatening\" gunshot injuries.",
+          "link": "https://www.bbc.co.uk/news/articles/ce37g3p4dlqo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ce37g3p4dlqo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 22:00:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a321/live/2ad63110-75a5-11f1-8672-df1a6610885c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Halifax brand to be scrapped after 173 years",
+          "description": "Lloyds says it remains committed to the town of Halifax and very little will change for customers.",
+          "link": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 20:09:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c59/live/a65a42d0-7551-11f1-a0e5-ab9c63e24c99.jpg"
+            }
+          }
+        },
+        {
+          "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+          "description": "Rabies infections are rare in Canada. There have been 28 human deaths due to rabies in the country since 1924.",
+          "link": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c982m1m95q9o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Jul 2026 03:07:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d1e/live/3d2797f0-75c8-11f1-9106-bb5823bc9ead.jpg"
+            }
+          }
+        },
+        {
+          "title": "Lethal Weapon actor Danny Glover reveals Alzheimer's diagnosis",
+          "description": "The four-time Emmy winner said his movements, speech and memories have slowed since receiving his diagnosis. ",
+          "link": "https://www.bbc.co.uk/news/articles/c9w2nwg4zd5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c9w2nwg4zd5o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 22:29:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45cc/live/2881b460-7592-11f1-81b1-d5d688879af5.jpg"
+            }
+          }
+        },
+        {
+          "title": "Burnham calls for grooming gang ringleader to be deported",
+          "description": "The Labour leadership hopeful says he will \"ask the home and foreign secretaries to review all possible options\".",
+          "link": "https://www.bbc.co.uk/news/articles/c0jy53n8q1do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c0jy53n8q1do#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 16:56:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a105/live/4d7551d0-7486-11f1-8e1d-bbbb1017d210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
+          "description": "Thousands of worshippers attended a ceremony in the Swiss Alps as part of the breakaway Society of Saint Pius X.",
+          "link": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 16:10:38 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af3b/live/be4f9f50-7562-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
+          "description": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
+          "link": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 22:13:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc8/live/a4a15a10-7131-11f1-b1db-af71d47507d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "What Does It Cost To Keep The UK Safe?",
+          "description": "The government releases it’s long awaited defence investment plan.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nvr8wv?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nvr8wv#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 30 Jun 2026 19:38:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Has the Supreme Court just made Trump the most powerful president in history?",
+          "description": "A landmark decision expands Trump’s presidential power",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nvtmx4?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nvtmx4#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 29 Jun 2026 19:14:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "No time for England to adapt to altitude - Tuchel",
+          "description": "Mexico will have a \"huge advantage\" against England in the World Cup last-16 tie because of the altitude of the Azteca Stadium in Mexico City, says head coach Thomas Tuchel.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 22:11:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2496/live/92ee8fb0-7599-11f1-a627-714adb4eed6e.jpg"
+            }
+          }
+        },
+        {
+          "title": "USA march on but will Balogun red card prove costly?",
+          "description": "Mauricio Pochettino's USA side set up a World Cup last-16 meeting with Belgium, but how costly will forward Folarin Balogun's red card prove?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Jul 2026 03:53:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26fd/live/368423c0-75c6-11f1-a653-df9b898e46c7.jpg"
+            }
+          }
+        },
+        {
+          "title": "Latest ever winner, comeback and controversy - Senegal's remarkable exit",
+          "description": "Late drama, controversy, history and heartbreak - the World Cup last-32 tie between Belgium and Senegal had everything.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Jul 2026 01:28:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99ca/live/ab2d91a0-75a5-11f1-8672-df1a6610885c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Genuine superstar Kane produces his biggest England moment ",
+          "description": "Harry Kane's England career is filled with great moments - his World Cup rescue act against DR Congo in Atlanta is his greatest, says chief football writer Phil McNulty.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 20:41:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5f9/live/7090c5c0-759c-11f1-a4da-6bfef02f3f53.jpg"
+            }
+          }
+        },
+        {
+          "title": "Vintage Djokovic 'in full flow' to crush Tsitsipas as Sinner wins",
+          "description": "Novak Djokovic outclasses Stefanos Tsitsipas in a statement performance to reach the Wimbledon third round.",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/cgjxzeqnn1vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/tennis/articles/cgjxzeqnn1vo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 21:29:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a58e/live/2b59c8b0-7594-11f1-81b1-d5d688879af5.jpg"
+            }
+          }
+        },
+        {
+          "title": "Spurs agree deal worth up to £100m for Newcastle's Tonali",
+          "description": "Tottenham Hotspur agree a deal worth up to £100m with Newcastle United for midfielder Sandro Tonali.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx2xjlevpjpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cx2xjlevpjpo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 19:29:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f221/live/7d136f60-7582-11f1-a627-714adb4eed6e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why did England struggle against DR Congo - and what can they learn?",
+          "description": "A tactical analysis of England's victory over DR Congo - and what it might teach them for their next World Cup match against Mexico.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cewqzvnw5v7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cewqzvnw5v7o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 02 Jul 2026 00:07:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f26/live/7fc213a0-758d-11f1-92e5-efd489c4d444.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,719 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Mon, 13 Jul 2026 05:28:50 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Mahmood to set out plan to deport grooming gang leader",
+          "description": "Calls have grown to deport Rochdale grooming gang ringleader Shabir Ahmed after his release from prison.",
+          "link": "https://www.bbc.co.uk/news/articles/ce8m9615dqlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ce8m9615dqlo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Jul 2026 04:23:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aacd/live/424cd010-7e5b-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+          "description": "Within hours of fresh US attacks, Iran said it had struck US military bases in Kuwait, Jordan and Bahrain.",
+          "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cevlr112pmgo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Jul 2026 05:00:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03f/live/5cc84d20-7e6a-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "At least 27 killed, eight critically injured in Bangkok bar fire",
+          "description": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+          "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c24yev53q06o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Jul 2026 02:28:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aa1/live/ac026a50-7e57-11f1-926f-c90d1bcfbc84.jpg"
+            }
+          }
+        },
+        {
+          "title": "Thousands may have died in UK's exceptional May and June heatwaves",
+          "description": "An early estimate suggests more than 2,700 people will have died from heat-related causes during the UK's exceptionally hot weather in recent months. ",
+          "link": "https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/czx5zy82n7no#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 23:10:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3908/live/2b02c5c0-7c3c-11f1-8ccc-df652c9169a7.jpg"
+            }
+          }
+        },
+        {
+          "title": "Burnham set for No 10: BBC correspondents on what Trump, Putin and others will make of him",
+          "description": "In the US, China, Europe, Russia and elsewhere, how is the UK's expected new prime minister regarded?",
+          "link": "https://www.bbc.co.uk/news/articles/cn8qzlvlz81o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cn8qzlvlz81o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 23:49:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/405d/live/10093c20-7b8a-11f1-881d-8fcf7e2296a7.png"
+            }
+          }
+        },
+        {
+          "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
+          "description": "Police say they are not looking for anyone else after a 28-year-old man was arrested in Rotherham, South Yorkshire.",
+          "link": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Jul 2026 01:43:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4545/live/1a6c45a0-7dd7-11f1-91f9-abeb669686c2.jpg"
+            }
+          }
+        },
+        {
+          "title": "British couple return to village at heart of deadly Spanish wildfire ",
+          "description": "At least 13 people, including five believed to be Britons, were killed by Thursday's wildfire in Spain's Almeria province.",
+          "link": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx24e09x79no#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Jul 2026 00:29:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3502/live/a47f3390-7e4c-11f1-bee8-53ce494e1abc.png"
+            }
+          }
+        },
+        {
+          "title": "UK heatwave to intensify again as it enters second week",
+          "description": "After a brief drop in temperature many areas will see heat and humidity build again this week",
+          "link": "https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 23:56:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0561/live/85f90f10-7e0e-11f1-af03-03c890ee3910.png"
+            }
+          }
+        },
+        {
+          "title": "Starting uni? What to know about having the free NHS meningitis B jab",
+          "description": "It follows the UK's largest and fastest growing meningitis B outbreak to date in Kent earlier this year. ",
+          "link": "https://www.bbc.co.uk/news/articles/cvgmyggpg42o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvgmyggpg42o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Jul 2026 00:11:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c68/live/efd847f0-7c76-11f1-917a-91e958a7e786.jpg"
+            }
+          }
+        },
+        {
+          "title": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
+          "description": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
+          "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/clye4z168edo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Jul 2026 03:36:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df6a/live/a52c1460-7e57-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Extra £250m to boost Jewish community safety",
+          "description": "Police forces are to receive extra funds to help increase protection in Jewish communities.",
+          "link": "https://www.bbc.co.uk/news/articles/c78y2xg0090o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c78y2xg0090o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Jul 2026 01:17:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99d4/live/cd6933a0-48aa-11f1-90e6-350a323e11ac.jpg"
+            }
+          }
+        },
+        {
+          "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+          "description": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+          "link": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/clyrdn216k2o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 19:42:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc5d/live/bd733900-7e29-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "What to expect in the semi-finals",
+          "description": "France face Spain and England take on Argentina in heavyweight World Cup semi-final meetings - here's what to expect from the last four.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 12:29:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da39/live/fb2d1240-7e04-11f1-926f-c90d1bcfbc84.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tuchel wasn't happy with the performance. So why do England keep winning?",
+          "description": "Football tactics correspondent Umir Irfan examines why England are still winning games despite Thomas Tuchel insisting performances are not good.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 12:19:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5df9/live/b19562e0-7deb-11f1-a5de-97ad6e22e20a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Infantino opens door to 64-team World Cup",
+          "description": "Plans for a 64-team men's world cup are set to be picked up and assessed in detail after the 2026 tournament with Fifa boss Gianni Infantino saying football needs to be \"for the whole world\".",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 19:18:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/451c/live/d63516a0-7e21-11f1-a1b8-3d436696a874.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Animals', Hand of God and Beckham: Argentina and England's World Cup rivalry",
+          "description": "As England and Argentina prepare to go head-to-head in Wednesday's World Cup semi-final, BBC Sport looks at their footballing rivalry.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 10:10:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14c2/live/c0979910-7ced-11f1-b976-0b9c15b0ccfc.png"
+            }
+          }
+        },
+        {
+          "title": "Why switching to save money is easier than you might think",
+          "description": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
+          "link": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 23:28:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16a/live/a606cc70-7c74-11f1-917a-91e958a7e786.png"
+            }
+          }
+        },
+        {
+          "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
+          "description": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
+          "link": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwydz60j3eno#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 23:29:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df71/live/aad05480-7c4a-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Chinese graduate accused of being Mexico's 'fentanyl king'",
+          "description": "Cartel members and ex-colleagues describe how Zhang Zhidong allegedly linked Chinese chemicals to Mexican drug labs.",
+          "link": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c39ymggglxeo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Jul 2026 00:05:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4005/live/916366b0-7b8a-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: Burnham's 'bumper Budget' and Widdecombe murder 'not political'",
+          "description": "A potential Budget and details about the suspect in the murder of Ann Widdecombe lead Monday's papers.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyl01ngy22o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwyl01ngy22o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Jul 2026 05:24:42 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a217/live/6c627b80-7e46-11f1-bee8-53ce494e1abc.png"
+            }
+          }
+        },
+        {
+          "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
+          "description": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
+          "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Jul 2026 00:07:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png"
+            }
+          }
+        },
+        {
+          "title": "Two men die trying to help children in sea",
+          "description": "Cleveland Police says the children are confirmed to be safe after being checked over in hospital.",
+          "link": "https://www.bbc.co.uk/news/articles/cq81l5gj54zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cq81l5gj54zo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 20:33:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cb6/live/04bc46d0-7e2a-11f1-a203-d7c6aaf9b69a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Arthur Fery invites Prince George and Princess Charlotte to play tennis",
+          "description": "The Princess of Wales congratulated Arthur Fery on his run to the semi-finals and wished him a happy birthday.",
+          "link": "https://www.bbc.co.uk/news/articles/ckg7mxj41lro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckg7mxj41lro#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 20:20:38 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8173/live/8aa7fab0-7e1a-11f1-926f-c90d1bcfbc84.jpg"
+            }
+          }
+        },
+        {
+          "title": "Bill for Hillsborough Law set to be approved by MPs",
+          "description": "The crush at the 1989 FA Cup semi-final between Liverpool and Nottingham Forest left 97 fans dead.",
+          "link": "https://www.bbc.co.uk/news/articles/cz754eey3xeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cz754eey3xeo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 17:38:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3885/live/3ffd8160-7b04-11f1-856d-fd44bbf1f4a6.png"
+            }
+          }
+        },
+        {
+          "title": "More than 100 firefighters respond to east London fire",
+          "description": "London Fire Brigade says a fire in Walthamstow has affected homes, gardens and a railway embankment.",
+          "link": "https://www.bbc.co.uk/news/articles/cy5vxw7dgx9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cy5vxw7dgx9o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 13 Jul 2026 02:32:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70cb/live/0fe51170-ea02-11f0-b559-7f882945f5a0.jpg"
+            }
+          }
+        },
+        {
+          "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+          "description": "The veteran Republican says he will not return to work \"quite yet\", in his first statement following weeks of speculation about his health. ",
+          "link": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvge2nd611zo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 23:41:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea8b/live/f2b1e0f0-7e3b-11f1-bc25-ef36095a5e54.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Does Andy Burnham Have A New Plan For Tax?",
+          "description": "And what will his premiership mean for your payslip?",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nx5fzl?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nx5fzl#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 14:13:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "The battle for Charlie Kirk’s legacy",
+          "description": "Will young people still vote Republican after Kirk’s death?",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8lzb?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/w3ct8lzb#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 10 Jul 2026 06:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "'We have another level we can reach' - Kane defends frustrated Tuchel",
+          "description": "Captain Harry Kane says England \"have another level we can reach\" as they bid to win the World Cup for the first time since 1966.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 18:18:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc69/live/bdd18370-7e1a-11f1-9b4a-473830aebee3.jpg"
+            }
+          }
+        },
+        {
+          "title": "From shock loss to Wimbledon title - resilient Sinner rises back to top",
+          "description": "For a brief moment after his shock French Open loss, Jannik Sinner appeared vulnerable. He answered the critics by storming to a second Wimbledon title.",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/cx2v84zje83o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/tennis/articles/cx2v84zje83o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 22:52:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38ee/live/f22bb240-7e41-11f1-a07f-631014235e99.jpg"
+            }
+          }
+        },
+        {
+          "title": "England want new coach before Pakistan, but who could it be?",
+          "description": "England will consider between six and 10 names as they look to replace Brendon McCullum as Test head coach, says ECB chief executive Richard Gould.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/c0ly317wg32o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/c0ly317wg32o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 17:34:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61b0/live/bb6bc580-7e03-11f1-b976-0b9c15b0ccfc.png"
+            }
+          }
+        },
+        {
+          "title": "Infantino opens door to 64-team World Cup",
+          "description": "Plans for a 64-team men's world cup are set to be picked up and assessed in detail after the 2026 tournament with Fifa boss Gianni Infantino saying football needs to be \"for the whole world\".",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 19:18:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/451c/live/d63516a0-7e21-11f1-a1b8-3d436696a874.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why Knight's legacy goes beyond the numbers - and what next for England?",
+          "description": "Heather Knight leaves behind a legacy to English cricket that goes far beyond the numbers on the field, writes Ffion Wynne.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/c7vy236p9zzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/c7vy236p9zzo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 14:35:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30c8/live/08e61b60-7e1f-11f1-926f-c90d1bcfbc84.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tears of joy & Tiger text as Kim wins, but McIlroy has problem to fix",
+          "description": "Tom Kim excels in the final round to claim his first title in three years with a two-shot victory at the 2026 Genesis Scottish Open.",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/cx24ejkyvkyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/golf/articles/cx24ejkyvkyo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 20:39:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442c/live/57b34a50-7e2a-11f1-a203-d7c6aaf9b69a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Sinner's best shots as world number one retains Wimbledon title",
+          "description": "Enjoy the best of Jannik Sinner's title-retaining performance, as the world number one defeats Alexander Zverev in four sets in the men's singles final at Wimbledon 2026.",
+          "link": "https://www.bbc.co.uk/sport/tennis/videos/c932rl3r324o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/tennis/videos/c932rl3r324o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 12 Jul 2026 19:24:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3ee/live/a2c4a790-7e26-11f1-926f-c90d1bcfbc84.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

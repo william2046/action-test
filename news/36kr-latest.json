@@ -17,7 +17,7 @@
         "link": "https://www.bbc.co.uk/news"
       },
       "generator": "RSS for Node",
-      "lastBuildDate": "Fri, 17 Jul 2026 03:56:36 GMT",
+      "lastBuildDate": "Sat, 18 Jul 2026 03:50:58 GMT",
       "atom:link": {
         "$": {
           "href": "https://feeds.bbci.co.uk/news/rss.xml",
@@ -30,591 +30,667 @@
       "ttl": "15",
       "item": [
         {
-          "title": "Burnham to promise new path for UK when he becomes new Labour leader",
-          "description": "In a speech on Friday, he will begin to set out his vision for government, before becoming prime minister next week.",
-          "link": "https://www.bbc.co.uk/news/articles/c2lq12z1xdlo?at_medium=RSS&at_campaign=rss",
+          "title": "US strikes hit Iran for seventh consecutive night",
+          "description": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c2lq12z1xdlo#0",
+            "_": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 21:44:24 GMT",
+          "pubDate": "Sat, 18 Jul 2026 03:02:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c76/live/bd872fe0-823f-11f1-926f-c90d1bcfbc84.jpg"
+            }
+          }
+        },
+        {
+          "title": "Burnham finalising cabinet ahead of becoming PM on Monday",
+          "description": "The new Labour leader says his government will deliver the biggest change in British politics for 40 years.",
+          "link": "https://www.bbc.co.uk/news/articles/c5y300l2zvno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5y300l2zvno#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 17 Jul 2026 17:40:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec29/live/44bf1070-81fc-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Labour pins hopes on Burnham reboot as he plans policy blitz",
+          "description": "There is belief in the party that the new leader could put Labour back in the political match, political editor Chris Mason writes.",
+          "link": "https://www.bbc.co.uk/news/articles/cjd45xmexnyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cjd45xmexnyo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 17 Jul 2026 21:00:09 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cbd/live/1aebe3f0-815b-11f1-af12-1d73a1ab1e06.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04ef/live/10bca980-8220-11f1-b966-41edf3b346b4.jpg"
             }
           }
         },
         {
-          "title": "China hits out at British Steel nationalisation",
-          "description": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-          "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+          "title": "White House defends Argentina team over Falklands banner",
+          "description": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do#0",
+            "_": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Fri, 17 Jul 2026 02:50:36 GMT",
+          "pubDate": "Fri, 17 Jul 2026 22:12:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "158",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e16/live/e8524570-8226-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+          "description": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 18 Jul 2026 01:29:47 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72e5/live/17d2eee0-8181-11f1-a117-633a3b1f8a33.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b00/live/0ecf40f0-81ea-11f1-b7bc-5dd9ae7a9918.jpg"
             }
           }
         },
         {
-          "title": "US launches new wave of strikes on Iran as tensions escalate over Strait of Hormuz",
-          "description": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz. ",
-          "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+          "title": "Lauren Laverne diagnosed with blood and bone marrow disorder",
+          "description": "The broadcaster reveals she has smouldering myeloma, which can develop into a type of blood cancer.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyjv3znypyo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c151gdjwd10o#0",
+            "_": "https://www.bbc.co.uk/news/articles/cwyjv3znypyo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Fri, 17 Jul 2026 03:21:07 GMT",
+          "pubDate": "Fri, 17 Jul 2026 16:03:31 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb4/live/5f142cf0-815f-11f1-b976-0b9c15b0ccfc.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d73/live/d98b7f30-81f3-11f1-b6ff-e9b8db4416d1.jpg"
             }
           }
         },
         {
-          "title": "How testosterone testing will work in Hegseth's 'manly' military",
-          "description": "US Defence Secretary Pete Hegseth has announced mandatory testosterone screening for military personnel aged 30 and over.",
-          "link": "https://www.bbc.co.uk/news/videos/cy746z15ej3o?at_medium=RSS&at_campaign=rss",
+          "title": "Bayeux Tapestry in 'wonderful state' after journey to London, French minister says ",
+          "description": "The French culture minister has told the BBC that the Bayeux Tapestry  is in \"a wonderful state\".",
+          "link": "https://www.bbc.co.uk/news/articles/c4gjd9qww1eo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/videos/cy746z15ej3o#0",
+            "_": "https://www.bbc.co.uk/news/articles/c4gjd9qww1eo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Fri, 17 Jul 2026 02:45:48 GMT",
+          "pubDate": "Fri, 17 Jul 2026 17:07:24 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e37/live/07cd9e40-8187-11f1-926f-c90d1bcfbc84.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3705/live/14a5c960-8206-11f1-926f-c90d1bcfbc84.jpg"
             }
           }
         },
         {
-          "title": "Targeted prostate cancer treatment cuts risk of side effects, study suggests",
-          "description": "An NHS trial over 10 years followed nearly 3,500 men who received focal therapy, a less invasive treatment.",
-          "link": "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo?at_medium=RSS&at_campaign=rss",
+          "title": "Mother of Henry Nowak killer jailed for removing knife from murder scene",
+          "description": "Kiran Kaur is jailed after attempting to hide the knife used to kill student Henry Nowak.",
+          "link": "https://www.bbc.co.uk/news/articles/c1w1nnzgg2no?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo#0",
+            "_": "https://www.bbc.co.uk/news/articles/c1w1nnzgg2no#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 23:36:40 GMT",
+          "pubDate": "Fri, 17 Jul 2026 17:22:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63d/live/8fe0dc80-5aa8-11f1-b277-cd187c78657d.jpg"
+            }
+          }
+        },
+        {
+          "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+          "description": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+          "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 17 Jul 2026 19:04:09 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0410/live/9245adf0-80fc-11f1-926f-c90d1bcfbc84.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d83/live/2d7f0f80-8212-11f1-bee8-53ce494e1abc.jpg"
             }
           }
         },
         {
-          "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
-          "description": "Media reports say Laos will press charges of up to one year in jail  against those allegedly responsible.",
-          "link": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss",
+          "title": "Do declassified files support Trump's election security claims?",
+          "description": "BBC Verify has reviewed these documents, although some of them have been heavily redacted.",
+          "link": "https://www.bbc.co.uk/news/articles/cz64wx8yjjdo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo#0",
+            "_": "https://www.bbc.co.uk/news/articles/cz64wx8yjjdo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Fri, 17 Jul 2026 02:56:45 GMT",
+          "pubDate": "Fri, 17 Jul 2026 18:11:14 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7fc/live/540601b0-ac47-11ef-bfca-7d99fb9e396c.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8e/live/9e304680-8204-11f1-b976-0b9c15b0ccfc.png"
             }
           }
         },
         {
-          "title": "UK heatwave approaches two-week mark",
-          "description": "All UK nations have experienced recent heatwave conditions but in southern England, the heatwave has now continued for 13 days. Sarah Keith-Lucas looks at how unusual this spell of heat is, and when we might see it easing.",
-          "link": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss",
+          "title": "Clacton by-election attracts 34 candidates",
+          "description": "The list of people taking on Nigel Farage contains 20 independents and a number of joke candidates.",
+          "link": "https://www.bbc.co.uk/news/articles/ckge923jk3vo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o#0",
+            "_": "https://www.bbc.co.uk/news/articles/ckge923jk3vo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 23:28:21 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab4/live/dc362cd0-7f82-11f1-926f-c90d1bcfbc84.jpg"
-            }
-          }
-        },
-        {
-          "title": "Energy drinks to be banned for under-16s in England from April",
-          "description": "It will be illegal to sell high-caffeine beverages to under-16s from April next year, but soft drinks with lower caffeine levels will not be affected.",
-          "link": "https://www.bbc.co.uk/news/articles/czrjg0jxkpno?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/czrjg0jxkpno#0",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 16 Jul 2026 18:57:47 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a086/live/921a0740-8142-11f1-badc-afcab3cff8b6.jpg"
-            }
-          }
-        },
-        {
-          "title": "Fifa 'assessing match reports' over Falklands banner",
-          "description": "Fifa is \"assessing the match reports\" before deciding whether to punish Argentina after players held a banner in support of their country's claims to the Falkland Islands.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo#0",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 16 Jul 2026 18:44:43 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c9e/live/4ef72380-8142-11f1-badc-afcab3cff8b6.jpg"
-            }
-          }
-        },
-        {
-          "title": "Philippines condemns Chinese media depicting it as monkey in AI video",
-          "description": "China Daily posted a video of a monkey being forced to sing its claims to the South China Sea.",
-          "link": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cj632307934o#0",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Fri, 17 Jul 2026 02:37:45 GMT",
+          "pubDate": "Fri, 17 Jul 2026 21:06:11 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcf6/live/6d3322d0-8184-11f1-8cd7-4f16480f41d7.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecbe/live/b46e0b20-8219-11f1-aa42-b9fc2513a2eb.jpg"
             }
           }
         },
         {
-          "title": "Sadiq Khan among 26 new peers to enter the Lords",
-          "description": "The London mayor is to be joined by broadcaster June Sarpong and former union chief Christina McAnea in the Lords.",
-          "link": "https://www.bbc.co.uk/news/articles/cglj25k94r9o?at_medium=RSS&at_campaign=rss",
+          "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
+          "description": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
+          "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cglj25k94r9o#0",
+            "_": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 17:20:47 GMT",
+          "pubDate": "Fri, 17 Jul 2026 20:00:54 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9208/live/07430df0-8139-11f1-926f-c90d1bcfbc84.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9a/live/ea7f3760-8201-11f1-b9b1-0bb7578872ce.jpg"
             }
           }
         },
         {
-          "title": "Canada fires prompt US air quality alerts as smoke blankets major cities ",
-          "description": "Smoke from more than 800 blazes has filled major cities from Toronto and New York, to parts of the US Midwest and Great Lakes. ",
-          "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+          "title": "Five headaches Andy Burnham will have to deal with as PM",
+          "description": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
+          "link": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o#0",
+            "_": "https://www.bbc.co.uk/news/articles/c62122pgjqdo#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Fri, 17 Jul 2026 02:15:23 GMT",
+          "pubDate": "Fri, 17 Jul 2026 05:59:36 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae8f/live/9c2196c0-8180-11f1-a117-633a3b1f8a33.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f2/live/c74af560-8119-11f1-926f-c90d1bcfbc84.png"
+            }
+          }
+        },
+        {
+          "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
+          "description": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
+          "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 17 Jul 2026 05:00:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06f7/live/70ecfc50-811d-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "The names in the frame to be chancellor - and what it could mean for your finances",
+          "description": "Andy Burnham will be moving into Downing Street next week, and a question remains over who will be his neighbour in Number 11.",
+          "link": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 17 Jul 2026 09:42:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49f1/live/0f37cdf0-81c2-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Who is Andy Burnham's wife, Marie-France van Heel?",
+          "description": "Van Heel, known as Frankie, is a marketing executive who has been in a relationship with Burnham since their university days.",
+          "link": "https://www.bbc.co.uk/news/articles/c75y4q61eevo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c75y4q61eevo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 17 Jul 2026 13:26:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8d1/live/e4fdaef0-81f4-11f1-926f-c90d1bcfbc84.jpg"
+            }
+          }
+        },
+        {
+          "title": "I took a month of unpaid leave to look after my daughter for the summer holiday",
+          "description": "Like many parents, Natalie and her husband had to combine organised childcare and annual leave to cope with the six-week break.",
+          "link": "https://www.bbc.co.uk/news/articles/cy9r93n5w10o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cy9r93n5w10o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 17 Jul 2026 23:07:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "240",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba33/live/1a3fd810-8040-11f1-b6a0-cf44edcfbc55.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'The Burn supremacy' and 'Spice up your wife'",
+          "description": "Britian's new prime minister Andy Burnham is the main focus of Saturday's papers.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyq978dxwqo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwyq978dxwqo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 18 Jul 2026 00:03:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f5c/live/d2cafc90-8232-11f1-926f-c90d1bcfbc84.jpg"
+            }
+          }
+        },
+        {
+          "title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
+          "description": "Defectors tell the BBC that despite restrictions, K-pop has cut through in the stifling dictatorship.",
+          "link": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 17 Jul 2026 22:14:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4def/live/c42d9d00-820f-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Doctors failed to spot my hidden condition for so long I was left permanently disabled",
+          "description": "Actor Daneka Etchells is performing in a show which reflects her experiences of \"medical gaslighting\".",
+          "link": "https://www.bbc.co.uk/news/articles/c1k13l8jljeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c1k13l8jljeo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 18 Jul 2026 00:21:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0327/live/de781ca0-81ea-11f1-b7bc-5dd9ae7a9918.jpg"
+            }
+          }
+        },
+        {
+          "title": "Gracie Abrams captures pain of early adulthood in new album - but you're left wanting more",
+          "description": "The singer's third album is full of incisive, witty lyrics that are let down by muted production.",
+          "link": "https://www.bbc.co.uk/news/articles/c20y0we8nz1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c20y0we8nz1o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 18 Jul 2026 00:33:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e48/live/bd719450-8037-11f1-86b6-ffbb9ce74513.jpg"
+            }
+          }
+        },
+        {
+          "title": "What this desert city can teach the world about tackling heat deaths",
+          "description": "Maricopa County in Arizona has some of the hottest temperatures, but it has reduced the number of heat-related deaths.",
+          "link": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 17 Jul 2026 23:56:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3ec/live/524b9090-8140-11f1-9fa8-b3da54326712.jpg"
+            }
+          }
+        },
+        {
+          "title": "Brad Pitt's children are dropping their dad's surname - here's why I did the same",
+          "description": "Hannah had used her mother's maiden name on her social media for years before she legally made the change.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2ln9l60g5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx2ln9l60g5o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 18 Jul 2026 01:48:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d7/live/d2a335d0-821d-11f1-b966-41edf3b346b4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Defiant Tuchel defends decisions and says loss is 'scar we carry now'",
+          "description": "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 18 Jul 2026 02:50:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01e2/live/c8df0030-8248-11f1-8c83-d19dc49cf1a1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump questions Kane's 'defensive' role in semi-final loss",
+          "description": "US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half \"defensive\" role.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 18 Jul 2026 02:12:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f0f/live/aed0a990-8249-11f1-8192-1d2d6928ff6e.jpg"
+            }
+          }
+        },
+        {
+          "title": "16 World Cup viral moments - from Posh Spice's calm reaction to Haaland's bromance",
+          "description": "We look at some of the most memorable scenes during the 2026 World Cup that set the internet alight.",
+          "link": "https://www.bbc.co.uk/news/articles/cdr4rrzypymo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cdr4rrzypymo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 17 Jul 2026 23:40:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac5/live/5bb684e0-8060-11f1-a10f-077d9cf2208e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Keep calm and carry on - Spain trust team identity to deliver World Cup",
+          "description": "Former Spain captain Cesar Azpilicueta explains why Luis de la Fuente's side have confidence in the collective as they prepare for Sunday's World Cup final against Argentina.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/czxedvre7ryo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/czxedvre7ryo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 17 Jul 2026 15:04:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/698c/live/adf12f60-81e3-11f1-9b73-1d2c7fa8d439.jpg"
             }
           }
         },
         {
           "title": "The financial winners and losers from the World Cup",
-          "description": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most?",
+          "description": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most, and who is losing out?",
           "link": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo#1",
+            "_": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo#3",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 23:16:14 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99ff/live/e74f4460-8065-11f1-bf5f-a7a6eeea7412.jpg"
-            }
-          }
-        },
-        {
-          "title": "Some England players disappointed at tactics as Tuchel questions team's DNA",
-          "description": "BBC Sport understands that Thomas Tuchel's defensive tactics in the World Cup semi-final defeat to Argentina are being hotly debated by the England squad.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cqjxl90x27ro?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cqjxl90x27ro#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 16 Jul 2026 19:54:48 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd0/live/9714bd30-8133-11f1-b525-63787292c170.jpg"
-            }
-          }
-        },
-        {
-          "title": "From Southgate to Tuchel - has anything changed?",
-          "description": "Thomas Tuchel was meant to be the man whose fresh approach would win England major honours, but defeat by Argentina felt like a familiar story - has anything really changed from the Gareth Southgate era?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/clyxnz36x5go?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/clyxnz36x5go#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 16 Jul 2026 18:02:35 GMT",
+          "pubDate": "Fri, 17 Jul 2026 11:36:11 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/546a/live/163ab360-8118-11f1-8b8c-8f0447398806.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4880/live/9307f700-81c1-11f1-926f-c90d1bcfbc84.jpg"
             }
           }
         },
         {
-          "title": "What next for England? How does Tuchel fix key problems for Euro 2028?",
-          "description": "The manner of England's World Cup exit was meek, and Thomas Tuchel must now find a way to fix those problems as focus will soon turn to qualifying for Euro 2028.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cq56djw19z2o?at_medium=RSS&at_campaign=rss",
+          "title": "Mum was sent photo of dead baby: NHS trust's mortuary failings explained",
+          "description": "Donna Ockenden says there were \"recurring examples of failure to protect the dignity of the deceased\".",
+          "link": "https://www.bbc.co.uk/news/articles/c5yzjgjzdr9o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cq56djw19z2o#1",
+            "_": "https://www.bbc.co.uk/news/articles/c5yzjgjzdr9o#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 15:49:15 GMT",
+          "pubDate": "Sat, 18 Jul 2026 00:50:26 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f614/live/92fa61b0-812d-11f1-b525-63787292c170.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b07/live/6c4b1fa0-7606-11f1-b409-f16cfa99a4ec.jpg"
             }
           }
         },
         {
-          "title": "'A true miracle of destiny' - Messi and Lamine Yamal's incredible first meeting",
-          "description": "BBC Sport explores a bond between two world-class footballers from different generations who appear bound by destiny",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9w0j104rvgo?at_medium=RSS&at_campaign=rss",
+          "title": "Second half of summer to bring chances for rain but heatwave threat persists",
+          "description": "Forecasts suggest the weather could turn more changeable during late July and August but the risk of heatwaves remains.",
+          "link": "https://www.bbc.co.uk/weather/articles/c07rex9p7x2o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c9w0j104rvgo#1",
+            "_": "https://www.bbc.co.uk/weather/articles/c07rex9p7x2o#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 12:52:08 GMT",
+          "pubDate": "Sat, 18 Jul 2026 01:05:29 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ba3/live/787f39f0-80f6-11f1-b983-cbe246fcd5da.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e6a/live/7a2346d0-8113-11f1-9ec3-fd524648df46.jpg"
             }
           }
         },
         {
-          "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
-          "description": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
-          "link": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
+          "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
+          "description": "It's a small but growing problem in the property market - here's how to protect yourself.",
+          "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo#2",
+            "_": "https://www.bbc.co.uk/news/articles/c3d39r338m0o#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 23:14:11 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/254d/live/67655330-7934-11f1-8d20-776ad947bebb.jpg"
-            }
-          }
-        },
-        {
-          "title": "Kit Connor and Joe Locke: 'Making a film like Heartstopper will forever be important'",
-          "description": "The Netflix movie brings Alice Oseman's popular screen adaptation to a conclusion.  ",
-          "link": "https://www.bbc.co.uk/news/articles/cpwewzeyxqwo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cpwewzeyxqwo#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 16 Jul 2026 23:52:23 GMT",
+          "pubDate": "Sat, 18 Jul 2026 01:14:53 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a1a/live/e4141ed0-7f6e-11f1-8812-63adb81ec20b.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/847b/live/e25f5800-81e1-11f1-8b86-31ce3d5ecce7.jpg"
             }
           }
         },
         {
-          "title": "I thought we'd grow old together, says band leader whose girlfriend died in Thai bar inferno",
-          "description": "Athipat Wichan tells BBC Thai he regrets bringing his girlfriend Nahathai into his indie band Thotsakan.",
-          "link": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&at_campaign=rss",
+          "title": "The 'ultimate all-round sportsman' - Garfield Sobers could do it all",
+          "description": "Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century - and will be remembered as arguably the best all-rounder in the history of the game.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c1k13zj914mo#2",
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 22:01:32 GMT",
+          "pubDate": "Fri, 17 Jul 2026 17:03:08 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e25a/live/d14f2ab0-8171-11f1-bd43-ebe35f33d88f.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f629/live/158eb4b0-8204-11f1-bee8-53ce494e1abc.jpg"
             }
           }
         },
         {
-          "title": "As heatwaves strike, Europeans turn to prized Chinese air-conditioner",
-          "description": "Previously little-known in Europe, the Midea PortaSplit has become a household name this summer.",
-          "link": "https://www.bbc.co.uk/news/articles/c86262j7j75o?at_medium=RSS&at_campaign=rss",
+          "title": "How these twins' rare growth disorder could provide the key to preventing cancer",
+          "description": "Researchers have found that people with Laron syndrome have a lower incidence of cancer than the wider population.",
+          "link": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c86262j7j75o#2",
+            "_": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 22:01:29 GMT",
+          "pubDate": "Fri, 17 Jul 2026 23:24:37 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3cf/live/1fbfeca0-801b-11f1-9317-f3c8d3f68726.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6695/live/5f2f7af0-7c6e-11f1-9fad-d539485c17c2.jpg"
             }
           }
         },
         {
-          "title": "The Papers: 'Spending warning to Burnham' and 'Only 693 days till Euros'",
-          "description": "The IMF gives a \"spending warning to Burnham\" and England eyes the Euros after its World Cup loss - Friday's front pages.",
-          "link": "https://www.bbc.co.uk/news/articles/c4gjdy0221do?at_medium=RSS&at_campaign=rss",
+          "title": "Former DUP leader Jeffrey Donaldson  to appeal child sex abuse convictions",
+          "description": "His legal team has lodged the paperwork with the Court of Appeal in Belfast.",
+          "link": "https://www.bbc.co.uk/news/articles/c2046e37ewyo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c4gjdy0221do#2",
+            "_": "https://www.bbc.co.uk/news/articles/c2046e37ewyo#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Fri, 17 Jul 2026 00:08:11 GMT",
+          "pubDate": "Fri, 17 Jul 2026 15:12:27 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a81/live/3d339a90-8168-11f1-926f-c90d1bcfbc84.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a5/live/e6dbe1a0-81f0-11f1-b6ff-e9b8db4416d1.jpg"
             }
           }
         },
         {
-          "title": "'It's made me have an identity crisis': Londoners speak out about racist abuse",
-          "description": "With racist hate crimes on the increase, young Londoners speak out about the abuse they have faced.",
-          "link": "https://www.bbc.co.uk/news/articles/cp3x3487zl9o?at_medium=RSS&at_campaign=rss",
+          "title": "My Left Foot and Home Alone 2 actress Brenda Fricker dies at 81",
+          "description": "She won for her role in 1989 film My Left Foot and had well-loved parts in Home Alone 2 and TV's Casualty.",
+          "link": "https://www.bbc.co.uk/news/articles/c0m70zremezo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cp3x3487zl9o#2",
+            "_": "https://www.bbc.co.uk/news/articles/c0m70zremezo#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 04:58:23 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f136/live/b43371b0-802d-11f1-a2a1-e90920ef9667.jpg"
-            }
-          }
-        },
-        {
-          "title": "More than 500 Rohingya vanished at sea - what happened?",
-          "description": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
-          "link": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cr59n096mrmo#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Fri, 17 Jul 2026 03:07:11 GMT",
+          "pubDate": "Fri, 17 Jul 2026 15:32:35 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a36/live/05b688a0-8188-11f1-beba-0f13070b307b.jpg"
-            }
-          }
-        },
-        {
-          "title": "Teenager's inquest to reopen after mum's campaign",
-          "description": "Ellen Roome believes her son's death in 2022 was as the result of an online challenge gone wrong.",
-          "link": "https://www.bbc.co.uk/news/articles/c79y9qnp340o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c79y9qnp340o#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 16 Jul 2026 12:15:38 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d530/live/e276d250-810a-11f1-bc2f-2bbab5acc9ff.jpg"
-            }
-          }
-        },
-        {
-          "title": "Prisoner arrested after escaping during hospital transfer",
-          "description": "Marwan Jumaa, who is serving a sentence for attacking two women, escaped on Tuesday evening.",
-          "link": "https://www.bbc.co.uk/news/articles/c5y684lk0gdo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c5y684lk0gdo#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Fri, 17 Jul 2026 02:21:40 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04b4/live/4e21c990-812b-11f1-bee8-53ce494e1abc.jpg"
-            }
-          }
-        },
-        {
-          "title": "Trump administration tightens visa rules for foreign students",
-          "description": "Students will need federal permission to stay longer than four years in the US and universities will lose the power to extend visas.",
-          "link": "https://www.bbc.co.uk/news/articles/czdmp87rpv1o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/czdmp87rpv1o#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 16 Jul 2026 21:31:51 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2810/live/f2f65d60-8143-11f1-badc-afcab3cff8b6.jpg"
-            }
-          }
-        },
-        {
-          "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea",
-          "description": "Lettuce from one supplier is being removed indefinitely \"out of an abundance of caution\", the company says.",
-          "link": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Fri, 17 Jul 2026 03:09:55 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/397d/live/ce5f99f0-8173-11f1-a21c-d51a3aa9a2f7.jpg"
-            }
-          }
-        },
-        {
-          "title": "Kris Jenner's mother Mary Jo dies aged 91",
-          "description": "Mary Jo 'MJ' Campbell was featured on multiple episodes of Keeping Up with the Kardashians over the years.",
-          "link": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c70g35n4518o#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 16 Jul 2026 20:24:54 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21a2/live/384fe450-8151-11f1-badc-afcab3cff8b6.png"
-            }
-          }
-        },
-        {
-          "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
-          "description": "The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict. ",
-          "link": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c1m107yj327o#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 16 Jul 2026 21:22:09 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f92/live/5f5c0800-8136-11f1-b525-63787292c170.jpg"
-            }
-          }
-        },
-        {
-          "title": "Pakistan resisting UK attempts to deport grooming gang leader",
-          "description": "The government of Pakistan says it has \"no connection whatsoever\" with the case of Shabir Ahmed.",
-          "link": "https://www.bbc.co.uk/news/articles/clyxnvjy706o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/clyxnvjy706o#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Fri, 17 Jul 2026 00:34:27 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a105/live/4d7551d0-7486-11f1-8e1d-bbbb1017d210.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383c/live/a0ad3f20-81dd-11f1-926f-c90d1bcfbc84.png"
             }
           }
         },
@@ -623,7 +699,7 @@
           "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
           "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "_": "https://www.bbc.co.uk/news/10628994#6",
             "$": {
               "isPermaLink": "false"
             }
@@ -642,7 +718,7 @@
           "description": "What will Andy Burnham do when he becomes Prime Minister?",
           "link": "https://www.bbc.co.uk/sounds/play/p0nyjvnk?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0nyjvnk#6",
+            "_": "https://www.bbc.co.uk/sounds/play/p0nyjvnk#7",
             "$": {
               "isPermaLink": "false"
             }
@@ -657,16 +733,16 @@
           }
         },
         {
-          "title": "ICE fatally shoot two men in Maine and Texas",
-          "description": "Trump tells immigration officers not to pause vehicle stops after the killings",
-          "link": "https://www.bbc.co.uk/sounds/play/p0nyzw2n?at_medium=RSS&at_campaign=rss",
+          "title": "Will Trump's primetime speech help him challenge the midterm elections?",
+          "description": "Join Americast for insights and analysis on what's happening inside Trump's White House.",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8lzc?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0nyzw2n#6",
+            "_": "https://www.bbc.co.uk/sounds/play/w3ct8lzc#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 15 Jul 2026 17:54:00 GMT",
+          "pubDate": "Fri, 17 Jul 2026 06:10:00 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
@@ -676,135 +752,135 @@
           }
         },
         {
-          "title": "Some England players disappointed at tactics as Tuchel questions team's DNA",
-          "description": "BBC Sport understands that Thomas Tuchel's defensive tactics in the World Cup semi-final defeat to Argentina are being hotly debated by the England squad.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cqjxl90x27ro?at_medium=RSS&at_campaign=rss",
+          "title": "Defiant Tuchel defends decisions and says loss is 'scar we carry now'",
+          "description": "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cqjxl90x27ro#8",
+            "_": "https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo#9",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 19:54:48 GMT",
+          "pubDate": "Sat, 18 Jul 2026 02:50:36 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd0/live/9714bd30-8133-11f1-b525-63787292c170.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01e2/live/c8df0030-8248-11f1-8c83-d19dc49cf1a1.jpg"
             }
           }
         },
         {
-          "title": "Brown leads English contingent at The Open as McIlroy struggles",
-          "description": "When England's World Cup hopes were extinguished, it paved the way for the home golfers to take centre stage at the Birkdale Open - led by the colourful Dan Brown.",
-          "link": "https://www.bbc.co.uk/sport/golf/articles/c4g4xjj052zo?at_medium=RSS&at_campaign=rss",
+          "title": "Two-shot penalty 'fires up' Open contender DeChambeau",
+          "description": "Bryson DeChambeau says the decision to give him a two-shot penalty for \"inadvertently improving his lie\", \"fires me up\" for the final two rounds of the championship this weekend.",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/cjd45x7vgz7o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/golf/articles/c4g4xjj052zo#8",
+            "_": "https://www.bbc.co.uk/sport/golf/articles/cjd45x7vgz7o#9",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 20:24:40 GMT",
+          "pubDate": "Fri, 17 Jul 2026 20:53:05 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f7e/live/7e9eb7d0-814a-11f1-badc-afcab3cff8b6.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6035/live/1d883cd0-8223-11f1-b966-41edf3b346b4.jpg"
             }
           }
         },
         {
-          "title": "What next for England? How does Tuchel fix key problems for Euro 2028?",
-          "description": "The manner of England's World Cup exit was meek, and Thomas Tuchel must now find a way to fix those problems as focus will soon turn to qualifying for Euro 2028.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cq56djw19z2o?at_medium=RSS&at_campaign=rss",
+          "title": "'They made him a defensive player' - Trump questions Kane role in semi",
+          "description": "US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half \"defensive\" role.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cq56djw19z2o#8",
+            "_": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo#9",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 15:49:15 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f614/live/92fa61b0-812d-11f1-b525-63787292c170.jpg"
-            }
-          }
-        },
-        {
-          "title": "England learning on the job in ODIs - Root",
-          "description": "England batter Joe Root explains the difficulties for young batters in 50-over cricket because of a lack of exposure to the format. ",
-          "link": "https://www.bbc.co.uk/sport/cricket/articles/ce8l1p2g88yo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/cricket/articles/ce8l1p2g88yo#8",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 16 Jul 2026 21:46:10 GMT",
+          "pubDate": "Sat, 18 Jul 2026 02:12:52 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925a/live/38a0c270-815c-11f1-b976-0b9c15b0ccfc.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f0f/live/aed0a990-8249-11f1-8192-1d2d6928ff6e.jpg"
             }
           }
         },
         {
-          "title": "From Southgate to Tuchel - has anything changed?",
-          "description": "Thomas Tuchel was meant to be the man whose fresh approach would win England major honours, but defeat by Argentina felt like a familiar story - has anything really changed from the Gareth Southgate era?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/clyxnz36x5go?at_medium=RSS&at_campaign=rss",
+          "title": "The ultimate all-round sportsman - Sobers could do it all",
+          "description": "Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century - and will be remembered as arguably the best all-rounder in the history of the game.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/clyxnz36x5go#8",
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go#9",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 18:02:35 GMT",
+          "pubDate": "Fri, 17 Jul 2026 17:03:08 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/546a/live/163ab360-8118-11f1-8b8c-8f0447398806.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/235a/live/0e9f5f20-28d7-11ef-98b5-4932e8f29bf6.jpg"
             }
           }
         },
         {
-          "title": "England move Buenos Aires base to avoid potential World Cup party",
-          "description": "England's rugby players have switched hotels in Buenos Aires to avoid their return home being wrecked by World Cup celebrations should Argentina's football team beat Spain in Sunday's final.",
-          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjej2pv4e8zo?at_medium=RSS&at_campaign=rss",
+          "title": "White House defends Argentina team over Falklands banner",
+          "description": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/rugby-union/articles/cjej2pv4e8zo#8",
+            "_": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o#9",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 21:09:04 GMT",
+          "pubDate": "Fri, 17 Jul 2026 22:12:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "158",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e16/live/e8524570-8226-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Birkdale crowd helped carry Fleetwood into contention ",
+          "description": "Home favourite Tommy Fleetwood praises the support of the fans at Royal Birkdale as Scotland's Robert MacIntyre quietly fires himself into contention in round two of the 154th Open Championship.",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/cvg8wv88j22o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/golf/articles/cvg8wv88j22o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 17 Jul 2026 22:47:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bdf/live/e4539f90-8231-11f1-a8b6-eff983430f0a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Stick with Tuchel unless Guardiola is available - Rooney",
+          "description": "Wayne Rooney thinks the Football Association should stick with Thomas Tuchel as England head coach unless a move for Pep Guardiola is possible. ",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c304ldrmmero?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c304ldrmmero#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 17 Jul 2026 20:16:26 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25a2/live/cd1e9170-8152-11f1-badc-afcab3cff8b6.jpg"
-            }
-          }
-        },
-        {
-          "title": "New York issues air quality alert days before World Cup final",
-          "description": "Officials in New York and New Jersey issue an air quality health alert because of wildfire smoke just days before the World Cup final.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9w0jen8x90o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c9w0jen8x90o#8",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 16 Jul 2026 21:29:07 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31cd/live/14857bf0-815d-11f1-bee8-53ce494e1abc.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1f6/live/cb3d80e0-820c-11f1-a389-0bd432a143c3.jpg"
             }
           }
         }

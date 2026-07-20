@@ -17,7 +17,7 @@
         "link": "https://www.bbc.co.uk/news"
       },
       "generator": "RSS for Node",
-      "lastBuildDate": "Sun, 19 Jul 2026 04:18:21 GMT",
+      "lastBuildDate": "Mon, 20 Jul 2026 04:32:20 GMT",
       "atom:link": {
         "$": {
           "href": "https://feeds.bbci.co.uk/news/rss.xml",
@@ -30,78 +30,325 @@
       "ttl": "15",
       "item": [
         {
-          "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
-          "description": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are \"innocent\".",
-          "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+          "title": "Chris Mason: Burnham is fifth PM in four years - now he'll try to buck the trend",
+          "description": "Determined to hit the ground running, the former mayor hopes to maintain the leadership style he adopted in Manchester.",
+          "link": "https://www.bbc.co.uk/news/articles/cr7knml2y99o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cwymly9yd33o#0",
+            "_": "https://www.bbc.co.uk/news/articles/cr7knml2y99o#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 19 Jul 2026 02:17:07 GMT",
+          "pubDate": "Sun, 19 Jul 2026 23:53:59 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d3/live/9a3779e0-8308-11f1-926f-c90d1bcfbc84.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/028f/live/fdfcb250-83bd-11f1-b976-0b9c15b0ccfc.jpg"
             }
           }
         },
         {
-          "title": "Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
-          "description": "A spokesperson for the incoming prime minister says his Government would “put its focus where people need it right now”.",
-          "link": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
+          "title": "Victory for football? Spain beat Argentina to win World Cup",
+          "description": "It might seem like a trite cliche, but you won't find many neutrals disagreeing with that verdict on the World Cup final.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo#0",
+            "_": "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 18 Jul 2026 20:15:26 GMT",
+          "pubDate": "Mon, 20 Jul 2026 00:28:50 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d5/live/98b78d40-82df-11f1-ae6b-3189bc758570.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc6/live/a8230270-83d7-11f1-ad7d-c7f9656ee7bb.jpg"
             }
           }
         },
         {
-          "title": "Can Burnham's casual style survive contact with No 10?",
-          "description": "When Burnham becomes PM, he'll find it harder to wear the wardrobe that's central to his political brand.",
-          "link": "https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo?at_medium=RSS&at_campaign=rss",
+          "title": "Moment fans in Madrid celebrate World Cup win",
+          "description": "Thousands of spectators watched Spain's victory in central Madrid on late Sunday night.",
+          "link": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo#0",
+            "_": "https://www.bbc.co.uk/news/videos/cgr701xrg14o#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 19 Jul 2026 00:08:17 GMT",
+          "pubDate": "Sun, 19 Jul 2026 23:48:36 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4d0/live/c64fd0d0-81fb-11f1-bee8-53ce494e1abc.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/833c/live/6f0fc420-83cb-11f1-bee8-53ce494e1abc.jpg"
             }
           }
         },
         {
-          "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-          "description": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
-          "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+          "title": "US soldier killed and one injured after Iranian attack in Iraq",
+          "description": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+          "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o#0",
+            "_": "https://www.bbc.co.uk/news/articles/cgk417jp83po#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 19 Jul 2026 00:18:47 GMT",
+          "pubDate": "Sun, 19 Jul 2026 19:45:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg"
+            }
+          }
+        },
+        {
+          "title": "My fitness tracker knew I was pregnant before I did ",
+          "description": "Ravika is one of hundreds of women who are noticing early pregnancy signs through the data on their fitness trackers. ",
+          "link": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 19 Jul 2026 23:09:18 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb90/live/f934e660-82d3-11f1-a42c-29abcdb2a052.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96bf/live/356d4010-7f8b-11f1-bee8-53ce494e1abc.png"
+            }
+          }
+        },
+        {
+          "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+          "description": "Aggression against recruitment officers has become increasingly threatening, police say.",
+          "link": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 00:19:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/150a/live/ddf43180-81e8-11f1-9b73-1d2c7fa8d439.jpg"
+            }
+          }
+        },
+        {
+          "title": "Fire crews battling blaze on Arthur’s Seat in Edinburgh",
+          "description": "A huge plume of smoke could be seen from as far away as Fife on Sunday evening.",
+          "link": "https://www.bbc.co.uk/news/articles/cr59mqnm081o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cr59mqnm081o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 19 Jul 2026 20:49:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb3b/live/88099920-83ac-11f1-ab77-f798412624b5.jpg"
+            }
+          }
+        },
+        {
+          "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+          "description": "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift. ",
+          "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 19 Jul 2026 14:50:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9db/live/c5e720a0-837f-11f1-8537-c5e158f8690c.png"
+            }
+          }
+        },
+        {
+          "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+          "description": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+          "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 19 Jul 2026 18:25:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png"
+            }
+          }
+        },
+        {
+          "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
+          "description": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
+          "link": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx278ed09nzo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 19 Jul 2026 18:35:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c902/live/4610abb0-8386-11f1-8537-c5e158f8690c.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Fox kept cool at baked Birkdale to win The Open",
+          "description": "Ryan Fox wins the Open Championship - his first major title - with his final putt on a record-breaking weekend at Royal Birkdale.",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/c89nv0v1e22o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/golf/articles/c89nv0v1e22o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 19 Jul 2026 18:19:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1ea/live/ec6a54b0-83a5-11f1-926f-c90d1bcfbc84.jpg"
+            }
+          }
+        },
+        {
+          "title": "Sixteen titles in five years - why Spain are a dominant force",
+          "description": "We look at what's behind Spain's dominance after they become the first nation to be men's and women's World Cup champions at the same time.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 01:19:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36cc/live/2813f680-83cc-11f1-abbb-e5eedb1cfb63.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+          "description": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c4gjx7nvk4go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c4gjx7nvk4go#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 00:44:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/881e/live/84b7ac00-83cd-11f1-926f-c90d1bcfbc84.jpg"
+            }
+          }
+        },
+        {
+          "title": "Lamine Yamal 'completes football' at 19 as Argentina betray Messi",
+          "description": "Spain's Lamine Yamal takes the glory of World Cup victory as the great Lionel Messi's evening ends in tears.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c0m7zx38v43o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c0m7zx38v43o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 01:28:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af6/live/b9aa30c0-83d4-11f1-ad7d-c7f9656ee7bb.jpg"
+            }
+          }
+        },
+        {
+          "title": "Mbappe first to win Golden Boot twice as Rodri named best player",
+          "description": "Kylian Mbappe has become the first player to win the World Cup Golden Boot twice after earning the award for top scorer at the 2026 tournament, while Spain's Rodri lands the Golden Ball as the best player.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cre4z58pzj9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cre4z58pzj9o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 19 Jul 2026 23:00:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a21/live/f2d6a7c0-83b1-11f1-a653-459bdcde0787.jpg"
+            }
+          }
+        },
+        {
+          "title": "Are you a parent missing out on £27 a week? Here's how to check",
+          "description": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says.",
+          "link": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 19 Jul 2026 23:16:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2958/live/13ecab20-805c-11f1-a10f-077d9cf2208e.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Burnham's new era' and 'Viva España!'",
+          "description": "Two stories are dominating Monday's front pages, with Andy Burnham set to become PM, and Spain winning the World Cup.",
+          "link": "https://www.bbc.co.uk/news/articles/clyxj6y7vd4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/clyxj6y7vd4o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 00:21:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89d3/live/485c1f80-83cc-11f1-abbb-e5eedb1cfb63.png"
             }
           }
         },
@@ -110,7 +357,7 @@
           "description": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them? ",
           "link": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cp9errxl97go#0",
+            "_": "https://www.bbc.co.uk/news/articles/cp9errxl97go#2",
             "$": {
               "isPermaLink": "false"
             }
@@ -125,135 +372,21 @@
           }
         },
         {
-          "title": "New EU border system tripling time at passport control, airport boss says",
-          "description": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.  ",
-          "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+          "title": "Can Burnham's casual style survive contact with No 10?",
+          "description": "When Burnham becomes PM, he'll find it harder to wear the wardrobe that's central to his political brand.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o#0",
+            "_": "https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 19 Jul 2026 01:47:59 GMT",
+          "pubDate": "Sun, 19 Jul 2026 00:08:17 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9693/live/d4402e80-81d1-11f1-926f-c90d1bcfbc84.jpg"
-            }
-          }
-        },
-        {
-          "title": "How did England players rate during the World Cup?",
-          "description": "BBC Sport England reporter Alex Howell assess how the Three Lions' players fared in North America.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cx2jljx84rwo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cx2jljx84rwo#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 18 Jul 2026 23:31:46 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33a7/live/10d45980-82cb-11f1-adf9-c14531781464.jpg"
-            }
-          }
-        },
-        {
-          "title": "Over to you, Messi - Mbappe leads Golden Boot race for the ages",
-          "description": "Kylian Mbappe leads the Golden Boot race by two goals but Lionel Messi could yet overtake him in the World Cup final.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c89nl42dnpyo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c89nl42dnpyo#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 18 Jul 2026 23:48:40 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/979d/live/d555aff0-82ff-11f1-9bcc-27488bb80d29.jpg"
-            }
-          }
-        },
-        {
-          "title": "Why the World Cup half-time show may be a taste of things to come",
-          "description": "The 2026 World Cup's spectacle is creating debate about the place of music in sport - and how it could infiltrate other tournaments.",
-          "link": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 19 Jul 2026 01:11:23 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85ef/live/7c99f4a0-81ee-11f1-926f-c90d1bcfbc84.png"
-            }
-          }
-        },
-        {
-          "title": "Messi and Tom Brady in disbelief over 'prophetic' Lamine Yamal photo",
-          "description": "Argentina's Lionel Messi says it is \"crazy\" to be facing Spain's Lamine Yamal in a World Cup final after being photographed with him as a baby.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5yejxqll3go?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c5yejxqll3go#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 18 Jul 2026 08:59:23 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968c/live/ae7d3a50-82b5-11f1-b976-0b9c15b0ccfc.jpg"
-            }
-          }
-        },
-        {
-          "title": "World Cup winner Capdevila appeals to Trump after US travel permit denied ",
-          "description": "Former Spain international Joan Capdevila has made a plea to US President Donald Trump for help after he says he was denied a travel permit to enter the United States before  Sunday's World Cup final.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cx2l5jn17yjo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cx2l5jn17yjo#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 18 Jul 2026 10:43:40 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1d6/live/0b64a900-828a-11f1-a23b-f5a17a30f7d0.png"
-            }
-          }
-        },
-        {
-          "title": "The honours system used to be too posh but I'm proof change is happening",
-          "description": "Record numbers of people from poorer backgrounds are now receiving awards.",
-          "link": "https://www.bbc.co.uk/news/articles/cpd3dd3vv65o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cpd3dd3vv65o#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 19 Jul 2026 01:56:10 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/4ac9bf80-81dc-11f1-a290-5dcfa2e128f8.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e6/live/90d34eb0-836c-11f1-bee8-53ce494e1abc.jpg"
             }
           }
         },
@@ -277,268 +410,97 @@
           }
         },
         {
-          "title": "Why some women are being driven out of the workplace by an illness",
-          "description": "Three women describe how endometriosis has affected their careers, as an inquiry takes place.",
-          "link": "https://www.bbc.co.uk/news/articles/c79yyzw9v8xo?at_medium=RSS&at_campaign=rss",
+          "title": "Food delivery rider wins China's top literary prize",
+          "description": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c79yyzw9v8xo#2",
+            "_": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo#4",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 19 Jul 2026 02:12:23 GMT",
+          "pubDate": "Mon, 20 Jul 2026 03:53:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d9/live/016c8b40-83eb-11f1-a4bc-65277c7fcf81.jpg"
+            }
+          }
+        },
+        {
+          "title": "Norway opens new memorial for victims of 2011 massacre ",
+          "description": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
+          "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 01:11:08 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b2f/live/c665d050-7928-11f1-bb09-19b977572e60.png"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe5a/live/0c2fc2e0-83d7-11f1-ad7d-c7f9656ee7bb.jpg"
             }
           }
         },
         {
-          "title": "Private jets flock to Montana - but locals can't afford the trailer park",
-          "description": "Rents in Bozeman, Montana have skyrocketed as wealthy out-of-towners flock to the city to experience the American West.",
-          "link": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
+          "title": "Marathon runners compete on drifting sea ice at North Pole",
+          "description": "Organisers say 23 runners from seven countries took part in races at the Arctic's geographic North Pole.",
+          "link": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo#2",
+            "_": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o#4",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 18 Jul 2026 23:44:04 GMT",
+          "pubDate": "Sun, 19 Jul 2026 14:06:08 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d56/live/76383b00-8205-11f1-9155-3fc9a8287ebe.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b734/live/58798fd0-8375-11f1-bd77-1d1e03576fee.jpg"
             }
           }
         },
         {
-          "title": "Ruthless plotter? Flip-flopper? Dad dancer? Insiders reveal the real Andy Burnham",
-          "description": "Who is the real Andy Burnham? Laura Kuenssberg talks to more than 20 people who know him to work it out",
-          "link": "https://www.bbc.co.uk/news/articles/c3043vl2l7zo?at_medium=RSS&at_campaign=rss",
+          "title": "Tate brothers arrested in US as further UK charges take total to 59",
+          "description": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+          "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c3043vl2l7zo#2",
+            "_": "https://www.bbc.co.uk/news/articles/cwymly9yd33o#4",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 18 Jul 2026 14:32:48 GMT",
+          "pubDate": "Sun, 19 Jul 2026 12:53:20 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab52/live/19534330-8106-11f1-926f-c90d1bcfbc84.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/992c/live/83523f20-834a-11f1-bee8-53ce494e1abc.jpg"
             }
           }
         },
         {
-          "title": "Mother killed while asleep with baby ‘was my world’, sister tells BBC",
-          "description": "Kirandeep Kaur, killed as she slept with her baby and husband, leaves behind a 'devastated' family in India.",
-          "link": "https://www.bbc.co.uk/news/articles/cd0xzy2r1m7o?at_medium=RSS&at_campaign=rss",
+          "title": "Man injured in dockside crane 'collapse'",
+          "description": "Emergency services attend the Port of Tyne after a crane \"collided\" with a container ship, police say.",
+          "link": "https://www.bbc.co.uk/news/articles/c3ek8n17lq3o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cd0xzy2r1m7o#4",
+            "_": "https://www.bbc.co.uk/news/articles/c3ek8n17lq3o#4",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 18 Jul 2026 16:41:55 GMT",
+          "pubDate": "Sun, 19 Jul 2026 19:16:21 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fb7/live/7337c900-82c5-11f1-adf9-c14531781464.jpg"
-            }
-          }
-        },
-        {
-          "title": "Britain's Kerr breaks 27-year mile world record in London",
-          "description": "Great Britain's Josh Kerr smashes the long-standing men's mile world record in a spectacular performance at the London Diamond League.",
-          "link": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 18 Jul 2026 14:48:16 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a49/live/37aa2290-82be-11f1-87aa-2bcbbeff03e6.jpg"
-            }
-          }
-        },
-        {
-          "title": "The Papers: 'Messiah without a mandate' and 'attack of the Argie ants'",
-          "description": "Today's papers spotlight Andy Burnham on the eve of him becoming Britain's new prime minister. ",
-          "link": "https://www.bbc.co.uk/news/articles/c5y4wn7y757o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c5y4wn7y757o#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 19 Jul 2026 01:21:14 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c6/live/d83cc720-82fb-11f1-b976-0b9c15b0ccfc.jpg"
-            }
-          }
-        },
-        {
-          "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-          "description": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
-          "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/clyxlm877p2o#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 18 Jul 2026 13:06:25 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d1/live/dae460c0-82a9-11f1-b976-0b9c15b0ccfc.jpg"
-            }
-          }
-        },
-        {
-          "title": "Burnham is 'people pleaser' with 'airy fairy' plans, says Kemi Badenoch ",
-          "description": "Speaking to Laura Kuenssberg, the Conservative leader accused the incoming PM of not knowing \"what the country's priorities are\".",
-          "link": "https://www.bbc.co.uk/news/articles/c304l24m0leo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c304l24m0leo#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 18 Jul 2026 15:01:33 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cadd/live/22f86510-82bd-11f1-87aa-2bcbbeff03e6.jpg"
-            }
-          }
-        },
-        {
-          "title": "German politician resigns over surrogacy child controversy",
-          "description": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
-          "link": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 18 Jul 2026 15:23:31 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d6f/live/e67395c0-82a7-11f1-84ea-29e7008b1ad8.jpg"
-            }
-          }
-        },
-        {
-          "title": "Bakery owner criticises ITV's The Voice over free cake request",
-          "description": "The company behind The Voice UK apologises after asking bakery Get Baked for free food.",
-          "link": "https://www.bbc.co.uk/news/articles/cwyre2vg08go?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cwyre2vg08go#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 18 Jul 2026 16:55:19 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9a8/live/2547a810-82c4-11f1-adf9-c14531781464.png"
-            }
-          }
-        },
-        {
-          "title": "Viking re-enactor prepares to walk 100 miles in Viking clothing",
-          "description": "After the lose of his teacher viking re-enactor Ryan has decided to walk 100 miles in Viking clothing in her memory ",
-          "link": "https://www.bbc.co.uk/news/videos/cvg0312ervyo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/videos/cvg0312ervyo#5",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Fri, 17 Jul 2026 07:57:37 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af6/live/d8da9c30-81e7-11f1-926f-c90d1bcfbc84.png"
-            }
-          }
-        },
-        {
-          "title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
-          "description": "The man and his grandson appeared a safe distance away from the bison before it quickly chased them down.",
-          "link": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo#5",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 13 Jul 2026 17:21:21 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b2/live/8ee2f1c0-7ec9-11f1-b647-d1fc061ff3d0.jpg"
-            }
-          }
-        },
-        {
-          "title": "'Mind-blowing' ancient bones discovery sparked by family holiday",
-          "description": "The \"once in a lifetime\" discovery in Pembrokeshire could rewrite history, researchers say.",
-          "link": "https://www.bbc.co.uk/news/articles/cp36lnng046o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cp36lnng046o#5",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Fri, 17 Jul 2026 05:25:51 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a896/live/2bae2fe0-813d-11f1-b525-63787292c170.jpg"
-            }
-          }
-        },
-        {
-          "title": "The man who balances bikes, ladders and sheds on his chin",
-          "description": "Salford builder Tobey Newall plans to set the world record for balancing large items on his chin.",
-          "link": "https://www.bbc.co.uk/news/articles/cpq30n2v0ywo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cpq30n2v0ywo#5",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 16 Jul 2026 05:10:58 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3e2/live/2ff192c0-81e9-11f1-926f-c90d1bcfbc84.png"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f781/live/1d4c2ed0-838f-11f1-a4c3-dfd0ee4be073.jpg"
             }
           }
         },
@@ -547,7 +509,7 @@
           "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
           "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/10628994#6",
+            "_": "https://www.bbc.co.uk/news/10628994#5",
             "$": {
               "isPermaLink": "false"
             }
@@ -562,16 +524,16 @@
           }
         },
         {
-          "title": "Andrew Marr on Burnham's Plan For Number 10",
-          "description": "What will Andy Burnham do when he becomes Prime Minister?",
-          "link": "https://www.bbc.co.uk/sounds/play/p0nyjvnk?at_medium=RSS&at_campaign=rss",
+          "title": "What No 10 Will Really Be Like For Andy Burnham",
+          "description": "Former insiders explain ahead of moving in day.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nyjw5h?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0nyjvnk#7",
+            "_": "https://www.bbc.co.uk/sounds/play/p0nyjw5h#6",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 16 Jul 2026 15:16:00 GMT",
+          "pubDate": "Sun, 19 Jul 2026 13:33:00 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
@@ -585,7 +547,7 @@
           "description": "Join Americast for insights and analysis on what's happening inside Trump's White House.",
           "link": "https://www.bbc.co.uk/sounds/play/w3ct8lzc?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/w3ct8lzc#7",
+            "_": "https://www.bbc.co.uk/sounds/play/w3ct8lzc#6",
             "$": {
               "isPermaLink": "false"
             }
@@ -600,116 +562,154 @@
           }
         },
         {
-          "title": "Best England team for a long time? That's a fact, says Rice",
-          "description": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss",
+          "title": "What Has the BBC Ever Done for Me?",
+          "description": "Watch to find out",
+          "link": "https://www.bbc.co.uk/iplayer/episodes/m002z1wj/watch/p0nyz55k?at_mid=AwZqPanva1&at_campaign=Making_The_Case_Trailer&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002z1wj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Making_The_Case_Trailer&at_bbc_team=BBC",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o#9",
+            "_": "https://www.bbc.co.uk/iplayer/episodes/m002z1wj/watch/p0nyz55k?at_mid=AwZqPanva1&at_campaign=Making_The_Case_Trailer&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002z1wj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Making_The_Case_Trailer&at_bbc_team=BBC#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 19 Jul 2026 02:29:00 GMT",
+          "pubDate": "Sun, 19 Jul 2026 09:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7900/live/d47eb600-8140-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+          "description": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
+          "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 19 Jul 2026 22:16:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467e/live/42b59d30-83af-11f1-ab77-f798412624b5.jpg"
+            }
+          }
+        },
+        {
+          "title": "Argentina boss Scaloni leaves news conference in tears talking about his future",
+          "description": "Argentina manager Lionel Scaloni leaves his post-match news conference after Sunday's World Cup final defeat by Spain in tears.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cdew76g9d1zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cdew76g9d1zo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 00:29:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d5/live/814a2e20-83ce-11f1-adc4-27fd56cf7ce1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Who made the difference for Spain? World Cup final player ratings",
+          "description": "BBC Sport journalist Neil Johnston rates the players after the World Cup final between Spain and Argentina.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvgjgp7656xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cvgjgp7656xo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 19 Jul 2026 22:44:27 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60c2/live/b52da1c0-83b2-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "'The reaction is terrible' - World Cup final turns ugly at full-time",
+          "description": "The frustration of some Argentina players boils over at the end of the 2026 World Cup final, after the 2022 winners are beaten by Spain in extra time.",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c5yrxql8wd3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/videos/c5yrxql8wd3o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 00:22:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4427/live/bc2c8820-83cf-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Fox kept cool at baked Birkdale to win The Open",
+          "description": "Ryan Fox wins the Open Championship - his first major title - with his final putt on a record-breaking weekend at Royal Birkdale.",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/c89nv0v1e22o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/golf/articles/c89nv0v1e22o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 19 Jul 2026 18:19:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1ea/live/ec6a54b0-83a5-11f1-926f-c90d1bcfbc84.jpg"
+            }
+          }
+        },
+        {
+          "title": "England seal series with record Lord's ODI total",
+          "description": "England hit the highest one-day international total at Lord's to beat India by 27 runs and seal a thrilling 2-1 series victory.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/cglj4n91744o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/cglj4n91744o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 19 Jul 2026 19:17:01 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/477e/live/949c3070-8312-11f1-9b83-cd6592fb54b4.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/919f/live/9d2c5700-83a4-11f1-8175-0b71720eeb65.jpg"
             }
           }
         },
         {
-          "title": "England beat France in 10-goal thriller to win third-place play-off",
-          "description": "Bukayo Saka scores a hat-trick as England beat France 6-4 in a thriller to record their best men's World Cup finish since 1966.",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss",
+          "title": "Russell 'numb to disappointment' after bitter blow to title hopes",
+          "description": "George Russell crashing out at Spa and falling 50 points behind team-mate Kimi Antonelli is a bitter blow to the Briton, writes Andrew Benson.",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/clyvg82xlpdo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo#9",
+            "_": "https://www.bbc.co.uk/sport/formula1/articles/clyvg82xlpdo#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 19 Jul 2026 01:12:34 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a259/live/f5a9d0c0-8308-11f1-bee8-53ce494e1abc.jpg"
-            }
-          }
-        },
-        {
-          "title": "England's best World Cup for 60 years - but how should it be judged?",
-          "description": "England have secured their best men's World Cup finish since winning the tournament 60 years ago. Is their performance at the 2026 edition being under-appreciated?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c78g1p05025o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c78g1p05025o#9",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 19 Jul 2026 00:23:05 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/be5d20a0-8307-11f1-b9cd-c9e5bc6349ad.jpg"
-            }
-          }
-        },
-        {
-          "title": "Over to you, Messi - Mbappe leads Golden Boot race for the ages",
-          "description": "Kylian Mbappe leads the Golden Boot race by two goals but Lionel Messi could yet overtake him in the World Cup final.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c89nl42dnpyo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c89nl42dnpyo#9",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 18 Jul 2026 23:48:40 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/979d/live/d555aff0-82ff-11f1-9bcc-27488bb80d29.jpg"
-            }
-          }
-        },
-        {
-          "title": "How did England players rate during the World Cup?",
-          "description": "BBC Sport England reporter Alex Howell assess how the Three Lions' players fared in North America.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cx2jljx84rwo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cx2jljx84rwo#9",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 18 Jul 2026 23:31:46 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33a7/live/10d45980-82cb-11f1-adf9-c14531781464.jpg"
-            }
-          }
-        },
-        {
-          "title": "Fleetwood still dreaming as Burns leads an open Open",
-          "description": "Local favourite Tommy Fleetwood is five shots behind Open leader Sam Burns after two late bogeys threaten to crush his Birkdale dreams.",
-          "link": "https://www.bbc.co.uk/sport/golf/articles/c4gdl72zpvno?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/golf/articles/c4gdl72zpvno#9",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 18 Jul 2026 19:54:33 GMT",
+          "pubDate": "Sun, 19 Jul 2026 19:22:48 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/514b/live/c6cf0fe0-82e0-11f1-ae6b-3189bc758570.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fe8/live/f71c9e90-83a0-11f1-8175-0b71720eeb65.jpg"
             }
           }
         }

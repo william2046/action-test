@@ -1,0 +1,814 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Tue, 21 Jul 2026 05:12:50 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Burnham to set out cost of living support as his Cabinet meets for first time",
+          "description": "Tuesday will see the prime minister announce his first raft of policies and chair his first cabinet meeting.",
+          "link": "https://www.bbc.co.uk/news/articles/c2lqdd44d0do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c2lqdd44d0do#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 21 Jul 2026 04:24:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ab/live/b35bcc70-84b9-11f1-bebd-3f8b6d6826e1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Who's in Andy Burnham's cabinet?",
+          "description": "An in-depth look at which Labour MPs have been appointed to cabinet roles by new Prime Minister Andy Burnham",
+          "link": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckg4we9g58do#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 23:16:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "132",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ede/live/8badd4d0-8463-11f1-b976-0b9c15b0ccfc.png"
+            }
+          }
+        },
+        {
+          "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+          "description": "The duties mark a major escalation in trade tensions between the North American neighbours. ",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 21 Jul 2026 00:34:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56de/live/36df7440-849a-11f1-8308-d37156d085c6.jpg"
+            }
+          }
+        },
+        {
+          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+          "description": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+          "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx25wg2x26do#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 21 Jul 2026 02:41:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/900b/live/19b1fef0-847d-11f1-8f17-6fca617ac634.jpg"
+            }
+          }
+        },
+        {
+          "title": "Man, 28, charged with murder of Ann Widdecombe",
+          "description": "Joshua Kerry from Rotherham will appear at Westminster Magistrates' Court on Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/cn4n2erympvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cn4n2erympvo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 19:02:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8039/live/fa3e3230-8456-11f1-8cf4-43aed99842b4.png"
+            }
+          }
+        },
+        {
+          "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
+          "description": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 21 Jul 2026 02:07:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5c/live/801f6fc0-838c-11f1-a4c3-dfd0ee4be073.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: Spain World Cup champions receive royal welcome in Madrid",
+          "description": "After meeting the royal family, the squad boarded an open-top bus for a victory parade through the capital city, where nearly two million fans lined the streets.",
+          "link": "https://www.bbc.co.uk/news/videos/c78g69nddgeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/c78g69nddgeo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 22:58:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/138c/live/da250370-848d-11f1-abb3-cb7978633ca4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: 'My flat was turned into a brothel,' landlord tells BBC Panorama",
+          "description": "A Panorama investigation uncovers how organised gangs are exploiting the UK's private rental market.",
+          "link": "https://www.bbc.co.uk/news/videos/ckg6zj89n3xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/ckg6zj89n3xo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 21:19:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79ad/live/b0ddd920-8482-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Russian warship carried out firing exercise off Plymouth coast",
+          "description": "The Neustrashimy's live-fire exercise took place in international waters and lasted for 30 minutes.",
+          "link": "https://www.bbc.co.uk/news/articles/ce970jryrk3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ce970jryrk3o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 21:53:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79a1/live/1d43ad00-8484-11f1-b4a3-ff90d93e1201.jpg"
+            }
+          }
+        },
+        {
+          "title": "Is UK facing drought for second summer in a row? ",
+          "description": "The longest dry spell in over 30 years for central England raises concerns about drought and when it might rain.",
+          "link": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 21 Jul 2026 00:12:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/933d/live/138470f0-4236-11f1-b55d-0f258dce1735.jpg"
+            }
+          }
+        },
+        {
+          "title": "Bumblebees are struggling in UK heatwaves - but you can help them",
+          "description": "The furry bodies of UK bumblebees are specially adapted for cold weather - making heatwaves a struggle.",
+          "link": "https://www.bbc.co.uk/news/articles/c141lymnl2yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c141lymnl2yo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 21 Jul 2026 00:01:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d8f/live/15884120-842a-11f1-96d8-4b9d5565f166.jpg"
+            }
+          }
+        },
+        {
+          "title": "How is the new PM's cabinet shaping up?",
+          "description": "The BBC's Annita McVeigh talks us through some key appointments as Andy Burnham takes office.",
+          "link": "https://www.bbc.co.uk/news/videos/cp3rz5k713yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cp3rz5k713yo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 23:08:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d97/live/d9e39830-848e-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why Andy Burnham will find it so tricky to unite Britain",
+          "description": "Is there any common ground left?",
+          "link": "https://www.bbc.co.uk/news/articles/c17y7r9yv1ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c17y7r9yv1ro#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 23:49:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c72/live/b768c240-8442-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Burnham promises help with your money. How could it affect you?",
+          "description": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult.   ",
+          "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 18:22:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea7b/live/acd4de30-8439-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Faisal Islam: The new PM has big ideas - but what will they cost?",
+          "description": "Every tricky decision and trade off is being watched by the country and the markets at the same time",
+          "link": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c9357rlk494o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 21:47:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77c9/live/dd3a3380-845d-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Key takeaways as Andy Burnham becomes PM",
+          "description": "The new Labour leader has formally taken office and set out his priorities for power in No 10.",
+          "link": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 20:07:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd12/live/760894c0-8450-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Your tips on getting a fussy child to eat, and six recipes they'll love",
+          "description": "Want to avoid battles over broccoli and squabbles over spinach? We've asked you for your advice on how to cope at mealtimes over the summer holidays.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yrjgj984qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5yrjgj984qo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 21 Jul 2026 00:16:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ec/live/5e399080-8435-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I made £100,000 of TikTok sales in one day': The business of live shopping",
+          "description": "Buying on social media livestreams is fast becoming regular consumer behaviour for many.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 23:06:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e6c/live/07f87140-8418-11f1-b3ec-1d7f0502d196.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Burnham era begins' and 'King Kev'",
+          "description": "The papers are dominated by Andy Burnham's first day as prime minister.",
+          "link": "https://www.bbc.co.uk/news/articles/c0qv0zgq741o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c0qv0zgq741o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 21 Jul 2026 01:14:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bdf/live/c5ed4700-8483-11f1-b4a3-ff90d93e1201.png"
+            }
+          }
+        },
+        {
+          "title": "Misleading posts about Trump at World Cup final viewed by millions",
+          "description": "Some of the most viral posts focus on US President Donald Trump and Spain's wonderkid Lamine Yamal.",
+          "link": "https://www.bbc.co.uk/news/videos/cn5n4rxyz3wo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cn5n4rxyz3wo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 20:07:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0543/live/8c7876d0-846e-11f1-926f-c90d1bcfbc84.jpg"
+            }
+          }
+        },
+        {
+          "title": "'If only people knew what a tick could do' - the deadly meat allergy caused by tick bites",
+          "description": "Mammalian meat allergy is a growing problem along Australia's east coast - and it's caused by tick bites.",
+          "link": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cj6g03567edo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 18:01:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43f6/live/c2149510-76ab-11f1-9b91-4ff46439d279.png"
+            }
+          }
+        },
+        {
+          "title": "The 20-somethings betting big on tech stocks",
+          "description": "The BBC hears from people about the risks and rewards of investing in technology shares.",
+          "link": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c20yz9v1llro#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 22:00:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851d/live/dc840590-80bd-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Will the Tate brothers be extradited from the US to the UK?",
+          "description": "Andrew and Tristan Tate are set to face extradition proceedings in the US as British prosecutors issued 38 new charges against the brothers.",
+          "link": "https://www.bbc.co.uk/news/articles/cjej0j0lzkno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cjej0j0lzkno#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 23:25:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e51/live/ca7996d0-848c-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tate brothers appear in US court for extradition proceedings",
+          "description": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
+          "link": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6294y87wk6o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 19:05:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6301/live/65d8f040-848c-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Fifa opens investigation into Argentina post-final trouble",
+          "description": "Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 19:32:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d24c/live/0a2e58b0-8447-11f1-878a-03d79d819c89.jpg"
+            }
+          }
+        },
+        {
+          "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+          "description": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march. ",
+          "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 16:26:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e8d/live/e2c0bd70-8448-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Fire crews to remain at Arthur's Seat for days after blaze",
+          "description": "A huge plume of smoke could be seen from as far away as Fife on Sunday evening.",
+          "link": "https://www.bbc.co.uk/news/articles/cr59mqnm081o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cr59mqnm081o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 20:12:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cac/live/987dbd70-8430-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Anti-ICE' Army veteran set fire outside Manhattan federal building, say officials",
+          "description": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI.",
+          "link": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 21 Jul 2026 02:16:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/037f/live/212d5ff0-84a8-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tropical Storm Bertha threatens US Gulf coast",
+          "description": "Storm surges up to 4ft are possible along parts of the Louisiana and Mississippi coasts, officials say.",
+          "link": "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 21 Jul 2026 02:42:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce22/live/7cb71d20-84ad-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Merger deal between Paramount and Warner Bros paused by judge",
+          "description": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 19:48:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6662/live/88431510-846f-11f1-b286-f1d324aa6c22.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Andy Burnham: Who is the new PM?",
+          "description": "From Manchester mayor to prime minister; who is he and what does stand for?",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002zlct?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m002zlct#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 14:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0nyy554.jpg"
+            }
+          }
+        },
+        {
+          "title": "What No 10 Will Really Be Like For Andy Burnham",
+          "description": "Former insiders explain ahead of moving in day.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nyjw5h?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0nyjw5h#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 19 Jul 2026 13:33:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Get inside access to the new super-elite: The tech billionaires",
+          "description": "Matt Shea meets the new tech billionaires trying to reshape the world.",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002z1j2?at_mid=CPeN9Np5Nr&at_campaign=The_Tech_Billionaire_Takeover&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002z1j2&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Tech_Billionaire_Takeover&at_bbc_team=BBC",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m002z1j2?at_mid=CPeN9Np5Nr&at_campaign=The_Tech_Billionaire_Takeover&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002z1j2&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Tech_Billionaire_Takeover&at_bbc_team=BBC#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 11 Jul 2026 23:01:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e4/live/18da5a20-7ecb-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Gifted, charismatic and passionate amid highs and lows - Keegan obituary",
+          "description": "The positivity and vibrancy Kevin Keegan brought made him a cherished figure within the game, writes chief football writer Phil McNulty.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c20z4d87vp3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c20z4d87vp3o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 15:00:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f09/live/43659cb0-feaf-11f0-8431-c5caf4139334.jpg"
+            }
+          }
+        },
+        {
+          "title": "Fifa opens investigation into Argentina post-final trouble - what happens next?",
+          "description": "Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 19:32:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d24c/live/0a2e58b0-8447-11f1-878a-03d79d819c89.jpg"
+            }
+          }
+        },
+        {
+          "title": "Guardiola in reported talks with Italy - would England come calling?",
+          "description": "Former Manchester City manager Pep Guardiola, a fluent Italian speaker, is a contender for the vacant Italy head coach job.\n",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c20dn5j0lj0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c20dn5j0lj0o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 17:20:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ca1/live/25912780-8461-11f1-8cf4-43aed99842b4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Gallery: Spain celebrate World Cup triumph in Madrid",
+          "description": "Thousands of fans take to the streets of Madrid as the Spain squad enjoy a bus parade after winning the World Cup.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 21:50:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965b/live/9a484b00-8482-11f1-b4a3-ff90d93e1201.jpg"
+            }
+          }
+        },
+        {
+          "title": "What will Rogers bring to Alonso's Chelsea?",
+          "description": "Chelsea's £117m move for Aston Villa forward Morgan Rogers is a genuine transfer window shock, but how did they do it and what does it mean for the rest of the squad?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 14:57:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7687/live/db736060-8414-11f1-b3ec-1d7f0502d196.jpg"
+            }
+          }
+        },
+        {
+          "title": "Humphries suffers shock first-round exit at Matchplay",
+          "description": "World number two Luke Humphries is out of the World Matchplay after a shock first-round loss to Scotland's Cameron Menzies.",
+          "link": "https://www.bbc.co.uk/sport/darts/articles/cx2jn8p1v1yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/darts/articles/cx2jn8p1v1yo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 22:19:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c431/live/62436e70-8481-11f1-b4a3-ff90d93e1201.jpg"
+            }
+          }
+        },
+        {
+          "title": "Earl wants changes to 'brutal' Nations Championship format",
+          "description": "Ben Earl calls for a change to the Nations Championship format after England's \"brutal\" schedule in the summer leg of the inaugural competition.",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c74g58vzjj4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/rugby-union/articles/c74g58vzjj4o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 20 Jul 2026 22:16:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f654/live/71d40340-8486-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

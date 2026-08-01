@@ -17,7 +17,7 @@
         "link": "https://www.bbc.co.uk/news"
       },
       "generator": "RSS for Node",
-      "lastBuildDate": "Fri, 31 Jul 2026 04:19:03 GMT",
+      "lastBuildDate": "Sat, 01 Aug 2026 04:17:17 GMT",
       "atom:link": {
         "$": {
           "href": "https://feeds.bbci.co.uk/news/rss.xml",
@@ -30,439 +30,477 @@
       "ttl": "15",
       "item": [
         {
-          "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
-          "description": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
+          "title": "Fifa scraps controversial World Cup investment plan",
+          "description": "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo#0",
+            "_": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 30 Jul 2026 21:40:21 GMT",
+          "pubDate": "Sat, 01 Aug 2026 00:12:06 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad54/live/495f4a10-8c50-11f1-b8ee-9b3c26ad07bb.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f88/live/90bb0030-8d3a-11f1-b8ee-9b3c26ad07bb.jpg"
             }
           }
         },
         {
-          "title": "Andy Burnham to give regional mayors share of income tax",
-          "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
-          "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+          "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o#0",
+            "_": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 30 Jul 2026 21:32:09 GMT",
+          "pubDate": "Fri, 31 Jul 2026 17:03:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ceb/live/c49dfb40-8cf5-11f1-a7ab-8b30adf0800a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham",
+          "description": "Labour's Bev Craig secures nearly double the number of votes won by Reform UK's Sian Astley.",
+          "link": "https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cy74n1n1lnxo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 31 Jul 2026 22:53:54 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb9c/live/1884aea0-8c35-11f1-89bb-9b3e3c6f25f4.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4918/live/44b70360-8d2f-11f1-a8c6-f78b94006729.jpg"
             }
           }
         },
         {
-          "title": "Crews tackling Suffolk wildfire say they are in better position",
-          "description": "The Suffolk Fire and Rescue Service says \"the situation appears to be stabilising\" but at least 12 fire engines will remain on scene.",
-          "link": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+          "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
+          "description": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public.",
+          "link": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo#0",
+            "_": "https://www.bbc.co.uk/news/articles/ce973re9404o#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Fri, 31 Jul 2026 01:12:58 GMT",
+          "pubDate": "Fri, 31 Jul 2026 22:46:44 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a91f/live/cc363ee0-8c77-11f1-b8ee-9b3c26ad07bb.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b55/live/3b993a00-8d25-11f1-b8ee-9b3c26ad07bb.jpg"
             }
           }
         },
         {
-          "title": "Watch: Thick smoke and flames as crews tackle Suffolk wildfire",
-          "description": "Video shows thick plumes of smoke rising from the Suffolk coast, where a major incident is declared.",
-          "link": "https://www.bbc.co.uk/news/videos/cd0xvkr8y17o?at_medium=RSS&at_campaign=rss",
+          "title": "Victims of disgraced funeral boss demand industry regulation",
+          "description": "Campaigners say \"full statutory regulation\" must be brought in following Legacy funerals scandal.",
+          "link": "https://www.bbc.co.uk/news/articles/cr49w13w9d0o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/videos/cd0xvkr8y17o#0",
+            "_": "https://www.bbc.co.uk/news/articles/cr49w13w9d0o#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 30 Jul 2026 11:42:48 GMT",
+          "pubDate": "Sat, 01 Aug 2026 00:55:15 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2821/live/8c0de8d0-8bfb-11f1-b2ab-0dd01740f9f6.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2db7/live/563651e0-8c0d-11f1-8665-e382dc49dfdb.jpg"
             }
           }
         },
         {
-          "title": "British Airways flight called mayday on approach to Heathrow",
-          "description": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
-          "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
+          "title": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
+          "description": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum. ",
+          "link": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o#0",
+            "_": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 30 Jul 2026 17:34:26 GMT",
+          "pubDate": "Fri, 31 Jul 2026 23:43:10 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89dd/live/c63fb180-8c3e-11f1-a7ab-8b30adf0800a.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0150/live/4ad75cf0-8cc5-11f1-a7ab-8b30adf0800a.jpg"
             }
           }
         },
         {
-          "title": "MP Diane Abbott readmitted into Labour Party after suspension",
-          "description": "The long-serving MP apologises for past comments and says she has been issued with a \"formal warning\". ",
-          "link": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o?at_medium=RSS&at_campaign=rss",
+          "title": "How Sam Fender and Olivia Dean's Rein Me In broke the UK's singles chart record",
+          "description": "The duet has spent 19 non-consecutive weeks at the top of the charts, breaking a 73-year-old record.",
+          "link": "https://www.bbc.co.uk/news/articles/cly8r2p27lzo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o#0",
+            "_": "https://www.bbc.co.uk/news/articles/cly8r2p27lzo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 30 Jul 2026 20:54:11 GMT",
+          "pubDate": "Fri, 31 Jul 2026 16:52:16 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54ad/live/81988240-8c3f-11f1-89bb-9b3e3c6f25f4.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bac/live/5fea3750-8cf4-11f1-a7ab-8b30adf0800a.png"
             }
           }
         },
         {
-          "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-          "description": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
-          "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+          "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+          "description": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
+          "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo#0",
+            "_": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Fri, 31 Jul 2026 02:41:09 GMT",
+          "pubDate": "Fri, 31 Jul 2026 23:58:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a87d/live/23d70e10-8bf9-11f1-b8ee-9b3c26ad07bb.png"
+            }
+          }
+        },
+        {
+          "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
+          "description": "Donald Trump insists Israel is \"very happy\" with a proposal for the Palestinian group to give up weapons in exchange for an Israeli withdrawal.",
+          "link": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 31 Jul 2026 20:58:27 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0fd/live/af9c6590-8c2f-11f1-b8ee-9b3c26ad07bb.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c578/live/0117af90-8d22-11f1-8806-e38839242051.jpg"
             }
           }
         },
         {
-          "title": "Anthropic says Claude AI hacked three organisations during cyber tests",
-          "description": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
-          "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+          "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+          "description": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
+          "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po#0",
+            "_": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Fri, 31 Jul 2026 01:31:14 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg"
-            }
-          }
-        },
-        {
-          "title": "Archbishop of Canterbury committed to £100m slavery fund",
-          "description": "Dame Sarah Mullally has renewed her commitment to the fund on a visit to Cape Coast Castle in Ghana.",
-          "link": "https://www.bbc.co.uk/news/articles/cp9e03ymreyo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cp9e03ymreyo#0",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 30 Jul 2026 19:44:00 GMT",
+          "pubDate": "Fri, 31 Jul 2026 23:41:10 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8a/live/02a89230-8c45-11f1-b2ab-0dd01740f9f6.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f06/live/74ae3130-8a6c-11f1-a7ab-8b30adf0800a.jpg"
             }
           }
         },
         {
-          "title": "What your summer reading list says about you",
-          "description": "Just picked your holiday book? Our choices can subconsciously reveal important parts of our personality, studies show. ",
-          "link": "https://www.bbc.co.uk/news/articles/cd69glgl2jzo?at_medium=RSS&at_campaign=rss",
+          "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs ",
+          "description": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
+          "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cd69glgl2jzo#1",
+            "_": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Fri, 31 Jul 2026 00:26:02 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c46c/live/28b7c900-8c0e-11f1-8665-e382dc49dfdb.jpg"
-            }
-          }
-        },
-        {
-          "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
-          "description": "Could you live communally in a disused building in exchange for a heavily discounted rent? Property guardians show us around.",
-          "link": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 30 Jul 2026 23:05:41 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39df/live/81725880-842f-11f1-8db9-6b4471749e2a.jpg"
-            }
-          }
-        },
-        {
-          "title": "Teen hackers tell BBC how police are helping them use their skills for good",
-          "description": "Cyber Prevent is targeting predominantly boys and young men at risk of being drawn to cyber criminality.",
-          "link": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Fri, 31 Jul 2026 00:42:48 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e04/live/545ff320-8c2c-11f1-a7ab-8b30adf0800a.jpg"
-            }
-          }
-        },
-        {
-          "title": "Millions opposed military rule in Myanmar. Is their dream of a revolution over?",
-          "description": "Opponents of the junta hoped a revolution would remake Myanmar - but these are disheartening times.",
-          "link": "https://www.bbc.co.uk/news/articles/ckgd3k7xe39o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/ckgd3k7xe39o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 30 Jul 2026 22:02:13 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1f/live/625da2d0-8bf8-11f1-9127-6b0fc0b6fa67.jpg"
-            }
-          }
-        },
-        {
-          "title": "The Papers: 'Cruel summer' and 'Football's staying home'",
-          "description": "Fires rage near nuclear plant in Suffolk and Uefa mulls World Cup boycott - Friday's papers.",
-          "link": "https://www.bbc.co.uk/news/articles/cwyjgq583j7o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cwyjgq583j7o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Fri, 31 Jul 2026 01:38:59 GMT",
+          "pubDate": "Sat, 01 Aug 2026 00:20:43 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed4b/live/d54ae6b0-8c64-11f1-a7ab-8b30adf0800a.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569e/live/c89709f0-8d39-11f1-a7ab-8b30adf0800a.jpg"
             }
           }
         },
         {
-          "title": "Weekly quiz: Why was a French teenager fined for licking a straw?",
-          "description": "How much attention did you pay to what happened in the world over the past seven days?",
-          "link": "https://www.bbc.co.uk/news/articles/cn4nlp7qjjlo?at_medium=RSS&at_campaign=rss",
+          "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+          "description": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+          "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cn4nlp7qjjlo#1",
+            "_": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 30 Jul 2026 17:32:18 GMT",
+          "pubDate": "Fri, 31 Jul 2026 21:57:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ad/live/074af240-8d23-11f1-92b9-3b7efaf76067.jpg"
+            }
+          }
+        },
+        {
+          "title": "Infantino on the brink? Who might replace him if he goes?",
+          "description": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 01 Aug 2026 00:04:26 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c41/live/fa8cbc60-8c22-11f1-b2ab-0dd01740f9f6.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feaa/live/b1e19dc0-8cf7-11f1-b2ab-0dd01740f9f6.jpg"
             }
           }
         },
         {
-          "title": "Why limited war with the US may suit Iran better than peace",
-          "description": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-          "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+          "title": "He bought a fitness supplement online to bulk up, but ended up losing his mind",
+          "description": "Daniel Murphy went into psychosis after taking missold drugs which had been mixed with steroids.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gd82vvvdno?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo#1",
+            "_": "https://www.bbc.co.uk/news/articles/c4gd82vvvdno#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 30 Jul 2026 17:26:01 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac59/live/96fbf5d0-8c3b-11f1-89bb-9b3e3c6f25f4.jpg"
-            }
-          }
-        },
-        {
-          "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-          "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island. ",
-          "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c9w01781981o#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 30 Jul 2026 16:04:53 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0742/live/e5534660-8c23-11f1-a7ab-8b30adf0800a.png"
-            }
-          }
-        },
-        {
-          "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
-          "description": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling.",
-          "link": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 30 Jul 2026 16:19:08 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/656d/live/f6c95880-8c32-11f1-89bb-9b3e3c6f25f4.jpg"
-            }
-          }
-        },
-        {
-          "title": "Watch: Moment empty building collapses in New York",
-          "description": "Surveillance video shows the building  – which was under construction – crumbling over and sending debris spilling onto a road.",
-          "link": "https://www.bbc.co.uk/news/videos/crl70g6ekleo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/videos/crl70g6ekleo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 30 Jul 2026 23:31:18 GMT",
+          "pubDate": "Fri, 31 Jul 2026 23:42:03 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f270/live/aa606010-8c6e-11f1-b2ab-0dd01740f9f6.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8c6/live/dd498740-8c28-11f1-9488-69577cd5e4e0.jpg"
             }
           }
         },
         {
-          "title": "Palestine Action ban to be reviewed by Supreme Court ",
-          "description": "The UK's highest court gives Palestine Action's co-founder permission to appeal the government's proscription of the group under anti-terrorism legislation.",
-          "link": "https://www.bbc.co.uk/news/articles/c87n321w9qlo?at_medium=RSS&at_campaign=rss",
+          "title": "The Papers: 'Spanish border crisis' and 'iron chancellor'",
+          "description": "The crossing of 60,000 migrants into the Spanish North African enclave of Ceuta from Morocco is featured prominently across Saturday's papers.",
+          "link": "https://www.bbc.co.uk/news/articles/cdrvkzdpynyo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c87n321w9qlo#3",
+            "_": "https://www.bbc.co.uk/news/articles/cdrvkzdpynyo#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 30 Jul 2026 19:45:56 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1057/live/467d2d00-8c35-11f1-89bb-9b3e3c6f25f4.jpg"
-            }
-          }
-        },
-        {
-          "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-          "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
-          "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 30 Jul 2026 17:55:24 GMT",
+          "pubDate": "Sat, 01 Aug 2026 03:43:53 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b843/live/97441f30-8c37-11f1-b2ab-0dd01740f9f6.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c98a/live/2e053350-8d32-11f1-b8ee-9b3c26ad07bb.jpg"
             }
           }
         },
         {
-          "title": "Greens review social media operation as Polanski row rumbles on",
-          "description": "The Green Party is grappling with how to manage its social media following a controversial post by its leader.",
-          "link": "https://www.bbc.co.uk/news/articles/cz97ke8dn9wo?at_medium=RSS&at_campaign=rss",
+          "title": "Who is Greater Manchester's new Mayor Bev Craig?",
+          "description": "Bev Craig succeeds Andy Burnham as Greater Manchester's mayor, but what do we know about her?",
+          "link": "https://www.bbc.co.uk/news/articles/cly5nvj2d2jo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cz97ke8dn9wo#3",
+            "_": "https://www.bbc.co.uk/news/articles/cly5nvj2d2jo#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 30 Jul 2026 16:42:21 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4669/live/fd625a80-8c36-11f1-89bb-9b3e3c6f25f4.jpg"
-            }
-          }
-        },
-        {
-          "title": "Four people die after busiest day for small-boat crossings this year",
-          "description": "Two deadly incidents occurred as 752 people crossed the Channel into the UK on Wednesday, new figures show.",
-          "link": "https://www.bbc.co.uk/news/articles/c5yd2j93r7ro?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c5yd2j93r7ro#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 30 Jul 2026 17:23:52 GMT",
+          "pubDate": "Fri, 31 Jul 2026 23:02:20 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e34c/live/b9083d30-591b-11f1-96dc-73641c5ce48f.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f817/live/de5b2700-6fdc-11f1-b763-7be8e457290d.png"
+            }
+          }
+        },
+        {
+          "title": "I was working to survive and I wasn't paid",
+          "description": "Sonia Garcia Monuz is among ex-catering firm employees who claim they are owed unpaid wages.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2rv3899g8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx2rv3899g8o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 01 Aug 2026 01:04:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9e4/live/5ef93bf0-8c15-11f1-94b2-05bc97107049.jpg"
+            }
+          }
+        },
+        {
+          "title": "British girl band FLO 'want it all' - and they're confident they will get it",
+          "description": "The rising stars say making their second album, Therapy at the Club, was a \"crash course\" in music.",
+          "link": "https://www.bbc.co.uk/news/articles/c8rnpxyj762o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c8rnpxyj762o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 31 Jul 2026 23:56:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6807/live/5cad96a0-8cb7-11f1-b49b-bb9fc846a015.png"
+            }
+          }
+        },
+        {
+          "title": "CPS to target assets of jailed funeral director",
+          "description": "As Robert Bush starts a 20-year prison sentence, prosecutors want to claw back the money he stole.",
+          "link": "https://www.bbc.co.uk/news/articles/ce97xg0zgp7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ce97xg0zgp7o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 01 Aug 2026 01:08:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b7a/live/176d8730-8c12-11f1-aa8b-ebe30ab3ea99.jpg"
+            }
+          }
+        },
+        {
+          "title": "Budget in October, Healey announces, as ministers urged to stick to spending limits",
+          "description": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
+          "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 01 Aug 2026 03:34:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f911/live/99ae70c0-8ced-11f1-a573-93159e2b55da.jpg"
+            }
+          }
+        },
+        {
+          "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+          "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+          "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ce973yvk7pko#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 01 Aug 2026 04:06:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/398f/live/0f7e11e0-8d4b-11f1-b8ee-9b3c26ad07bb.jpg"
+            }
+          }
+        },
+        {
+          "title": "How police in US are using the power of podcasts to crack unsolved murders",
+          "description": "More police departments are trying to invigorate unsolved murder or missing cases through the power of podcasts.",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 31 Jul 2026 23:42:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a207/live/656bd6e0-8ced-11f1-b1ae-d9d901a2754c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
+          "description": "At least two chartered flights carrying up to 150 greyhounds are set to fly to Australia's eastern states, the BBC understands.",
+          "link": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 31 Jul 2026 21:09:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f49d/live/5b206e10-8ae2-11f1-a387-0db93bb3fe68.jpg"
+            }
+          }
+        },
+        {
+          "title": "Parents sue school over 'inhumane' calming rooms after BBC report",
+          "description": "Ten families are claiming their children were amongst those harmed by their treatment in the rooms.",
+          "link": "https://www.bbc.co.uk/news/articles/cq89757z9vyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cq89757z9vyo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 31 Jul 2026 16:29:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a34e/live/4329e070-1063-11f0-ba12-8d27eb561761.jpg"
+            }
+          }
+        },
+        {
+          "title": "Massive Attack banned from Singapore after pro-Palestine display at show",
+          "description": "The UK band is told not to return to the city-state after shouting \"free Palestine\" at a gig on Wednesday.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwyle421806o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 31 Jul 2026 17:55:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d6/live/c9a28290-8ca1-11f1-a867-632131402dc0.jpg"
             }
           }
         },
@@ -486,16 +524,16 @@
           }
         },
         {
-          "title": "How does the UK fight wildfires?",
-          "description": "Fast moving Suffolk wildfire \"is not yet under control\" as major incident declared.",
-          "link": "https://www.bbc.co.uk/sounds/play/p0p137nd?at_medium=RSS&at_campaign=rss",
+          "title": "Is The World Cup For Sale?",
+          "description": "Infantino 'wrong man' to lead Fifa says Burnham as criticism grows.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p1380w?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0p137nd#5",
+            "_": "https://www.bbc.co.uk/sounds/play/p0p1380w#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 30 Jul 2026 16:13:00 GMT",
+          "pubDate": "Fri, 31 Jul 2026 15:30:00 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
@@ -505,16 +543,16 @@
           }
         },
         {
-          "title": "Americast",
-          "description": "Laura Loomer, one of Trump's favourite influencers, has interviewed Zelensky.",
-          "link": "https://www.bbc.co.uk/sounds/play/p0p1hy8n?at_medium=RSS&at_campaign=rss",
+          "title": "The Democrats need to win Michigan… so why is it splitting the party?",
+          "description": "A centrist and a left wing candidate go head to head in Michigan.",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8lzf?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0p1hy8n#5",
+            "_": "https://www.bbc.co.uk/sounds/play/w3ct8lzf#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 29 Jul 2026 16:23:00 GMT",
+          "pubDate": "Fri, 31 Jul 2026 14:00:00 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
@@ -524,135 +562,135 @@
           }
         },
         {
-          "title": "New documentary uncovers sexual misconduct claims against Leto",
-          "description": "Multiple women accuse Oscar-winning Hollywood actor Jared Leto of sexual misconduct.",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m002zl1y?at_mid=2PvRUD6ZAG&at_campaign=Jared_Leto_Hollywoods_Dark_Secret&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl1y&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Jared_Leto_Hollywoods_Dark_Secret&at_bbc_team=BBC",
+          "title": "Fifa scraps controversial World Cup investment plan",
+          "description": "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/iplayer/episode/m002zl1y?at_mid=2PvRUD6ZAG&at_campaign=Jared_Leto_Hollywoods_Dark_Secret&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl1y&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Jared_Leto_Hollywoods_Dark_Secret&at_bbc_team=BBC#6",
+            "_": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 29 Jul 2026 05:00:00 GMT",
+          "pubDate": "Sat, 01 Aug 2026 00:12:06 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff1b/live/3cf2d320-8b4f-11f1-b8ee-9b3c26ad07bb.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f88/live/90bb0030-8d3a-11f1-b8ee-9b3c26ad07bb.jpg"
             }
           }
         },
         {
-          "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
-          "description": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
+          "title": "Infantino on the brink? Who might replace him if he goes?",
+          "description": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo#7",
+            "_": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 30 Jul 2026 21:40:21 GMT",
+          "pubDate": "Sat, 01 Aug 2026 00:04:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feaa/live/b1e19dc0-8cf7-11f1-b2ab-0dd01740f9f6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Same start but different outlook at Rangers as McInnes era begins",
+          "description": "Derek McInnes insists Rangers will improve after his team's Scottish Premiership draw at Dundee United.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c04krgdvn3ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c04krgdvn3ro#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 31 Jul 2026 23:09:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944f/live/79a8cd30-8d28-11f1-aae3-4d73737a2782.jpg"
+            }
+          }
+        },
+        {
+          "title": "Chelsea's Mudryk free to play after appeal against doping ban",
+          "description": "Chelsea and Ukraine winger Mykhailo Mudryk has not played since November 2024, and has been unable to access the club's training ground.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 31 Jul 2026 15:59:06 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad54/live/495f4a10-8c50-11f1-b8ee-9b3c26ad07bb.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feee/live/2fbc1cd0-43cd-11f1-903c-97fc83b422d6.jpg"
             }
           }
         },
         {
-          "title": "Uefa to boycott World Cups if Fifa plans approved",
-          "description": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+          "title": "Hunter Bell eyes ambitious sweep after 800m gold in Glasgow",
+          "description": "England's Georgia Hunter Bell eyes an ambitious sweep of gold medals in 2026 after winning the 800m Commonwealth Games title in Glasgow.",
+          "link": "https://www.bbc.co.uk/sport/athletics/articles/cj36lz1d2lno?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo#7",
+            "_": "https://www.bbc.co.uk/sport/athletics/articles/cj36lz1d2lno#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 30 Jul 2026 16:47:40 GMT",
+          "pubDate": "Fri, 31 Jul 2026 22:15:15 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aae/live/be7e8ec0-8c30-11f1-89bb-9b3e3c6f25f4.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0cb/live/afb7a2f0-8d25-11f1-b2ab-0dd01740f9f6.jpg"
             }
           }
         },
         {
-          "title": "Challenging times ahead for Newcastle - Shearer",
-          "description": "MOTD pundit and Newcastle United legend Alan Shearer explains why he is worried about what will happen next at his old club after the departure of manager Eddie Howe.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cd0xvpmny55o?at_medium=RSS&at_campaign=rss",
+          "title": "Newcastle confirm Howe resignation as head coach",
+          "description": "Eddie Howe steps down as head coach of Newcastle United after nearly five years in charge.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c74gdn2w3d7o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cd0xvpmny55o#7",
+            "_": "https://www.bbc.co.uk/sport/football/articles/c74gdn2w3d7o#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 30 Jul 2026 15:10:54 GMT",
+          "pubDate": "Fri, 31 Jul 2026 16:09:53 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a9/live/1c667320-8c29-11f1-9488-69577cd5e4e0.jpg"
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/945a/live/6cb01ca0-8bf7-11f1-9127-6b0fc0b6fa67.jpg"
             }
           }
         },
         {
-          "title": "England captaincy could be what Root needs - Vaughan",
-          "description": "Former skipper Michael Vaughan says the England Test captaincy could be \"exactly what Joe Root needs\" after the 35-year-old is appointed to the role for a second time.",
-          "link": "https://www.bbc.co.uk/sport/cricket/articles/ckg357xm0jlo?at_medium=RSS&at_campaign=rss",
+          "title": "Ryu leads Open in pursuit of third straight major",
+          "description": "South Korea's Haeran Ryu bounces back from a poor start to end the second round as leader of the AIG Women's Open at Royal Lytham & St Annes.",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/c0qvlle2348o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/cricket/articles/ckg357xm0jlo#7",
+            "_": "https://www.bbc.co.uk/sport/golf/articles/c0qvlle2348o#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Thu, 30 Jul 2026 16:20:36 GMT",
+          "pubDate": "Fri, 31 Jul 2026 18:42:52 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c862/live/30ede4f0-8c2d-11f1-9fe2-97492b603d93.jpg"
-            }
-          }
-        },
-        {
-          "title": "Howe going as spending rules bite - troubles for Newcastle's Saudi owners",
-          "description": "Newcastle United wanted to become one of the world's top clubs under their Saudi owners - but Eddie Howe's decision to leave is a sign of the troubles they are facing.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c78g4jn43zko?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c78g4jn43zko#7",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 30 Jul 2026 12:31:22 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be2a/live/123cb6d0-8c05-11f1-b8ee-9b3c26ad07bb.jpg"
-            }
-          }
-        },
-        {
-          "title": "Vomit in the morning, gold in the afternoon for England's gamblers",
-          "description": "Sickness struck England's team pursuit squad on Thursday morning, but a late gamble and fine ride secured Commonwealth Games gold in the velodrome.",
-          "link": "https://www.bbc.co.uk/sport/cycling/articles/c1w1px5989xo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/cycling/articles/c1w1px5989xo#7",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Thu, 30 Jul 2026 20:26:30 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f289/live/3b66a110-8c50-11f1-a7ab-8b30adf0800a.jpg"
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a77/live/76185cd0-8d0f-11f1-a7ab-8b30adf0800a.png"
             }
           }
         }

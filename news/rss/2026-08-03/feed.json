@@ -1,0 +1,681 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Mon, 03 Aug 2026 05:33:23 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Trump suggests new talks with Iran to begin on Monday",
+          "description": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c23579jzv08o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 00:11:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13fa/live/ad119c30-8ec5-11f1-942d-9772a4b2ac54.jpg"
+            }
+          }
+        },
+        {
+          "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+          "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5yvqk69enko#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 03:32:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac2b/live/2be8ca90-8eb4-11f1-a122-d789962f080e.jpg"
+            }
+          }
+        },
+        {
+          "title": "How parents and pupils took on 'cruel', 'authoritarian' schools - and won",
+          "description": "Discipline at an academy trust went too far - parents, pupils and former teachers tell BBC Panorama.",
+          "link": "https://www.bbc.co.uk/news/articles/cgje8d1p419o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cgje8d1p419o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 05:01:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c57/live/50fd27c0-8a79-11f1-b2ab-0dd01740f9f6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
+          "description": "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.",
+          "link": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c86ngegz9qno#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 05:02:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e00/live/17a583e0-8cd2-11f1-ad76-996492004557.jpg"
+            }
+          }
+        },
+        {
+          "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+          "description": "The PM says enforcement is being increased but there also need to be more safe routes into the UK.",
+          "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 21:18:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f40/live/437e3850-8ebb-11f1-8ef4-9df8a1651b2c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Heat health alerts in England as temperatures set to reach 34C ",
+          "description": "Temperatures are expected to reach 34C in some areas of England. ",
+          "link": "https://www.bbc.co.uk/weather/articles/c17199dy4yxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/c17199dy4yxo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 02:06:27 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/147d/live/ada09660-8e70-11f1-b8ee-9b3c26ad07bb.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny  ",
+          "description": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+          "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 23:15:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7080/live/0395c5a0-8ee8-11f1-b2ab-0dd01740f9f6.jpg"
+            }
+          }
+        },
+        {
+          "title": "What are the 'luteal uglies'? And how they're affecting women",
+          "description": "More women than ever are talking about the luteal phase on social media, but how does it actually affect you?",
+          "link": "https://www.bbc.co.uk/news/articles/cy0jk6wjkn0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cy0jk6wjkn0o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 00:57:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3784/live/e4105750-8ced-11f1-a573-93159e2b55da.jpg"
+            }
+          }
+        },
+        {
+          "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+          "description": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 01:04:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42db/live/1194f890-8e8b-11f1-b8ee-9b3c26ad07bb.jpg"
+            }
+          }
+        },
+        {
+          "title": "US and Japan take action to prop up yen in rare joint move",
+          "description": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+          "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 02:43:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg"
+            }
+          }
+        },
+        {
+          "title": "At least five Al Fayed survivors confirmed as modern slavery victims",
+          "description": "The rulings include women trafficked internationally and within the UK, and one case found to have taken place entirely within Harrods.",
+          "link": "https://www.bbc.co.uk/news/articles/c151k0k4eqgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c151k0k4eqgo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 01:02:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5555/live/918eec80-8eaf-11f1-9745-d1e5ae126085.jpg"
+            }
+          }
+        },
+        {
+          "title": "New Spider-Man film sees second-biggest ever global opening weekend",
+          "description": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
+          "link": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c3w052le2elo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 04:10:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d2/live/86e16b80-8ede-11f1-893f-93ecdb580a16.jpg"
+            }
+          }
+        },
+        {
+          "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth Games doubts",
+          "description": "Glasgow 2026 was a joyful success in isolation but questions and doubts remain about the Commonwealth Games' future.",
+          "link": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 21:45:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc8/live/0a086ca0-8e78-11f1-98c2-039438173617.jpg"
+            }
+          }
+        },
+        {
+          "title": "Outside the Moscow restaurant where bomb killed three",
+          "description": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cdx8qp451lko#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 03:53:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d9c/live/64155f20-8ed0-11f1-93cd-770ec532eabb.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: Police warn on early release and 'le rip-off'",
+          "description": "A range of stories feature on Monday's front pages, with Andy Burnham's vow to cut the number of people arriving in the UK on small boats a focus for some.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ywj4z65xwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5ywj4z65xwo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 05:26:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd0/live/e6f595d0-8ec2-11f1-b2ab-0dd01740f9f6.png"
+            }
+          }
+        },
+        {
+          "title": "Starting uni? What to know about the free NHS meningitis B jab in England",
+          "description": "It follows the UK's largest and fastest growing meningitis B outbreak to date in Kent earlier this year. ",
+          "link": "https://www.bbc.co.uk/news/articles/cvgmyggpg42o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvgmyggpg42o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 01:00:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c68/live/efd847f0-7c76-11f1-917a-91e958a7e786.jpg"
+            }
+          }
+        },
+        {
+          "title": "The change that may help you get a mortgage as a first-time buyer",
+          "description": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
+          "link": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 23:16:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e565/live/1641fa60-8b60-11f1-b422-3b36120ef864.jpg"
+            }
+          }
+        },
+        {
+          "title": "'What was my fault?': How India's exam paper leak ended young lives",
+          "description": "Two families reveal the human toll of India's medical entrance examination paper  leak.",
+          "link": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 23:35:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/874d/live/87621610-8b21-11f1-aaf3-8dae78dd0f1a.jpg"
+            }
+          }
+        },
+        {
+          "title": "How ransom notes could help catch Nancy Guthrie's kidnappers",
+          "description": "A forensic linguist tells the BBC it's possible to glean crucial information about a person from just a few sentences.",
+          "link": "https://www.bbc.co.uk/news/articles/c2dkng21dg2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c2dkng21dg2o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 18:40:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b9e/live/551cd120-8eb6-11f1-a7ab-8b30adf0800a.png"
+            }
+          }
+        },
+        {
+          "title": "Malaysian boy on trial for allegedly murdering girl in school",
+          "description": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
+          "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cgewq549988o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 01:43:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc15/live/0e256bc0-8c03-11f1-9dc7-8f4fc2aa9fe5.jpg"
+            }
+          }
+        },
+        {
+          "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+          "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+          "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c1417713ve6o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 01:03:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bf8/live/a535ae60-8ecb-11f1-b8ee-9b3c26ad07bb.jpg"
+            }
+          }
+        },
+        {
+          "title": "Massive Attack respond after Singapore ban over Palestine display",
+          "description": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
+          "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 03 Aug 2026 01:31:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c11/live/7f672550-8e9a-11f1-8ceb-4b76ef213a3d.jpg"
+            }
+          }
+        },
+        {
+          "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal ",
+          "description": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+          "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 15:50:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
+          "description": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.",
+          "link": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cq89e771jqlo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 14:15:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5187/live/c802ad20-8e81-11f1-b2ab-0dd01740f9f6.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Is The World Cup For Sale?",
+          "description": "Infantino 'wrong man' to lead Fifa says Burnham as criticism grows.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p1380w?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0p1380w#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 31 Jul 2026 15:30:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Democrats need to win Michigan… so why is it splitting the party?",
+          "description": "A centrist and a left wing candidate go head to head in Michigan.",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8lzf?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/w3ct8lzf#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 31 Jul 2026 14:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tale of two halves leaves Iraola with plenty to ponder",
+          "description": "Liverpool conclude their pre-season US tour with a 4-2 defeat against Leeds, having held a two-goal half-time lead in Chicago.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 23:18:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0939/live/6adcf390-8ec6-11f1-942d-9772a4b2ac54.jpg"
+            }
+          }
+        },
+        {
+          "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth doubts",
+          "description": "Glasgow 2026 was a joyful success in isolation but questions and doubts remain about the Commonwealth Games' future.",
+          "link": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 21:45:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc8/live/0a086ca0-8e78-11f1-98c2-039438173617.jpg"
+            }
+          }
+        },
+        {
+          "title": "Alonso heals Real Madrid scars to lead Chelsea's senior revolution",
+          "description": "Xabi Alonso on healing from his Real Madrid exit, his gut feeling to join Chelsea and why he sees his new club as an exciting opportunity.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cz7d138ew59o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cz7d138ew59o#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 16:00:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c847/live/29351d20-8dc0-11f1-8e90-d5da5aa44106.jpg"
+            }
+          }
+        },
+        {
+          "title": "Irish boxer Reeves 'critical but stable' in hospital",
+          "description": "Irish boxer Lee Reeves is in a \"critical but stable\" condition in hospital after he was stretchered out of the ring in Dublin on Saturday.",
+          "link": "https://www.bbc.co.uk/sport/boxing/articles/czxqwp57pvvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/boxing/articles/czxqwp57pvvo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 19:06:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e49a/live/97a6d9a0-8e9d-11f1-98e9-7bce254b4c15.jpg"
+            }
+          }
+        },
+        {
+          "title": "Kuwaki wins Women's Open after Henseleit's ball strikes marshal ",
+          "description": "Shiho Kuwaki holds her nerve to beat Esther Henseleit after two play-off holes to become the second consecutive Japanese player to win the Women's Open. ",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/cgmkz4yxpx3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/golf/articles/cgmkz4yxpx3o#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 19:21:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba1c/live/18cfce20-8eb6-11f1-b2ab-0dd01740f9f6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Chelsea sign Strasbourg midfielder Barco ",
+          "description": "Chelsea complete the signing of Argentina and Strasbourg midfielder Valentin Barco on a seven-year deal. ",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 18:38:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a2/live/785fbb00-8e9f-11f1-98e9-7bce254b4c15.jpg"
+            }
+          }
+        },
+        {
+          "title": "Day to remember for record-breaking Finucane",
+          "description": "Emma Finucane creates history by winning a fourth track cycling Commonwealth Games gold and leads Wales into closing ceremony.",
+          "link": "https://www.bbc.co.uk/sport/cycling/articles/cp30v9l3n81o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/cycling/articles/cp30v9l3n81o#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 02 Aug 2026 19:00:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e551/live/205cdaa0-8e9a-11f1-8ceb-4b76ef213a3d.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

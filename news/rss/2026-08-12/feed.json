@@ -1,0 +1,871 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Wed, 12 Aug 2026 03:56:19 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+          "description": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
+          "link": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 21:00:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7830/live/f283b700-95df-11f1-a947-991cd2533084.png"
+            }
+          }
+        },
+        {
+          "title": "More weather records as UK heat set to spike again",
+          "description": "Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken.",
+          "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 23:37:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89e8/live/eccb4a70-95ae-11f1-969e-eb6036cb8925.jpg"
+            }
+          }
+        },
+        {
+          "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
+          "description": "The intervention comes after Andy Burnham said he was \"confident\" the early release of PC Harper's killers could be prevented.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 21:21:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc9/live/6272a1d0-859f-11f1-bc30-6908d27da04d.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
+          "description": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 23:17:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ca0/live/fa935510-9583-11f1-8636-978a48bd79b6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump says he switched planes after Nato summit because of possible threat ",
+          "description": "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One.",
+          "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 12 Aug 2026 03:44:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a2f/live/9fe59830-95fb-11f1-870d-5d08c49babb2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Children as young as nine hurt in growing number of e-scooter crashes",
+          "description": "Three trauma centres - Liverpool, Manchester and Sheffield - say they have treated nearly 500 casualties under the age of 16.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2rdggr304o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx2rdggr304o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 23:31:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/352e/live/5ead3ea0-95b4-11f1-a7ab-8b30adf0800a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake ",
+          "description": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings. ",
+          "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 19:09:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69cb/live/7fca1ff0-95b8-11f1-b16a-9d1bd99de52e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
+          "description": "The Portuguese superstar has posted an image of two hands - presumed to be his on top of his wife's - both wearing wedding rings.",
+          "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/clyj0325z3ko#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 12 Aug 2026 00:02:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5de/live/f44c8130-95c0-11f1-8ccf-29f879cbf253.jpg"
+            }
+          }
+        },
+        {
+          "title": "Wealthier areas must play their part in housing asylum seekers, Burnham suggests",
+          "description": "The prime minister was asked about protests over plans to use a former military base to house asylum seekers.",
+          "link": "https://www.bbc.co.uk/news/articles/c204d4z1gg8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c204d4z1gg8o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 20:07:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21e0/live/9cf2f5a0-95ba-11f1-a556-013790f38050.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Office actress Lucy Davis says she has 'incurable' cancer",
+          "description": "Davis, who played receptionist Dawn in the UK sitcom, says the cancer has spread and it's \"too late for chemo\".",
+          "link": "https://www.bbc.co.uk/news/articles/crk51vk37d6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/crk51vk37d6o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 22:51:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8cd/live/fe159f30-959d-11f1-a036-eb7cd99c5268.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK prosecutors argue Tate brothers a flight risk ahead of bail hearing",
+          "description": "Andrew and Tristan Tate would attempt to evade prosecution if they are freed on bail, prosecutors argue. ",
+          "link": "https://www.bbc.co.uk/news/articles/c8rn4n8v6k7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c8rn4n8v6k7o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 22:22:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1a5/live/7c841320-95ac-11f1-969e-eb6036cb8925.jpg"
+            }
+          }
+        },
+        {
+          "title": "GB's Glave and Azu claim first and second in European 100m",
+          "description": "Great Britain's Romell Glave and Jeremiah Azu claim a sensational European 100m one-two for the hosts in Birmingham.",
+          "link": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 22:03:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/301e/live/16e70f90-95ca-11f1-856f-555b0683e2ba.jpg"
+            }
+          }
+        },
+        {
+          "title": "Eclipse chasers scramble for glasses as stocks run low",
+          "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
+          "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/clyqxx27620o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 16:31:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/432b/live/d0752bb0-9578-11f1-bfbd-3fe7d55dcf7b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Three ways to watch safely without glasses",
+          "description": "With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.\n",
+          "link": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 16:29:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71cf/live/72e94700-95a1-11f1-a036-eb7cd99c5268.jpg"
+            }
+          }
+        },
+        {
+          "title": "Weather forecast - where will the best view be?",
+          "description": "Look to the skies on Wednesday because one of the most spectacular solar eclipses for decades is coming the UK's way with likely optimum viewing conditions for many.\n",
+          "link": "https://www.bbc.co.uk/weather/articles/c23592z7gppo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/c23592z7gppo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 15:02:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be4e/live/613f7de0-9596-11f1-af19-5b895ed53d0f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+          "description": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+          "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 12 Aug 2026 00:14:42 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca5a/live/b1c8cd30-95cc-11f1-a7ab-8b30adf0800a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Baby Shark Boy set to make K-pop debut",
+          "description": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
+          "link": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 12 Aug 2026 03:26:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8101/live/a7391c20-95f5-11f1-870d-5d08c49babb2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
+          "description": "BBC Mundo has gone to the site of Torres del Limonar, a collapsed building in Cali where rescue workers fight to free survivors. ",
+          "link": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/czxerlglgw5o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 21:34:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db6f/live/e683cf90-95c5-11f1-870d-5d08c49babb2.jpg"
+            }
+          }
+        },
+        {
+          "title": "How can Andy Burnham stop PC Harper's killers being released early?",
+          "description": "None of the solutions proposed are quick or easy and some carry political risk, writes UK correspondent Daniel Sandford.",
+          "link": "https://www.bbc.co.uk/news/articles/c0rdxj991vko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c0rdxj991vko#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 16:59:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880b/live/f4745520-956b-11f1-8b14-5d44448d174a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
+          "description": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
+          "link": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 23:00:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e9/live/85ef6870-9583-11f1-870d-5d08c49babb2.jpg"
+            }
+          }
+        },
+        {
+          "title": "How affordable are Edinburgh's festivals?",
+          "description": "The city is no stranger to complaints about soaring prices during August - but are costs on the rise?",
+          "link": "https://www.bbc.co.uk/news/articles/czdmn1re7zgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/czdmn1re7zgo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 21:56:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff5/live/63c49230-9582-11f1-8636-978a48bd79b6.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Andy U-turns on early release' and 'Hunt on for eclipse glasses'",
+          "description": "The prime minister's plan to stop the early release of PC Andrew Harper's killers is prominent across Wednesday's papers. ",
+          "link": "https://www.bbc.co.uk/news/articles/c1m1k4yrn0lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c1m1k4yrn0lo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 23:09:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0b5/live/d0ff7010-95d5-11f1-a7ab-8b30adf0800a.jpg"
+            }
+          }
+        },
+        {
+          "title": "How to get a good night's sleep during hot weather",
+          "description": "Simple tips to help you get a good night's sleep when temperatures rise.",
+          "link": "https://www.bbc.co.uk/news/articles/cpw7gp2ky70o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cpw7gp2ky70o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 25 Jun 2026 14:48:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba97/live/21a26250-9592-11f1-870d-5d08c49babb2.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC Weather's monthly outlook",
+          "description": "Our latest long-term UK forecast focusing on likely trends for the next four weeks.",
+          "link": "https://www.bbc.co.uk/weather/articles/c1ee0klzvneo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/c1ee0klzvneo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 14:49:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438d/live/8e9ea9d0-9593-11f1-a7ab-8b30adf0800a.jpg"
+            }
+          }
+        },
+        {
+          "title": "No air con? Here's how to get the most out of your electric fan ",
+          "description": "Point it at your face? Use a bowl of ice? Open a window? Our experts separate fact from fiction.",
+          "link": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cly76jlxljlo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 08 Jul 2026 17:07:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be8/live/38bd2b90-7aef-11f1-b976-0b9c15b0ccfc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why heatwaves hit women harder",
+          "description": "Experts are calling for better awareness of the heat-related risks to women and more targeted efforts to protect them.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 08 Jul 2026 23:49:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0c2/live/978c1ee0-7b87-11f1-9510-1546718f668b.png"
+            }
+          }
+        },
+        {
+          "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+          "description": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
+          "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 16:19:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7862/live/6d64a760-953e-11f1-ba5b-b1a600ddfa74.jpg"
+            }
+          }
+        },
+        {
+          "title": "Criticism as thousands of seats empty at Europeans Athletics Championships",
+          "description": "Nearly 10,000 seats were empty at Birmingham's Alexander Stadium on Monday.",
+          "link": "https://www.bbc.co.uk/news/articles/c0jl66j9yjpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c0jl66j9yjpo#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 19:59:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c912/live/3ecdcf10-959f-11f1-a036-eb7cd99c5268.jpg"
+            }
+          }
+        },
+        {
+          "title": "Russia releases former US Marine reported in poor health",
+          "description": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", his family says.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 23:33:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719e/live/5d95bd80-959b-11f1-a7ab-8b30adf0800a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+          "description": "Prime Minister Andy Burnham says town centres have been \"hollowed out\" by decades of decline.",
+          "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvg90el9236o#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 15:32:27 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbb/live/9d684c20-954b-11f1-a7ab-8b30adf0800a.jpg"
+            }
+          }
+        },
+        {
+          "title": "France bans unsolicited telemarketing calls",
+          "description": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
+          "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 14:19:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e97/live/62cc8120-9583-11f1-8636-978a48bd79b6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Luigi Mangione murder trial to have anonymous jury ",
+          "description": "The judge overseeing the state murder trial ruled the 12-person jury would remain anonymous because of the intense media spotlight on the case.",
+          "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 19:12:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/668e/live/b3fcc830-95a0-11f1-a036-eb7cd99c5268.jpg"
+            }
+          }
+        },
+        {
+          "title": "Man guilty of harassing MP Stella Creasy on Tube train",
+          "description": "The man was \"abusive and aggressive\" towards the Walthamstow Labour MP on a Victoria line train.",
+          "link": "https://www.bbc.co.uk/news/articles/cgk40432vv5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cgk40432vv5o#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 18:00:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aec/live/1d0e6b30-95a6-11f1-8315-25a75e37f071.png"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Did President Trump Escape Air Force One In A Catering Truck?",
+          "description": "The Washington Post has reported on a secret presidential plane swap.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p38lcp?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0p38lcp#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 16:13:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3xv53.jpg"
+            }
+          }
+        },
+        {
+          "title": "How a murder case fuelled a culture war",
+          "description": "How Luigi Mangione's case became a battleground in America's culture wars",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p2y699?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0p2y699#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 00:30:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0krbrws.jpg"
+            }
+          }
+        },
+        {
+          "title": "Uncovering sexual misconduct claims against the Oscar-winning actor",
+          "description": "Multiple women accuse Oscar-winning Hollywood actor Jared Leto of sexual misconduct.",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002zl1y?at_mid=2PvRUD6ZAG&at_campaign=Jared_Leto_Hollywoods_Dark_Secret&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl1y&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Jared_Leto_Hollywoods_Dark_Secret&at_bbc_team=BBC",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m002zl1y?at_mid=2PvRUD6ZAG&at_campaign=Jared_Leto_Hollywoods_Dark_Secret&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl1y&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Jared_Leto_Hollywoods_Dark_Secret&at_bbc_team=BBC#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 29 Jul 2026 05:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff1b/live/3cf2d320-8b4f-11f1-b8ee-9b3c26ad07bb.jpg"
+            }
+          }
+        },
+        {
+          "title": "GB's Glave and Azu claim European 100m one-two",
+          "description": "Great Britain's Romell Glave and Jeremiah Azu claim a sensational European 100m one-two for the hosts in Birmingham.",
+          "link": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 22:03:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/301e/live/16e70f90-95ca-11f1-856f-555b0683e2ba.jpg"
+            }
+          }
+        },
+        {
+          "title": "A coup for Bezos and a windfall for FSG - where does deal leave Liverpool?",
+          "description": "Why investment by a group including Jeff Bezos would not make a marked difference to Liverpool's spending power - and might sit uneasily with fans.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvgx311g1zko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cvgx311g1zko#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 16:00:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af44/live/70cbf600-9585-11f1-8636-978a48bd79b6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Jaissle 'bit scared' how refs will take 'emotional' touchline style",
+          "description": "Newcastle United head coach Matthias Jaissle cut a measured figure at his unveiling news conference, but Premier League managers will come up against someone very different ",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cedje42vgwjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cedje42vgwjo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 18:10:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebe/live/2f830390-959f-11f1-a036-eb7cd99c5268.jpg"
+            }
+          }
+        },
+        {
+          "title": "Criticism of empty seats and ticket prices at Europeans",
+          "description": "Nearly 10,000 seats were empty at Birmingham's Alexander Stadium on Monday.",
+          "link": "https://www.bbc.co.uk/news/articles/c0jl66j9yjpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c0jl66j9yjpo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 19:59:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c912/live/3ecdcf10-959f-11f1-a036-eb7cd99c5268.jpg"
+            }
+          }
+        },
+        {
+          "title": "Unhappy PSG given extra Super Cup dressing room",
+          "description": "Champions League winners Paris St-Germain were unhappy with the space they were given at Red Bull Arena. ",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cre41pqy0r7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cre41pqy0r7o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 14:06:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8632/live/9fd891c0-95ac-11f1-870d-5d08c49babb2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Super Giants deny Sunrisers and boost knockout bid",
+          "description": "Manchester Super Giants gave themselves a huge chance of qualifying for the knockout stages of The Hundred with a 10-wicket win over Sunrisers Leeds.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/clyj0je7vm4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/clyj0je7vm4o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 20:27:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bcb/live/18da0d50-95c7-11f1-870d-5d08c49babb2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Palace co-owner spoke to McNeil's partner before move",
+          "description": "Crystal Palace co-owner and chairman Steve Parish contacts Dwight McNeil's partner before the midfielder's move to the club.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwyjxxg5ze5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cwyjxxg5ze5o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 11 Aug 2026 12:07:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f594/live/593f4ff0-9580-11f1-8636-978a48bd79b6.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

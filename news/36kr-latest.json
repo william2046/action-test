@@ -17,7 +17,7 @@
         "link": "https://www.bbc.co.uk/news"
       },
       "generator": "RSS for Node",
-      "lastBuildDate": "Sun, 16 Aug 2026 02:18:34 GMT",
+      "lastBuildDate": "Mon, 17 Aug 2026 02:16:46 GMT",
       "atom:link": {
         "$": {
           "href": "https://feeds.bbci.co.uk/news/rss.xml",
@@ -30,135 +30,287 @@
       "ttl": "15",
       "item": [
         {
-          "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
-          "description": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
-          "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+          "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+          "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+          "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo#0",
+            "_": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 15 Aug 2026 21:28:54 GMT",
+          "pubDate": "Sun, 16 Aug 2026 19:58:14 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b70/live/2a89e850-98f0-11f1-b932-e778ed40fffe.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg"
             }
           }
         },
         {
-          "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
-          "description": "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.",
-          "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+          "title": "UK to turn cooler with rain after exceptional heat and dry spell",
+          "description": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+          "link": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cz977nxww1jo#0",
+            "_": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 16 Aug 2026 00:39:22 GMT",
+          "pubDate": "Mon, 17 Aug 2026 02:08:56 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d3/live/7a4b8400-98e8-11f1-b9f8-e148e8810dff.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f957/live/2ee17340-994b-11f1-8f52-c9b39dabc99d.jpg"
             }
           }
         },
         {
-          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-          "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
-          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
+          "description": "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
+            "_": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 15 Aug 2026 21:49:12 GMT",
+          "pubDate": "Sun, 16 Aug 2026 20:07:40 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86b8/live/b2b8c8a0-9994-11f1-b2ab-0dd01740f9f6.jpg"
             }
           }
         },
         {
-          "title": "Ariana Grande leaves problems at home as her tour hits the UK",
-          "description": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
-          "link": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss",
+          "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+          "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno#0",
+            "_": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 16 Aug 2026 02:01:42 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e02d/live/6a514960-990e-11f1-921c-6b592e028b10.jpg"
-            }
-          }
-        },
-        {
-          "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
-          "description": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
-          "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c9v43zry802o#0",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 15 Aug 2026 17:33:38 GMT",
+          "pubDate": "Mon, 17 Aug 2026 00:06:05 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/763c/live/77e4fe90-98d8-11f1-a7ab-8b30adf0800a.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg"
             }
           }
         },
         {
-          "title": "Hunt wins third gold as Asher-Smith makes history",
-          "description": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
-          "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+          "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+          "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o#0",
+            "_": "https://www.bbc.co.uk/news/articles/c1411pgje8xo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 15 Aug 2026 21:13:17 GMT",
+          "pubDate": "Sun, 16 Aug 2026 19:03:04 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297d/live/d940b150-98ee-11f1-94a7-b9e415195b83.jpg"
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f78/live/bd896330-997f-11f1-a7ab-8b30adf0800a.jpg"
             }
           }
         },
         {
-          "title": "Jason Arday death 'tragedy on so many levels' says PM",
-          "description": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
-          "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+          "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
+          "description": "The alert took many by surprise when it was sent to millions of phones on Friday night - but it may have also put vulnerable people at risk.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c9982znvyk4o#0",
+            "_": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo#0",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 15 Aug 2026 17:43:04 GMT",
+          "pubDate": "Sun, 16 Aug 2026 15:53:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd08/live/b5a2dc20-9987-11f1-a4eb-59b79ff5ff4f.jpg"
+            }
+          }
+        },
+        {
+          "title": "History for Hunt and Asher-Smith in golden finish for GB",
+          "description": "Amy Hunt and Dina Asher-Smith make history and Georgia Hunter Bell claims a commanding 1500m gold as Great Britain maintain their bid to top the final medal table at the European Championships.",
+          "link": "https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 16 Aug 2026 20:14:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3036/live/c39c6850-99af-11f1-9b60-95a3fcadaf8d.jpg"
+            }
+          }
+        },
+        {
+          "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
+          "description": "Lord Simon Woolley said Arday had been \"hounded\" by the media and pursued relentlessly. ",
+          "link": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwymmp30711o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 16 Aug 2026 15:33:02 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6e/live/9024e850-988b-11f1-83ef-33838a09c7c1.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f467/live/1a793ee0-996b-11f1-870d-5d08c49babb2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Changing pubs into homes to be made harder under new rules",
+          "description": "The rules will come into force on Monday along with other changes to planning policy.",
+          "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 16 Aug 2026 15:04:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff85/live/bb0fc5c0-9981-11f1-a4eb-59b79ff5ff4f.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
+          "description": "The BBC's Shaimaa Khalil sat down with Mopreme Shakur ahead of the trial for his brother and late rapper's 1996 murder.",
+          "link": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 16 Aug 2026 23:21:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8072/live/541515d0-9811-11f1-a7ab-8b30adf0800a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+          "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+          "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbb6/live/70fefcb0-9992-11f1-a7ab-8b30adf0800a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Reform UK benefits ban for foreign nationals would include EU citizens",
+          "description": "The move would require renegotiating the UK's Brexit deal and could risk stripping British expats living in the EU of similar rights.",
+          "link": "https://www.bbc.co.uk/news/articles/cly555430nno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cly555430nno#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 16 Aug 2026 21:41:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f668/live/6dbb32a0-99ae-11f1-9b60-95a3fcadaf8d.jpg"
+            }
+          }
+        },
+        {
+          "title": "How switching your bank account could earn you up to £220",
+          "description": "New research suggests staying put is costing British savers billions in missed interest every year. ",
+          "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 16 Aug 2026 23:14:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a01/live/cc8b5e60-9628-11f1-adec-3f90c109009f.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Water cheek' and 'Queen Amy's gold rush'",
+          "description": "Water companies being allowed to increase prices during droughts and Amy Hunt's gold medal run dominates Monday's papers. ",
+          "link": "https://www.bbc.co.uk/news/articles/czdmmmm045go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/czdmmmm045go#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 17 Aug 2026 00:04:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1245/live/4738d860-99c9-11f1-b2ab-0dd01740f9f6.jpg"
+            }
+          }
+        },
+        {
+          "title": "US women in politics spark conversation on motherhood",
+          "description": "The White House press secretary quit this week to be with her children, while Democrat Alexandra Ocasio-Cortez said she was freezing her eggs.",
+          "link": "https://www.bbc.co.uk/news/articles/cjwxgz95jvgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cjwxgz95jvgo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 15 Aug 2026 23:01:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f24c/live/f1462610-9991-11f1-b2ab-0dd01740f9f6.jpg"
             }
           }
         },
@@ -182,7 +334,7 @@
           }
         },
         {
-          "title": "From making friends to managing money: Students' advice for this year's freshers",
+          "title": "Friends, finances and finding your feet - advice for this year's freshers",
           "description": "BC News asked current students about the worries they had before arriving at university how they overcame them.",
           "link": "https://www.bbc.co.uk/news/articles/cx2kw0yek2yo?at_medium=RSS&at_campaign=rss",
           "guid": {
@@ -196,273 +348,140 @@
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a22/live/504be230-97f8-11f1-b2ab-0dd01740f9f6.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91f5/live/5810e3f0-9963-11f1-870d-5d08c49babb2.jpg"
             }
           }
         },
         {
-          "title": "The influencers getting bitten while chasing the perfect shark shot",
-          "description": "Tayane Dalazen was on a shark-diving trip in Brazil when she was attacked.",
-          "link": "https://www.bbc.co.uk/news/articles/c5yvrn7rpqpo?at_medium=RSS&at_campaign=rss",
+          "title": "Ferrari's first ever electric car sold for record $40m at auction",
+          "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+          "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c5yvrn7rpqpo#1",
+            "_": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do#3",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 15 Aug 2026 23:04:29 GMT",
+          "pubDate": "Mon, 17 Aug 2026 01:47:33 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c6/live/9c4c4980-9727-11f1-808c-532494fd22c7.png"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg"
             }
           }
         },
         {
-          "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-          "description": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
-          "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+          "title": "Murder inquiry after man bitten by dog dies",
+          "description": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo#1",
+            "_": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o#3",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 15 Aug 2026 23:45:44 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "121",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg"
-            }
-          }
-        },
-        {
-          "title": "Why is Australia's mushroom killer back in court this week?",
-          "description": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
-          "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/videos/c62e1v8p07go#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 15 Aug 2026 18:02:30 GMT",
+          "pubDate": "Sun, 16 Aug 2026 12:36:11 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ccf/live/24e92cb0-97b2-11f1-a7ab-8b30adf0800a.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d939/live/b9a45410-996f-11f1-aaab-c702cc6b4645.jpg"
             }
           }
         },
         {
-          "title": "Unauthorised sites are growing but travellers say they are forced to break the law",
-          "description": "The government says such developments are unacceptable – so why do they keep springing up?",
-          "link": "https://www.bbc.co.uk/news/articles/cpq3w8q0j9go?at_medium=RSS&at_campaign=rss",
+          "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+          "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+          "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cpq3w8q0j9go#2",
+            "_": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#3",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 15 Aug 2026 23:46:03 GMT",
+          "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad24/live/d18d0100-996d-11f1-aaab-c702cc6b4645.jpg"
+            }
+          }
+        },
+        {
+          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+          "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch moment police arrest wanted man while he slept on roof",
+          "description": "Two police officers suffered minor injuries during the incident, Greater Manchester Police say.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyll2p1r68o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwyll2p1r68o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 16 Aug 2026 17:17:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48d1/live/18130290-9992-11f1-b374-0b75862fe542.jpg"
+            }
+          }
+        },
+        {
+          "title": "Soldiers praised for 'phenomenal job' helping crews tackle wildfires",
+          "description": "About 200 members of the Queen's Own Gurkha Logistic Regiment have been involved in the operation.",
+          "link": "https://www.bbc.co.uk/news/articles/cgq55zv4ek8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cgq55zv4ek8o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 16 Aug 2026 19:06:49 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf5/live/46d5fc70-8684-11f1-b60e-a7e0943a9c78.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a33a/live/2a7a1c50-995d-11f1-9712-2936f8c80214.jpg"
             }
           }
         },
         {
-          "title": "The Papers: UK-made drones 'strike Russia' and 'phone theft Britain'",
-          "description": "Ukraine uses UK British-made drones to strike Russia and 230 phones a day stolen in the UK lead the Sunday papers.",
-          "link": "https://www.bbc.co.uk/news/articles/c4gvv07ww42o?at_medium=RSS&at_campaign=rss",
+          "title": "US commander says mental health a 'priority' on USS Lincoln",
+          "description": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
+          "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c4gvv07ww42o#2",
+            "_": "https://www.bbc.co.uk/news/articles/ceqeeendz42o#3",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 15 Aug 2026 22:36:36 GMT",
+          "pubDate": "Sun, 16 Aug 2026 21:04:27 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69e0/live/ba051cb0-98f6-11f1-a7ab-8b30adf0800a.jpg"
-            }
-          }
-        },
-        {
-          "title": "Britain's youngest Formula E driver says talent isn't enough anymore",
-          "description": "Taylor Barnard, 22, says talented young drivers often get shut out because of financial issues.",
-          "link": "https://www.bbc.co.uk/news/articles/ckg40e24wnpo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/ckg40e24wnpo#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 15 Aug 2026 23:46:52 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a955/live/6e8fc030-987b-11f1-b148-b12e5ae08858.jpg"
-            }
-          }
-        },
-        {
-          "title": "US women in politics spark conversation about balancing family and career",
-          "description": "The BBC spoke to working mothers about the challenges of a high-pressure career and making time for family. ",
-          "link": "https://www.bbc.co.uk/news/articles/cjwxgz95jvgo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cjwxgz95jvgo#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 15 Aug 2026 23:01:50 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdba/live/bc3d3e00-9828-11f1-a7ab-8b30adf0800a.jpg"
-            }
-          }
-        },
-        {
-          "title": "Body found in search for UK student missing on Romania hike",
-          "description": "A body is found during the search for George Smyth, who went missing while hiking in Romania. ",
-          "link": "https://www.bbc.co.uk/news/articles/cwy4413g6rko?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cwy4413g6rko#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 15 Aug 2026 16:36:23 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c88/live/840e2870-98bc-11f1-b2ab-0dd01740f9f6.png"
-            }
-          }
-        },
-        {
-          "title": "'Fury' at Tarling death as cycling union calls for better helmets",
-          "description": "The cyclists' union expresses \"fury\" over the death of British rider Fin Tarling during Friday's stage of the Volta a Portugal.",
-          "link": "https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 15 Aug 2026 19:05:32 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd85/live/2dff1f70-98d0-11f1-9687-fb984065014d.jpg"
-            }
-          }
-        },
-        {
-          "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-          "description": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island. ",
-          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 15 Aug 2026 23:34:24 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "160",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg"
-            }
-          }
-        },
-        {
-          "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
-          "description": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
-          "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 10 Aug 2026 23:32:10 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c7/live/957b4470-93ea-11f1-8231-7d4e2048054e.jpg"
-            }
-          }
-        },
-        {
-          "title": "The 101-year-old who created a dolls' house museum with her childhood toys",
-          "description": "Val discovers her childhood toys in an attic and decides to put them on display.",
-          "link": "https://www.bbc.co.uk/news/articles/cgr741jwk25o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cgr741jwk25o#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 08 Aug 2026 06:41:11 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7b3/live/1bcb4d60-92f4-11f1-a7ab-8b30adf0800a.jpg"
-            }
-          }
-        },
-        {
-          "title": "Peter James returns to Sussex with his 57 animals",
-          "description": "The Brighton-born Roy Grace author moves to a new home in Pulborough in West Sussex.",
-          "link": "https://www.bbc.co.uk/news/articles/c204de2jjxzo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c204de2jjxzo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Tue, 11 Aug 2026 05:00:32 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8e4/live/88354690-94cf-11f1-8189-057951e10a11.jpg"
-            }
-          }
-        },
-        {
-          "title": "Why are 'human fridges' being sold in Japan?",
-          "description": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
-          "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 12 Aug 2026 22:07:47 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/e3226840-9519-11f1-b2ab-0dd01740f9f6.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe2/live/6ee53b10-99ab-11f1-870d-5d08c49babb2.jpg"
             }
           }
         },
@@ -471,7 +490,7 @@
           "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
           "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "_": "https://www.bbc.co.uk/news/10628994#4",
             "$": {
               "isPermaLink": "false"
             }
@@ -490,7 +509,7 @@
           "description": "The parliamentary standards investigation into Farage's £5m gift has reopened.",
           "link": "https://www.bbc.co.uk/sounds/play/p0p38lpy?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0p38lpy#6",
+            "_": "https://www.bbc.co.uk/sounds/play/p0p38lpy#5",
             "$": {
               "isPermaLink": "false"
             }
@@ -509,7 +528,7 @@
           "description": "How developed is the Tehran regime’s assassination operation abroad?",
           "link": "https://www.bbc.co.uk/sounds/play/w3ct8mfn?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/w3ct8mfn#6",
+            "_": "https://www.bbc.co.uk/sounds/play/w3ct8mfn#5",
             "$": {
               "isPermaLink": "false"
             }
@@ -524,135 +543,135 @@
           }
         },
         {
-          "title": "Hunt wins third gold as Asher-Smith makes history",
-          "description": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
-          "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+          "title": "History for Hunt and Asher-Smith in golden finish for GB",
+          "description": "Amy Hunt and Dina Asher-Smith make history while Georgia Hunter Bell claims a commanding 1500m gold as Great Britain finish strongly at the European Championships.",
+          "link": "https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o#8",
+            "_": "https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 15 Aug 2026 21:13:17 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297d/live/d940b150-98ee-11f1-94a7-b9e415195b83.jpg"
-            }
-          }
-        },
-        {
-          "title": "Rashford returns as AC Milan highlight issues facing Carrick",
-          "description": "Manchester United finish their pre-season campaign with a 4-2 defeat by Ruben Amorim's AC Milan in Poland, as Marcus Rashford returns to Red Devils action.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o#8",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 15 Aug 2026 19:25:09 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/130f/live/5dfdd470-98d8-11f1-8216-1399f248beea.jpg"
-            }
-          }
-        },
-        {
-          "title": "'Fury' at Tarling death as cycling union calls for better helmets",
-          "description": "The cyclists' union expresses \"fury\" over the death of British rider Fin Tarling during Friday's stage of the Volta a Portugal.",
-          "link": "https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o#8",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 15 Aug 2026 19:05:32 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd85/live/2dff1f70-98d0-11f1-9687-fb984065014d.jpg"
-            }
-          }
-        },
-        {
-          "title": "Fernandez booed by Chelsea fans as Alonso offers glimpse of blueprint",
-          "description": "Enzo Fernandez is booed by sections of the Chelsea support, Morgan Rogers scores on his first appearance and Xabi Alonso offers a glimpse of what could be his blueprint for the season.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c36dd10jj09o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c36dd10jj09o#8",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 15 Aug 2026 16:22:07 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3947/live/067a6270-98c1-11f1-baa7-c1f421a55365.jpg"
-            }
-          }
-        },
-        {
-          "title": "O'Connor secures European gold in heptathlon",
-          "description": "Kate O'Connor says her late grandmother \"would have been jumping for joy\" at the Irish athlete claims gold in the heptathlon at the European Championships in Birmingham.",
-          "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgjjpe85z1o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/athletics/articles/cvgjjpe85z1o#8",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 15 Aug 2026 20:18:18 GMT",
+          "pubDate": "Sun, 16 Aug 2026 20:14:46 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87c3/live/448cf350-98fa-11f1-b2ab-0dd01740f9f6.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3036/live/c39c6850-99af-11f1-9b60-95a3fcadaf8d.jpg"
             }
           }
         },
         {
-          "title": "West Ham break EFL record to sign Engels for £22m",
-          "description": "West Ham United pay a £22m fee, a new EFL record, to sign Celtic's Belgium international midfielder Arne Engels.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo?at_medium=RSS&at_campaign=rss",
+          "title": "Barcelona agree £65m Rodri deal - who could replace him at Man City?",
+          "description": "Barcelona agree a deal to sign Spain captain Rodri from Manchester City.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo#8",
+            "_": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 15 Aug 2026 20:19:40 GMT",
+          "pubDate": "Sun, 16 Aug 2026 19:37:45 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379a/live/7dd3ae70-98ea-11f1-baa8-93026f9f7e66.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6425/live/0b8f72c0-99a5-11f1-a10a-71ff76b28954.jpg"
             }
           }
         },
         {
-          "title": "'Absolutely miles ahead!' GB women win brilliant relay gold",
-          "description": "Great Britain's Dina Asher-Smith, Amy Hunt, Success Eduan and Imani-Lara Lansiquot dominate the 4x100m relay to win a brilliant gold.",
-          "link": "https://www.bbc.co.uk/sport/athletics/videos/ce8llyzyj27o?at_medium=RSS&at_campaign=rss",
+          "title": "What awaits new Scotland head coach Pocognoli?",
+          "description": "Shifting the playing style, maintaining qualification for major tournaments and refreshing the squad await the new Scotland boss.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cly995z1j8go?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/athletics/videos/ce8llyzyj27o#8",
+            "_": "https://www.bbc.co.uk/sport/football/articles/cly995z1j8go#7",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 15 Aug 2026 21:14:57 GMT",
+          "pubDate": "Sun, 16 Aug 2026 20:25:07 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80f/live/fe408b70-98ed-11f1-b2ab-0dd01740f9f6.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5751/live/f7a80590-9960-11f1-9712-2936f8c80214.jpg"
+            }
+          }
+        },
+        {
+          "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+          "description": "Did Arsenal show just how far above Manchester City they are with their dominant Community Shield win?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 16 Aug 2026 19:37:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d73e/live/5f434db0-9991-11f1-b374-0b75862fe542.jpg"
+            }
+          }
+        },
+        {
+          "title": "What has been the impact of new owners on The Hundred?",
+          "description": "BBC Sport looks at the impact new owners have had on The Hundred as the first season since private stakes were sold in teams ends.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/cy4kknnpyvvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/cy4kknnpyvvo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 16 Aug 2026 21:43:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ab3/live/aa0ab030-99ba-11f1-9e10-ed121e93aba7.jpg"
+            }
+          }
+        },
+        {
+          "title": "McIlroy admits concerns as Scheffler regains winning feeling at St Jude",
+          "description": "Rory McIlroy says \"he felt lost\" as he toils to a 66th-place finish - 25 strokes behind champion Scottie Scheffler - at the St Jude Championship in Memphis.",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/cre44r1y17no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/golf/articles/cre44r1y17no#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 16 Aug 2026 23:15:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e7/live/5f20d3f0-99c5-11f1-b885-e3bffd46cc19.jpg"
+            }
+          }
+        },
+        {
+          "title": "Rangers host Celtic in League Cup quarter-finals",
+          "description": "Rangers will host Celtic in the Premier Sports Cup quarter-finals with Kilmarnock v Aberdeen the other all top-flight tie.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/clyjjp0k5rdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/clyjjp0k5rdo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 16 Aug 2026 17:13:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3c/live/1ffb4410-999a-11f1-ac5b-b961ed109b19.jpg"
             }
           }
         }

@@ -1,0 +1,719 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Sat, 22 Aug 2026 02:46:46 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+          "description": " Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.",
+          "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 22:28:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8911/live/1fc38590-9da8-11f1-95ab-d3b679e2384a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
+          "description": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
+          "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 17:18:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg"
+            }
+          }
+        },
+        {
+          "title": "More students planning to live at home for university over 'insane' living costs",
+          "description": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
+          "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c70gy180e8lo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 23:01:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/f132db30-97db-11f1-bb4c-d758974ed97b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
+          "description": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 22 Aug 2026 01:47:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png"
+            }
+          }
+        },
+        {
+          "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+          "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 22:36:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg"
+            }
+          }
+        },
+        {
+          "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+          "description": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline. ",
+          "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/czjlr0evy0do#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 22 Aug 2026 00:40:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/064f/live/86495a50-9dbd-11f1-aed2-8d6da8d75094.jpg"
+            }
+          }
+        },
+        {
+          "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+          "description": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
+          "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 18:29:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9235/live/6a8b1d10-7bcd-11f1-b543-9988255dfa81.jpg"
+            }
+          }
+        },
+        {
+          "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
+          "description": "Clips appearing to show the highly anticipated game have appeared online, but will they really hurt it?",
+          "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c07r3183gn3o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 23:13:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc9d/live/861576b0-9d89-11f1-b109-879e35c24276.jpg"
+            }
+          }
+        },
+        {
+          "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
+          "description": "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 19:13:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d127/live/9710c0e0-9d53-11f1-aac2-870643eea2ac.jpg"
+            }
+          }
+        },
+        {
+          "title": "Murder investigation after wildfire uncovers body in park",
+          "description": "A post-mortem examination revealed the remains belonged to a woman aged between 25 and 45.",
+          "link": "https://www.bbc.co.uk/news/articles/c0rdk9ddepvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c0rdk9ddepvo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 17:46:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8507/live/fdfd8b70-9d81-11f1-b109-879e35c24276.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ofcom investigating Sky News over Farage harassment claims",
+          "description": "The Reform UK leader has accused Sky News of sending reporters to a house where his adult daughter lives.",
+          "link": "https://www.bbc.co.uk/news/articles/ce8k52186mmo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ce8k52186mmo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 18:44:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/275c/live/9e5735b0-94ab-11f1-870d-5d08c49babb2.jpg"
+            }
+          }
+        },
+        {
+          "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+          "description": "They will not be working royals when they come back. So what could they be doing instead?",
+          "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c0l5d387j18o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e98/live/484d2360-9c8e-11f1-8d19-93d7082c5662.jpg"
+            }
+          }
+        },
+        {
+          "title": "How this 1960s ex-council house is managing to stay cool without air con",
+          "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
+          "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 23:56:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fa/live/18d84ae0-9d62-11f1-a979-27696fc3a013.jpg"
+            }
+          }
+        },
+        {
+          "title": "These bookshops let Chinese readers question their country - now the doors are closing",
+          "description": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
+          "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 22:26:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/975a/live/cdbc9370-9c5f-11f1-aed2-8d6da8d75094.jpg"
+            }
+          }
+        },
+        {
+          "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
+          "description": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues. ",
+          "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cq56x3910jwo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 23:41:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ae/live/441fda80-9a77-11f1-b68f-817a5a696299.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Fiscal worries mount' and 'Meghan in Guy Ritchie talks'",
+          "description": "Financial concerns and the Duchess of Sussex's possible return to television acting lead Saturday's papers.",
+          "link": "https://www.bbc.co.uk/news/articles/c935r6vr135o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c935r6vr135o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 22 Aug 2026 01:04:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/505b/live/51332850-9db3-11f1-aed2-8d6da8d75094.png"
+            }
+          }
+        },
+        {
+          "title": "Modi spent years building his strong image - why is he making Gen Z reels now?",
+          "description": "Narendra Modi's new, more casual online persona is drawing attention from young Indians - but also plenty of scepticism.",
+          "link": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cnvn0n1nld6o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 22:15:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7fd/live/1444d8f0-9cc6-11f1-9182-d13e1a2797dc.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Israel is expanding settlements in drive to reshape West Bank",
+          "description": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+          "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 19:31:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg"
+            }
+          }
+        },
+        {
+          "title": "Brief break from rain as sunshine returns for weekend ",
+          "description": "There will be a break in the rain this weekend as high pressure returns, but more wet weather is in store next week.",
+          "link": "https://www.bbc.co.uk/weather/articles/clyx4ve0x0jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/clyx4ve0x0jo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 22 Aug 2026 01:11:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a88/live/f73f5260-9d76-11f1-a7fd-5fe2fcb0be12.png"
+            }
+          }
+        },
+        {
+          "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell   ",
+          "description": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
+          "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 20 Aug 2026 22:59:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48ad/live/65eaf140-9cac-11f1-b366-155f83b9d1f8.jpg"
+            }
+          }
+        },
+        {
+          "title": "One killed in sword attack at Swedish school",
+          "description": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested. ",
+          "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 21:03:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+          "description": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
+          "link": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 18:09:38 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37e6/live/437eb910-9d57-11f1-a291-b542ee92de7c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Argentina's Paredes banned for 10 games after World Cup final clashes",
+          "description": "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 15:26:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4619/live/4e75a6e0-9d6f-11f1-bdcc-8926c4a74c43.jpg"
+            }
+          }
+        },
+        {
+          "title": "Arran ferry evacuated over 'bomb threat' by passenger rescued from sea",
+          "description": "Police Scotland said a 23-year-old man was arrested and it was established that the threats \"were not credible\".",
+          "link": "https://www.bbc.co.uk/news/articles/c4g6nd3x0ppo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c4g6nd3x0ppo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 21:11:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ee/live/942278c0-9d8e-11f1-adf5-2dc21c9cc109.jpg"
+            }
+          }
+        },
+        {
+          "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+          "description": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
+          "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 11:20:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b693/live/e8990510-9d46-11f1-a3dc-c3f8cfe34ff8.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Is Andy Burnham Actually Popular Or Just New?",
+          "description": "And, Sue Gray gives her first interview since leaving Downing Street.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p4z216?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0p4z216#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 14:35:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Harry & Meghan: Why Are They Moving Back?",
+          "description": "The Sussexes love a surprise – but why have they decided to make a return to the UK?",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m00314c0?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m00314c0#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 20 Aug 2026 16:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e893/live/6e662e70-9d79-11f1-a291-b542ee92de7c.jpg"
+            }
+          }
+        },
+        {
+          "title": "An intense psychological thriller with Zoë Kravitz and Channing Tatum",
+          "description": "Having fun? Nothing as as it seems on a private party island, and leaving's not an option",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002ydz2?at_mid=vJxOQwqmAJ&at_campaign=Blink_Twice&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002ydz2&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Blink_Twice&at_bbc_team=BBC",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m002ydz2?at_mid=vJxOQwqmAJ&at_campaign=Blink_Twice&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002ydz2&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Blink_Twice&at_bbc_team=BBC#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 01 Jul 2026 23:20:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aff7/live/e690a190-9b3b-11f1-aed2-8d6da8d75094.jpg"
+            }
+          }
+        },
+        {
+          "title": "Swaggering Arsenal want title attack, not defence",
+          "description": "Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 22:55:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f54a/live/2cad59d0-9dac-11f1-b8c4-c1e59b96cddc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Lessons learned, but Coventry's top-flight return about more than result",
+          "description": "Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 23:13:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03e0/live/5b50d680-9db2-11f1-9537-fb0a2e1c2505.jpg"
+            }
+          }
+        },
+        {
+          "title": "Arsenal start title defence with comfortable win over Coventry",
+          "description": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 21:35:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ad/live/ec1ad730-9da6-11f1-a291-b542ee92de7c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Man Utd agree £70m fee for Brighton's Baleba",
+          "description": "Manchester United agree a fee of up to £70m for Brighton midfielder Carlos Baleba.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwy452d662ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cwy452d662ko#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 19:58:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30b6/live/c4242c40-9d9c-11f1-bff5-1bcd013e5a56.jpg"
+            }
+          }
+        },
+        {
+          "title": "It would be 'nice to have choice' over Ashes venues - Root",
+          "description": "Joe Root said \"it would be nice to have a choice\" over the venues where his England team play as they leave Headingley until 2029.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/cm2g5xpl33no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/cm2g5xpl33no#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 17:51:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbe4/live/ad48e160-9d82-11f1-b109-879e35c24276.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hunt second in Diamond League 200m as White wins",
+          "description": "Amy Hunt follows up her extraordinary week at the European Championships with a second-placed finish in the women's 200m at the Diamond League in Lausanne behind Kayla White.",
+          "link": "https://www.bbc.co.uk/sport/athletics/articles/c8dnvl1mqleo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/athletics/articles/c8dnvl1mqleo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 19:00:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb7/live/d1ef22a0-9da9-11f1-95ab-d3b679e2384a.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I fear for them' - Vaughan & Raja lament 'desperate times' for Pakistan",
+          "description": "Former England captain Michael Vaughan says he \"really fears\" for Pakistan after their heavy defeat in the first Test at Headingley.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/czrj545d34mo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/czrj545d34mo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 21 Aug 2026 17:09:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc5/live/83526340-9d82-11f1-adf5-2dc21c9cc109.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

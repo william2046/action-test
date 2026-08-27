@@ -1,0 +1,719 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Thu, 27 Aug 2026 12:10:49 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Watch: How the collapse of a glacier caused such devastation",
+          "description": "At least 270 people have died in the massive flash floods, while more than 800 others are missing.",
+          "link": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 10:17:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40cb/live/31a15a70-a1fa-11f1-b109-879e35c24276.jpg"
+            }
+          }
+        },
+        {
+          "title": "Two teenagers, 13 and 14, among 33 UK nationals missing in disaster",
+          "description": "Nepali police says 332 bodies have been recovered, while over 1,300 are still missing in total, according to authorities. ",
+          "link": "https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cnvlde5075no#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 10:30:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e7/live/b8d38ff0-a159-11f1-b109-879e35c24276.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK salmonella cases nearing 500 as egg investigations continue",
+          "description": "Close to 500 people have become ill with salmonella linked to imported eggs, say UK authorities who are investigating more clusters.",
+          "link": "https://www.bbc.co.uk/news/articles/cn8ej0zvppxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cn8ej0zvppxo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 11:00:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b642/live/cc25c7c0-a1fa-11f1-a97e-999c5aae08bf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Dame Jenni Murray died days after car crash, inquest hears",
+          "description": " The former presenter of BBC Radio 4 Woman's Hour died earlier this year, eight days after the collision. ",
+          "link": "https://www.bbc.co.uk/news/articles/cm27y2dx7pwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm27y2dx7pwo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 11:52:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55a5/live/920028e0-a20b-11f1-9090-b51af3a01fc2.jpg"
+            }
+          }
+        },
+        {
+          "title": "In pictures: The dotty world of Japanese artist Yayoi Kusama, who has died aged 97",
+          "description": "Kusama was known for creating extraordinary immersive worlds that delighted millions of visitors.",
+          "link": "https://www.bbc.co.uk/news/articles/cjdv57kvnk0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cjdv57kvnk0o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 09:23:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08d9/live/ee030b80-a201-11f1-a291-b542ee92de7c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Top Gear to return to TV four years after Flintoff crash, BBC confirms",
+          "description": "The show was \"rested\" after co-host Andrew Flintoff was injured in a crash during filming in 2022.",
+          "link": "https://www.bbc.co.uk/news/articles/clym7yrdk29o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/clym7yrdk29o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 10:57:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/265f/live/62c2da00-a201-11f1-a97e-999c5aae08bf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Number of asylum seekers in hotels halves in a year",
+          "description": "Figures released today by the Home Office show that there was also a fall across legal migration arrivals, asylum claims and small boat arrivals.",
+          "link": "https://www.bbc.co.uk/news/articles/c3relr4xx27o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c3relr4xx27o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 11:35:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d6e/live/66851bb0-a20d-11f1-9090-b51af3a01fc2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+          "description": "The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition.",
+          "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 11:20:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e5/live/35ac1170-a1f3-11f1-bf30-b9c45f18ad85.png"
+            }
+          }
+        },
+        {
+          "title": "Residents need to feel safe after deadly crash and fire near Middlesbrough, council leader says",
+          "description": "Teesside MPs and a council leader say communities need to feel safe after the incidents over the past week.",
+          "link": "https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 10:11:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3441/live/f48b6120-a204-11f1-b109-879e35c24276.png"
+            }
+          }
+        },
+        {
+          "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
+          "description": "The UK government claimes panels could help homes \"significantly cut\" energy bills.",
+          "link": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 09:41:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bb3/live/fda8dc80-a086-11f1-bfeb-dfb02ea642ef.jpg"
+            }
+          }
+        },
+        {
+          "title": "What we know so far",
+          "description": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet. ",
+          "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cd948kn02e5o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 09:55:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aa6/live/67c06430-a1f4-11f1-aed2-8d6da8d75094.jpg"
+            }
+          }
+        },
+        {
+          "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+          "description": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
+          "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cly464k252yo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 09:50:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c636/live/3c7f9eb0-a1e7-11f1-bf30-b9c45f18ad85.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: Rescue teams pull survivors from thick mud",
+          "description": "At least 160 people have been killed along the Nepal-Tibet border as rescuers struggle to reach the disaster zone.",
+          "link": "https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cq63431rgljo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 06:02:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/734d/live/7cfde3c0-a1f1-11f1-bf30-b9c45f18ad85.jpg"
+            }
+          }
+        },
+        {
+          "title": "'My family members were swept away': Survivors describe horror",
+          "description": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
+          "link": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cd08z840p8lo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 07:09:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c53/live/5e79d6c0-a1e2-11f1-aed2-8d6da8d75094.jpg"
+            }
+          }
+        },
+        {
+          "title": "A biopic, a coffee brand and dog treats among Dolly Parton's business projects still to come",
+          "description": "\"Dolly worked up until the day she died,\" her manager says, as her upcoming projects are revealed.",
+          "link": "https://www.bbc.co.uk/news/articles/c9dwy750jpdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c9dwy750jpdo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 11:00:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6669/live/055ee1c0-a200-11f1-a97e-999c5aae08bf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Want your job application to stand out? Employers say they look for these six skills",
+          "description": "Experts have identified six key skills that will count as much as qualifications in getting and keeping a job in the coming decade.",
+          "link": "https://www.bbc.co.uk/news/articles/cn9n9n5p9eqo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cn9n9n5p9eqo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 08:47:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fc9/live/d826c8d0-a1e1-11f1-b132-bb16290da3a7.png"
+            }
+          }
+        },
+        {
+          "title": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
+          "description": "Without brain surgery guided by live AI assistance, Rhys Hibbert could have lost his sight to a tumour.",
+          "link": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 26 Aug 2026 23:07:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e381/live/15e71f90-8512-11f1-bee8-53ce494e1abc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+          "description": "Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.",
+          "link": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 26 Aug 2026 23:04:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8a1/live/dac60130-a193-11f1-9e49-ab6cded816f9.jpg"
+            }
+          }
+        },
+        {
+          "title": "Off to Reading or Leeds? Here's your guide to festival make-up (without the toxins)",
+          "description": "Neon is on trend, but some make-up products pose a serious risk to your health. Here's what to check for, and how to dazzle.",
+          "link": "https://www.bbc.co.uk/news/articles/c0m71plpj0mo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c0m71plpj0mo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 07:09:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dbe/live/bbe18440-8c05-11f1-b2ab-0dd01740f9f6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Moon set to turn red as rare partial lunar eclipse graces UK skies on Friday",
+          "description": "The Moon could glow an eerie red in the early hours of Friday but cloud cover may spoil the spectacle for some parts of the UK.",
+          "link": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 06:03:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b60/live/f6d62c90-a1e5-11f1-b132-bb16290da3a7.jpg"
+            }
+          }
+        },
+        {
+          "title": "Can the right scent help make your rental feel like home?",
+          "description": "Experts share tips on how to make a flat or house feel like your own without annoying the landlord.",
+          "link": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 26 Aug 2026 23:08:42 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aaa/live/ab0c2bb0-a1ff-11f1-a97e-999c5aae08bf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Burnham calls summit of Welsh, Scottish and Northern Irish first ministers",
+          "description": "The announcement comes as the prime minister makes first official visit to Wales since entering No 10.",
+          "link": "https://www.bbc.co.uk/news/articles/c14d8v83ny7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c14d8v83ny7o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 05:05:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a7f/live/63601420-a1f0-11f1-b109-879e35c24276.jpg"
+            }
+          }
+        },
+        {
+          "title": "Thunderstorm warnings continue for parts of UK with more rain expected",
+          "description": "The Met Office has updated its yellow warnings for Thursday with the chance of flash flooding and travel disruption across England and Wales.",
+          "link": "https://www.bbc.co.uk/weather/articles/cvgydkpdn99o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/cvgydkpdn99o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 10:15:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ad/live/fc985690-a1e9-11f1-a291-b542ee92de7c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Clash over Germany's Nazi past as far-right AfD poised for election breakthrough",
+          "description": "Remembering its role in the World Wars is a key aspect of modern Germany's identity but the AfD argues it is time to take a more positive view of the past.",
+          "link": "https://www.bbc.co.uk/news/articles/cddv43d4jn2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cddv43d4jn2o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 05:15:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55a5/live/2323ca40-a15b-11f1-92f3-2381193e5eb4.png"
+            }
+          }
+        },
+        {
+          "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
+          "description": "On Saturday, Iceland will vote on EU membership talks, amid economic and geopolitical tensions.",
+          "link": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 26 Aug 2026 23:08:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b8a/live/6fa651a0-a181-11f1-8acb-47b47191a479.jpg"
+            }
+          }
+        },
+        {
+          "title": "Heather Watson to face fellow Briton Harriet Dart for US Open spot",
+          "description": "Heather Watson will face compatriot Harriet Dart for a place in the US Open main draw as six British players reach the final qualifying round.",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/czjz9g1g9v8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/tennis/articles/czjz9g1g9v8o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 06:23:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/5156e430-a1a9-11f1-bbde-d5b9c47bbf6b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Inquests open into A66 crash police deaths",
+          "description": "Inquests are opened and adjourned into the deaths of PC Matthew Blades and PC Tom Clough.",
+          "link": "https://www.bbc.co.uk/news/articles/c70lz048y47o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c70lz048y47o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 11:44:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png"
+            }
+          }
+        },
+        {
+          "title": "Key moments in trial of mother accused of murdering her three children",
+          "description": "Closing arguments are about to start in a trial which has drawn global attention to the rare condition postpartum psychosis.",
+          "link": "https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cg7mlmg475go#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 06:41:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a96f/live/a2753300-9fdb-11f1-b1e7-f78d213f1364.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Prince Harry and Meghan Land In The UK",
+          "description": "What will Prince Harry and Meghan’s new life in the Cotswolds look like?",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p64vdw?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0p64vdw#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 26 Aug 2026 16:27:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Archive footage and exclusive interviews in a landmark documentary",
+          "description": "Creating an icon. How a girl from the Smoky Mountains conquered Nashville – and the world",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m000crhq?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m000crhq#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 31 Mar 2026 05:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p07y6fy6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Dolly Parton's most iconic BBC moments and timeless hits",
+          "description": "Look back at her greatest moments with hits such as Jolene, 9 to 5 and Islands in the Stream",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0013wts/dolly-parton-at-the-bbc?at_mid=0xrp395ZuL&at_campaign=Dolly_Parton_at_BBC&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0013wts&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Dolly_Parton_at_BBC&at_bbc_team=BBC",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m0013wts/dolly-parton-at-the-bbc?at_mid=0xrp395ZuL&at_campaign=Dolly_Parton_at_BBC&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0013wts&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Dolly_Parton_at_BBC&at_bbc_team=BBC#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 26 Aug 2026 00:10:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2518/live/188abd30-a1ee-11f1-b109-879e35c24276.jpg"
+            }
+          }
+        },
+        {
+          "title": "Police investigating alleged assault in Carse incident",
+          "description": "An incident during which Brydon Carse was handcuffed is being investigated by Derbyshire Police, who say they are looking into allegations of assault. ",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/c23xkj17xyro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/c23xkj17xyro#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 09:19:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a994/live/882f12e0-a1f2-11f1-bf30-b9c45f18ad85.jpg"
+            }
+          }
+        },
+        {
+          "title": "Everton Grealish's preference if he leaves Man City",
+          "description": "Jack Grealish's preference would be to make a return to Everton should he leave Manchester City in the remaining days of the transfer window, sources have told BBC Sport.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c0qxzqdwekwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c0qxzqdwekwo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 10:13:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1b7/live/27fb9400-a1fe-11f1-a97e-999c5aae08bf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Liverpool close in on £120m deal for PSG's Barcola",
+          "description": "Liverpool are close to agreeing a deal with Paris St-Germain for Bradley Barcola - adding to the doubt surrounding Cody Gakpo's Anfield future.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c33kvgd3xpyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c33kvgd3xpyo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 10:31:21 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e132/live/2a1deab0-a1f1-11f1-bf30-b9c45f18ad85.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watson to face fellow Briton Dart for US Open spot",
+          "description": "Heather Watson will face compatriot Harriet Dart for a place in the US Open main draw as six British players reach the final qualifying round.",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/czjz9g1g9v8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/tennis/articles/czjz9g1g9v8o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 06:23:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/5156e430-a1a9-11f1-bbde-d5b9c47bbf6b.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

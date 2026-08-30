@@ -1,0 +1,738 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Sun, 30 Aug 2026 07:41:24 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
+          "description": "Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act.",
+          "link": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 07:13:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc9/live/6272a1d0-859f-11f1-bc30-6908d27da04d.jpg"
+            }
+          }
+        },
+        {
+          "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
+          "description": "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.",
+          "link": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 06:33:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa2/live/0733f3e0-a445-11f1-a751-eff8928911ec.jpg"
+            }
+          }
+        },
+        {
+          "title": "WhatsApp group chat used to send millions in cash, funding crime and extremism",
+          "description": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+          "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cgk57lg7566o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 04:59:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png"
+            }
+          }
+        },
+        {
+          "title": "Manhunt after one killed and five injured in Swiss shooting, police say",
+          "description": "A major police operation has been launched after the shooting at an event near Zurich overnight.",
+          "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c9qr750je1go#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 07:05:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe9b/live/618de8d0-a438-11f1-8b59-3de1e8d7e523.jpg"
+            }
+          }
+        },
+        {
+          "title": "Search continues for boat 'in distress' in Channel as two people still missing",
+          "description": "Two of the five crew members on board are still unaccounted for, the coastguard says.",
+          "link": "https://www.bbc.co.uk/news/articles/cjrx2qjv3e3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cjrx2qjv3e3o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 07:23:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bfe/live/8f760c20-a43b-11f1-a588-f1721d3dac68.jpg"
+            }
+          }
+        },
+        {
+          "title": "British heavyweight Moses Itauma stretchered out after gruelling world title defeat",
+          "description": "British heavyweight Moses Itauma was taught a harsh lesson at world level - what can he learn from defeat and where does the 21-year-old go next?",
+          "link": "https://www.bbc.co.uk/sport/boxing/articles/cg7krndl84do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/boxing/articles/cg7krndl84do#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 06:08:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b5e/live/00ccdf80-a40e-11f1-8168-6b68a47c80ef.jpg"
+            }
+          }
+        },
+        {
+          "title": "China censors videos showing deadly flash floods on the Nepal-Tibet border",
+          "description": "Footage of the flash floods have become almost impossible to find on China’s heavily censored internet.",
+          "link": "https://www.bbc.co.uk/news/videos/c89jxgd93qyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/c89jxgd93qyo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 29 Aug 2026 17:42:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b94e/live/86531210-a3c2-11f1-b109-879e35c24276.jpg"
+            }
+          }
+        },
+        {
+          "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+          "description": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator. ",
+          "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 28 Aug 2026 21:17:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7491/live/38bbbe20-a382-11f1-a291-b542ee92de7c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+          "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 29 Aug 2026 03:54:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg"
+            }
+          }
+        },
+        {
+          "title": "What we know about the 33 British nationals missing in Nepal",
+          "description": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.",
+          "link": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c93v70w79gxo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 28 Aug 2026 19:21:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf77/live/acf12e50-a37e-11f1-b109-879e35c24276.jpg"
+            }
+          }
+        },
+        {
+          "title": "They fell in love - then had to check they weren't brother and sister",
+          "description": "A French couple - both conceived by sperm donors - wanted children. But with home DNA tests illegal, how could they be sure they were not related?",
+          "link": "https://www.bbc.co.uk/news/articles/c8en3n29wdro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c8en3n29wdro#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 29 Aug 2026 23:03:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85fe/live/2e95f2d0-8438-11f1-9435-a164a693a39f.png"
+            }
+          }
+        },
+        {
+          "title": "I've been to Gamescom six times - here's what excited me this year",
+          "description": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
+          "link": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cew92lp2g45o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 29 Aug 2026 23:02:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e644/live/028c1140-a285-11f1-ae59-c1f7c17a8b7d.png"
+            }
+          }
+        },
+        {
+          "title": "Mount Fuji pics, life-changing ramen and a weak yen - why young Brits are going to Japan",
+          "description": "Photos of Mount Fuji, bowls of ramen and the bustle of Shibuya Crossing are filling up social media feeds.",
+          "link": "https://www.bbc.co.uk/news/articles/c7704l1ypjgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c7704l1ypjgo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 29 Aug 2026 23:04:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b5e/live/9e9feb10-a22b-11f1-aed2-8d6da8d75094.jpg"
+            }
+          }
+        },
+        {
+          "title": "I was told I was unworthy to be a mother, then they stole my baby",
+          "description": "Marion McMillan was one of about 250,000 women who were forced to have their babies adopted between 1949 and 1976. ",
+          "link": "https://www.bbc.co.uk/news/articles/c2el0l0d38zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c2el0l0d38zo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 00:52:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61f/live/938f32a0-a071-11f1-b109-879e35c24276.jpg"
+            }
+          }
+        },
+        {
+          "title": "We all share a 15-acre Georgian mansion for the price of a two-bed house",
+          "description": "Co-housing residents live in a Grade II listed mansion for the same price as a two-bed house.",
+          "link": "https://www.bbc.co.uk/news/articles/cg7mglglvmgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cg7mglglvmgo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 06:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc08/live/5aac5350-a08a-11f1-8116-c5aabe4388a9.png"
+            }
+          }
+        },
+        {
+          "title": "Iceland EU referendum on a knife edge as counting continues",
+          "description": "A vote on whether to resume membership talks with the European Union is too close to call.",
+          "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c70le8ed1plo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 03:57:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e0f/live/272509c0-a425-11f1-aed2-8d6da8d75094.jpg"
+            }
+          }
+        },
+        {
+          "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
+          "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+          "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cpq09594vw7o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 00:17:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db21/live/575d2470-a410-11f1-a291-b542ee92de7c.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Healey eyes banks and oil tax' and 'X Factor comeback'",
+          "description": "As rescue efforts enter their fifth day following the Nepal flash floods, some of today's papers report on the climbing death toll. ",
+          "link": "https://www.bbc.co.uk/news/articles/c5ydwl0lkvno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5ydwl0lkvno#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 04:05:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91d4/live/e79454a0-a3fc-11f1-b109-879e35c24276.jpg"
+            }
+          }
+        },
+        {
+          "title": "Six ways parents could make the return to school a little easier",
+          "description": "Parenting experts give their top tips on how to make sure back-to-school runs as smoothly as possible.",
+          "link": "https://www.bbc.co.uk/news/articles/c8rnp5m85jlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c8rnp5m85jlo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 00:26:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ae8/live/fa829fa0-a06d-11f1-a9ee-9bb6b032b6a3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Man dies after train hits van on level crossing",
+          "description": "British Transport Police said a man who was in a van died at the scene, in Burscough. ",
+          "link": "https://www.bbc.co.uk/news/articles/clylkwl5nd4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/clylkwl5nd4o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 29 Aug 2026 18:38:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0c8/live/9ed21db0-a3e3-11f1-9dd8-8fbe4c583bb8.jpg"
+            }
+          }
+        },
+        {
+          "title": "Normandy veteran who lied about age to enlist dies at 101",
+          "description": "A veterans' charity says Donald Turrell will be remembered with \"enormous affection and gratitude\". ",
+          "link": "https://www.bbc.co.uk/news/articles/cy5z3e64vpyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cy5z3e64vpyo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 29 Aug 2026 19:49:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b37d/live/648ee050-a3d6-11f1-a291-b542ee92de7c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Cleverly quits shadow cabinet to run for London mayor",
+          "description": "The capital is not set to vote on a new mayor until 2028. ",
+          "link": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 29 Aug 2026 16:24:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2689/live/dc707fb0-a3be-11f1-b13c-0d78069132fa.jpg"
+            }
+          }
+        },
+        {
+          "title": "Former railway line named Britain's favourite path",
+          "description": "The traffic-free route has been maintained by volunteers since the railway closed in the late 1960s.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgyl2mpnjjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvgyl2mpnjjo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 27 Aug 2026 11:30:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ca/live/2e25ff00-a2ad-11f1-ab20-f9f4f61e8913.png"
+            }
+          }
+        },
+        {
+          "title": "Some parents 'unaware' summer-born children can defer school",
+          "description": "Parents say misinformation means many families do not realise summer-born children can delay school.",
+          "link": "https://www.bbc.co.uk/news/articles/c802g5dm29jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c802g5dm29jo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 23 Aug 2026 06:17:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da69/live/b2306200-9663-11f1-a654-971f565de941.png"
+            }
+          }
+        },
+        {
+          "title": "'What you see is what you pay' - why some US restaurants are banning tips",
+          "description": "Tips are central to US dining culture but some eateries think that they are unfair.",
+          "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c4g36yze692o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 24 Aug 2026 23:04:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2add/live/70cad1a0-9592-11f1-870d-5d08c49babb2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hidden museum gallery to reopen after 83 years",
+          "description": "The gallery, which has been closed since 1943, will reopen from 16 September.",
+          "link": "https://www.bbc.co.uk/news/articles/cr59grpzqgeo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cr59grpzqgeo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 22 Aug 2026 07:00:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55e/live/e3703910-9d3b-11f1-bc05-aff3aa1f91c7.png"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Is ADHD And Autism Care Heading For \"Chaos\"?",
+          "description": "And, did CIA chief travel to Moscow to warn Putin against attacking Nato?",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p64vh0?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0p64vh0#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 28 Aug 2026 15:21:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Canada tests the limits of Trump’s power",
+          "description": "And, America says goodbye to musical icon Dolly Parton.",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8lzk?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/w3ct8lzk#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 26 Aug 2026 17:14:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "Football in Greenland: The toughest championship in the world?",
+          "description": "BBC Sport travels to Nuuk for the Greenlandic Football Championship.",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002jb61?at_mid=XTtVv7O2ez&at_campaign=One_Week_One_Title_Football_in_Greenland&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002jb61&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=One_Week_One_Title_Football_in_Greenland&at_bbc_team=BBC",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m002jb61?at_mid=XTtVv7O2ez&at_campaign=One_Week_One_Title_Football_in_Greenland&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002jb61&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=One_Week_One_Title_Football_in_Greenland&at_bbc_team=BBC#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 06 Sep 2025 12:59:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a087/live/b83dea10-a071-11f1-aed2-8d6da8d75094.jpg"
+            }
+          }
+        },
+        {
+          "title": "Heavyweight Itauma handed harsh world-title lesson",
+          "description": "British heavyweight Moses Itauma was taught a harsh lesson at world level - what can he learn from defeat and where does the 21-year-old go next?",
+          "link": "https://www.bbc.co.uk/sport/boxing/articles/cg7krndl84do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/boxing/articles/cg7krndl84do#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 06:08:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b5e/live/00ccdf80-a40e-11f1-8168-6b68a47c80ef.jpg"
+            }
+          }
+        },
+        {
+          "title": "£300m spent, bottom of the table... but Spurs boss De Zerbi 'not angry'",
+          "description": "Having spent more than £300m in the summer, Tottenham find themselves bottom of the Premier League, without a point or a goal, but boss Roberto de Zerbi remains optimistic.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/clyqn158n5jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/clyqn158n5jo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 29 Aug 2026 21:15:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/496a/live/c01cf330-a3ef-11f1-863f-8dae62681d3a.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Supporters aren't always wrong' - Moyes on Everton fans' anger",
+          "description": "David Moyes says \"supporters aren't always wrong\" after Everton fans voice their opposition to the potential sale of teenage midfielder Harrison Armstrong during the 1-1 draw at Bournemouth. ",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy7zk5vprplo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cy7zk5vprplo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 29 Aug 2026 18:59:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d0c/live/764885c0-a3d2-11f1-aed2-8d6da8d75094.jpg"
+            }
+          }
+        },
+        {
+          "title": "Vaughan backs Lawrence for extended run in England team",
+          "description": "Former captain Michael Vaughan backs batter Dan Lawrence for a run in England's Test side. How would you solve impending selection headache?",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/cgrvw52zdrpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/cgrvw52zdrpo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 29 Aug 2026 18:21:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb3b/live/82d14b10-a3d2-11f1-a291-b542ee92de7c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Fighting to stay No 1 - Sabalenka's US Open mission",
+          "description": "Will Aryna Sabalenka rediscover her mojo? How will Carlos Alcaraz's comeback go? And can Novak Djokovic win? It's time for the 2026 US Open singles.",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/c4glzvq3pzno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/tennis/articles/c4glzvq3pzno#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 05:06:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75e1/live/5060e260-a2d0-11f1-941c-8741c1a72471.jpg"
+            }
+          }
+        },
+        {
+          "title": "Man City open talks with Liverpool over Gakpo",
+          "description": "The Netherlands forward has also attracted interest from Tottenham, but sources indicate Manchester City is his preferred destination if he leaves Anfield.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 29 Aug 2026 20:17:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e0d/live/2683a700-a3e0-11f1-ada8-4d531f05da8c.jpg"
+            }
+          }
+        },
+        {
+          "title": "GB's Fery beaten in his first ATP Tour final",
+          "description": "Arthur Fery misses out on his first ATP Tour title with a straight-set defeat by Ignacio Buse in the final of the Winston-Salem Open.",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/cnvl3m06j6po?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/tennis/articles/cnvl3m06j6po#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 30 Aug 2026 05:32:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63be/live/b1466d50-a3ef-11f1-863f-8dae62681d3a.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

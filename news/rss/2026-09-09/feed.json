@@ -1,0 +1,624 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Wed, 09 Sep 2026 06:54:36 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+          "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 21:46:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg"
+            }
+          }
+        },
+        {
+          "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
+          "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats. ",
+          "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 09 Sep 2026 02:59:38 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5822/live/8e4e1760-ac11-11f1-940e-bf738e043799.jpg"
+            }
+          }
+        },
+        {
+          "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+          "description": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
+          "link": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c9w41v2r742o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 09 Sep 2026 04:59:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc94/live/3b4b2720-aacb-11f1-a291-b542ee92de7c.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
+          "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+          "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 23:11:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e30/live/c326db60-ab90-11f1-aed2-8d6da8d75094.jpg"
+            }
+          }
+        },
+        {
+          "title": "Very hot drinks may damage the food pipe and increase cancer risk",
+          "description": "Steaming hot liquid can damage the cell lining on the way down to the stomach, experts say.",
+          "link": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 23:30:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e44/live/ae43a900-ac10-11f1-940e-bf738e043799.jpg"
+            }
+          }
+        },
+        {
+          "title": "Alan Carr holds back tears on special night at National Television Awards",
+          "description": "The comedian and Celebrity Traitors win big - see a full list of winners and nominees from the 26th edition of the awards.",
+          "link": "https://www.bbc.co.uk/news/articles/clyl6866j1jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/clyl6866j1jo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 09 Sep 2026 01:28:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6481/live/d9867910-ac17-11f1-a291-b542ee92de7c.png"
+            }
+          }
+        },
+        {
+          "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+          "description": "Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat strikes between the US and Iran.",
+          "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 09 Sep 2026 04:26:38 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76ef/live/6d545a00-ac03-11f1-afbf-77fe6d25f635.jpg"
+            }
+          }
+        },
+        {
+          "title": "Funeral for officer killed in crash to take place",
+          "description": "PC Matthew Blades' family say he brought light and laughter into every room.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 09 Sep 2026 06:34:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fe1/live/01e5c160-ab94-11f1-aa04-efbf6a882854.jpg"
+            }
+          }
+        },
+        {
+          "title": "LIV Golf files for bankruptcy protection with $45m owed to players",
+          "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 21:20:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/584c/live/36426000-aba1-11f1-8e72-a346833ed029.jpg"
+            }
+          }
+        },
+        {
+          "title": "The trail of clues that suggest our planet might be heating faster than we realised",
+          "description": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
+          "link": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c20917w25n4o#0",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 23:11:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba25/live/699e3f00-ab83-11f1-a291-b542ee92de7c.jpg"
+            }
+          }
+        },
+        {
+          "title": "I'm 27 and I've already written my will - here's why",
+          "description": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
+          "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 23:04:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217a/live/df5f29c0-964d-11f1-a4de-8772188b26f6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions",
+          "description": "It is hoped that coordinated action minimises the blowback to any one country from Israel or America, our political editor writes.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 23:52:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d2/live/d3c0b1f0-abd9-11f1-ba40-a905468c0295.jpg"
+            }
+          }
+        },
+        {
+          "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
+          "description": "BBC's Middle East correspondent Lucy Williamson reports from an area close to Israel's proposed site in the occupied West Bank.",
+          "link": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 16:45:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/794d/live/60f7daa0-ab9c-11f1-aed2-8d6da8d75094.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+          "description": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
+          "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 23:11:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6920/live/595923d0-ac19-11f1-a291-b542ee92de7c.png"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Israel reacts with fury' and 'air traffic collapse'",
+          "description": "Sanctions on West Bank settlements, airport chaos and Prince George dominate Wednesday's front pages.",
+          "link": "https://www.bbc.co.uk/news/articles/c1j4npw4wpxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c1j4npw4wpxo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 09 Sep 2026 04:27:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac57/live/fcaacc50-abdd-11f1-aed2-8d6da8d75094.png"
+            }
+          }
+        },
+        {
+          "title": "Glastonbury confirms ticket sale dates - and highest ever price",
+          "description": "The festival will return in June after taking a fallow year, but tickets have topped £400 for the first time.",
+          "link": "https://www.bbc.co.uk/news/articles/c0klzvdn8epo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c0klzvdn8epo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 18:10:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ac/live/f6644600-abab-11f1-8e72-a346833ed029.jpg"
+            }
+          }
+        },
+        {
+          "title": "RNLI boss says volunteers facing 'unacceptable' abuse",
+          "description": "Peter Sparkes says there has been \"deliberate misinformation\" spread about the charity.",
+          "link": "https://www.bbc.co.uk/news/articles/c0j3912qe33o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c0j3912qe33o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 20:25:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f26/live/fe5fa910-abad-11f1-8e72-a346833ed029.png"
+            }
+          }
+        },
+        {
+          "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+          "description": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+          "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c99dm1000p7o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 09 Sep 2026 06:28:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08b5/live/f578ba70-abe0-11f1-b727-455d73198a95.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hong Kong's first leader after British handover dies",
+          "description": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
+          "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cn457lq938jo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 09 Sep 2026 04:24:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f15c/live/39d2dc50-abfa-11f1-807e-af17aa793752.jpg"
+            }
+          }
+        },
+        {
+          "title": "South Park creators rename show 'South America' in apparent dig at Trump",
+          "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
+          "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 09 Sep 2026 05:39:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d37d/live/be700670-ac06-11f1-afbf-77fe6d25f635.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Emotional rollercoaster' - Lindsay Clancy jurors speak out on what led to mistrial",
+          "description": "The three jurors said after 40 hours, a lone male juror wouldn't agree with the rest of the panel to find Clancy not guilty by reason of insanity. ",
+          "link": "https://www.bbc.co.uk/news/articles/c74k13kpv2no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c74k13kpv2no#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 09 Sep 2026 03:47:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc45/live/4c0ffde0-abdb-11f1-ba40-a905468c0295.jpg"
+            }
+          }
+        },
+        {
+          "title": "Thousands of teens missing education 'under the radar' of official stats, report warns",
+          "description": "The children's commissioner for England says many are enrolled at college but aren't showing up.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyznq259elo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwyznq259elo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 23:33:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5730/live/d5ee1a10-aba9-11f1-8e72-a346833ed029.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Why Has The UK Government Changed Its Approach to Israel?",
+          "description": "UK imposes sanctions on Israeli settlements in the West Bank.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p8l9mf?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0p8l9mf#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 15:55:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Americanswers… on 5 Live! Why is Lindsay Clancy’s mistrial dividing America?",
+          "description": "And will Trump succeed in limiting mail-in voting before the midterms?",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p8g14s?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0p8g14s#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 07 Sep 2026 18:15:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+            }
+          }
+        },
+        {
+          "title": "LIV files for bankruptcy protection with over $45m owed to players",
+          "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 21:20:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/584c/live/36426000-aba1-11f1-8e72-a346833ed029.jpg"
+            }
+          }
+        },
+        {
+          "title": "McLaren talks, 'numb' cars and being 'captain of the ship' - Verstappen Q&A",
+          "description": "In an exclusive interview with BBC Sport, Max Verstappen talks about his new contract at Red Bull and much more.",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/cy4ze023nvro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/formula1/articles/cy4ze023nvro#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 09 Sep 2026 05:06:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/435a/live/4b2504c0-aa32-11f1-bdbb-8bb5df16290b.jpg"
+            }
+          }
+        },
+        {
+          "title": "England to extend head coach Borthwick's contract",
+          "description": "England head coach Steve Borthwick will have his contract extended past the 2028 Six Nations in a bid to avoid uncertainty over his future before and during next year's Rugby World Cup.",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ydlq5n0zwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ydlq5n0zwo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 09 Sep 2026 06:23:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a5e/live/9cff5010-ac13-11f1-940e-bf738e043799.jpg"
+            }
+          }
+        },
+        {
+          "title": "Bouaddi impresses on first start - have Man City found 'a gem'?",
+          "description": "Ayyoub Bouaddi belies his age with a mature Champions League performance on his first Manchester City start to showcase why the club were so intent on signing the 18-year-old.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy0zq59gr21o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cy0zq59gr21o#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 22:09:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74ba/live/5401f370-abcf-11f1-897e-d7c2bae07186.jpg"
+            }
+          }
+        },
+        {
+          "title": "In the middle again - but Mourinho says Alexander-Arnold 'not a midfielder'",
+          "description": "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c980lgdrlzno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c980lgdrlzno#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 08 Sep 2026 23:14:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ace/live/5b112f80-abd6-11f1-a291-b542ee92de7c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Are women better than men at endurance running?",
+          "description": "\nWomen have beaten men in some high-profile endurance events in recent months - are they better suited to these challenges? ",
+          "link": "https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 09 Sep 2026 06:27:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9881/live/864cfb20-ab63-11f1-9647-01c7ddc5a2b1.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

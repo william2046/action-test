@@ -17,7 +17,7 @@
         "link": "https://www.bbc.co.uk/news"
       },
       "generator": "RSS for Node",
-      "lastBuildDate": "Tue, 15 Sep 2026 05:42:50 GMT",
+      "lastBuildDate": "Wed, 16 Sep 2026 05:34:52 GMT",
       "atom:link": {
         "$": {
           "href": "https://feeds.bbci.co.uk/news/rss.xml",
@@ -30,458 +30,496 @@
       "ttl": "15",
       "item": [
         {
-          "title": "Lucy Letby public inquiry findings set to be published",
-          "description": "The Thirlwall Inquiry has been investigating how concerns about killer nurse Letby were handled - and whether any babies might have lived if action was taken earlier.",
-          "link": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss",
+          "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+          "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o#1",
+            "_": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 15 Sep 2026 01:54:35 GMT",
+          "pubDate": "Wed, 16 Sep 2026 00:59:20 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81d7/live/7536f240-4ead-11f1-a4e8-2309d38aa073.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg"
             }
           }
         },
         {
-          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-          "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-          "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+          "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+          "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1",
+            "_": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 15 Sep 2026 03:47:27 GMT",
+          "pubDate": "Wed, 16 Sep 2026 01:29:20 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f8/live/3cfae5c0-b128-11f1-b1d1-571ed4d7ff2c.jpg"
             }
           }
         },
         {
-          "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
-          "description": "The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money.",
-          "link": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss",
+          "title": "UK in talks about joining global defence bank led by Canada",
+          "description": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
+          "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo#1",
+            "_": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 14 Sep 2026 23:51:03 GMT",
+          "pubDate": "Tue, 15 Sep 2026 23:50:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8d/live/97804d80-b189-11f1-8867-6b6a7f037413.jpg"
+            }
+          }
+        },
+        {
+          "title": "Three dead after LA news helicopter crashes while covering deadly bus collision",
+          "description": "The NBCLA news helicopter was flying near the scene of a fatal bus crash.",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 16 Sep 2026 05:14:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4110/live/03c9e4a0-b17c-11f1-a430-4d16ee157c41.jpg"
+            }
+          }
+        },
+        {
+          "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
+          "description": "Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies.",
+          "link": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 16 Sep 2026 00:25:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a33/live/65d09650-b143-11f1-bc1f-3f186ca4140c.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
+          "description": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night.",
+          "link": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 15 Sep 2026 22:04:38 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbf1/live/bf5aa010-b091-11f1-abf3-2144c1c3dc24.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3468/live/5cfde840-b150-11f1-b1d1-571ed4d7ff2c.jpg"
             }
           }
         },
         {
-          "title": "US confirms for first time it has deployed space weapons",
-          "description": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
-          "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+          "title": "Search continues for boy, 3, missing at playground",
+          "description": "Police carry out door-to-door inquiries in Brantham and a helicopter is seen circling the area.",
+          "link": "https://www.bbc.co.uk/news/articles/cr5yev2v1x29o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/ck790xg41ygro#1",
+            "_": "https://www.bbc.co.uk/news/articles/cr5yev2v1x29o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 15 Sep 2026 01:52:02 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea01/live/8817c3e0-b0a4-11f1-a49c-4d6441eda2b0.jpg"
-            }
-          }
-        },
-        {
-          "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-          "description": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
-          "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Tue, 15 Sep 2026 03:50:06 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c355/live/3fadea80-b0a9-11f1-bc1f-3f186ca4140c.jpg"
-            }
-          }
-        },
-        {
-          "title": "Superstars and broken records: 2026 Emmy highlights",
-          "description": "The 78th Primetime Emmy Awards were hosted by Law & Order star Mariska Hargitay at the Peacock Theatre in Los Angeles.",
-          "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Tue, 15 Sep 2026 05:14:24 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2239/live/96cacb20-b0c3-11f1-a540-61c3f7fc4e6c.jpg"
-            }
-          }
-        },
-        {
-          "title": "Ukraine's postal workers deliver lifeline under Russian fire",
-          "description": "The state post service delivers pensions, medicine and letters to people just miles from the front.",
-          "link": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c33kmred368o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Tue, 15 Sep 2026 05:01:46 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42e8/live/a46209c0-b040-11f1-bb36-29bb24d8b9b8.jpg"
-            }
-          }
-        },
-        {
-          "title": "Harry and Meghan to have security review and children change school",
-          "description": "The level of police protection they need and potential dangers they face are to be reviewed.",
-          "link": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 14 Sep 2026 20:29:52 GMT",
+          "pubDate": "Wed, 16 Sep 2026 05:32:07 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/508f/live/c7197250-b072-11f1-9819-95a805e73cfa.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4617/live/300dc0e0-b14a-11f1-a383-57f33d64a166.jpg"
             }
           }
         },
         {
-          "title": "Nato jets down drone that entered Lithuanian airspace",
-          "description": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
-          "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+          "title": "Prolific shoplifters behind more than 28,000 offences, BBC finds",
+          "description": "Just 270 people were linked to 28,415 shoplifting offences across England, a BBC analysis has found.",
+          "link": "https://www.bbc.co.uk/news/articles/cvg7231pev5o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo#1",
+            "_": "https://www.bbc.co.uk/news/articles/cvg7231pev5o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 15 Sep 2026 02:22:07 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfc8/live/08f853a0-b08f-11f1-84c3-e1e2978ca87a.jpg"
-            }
-          }
-        },
-        {
-          "title": "UK set to turn cooler as unsettled weather continues",
-          "description": "As temperatures drop through the week and it starts to feel more autumnal, is it now time to put the summer clothes away? ",
-          "link": "https://www.bbc.co.uk/weather/articles/c98r630jejdyo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/weather/articles/c98r630jejdyo#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Tue, 15 Sep 2026 00:24:53 GMT",
+          "pubDate": "Wed, 16 Sep 2026 00:11:25 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e2/live/ff5d9010-b09a-11f1-9e7d-cb2f675dfcb0.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e4b/live/d333daa0-b110-11f1-8907-39a652c5e20e.jpg"
             }
           }
         },
         {
-          "title": "Man admits drugging and raping wife over 20 years",
-          "description": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
-          "link": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
+          "title": "Mayors could be given powers to oversee water companies ",
+          "description": "The idea is to create nine new regional bodies responsible for planning, setting objectives and holding water companies to account.",
+          "link": "https://www.bbc.co.uk/news/articles/cmgrvdxzzk8eo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo#1",
+            "_": "https://www.bbc.co.uk/news/articles/cmgrvdxzzk8eo#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 14 Sep 2026 16:54:26 GMT",
+          "pubDate": "Wed, 16 Sep 2026 02:09:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b962/live/661bcf50-b173-11f1-a430-4d16ee157c41.jpg"
+            }
+          }
+        },
+        {
+          "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers ",
+          "description": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
+          "link": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 16 Sep 2026 00:05:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af1f/live/e6dc9eb0-b134-11f1-a430-4d16ee157c41.jpg"
+            }
+          }
+        },
+        {
+          "title": "Japan to charge rescue fee on Mount Fuji during off season",
+          "description": "The fee is among a series of measures Yamanashi prefecture is introducing to deter reckless climbers.",
+          "link": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 16 Sep 2026 02:40:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1676/live/f786d6b0-b182-11f1-aa3a-41a86a30db69.jpg"
+            }
+          }
+        },
+        {
+          "title": "What are the key findings from the Thirlwall inquiry?",
+          "description": "The inquiry found a \"complete failure to protect babies on the neonatal unit\" where the nurse worked.",
+          "link": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 15 Sep 2026 12:37:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb9/live/7834b820-b135-11f1-a430-4d16ee157c41.jpg"
+            }
+          }
+        },
+        {
+          "title": "Letby failings go beyond one hospital - the whole system has been found lacking",
+          "description": "Inquiry chair Lady Justice Thirlwall set out how the culture of the health system created the conditions that enabled poor care and criminality.",
+          "link": "https://www.bbc.co.uk/news/articles/ckrer2738v8vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckrer2738v8vo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 15 Sep 2026 16:51:43 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d870/live/8c959890-b05c-11f1-9902-771b6dd8af6a.png"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cfd/live/0c0070d0-b10e-11f1-9065-997784e11373.png"
             }
           }
         },
         {
-          "title": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
-          "description": "The US rapper was condemned by Jewish groups after making comments criticising Israel.",
-          "link": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
+          "title": "Repeatedly untruthful, callous and quiet: What we learned about Letby from report",
+          "description": "The report has shed more details on Lucy Letby - the most prolific child killer in British legal history.",
+          "link": "https://www.bbc.co.uk/news/articles/cvj64wk38d72o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko#1",
+            "_": "https://www.bbc.co.uk/news/articles/cvj64wk38d72o#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 14 Sep 2026 21:10:49 GMT",
+          "pubDate": "Tue, 15 Sep 2026 15:42:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "136",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8230/live/82d26b60-b0ea-11f1-b1d1-571ed4d7ff2c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Do you feel guilty when calling in sick at work? This might be why...",
+          "description": "As many as half of people report working when sick. The reasons for this are complex, experts say.",
+          "link": "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 15 Sep 2026 23:40:07 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eae/live/99bf3820-b064-11f1-b9fd-8be7457ad079.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aa7/live/94dda4f0-ab90-11f1-aa04-efbf6a882854.jpg"
             }
           }
         },
         {
-          "title": "Memorable moments from the Emmys and everything you couldn't see on TV",
-          "description": "Backstage, the winners continued the celebrations off-screen and addressed some of the ceremony's most viral moments. \n\n",
-          "link": "https://www.bbc.co.uk/news/articles/cq9v9j2rxpxxo?at_medium=RSS&at_campaign=rss",
+          "title": "We are all new job starters - here's how we got through the first few days",
+          "description": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cq9v9j2rxpxxo#2",
+            "_": "https://www.bbc.co.uk/news/articles/cm2qn163053o#3",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 15 Sep 2026 05:30:35 GMT",
+          "pubDate": "Tue, 15 Sep 2026 23:14:26 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/725d/live/8d4860a0-b0c6-11f1-a2b7-314e849a6e43.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f76/live/ed4dd290-b126-11f1-b1d1-571ed4d7ff2c.jpg"
             }
           }
         },
         {
-          "title": "I got paid $5,000 to move to a place I'd never heard of",
-          "description": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
-          "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+          "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
+          "description": "The global AI race is being hit by very localised political and environmental concerns",
+          "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c3eq7485kewo#2",
+            "_": "https://www.bbc.co.uk/news/articles/cv986j48l66ko#3",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 14 Sep 2026 23:08:28 GMT",
+          "pubDate": "Tue, 15 Sep 2026 23:39:55 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aca/live/2f2837d0-b016-11f1-b1d1-571ed4d7ff2c.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fda/live/b901c2a0-b101-11f1-a540-61c3f7fc4e6c.jpg"
             }
           }
         },
         {
-          "title": "From Marilyn Monroe to Sabrina Carpenter - Bob Mackie's designs in pictures",
-          "description": "Beyoncé, Cher, Elton John and Miley Cyrus have all worn Mackie's glittery ensembles.",
-          "link": "https://www.bbc.co.uk/news/articles/c9e8enjrn3dyo?at_medium=RSS&at_campaign=rss",
+          "title": "Is bankrupt competitions boss behind new scheme?",
+          "description": "The man behind a competions company which went bust owing thousands is back with a new venture.",
+          "link": "https://www.bbc.co.uk/news/articles/c8e3ryrl30lo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c9e8enjrn3dyo#2",
+            "_": "https://www.bbc.co.uk/news/articles/c8e3ryrl30lo#3",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 15 Sep 2026 02:53:39 GMT",
+          "pubDate": "Wed, 16 Sep 2026 03:52:42 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc87/live/341ef1b0-b0ad-11f1-b1d1-571ed4d7ff2c.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/53afbda0-acf4-11f1-bc1f-3f186ca4140c.png"
             }
           }
         },
         {
-          "title": "Watch: Why Harry and Meghan's security in the UK to be reviewed",
-          "description": "The Duke and Duchess of Sussex are going to be given a review of their publicly-funded security after their return to live in the UK.\n",
-          "link": "https://www.bbc.co.uk/news/videos/cq98692g6xxdo?at_medium=RSS&at_campaign=rss",
+          "title": "The Papers: 'Complete failure to protect babies' and 'Sterling mess'",
+          "description": "The landmark public inquiry into Lucy Letby's murders and attempted murders is the focus of several of today's papers. ",
+          "link": "https://www.bbc.co.uk/news/articles/c63re1pp098lo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/videos/cq98692g6xxdo#2",
+            "_": "https://www.bbc.co.uk/news/articles/c63re1pp098lo#3",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 14 Sep 2026 22:15:33 GMT",
+          "pubDate": "Wed, 16 Sep 2026 04:39:56 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e4e/live/f889a5c0-b087-11f1-bc1f-3f186ca4140c.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e36c/live/c35ae700-b15f-11f1-a430-4d16ee157c41.jpg"
             }
           }
         },
         {
-          "title": "The Papers: Reform donors 'could face enhanced checks' and 'Sydney Sweeney blasted'",
-          "description": "Several papers feature actor Sydney Sweeney, who has been criticised by female athletes for posing nude for a sports betting company advert.",
-          "link": "https://www.bbc.co.uk/news/articles/c6lyedp0y35no?at_medium=RSS&at_campaign=rss",
+          "title": "AI app ads promoting 'objectification of women' banned by watchdog",
+          "description": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c6lyedp0y35no#2",
+            "_": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 15 Sep 2026 04:51:54 GMT",
+          "pubDate": "Tue, 15 Sep 2026 23:27:17 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d082/live/4e5687c0-b097-11f1-a540-61c3f7fc4e6c.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a00/live/07f248b0-b168-11f1-a1e1-ab09ccd44496.jpg"
             }
           }
         },
         {
-          "title": "Oasis confirm second leg of reunion tour after weeks of social media teasers",
-          "description": "The band have announced a second wave of shows for their hit reunion tour, after weeks of teasers.",
-          "link": "https://www.bbc.co.uk/news/articles/cq89455dlw2o?at_medium=RSS&at_campaign=rss",
+          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+          "description": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".  ",
+          "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cq89455dlw2o#4",
+            "_": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 14 Sep 2026 15:04:22 GMT",
+          "pubDate": "Tue, 15 Sep 2026 20:34:12 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f285/live/5ada9660-9280-11f1-9985-cdf6a137096d.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg"
             }
           }
         },
         {
-          "title": "Mass nesting brings swarms of turtles to Mexican beach",
-          "description": "Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.",
-          "link": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
+          "title": "Turkey arrests dozens in crackdown on LGBTQ+ activists ",
+          "description": "The arrests are an escalation in the Turkish government's campaign targeting LGBTQ+ community and activists.",
+          "link": "https://www.bbc.co.uk/news/articles/cwg7ky12g14jo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo#4",
+            "_": "https://www.bbc.co.uk/news/articles/cwg7ky12g14jo#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 15 Sep 2026 01:08:55 GMT",
+          "pubDate": "Tue, 15 Sep 2026 22:26:05 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2069/live/6f3c6140-b0a0-11f1-9e7d-cb2f675dfcb0.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d5c/live/f63256f0-b145-11f1-a383-57f33d64a166.jpg"
             }
           }
         },
         {
-          "title": "Balaclava ban comes into force in Nottingham city centre",
-          "description": "Nottingham becomes one of the first cities nationally to take this action, its council leader said.",
-          "link": "https://www.bbc.co.uk/news/articles/cq0kldp8k100o?at_medium=RSS&at_campaign=rss",
+          "title": "Thirteenth Met Police officer sacked after Charing Cross Panorama film",
+          "description": "PC Mason O'Connor is dismissed after a hearing found he had breached standards of professional behaviour, the Met said.",
+          "link": "https://www.bbc.co.uk/news/articles/crkgwy89nl75o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cq0kldp8k100o#4",
+            "_": "https://www.bbc.co.uk/news/articles/crkgwy89nl75o#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 15 Sep 2026 00:55:05 GMT",
+          "pubDate": "Tue, 15 Sep 2026 20:23:08 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daaf/live/6c2e5360-b09f-11f1-9e7d-cb2f675dfcb0.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc1b/live/ebc7d000-b140-11f1-b1d1-571ed4d7ff2c.jpg"
             }
           }
         },
         {
-          "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-          "description": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
-          "link": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
+          "title": "Magazine returned to US library after 132 years overdue",
+          "description": "Concord Public Library said it would have incurred a $12,055 overdue fine, had there not been a temporary fine freeze in place.",
+          "link": "https://www.bbc.co.uk/news/articles/cmn0jk2z760eo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go#4",
+            "_": "https://www.bbc.co.uk/news/articles/cmn0jk2z760eo#5",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 14 Sep 2026 18:26:20 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba72/live/d553bf60-b04a-11f1-bc1f-3f186ca4140c.jpg"
-            }
-          }
-        },
-        {
-          "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
-          "description": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
-          "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 14 Sep 2026 22:56:44 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db8/live/b910afd0-b08a-11f1-8f9f-33e0914f3492.jpg"
-            }
-          }
-        },
-        {
-          "title": "Legendary costume designer Bob Mackie who designed for Cher and Dolly Parton dies aged 87",
-          "description": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
-          "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 14 Sep 2026 21:29:12 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f37e/live/64511030-b05c-11f1-9902-771b6dd8af6a.jpg"
-            }
-          }
-        },
-        {
-          "title": "Pubs in England and Wales to allow digital ID apps to prove age",
-          "description": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 14 Sep 2026 23:07:56 GMT",
+          "pubDate": "Wed, 16 Sep 2026 01:15:57 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8927/live/27ccb940-b04b-11f1-89e4-0bbff5cb7e23.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/012a/live/fc349430-b16a-11f1-aa34-cd96b0948b75.jpg"
+            }
+          }
+        },
+        {
+          "title": "Southport attack victims, survivors and families hit by data breach",
+          "description": "The Ministry of Justice says sensitive and personal data was accessed in a limited number of cases.",
+          "link": "https://www.bbc.co.uk/news/articles/cr74kwn1eeyjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cr74kwn1eeyjo#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 15 Sep 2026 20:19:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0476/live/9df74c60-b13c-11f1-8e7a-7b6c4dcbe4b5.jpg"
+            }
+          }
+        },
+        {
+          "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
+          "description": "Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.",
+          "link": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 15 Sep 2026 20:41:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2baf/live/eb2ecdb0-b127-11f1-a540-61c3f7fc4e6c.jpg"
             }
           }
         },
@@ -490,7 +528,7 @@
           "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
           "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "_": "https://www.bbc.co.uk/news/10628994#6",
             "$": {
               "isPermaLink": "false"
             }
@@ -509,7 +547,7 @@
           "description": "President Trump dismisses need for AI guardrails, saying “whoever wins AI, wins”",
           "link": "https://www.bbc.co.uk/sounds/play/p0p9l053?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0p9l053#6",
+            "_": "https://www.bbc.co.uk/sounds/play/p0p9l053#7",
             "$": {
               "isPermaLink": "false"
             }
@@ -528,7 +566,7 @@
           "description": "And which songs have made it onto Trump’s Air Force One playlist?",
           "link": "https://www.bbc.co.uk/sounds/play/p0p9m9vz?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0p9m9vz#6",
+            "_": "https://www.bbc.co.uk/sounds/play/p0p9m9vz#7",
             "$": {
               "isPermaLink": "false"
             }
@@ -543,135 +581,116 @@
           }
         },
         {
-          "title": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
-          "description": "Dominic Calvert-Lewin has now scored in Leeds' past five league matches. Is he ready for an England recall?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o?at_medium=RSS&at_campaign=rss",
+          "title": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
+          "description": "Max Dowman shines with two goals against Ipswich Town - but boss Mikel Arteta warns Arsenal cannot rush his development.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o#8",
+            "_": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo#9",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 14 Sep 2026 22:56:28 GMT",
+          "pubDate": "Tue, 15 Sep 2026 22:26:50 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48b2/live/74c52a90-b08a-11f1-8f9f-33e0914f3492.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b307/live/6c0e2650-b151-11f1-8912-fb2bed4049e7.jpg"
             }
           }
         },
         {
-          "title": "Why Pietersen will add unfiltered challenge that England need - Finn",
-          "description": "Kevin Pietersen can be blunt and fortright and there is no better time than now to add that challenge to England's white-ball set-up, says Steven Finn.  ",
-          "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x2zp08w7lqo?at_medium=RSS&at_campaign=rss",
+          "title": "Brook likened to Pietersen in SL win - how do they compare?",
+          "description": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/cricket/articles/c6x2zp08w7lqo#8",
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo#9",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 15 Sep 2026 05:11:33 GMT",
+          "pubDate": "Tue, 15 Sep 2026 21:46:02 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85ac/live/01f9a610-b04b-11f1-89e4-0bbff5cb7e23.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/e1aad990-b14b-11f1-bc1f-3f186ca4140c.jpg"
             }
           }
         },
         {
-          "title": "'This is what women in sport look like' - Hunt leads response to Sweeney advert",
-          "description": "British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.",
-          "link": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
+          "title": "Let them ref the games and be humans - Andrews",
+          "description": "After Brentford overcame Reading to reach the Carabao Cup fourth round, head coach Keith Andrews believes the video assistant referee (VAR) is preventing referees from making decisions in matches. ",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cxj06nmjl3l6o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no#8",
+            "_": "https://www.bbc.co.uk/sport/football/articles/cxj06nmjl3l6o#9",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 14 Sep 2026 13:17:47 GMT",
+          "pubDate": "Tue, 15 Sep 2026 22:50:30 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b42/live/9dfbd460-b038-11f1-b1d1-571ed4d7ff2c.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c4/live/be018000-b152-11f1-8912-fb2bed4049e7.jpg"
             }
           }
         },
         {
-          "title": "Who has made Troy's Premier League team of the week?",
-          "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cxr50zln2gqro?at_medium=RSS&at_campaign=rss",
+          "title": "Brook & Baker shine as England crush Sri Lanka",
+          "description": "Harry Brook hit 114 not out in the first innings set up England with a total of 254 proving to difficult for Sri Lanka to chase leading to a England win by 119 runs after bowling out Sri Lanka.",
+          "link": "https://www.bbc.co.uk/sport/cricket/videos/cv70dl8301xyo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cxr50zln2gqro#8",
+            "_": "https://www.bbc.co.uk/sport/cricket/videos/cv70dl8301xyo#9",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 14 Sep 2026 22:18:48 GMT",
+          "pubDate": "Tue, 15 Sep 2026 21:15:35 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8410/live/8bad5110-b080-11f1-b1d1-571ed4d7ff2c.png"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a1/live/c6c6a0e0-b142-11f1-a430-4d16ee157c41.jpg"
             }
           }
         },
         {
-          "title": "Graham & Ure make Pocognoli's first Scotland squad",
-          "description": "Stoke City centre-half Luke Graham and Sevilla striker Robbie Ure will receive their first full Scotland call-ups on Tuesday when Sebastien Pocognoli names his first squad as head coach.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm9dw94zzyx1o?at_medium=RSS&at_campaign=rss",
+          "title": "Sweeney ad a barrier for girls in sport - Hunt",
+          "description": "British sprinter Amy Hunt says she is concerned about the controversial advert starring Sydney Sweeney being part of a \"barrier\" to girls' participation in sport.",
+          "link": "https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cm9dw94zzyx1o#8",
+            "_": "https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o#9",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 14 Sep 2026 21:00:42 GMT",
+          "pubDate": "Tue, 15 Sep 2026 09:22:10 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13fd/live/57f44cd0-b070-11f1-b1d1-571ed4d7ff2c.png"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71a4/live/690f19c0-b0e6-11f1-b427-b9b4ddc559ae.jpg"
             }
           }
         },
         {
-          "title": "Leeds inflict heavy defeat on Newcastle to climb to third",
-          "description": "Dominic Calvert-Lewin stars as Leeds United go third in the Premier League with a superb performance to inflict a heavy 4-1 defeat on Newcastle United at Elland Road.",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
+          "title": "Tuchel regrets not eating Azteca turf after win over Mexico",
+          "description": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo#8",
+            "_": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo#9",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 14 Sep 2026 21:31:59 GMT",
+          "pubDate": "Tue, 15 Sep 2026 19:25:48 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7d1/live/15610440-b083-11f1-a540-61c3f7fc4e6c.jpg"
-            }
-          }
-        },
-        {
-          "title": "No weekend game for Manchester derby VAR officials",
-          "description": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo#8",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 14 Sep 2026 17:02:50 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5343/live/94cdb350-b05a-11f1-9902-771b6dd8af6a.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968e/live/b5de5d90-b138-11f1-8e7a-7b6c4dcbe4b5.jpg"
             }
           }
         }

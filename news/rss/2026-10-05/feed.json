@@ -1,0 +1,586 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Mon, 05 Oct 2026 07:58:56 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "US removes all bombers from RAF Fairford base",
+          "description": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmwyve191dlko#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 07:14:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03f/live/de45ba80-c07e-11f1-babe-4199b0e7ccea.jpg"
+            }
+          }
+        },
+        {
+          "title": "Andrew takes legal action over search warrants relating to arrest",
+          "description": "Mountbatten-Windsor was arrested on suspicion of misconduct in public office and later released under investigation in February.",
+          "link": "https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c689zl5eljdzo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 07:52:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90f2/live/ed82e1b0-c08f-11f1-a4af-19dbf5352a59.jpg"
+            }
+          }
+        },
+        {
+          "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
+          "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
+          "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 05:35:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed59/live/6d89be10-bfdc-11f1-b4e6-d96c2bf27b65.jpg"
+            }
+          }
+        },
+        {
+          "title": "Protesters scuffle with police as migrants brought ashore on south coast",
+          "description": "The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.",
+          "link": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 07:25:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336b/live/1ff5a360-c029-11f1-bef3-2128f412928e.png"
+            }
+          }
+        },
+        {
+          "title": "BT agrees rescue deal to buy broadband operator TalkTalk ",
+          "description": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
+          "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvze4g06526ro#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 07:46:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/729e/live/2c26c6a0-c088-11f1-a4af-19dbf5352a59.jpg"
+            }
+          }
+        },
+        {
+          "title": "Potty training scheme to roll out to 20 more areas",
+          "description": "The government wants 75% of children to end their first year of school with a good level of development by 2028.",
+          "link": "https://www.bbc.co.uk/news/articles/ck4glnl2v9p5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ck4glnl2v9p5o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 07:56:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e6/live/b1922250-be88-11f1-b38c-a564d86910bc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
+          "description": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham.",
+          "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 07:25:27 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feac/live/6d3064e0-b272-11f1-b67f-2b40fa83cfed.png"
+            }
+          }
+        },
+        {
+          "title": "Watch: Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+          "description": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+          "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 04:51:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac5f/live/837994b0-c03c-11f1-8a9a-cff8e8e5b3a9.jpg"
+            }
+          }
+        },
+        {
+          "title": "France closes up to 500 schools over student protests",
+          "description": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 04:49:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f337/live/a9a0ba20-c022-11f1-ae5f-052d2eebe3b9.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+          "description": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+          "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 06:15:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg"
+            }
+          }
+        },
+        {
+          "title": "Court of Appeal to hear residents' parade challenge over Drumcree dispute",
+          "description": "The deadlock over the Orange Order march in Portadown - opposed by residents of the Garvaghy Road - has lasted since last Sunday morning.\n\n",
+          "link": "https://www.bbc.co.uk/news/articles/cmj47xdq5nz9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmj47xdq5nz9o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 05:39:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfd/live/e1e9f070-be67-11f1-b36c-81ad410b221e.jpg"
+            }
+          }
+        },
+        {
+          "title": "The job interview question you don't have to answer",
+          "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+          "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 04 Oct 2026 23:22:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e493/live/17316b80-bd89-11f1-a2ad-3160f44bb180.jpg"
+            }
+          }
+        },
+        {
+          "title": "Forced to call him 'Dad': Trial over sexual abuse in disabled care home shocks South Korea",
+          "description": "The BBC spoke to one of three residents at a care home who were sexually assaulted by a staff member.",
+          "link": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 04 Oct 2026 22:11:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9885/live/ea7b5090-bbb9-11f1-83f3-814f6e068d44.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Money-grab' or celebration? NFL kicks off London series",
+          "description": "The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices.",
+          "link": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 04 Oct 2026 20:36:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5d7/live/bfc9e650-c02c-11f1-a1bd-1f62333d11a7.jpg"
+            }
+          }
+        },
+        {
+          "title": "I only found out I had cancer after my four-year-old kicked me in the testicles",
+          "description": "Dad discovers he has cancer after he was accidentally kicked in the testicles.",
+          "link": "https://www.bbc.co.uk/news/articles/c52e080r72nlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c52e080r72nlo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 05:03:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f8d/live/a90eb550-bd9b-11f1-9a76-4118bb2c2e43.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: Badenoch's 'bonfire of green laws' and 'Drop in global dealmaking'",
+          "description": "Monday's front pages include stories about Kemi Badenoch at the start of the Tory conference, plus reports on global finance , abuse in schools and a BBC romance. ",
+          "link": "https://www.bbc.co.uk/news/articles/ck5yn30zn288o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ck5yn30zn288o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 00:18:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eee1/live/604881f0-c04f-11f1-bc2e-018d645d8d21.jpg"
+            }
+          }
+        },
+        {
+          "title": "Radical change needed to cut Scottish child poverty, says charity",
+          "description": "The Joseph Rowntree Foundation says Scotland is on course to miss legally-binding poverty targets \"by a wide margin\".",
+          "link": "https://www.bbc.co.uk/news/articles/cw073e915j93o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw073e915j93o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 05:35:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62bd/live/ac94caa0-c013-11f1-b8fc-7927883c19e9.jpg"
+            }
+          }
+        },
+        {
+          "title": "All six passengers presumed dead after plane went missing off US coast",
+          "description": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+          "link": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 04:00:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e35/live/041415f0-c083-11f1-babe-4199b0e7ccea.jpg"
+            }
+          }
+        },
+        {
+          "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+          "description": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
+          "link": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 05:28:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eaa/live/091199c0-c06e-11f1-9135-d3a6369912e1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
+          "description": "Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire.",
+          "link": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 04 Oct 2026 18:25:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849d/live/97a0a2f0-c080-11f1-babe-4199b0e7ccea.jpg"
+            }
+          }
+        },
+        {
+          "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+          "description": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+          "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 04 Oct 2026 16:24:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/b05bacc0-c00a-11f1-bc2e-018d645d8d21.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Are The Public Ready To Vote Tory Again?",
+          "description": "The BBC’s daily news podcast with episodes Monday to Sunday at 5pm.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0pd1llg?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0pd1llg#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 03 Oct 2026 00:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Israel 'tried to intimidate' Irish amid spitting row - Hallgrimsson ",
+          "description": "Republic of Ireland head coach Heimir Hallgrimsson says he felt Israel were \"trying to intimidate\" his team amid allegations of spitting during Sunday's Nations League draw. ",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw4g14eg5p22o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cw4g14eg5p22o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 04 Oct 2026 22:51:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e2/live/2ac00d80-c042-11f1-b3e5-8557f7e62bde.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hamilton bemused after software glitch turns F1 into 'Lego race'",
+          "description": "Max Verstappen and Lewis Hamilton liken the effects of a software bug that affected multiple cars before the Bahrain Grand Prix in Malaysia to a \"Lego race\".",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/cwg7x820k9xjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/formula1/articles/cwg7x820k9xjo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 04 Oct 2026 16:58:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0d8/live/b118f330-c013-11f1-b8fc-7927883c19e9.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Evans defied history to become Britain's first world rally champion in 25 years",
+          "description": "Elfyn Evans has been the nearly-man of world rally until he finally emulated the feats of Colin McRae and Richard Burns.",
+          "link": "https://www.bbc.co.uk/sport/motorsport/articles/cqj9kj3wx1dzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/motorsport/articles/cqj9kj3wx1dzo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 05:30:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da2/live/8aad8fd0-c090-11f1-a4af-19dbf5352a59.jpg"
+            }
+          }
+        },
+        {
+          "title": "Chiefs and 49ers remain unbeaten - five things from NFL week four",
+          "description": "Five teams went into week four of the NFL season with a 100% record, but only three teams remain unbeaten after Sunday's action.",
+          "link": "https://www.bbc.co.uk/sport/american-football/articles/crd6dqwx9q6qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/american-football/articles/crd6dqwx9q6qo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 07:36:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4839/live/2c94e730-c087-11f1-bc2e-018d645d8d21.png"
+            }
+          }
+        },
+        {
+          "title": "£117m Rogers failed at Bournemouth - and feared he may not make it",
+          "description": "A look at the point in club-record £117m Chelsea signing Morgan Rogers' career when he doubted whether he could make it at the highest level.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckp84r967d3go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/ckp84r967d3go#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 05 Oct 2026 07:00:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef14/live/b70d9b40-c08d-11f1-bc2e-018d645d8d21.jpg"
+            }
+          }
+        },
+        {
+          "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk? ",
+          "description": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 04 Oct 2026 20:34:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ec/live/77998e20-c01e-11f1-bfc0-dbc6925567bb.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

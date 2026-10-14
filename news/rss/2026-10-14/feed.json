@@ -1,0 +1,643 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Wed, 14 Oct 2026 06:54:41 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+          "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+          "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ck054nvzr676o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 23:58:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/144a/live/95c60aa0-c793-11f1-9a39-31b474234113.jpg"
+            }
+          }
+        },
+        {
+          "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+          "description": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 05:01:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4811/live/95407880-c3c5-11f1-bc2e-018d645d8d21.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: BBC joins police on front line against car theft",
+          "description": "Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.",
+          "link": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 05:00:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acd0/live/50b192b0-c728-11f1-a64c-550be9e3c66b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 00:17:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a0/live/ccd96d30-c792-11f1-a64c-550be9e3c66b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+          "description": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+          "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 04:36:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10cd/live/79669050-c74d-11f1-a64c-550be9e3c66b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+          "description": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room. ",
+          "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 21:42:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7bf/live/83811950-c790-11f1-a64c-550be9e3c66b.jpg"
+            }
+          }
+        },
+        {
+          "title": "World's oldest shipwreck found off coast of Turkey",
+          "description": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+          "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 05:00:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg"
+            }
+          }
+        },
+        {
+          "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
+          "description": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
+          "link": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 23:55:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a22/live/f73dcdc0-c6e1-11f1-bf38-57dc5cd42af2.jpg"
+            }
+          }
+        },
+        {
+          "title": "Royal Mail losing 400 postal workers a week, says union",
+          "description": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 23:03:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d4/live/9551bda0-c796-11f1-9a39-31b474234113.jpg"
+            }
+          }
+        },
+        {
+          "title": "Zelensky and Burnham to meet in Downing Street",
+          "description": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
+          "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 21:31:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cfb/live/4dfc3380-c724-11f1-b881-4391ac746e04.png"
+            }
+          }
+        },
+        {
+          "title": "Lena Dunham's Girls to return for limited HBO run",
+          "description": "Ten years after the series finale, the \"Girls\" are getting back together to explore the \"milestone of turning forty\", HBO says.",
+          "link": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 02:09:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/243d/live/cb0a4af0-c770-11f1-ab87-2bb7c0d2443c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident",
+          "description": "The Legally Blonde actress faces two counts of assault for allegedly kicking a police officer and a nurse after allegedly attacking attendants on a flight.",
+          "link": "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 22:59:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1604/live/01ecf900-c74e-11f1-b4d5-87f9c6c95a29.jpg"
+            }
+          }
+        },
+        {
+          "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+          "description": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
+          "link": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 23:26:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/435e/live/6f972a90-c78d-11f1-a64c-550be9e3c66b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Chris Mason: Lib Dems rally behind Davey as he pledges change",
+          "description": "The BBC's political editor Chris Mason looks at the fallout from the Lib Dem frontbench resignations.",
+          "link": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 05:11:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d25/live/2922f8c0-c768-11f1-b10a-17422b0170eb.jpg"
+            }
+          }
+        },
+        {
+          "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+          "description": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia. ",
+          "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 00:59:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acc2/live/919d9da0-c746-11f1-a64c-550be9e3c66b.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Spray and pray': How AI job applications can backfire",
+          "description": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+          "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 06:52:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Spy chief's grim warning' and 'tiger victim was child actor'",
+          "description": "Wednesday's papers are dominated by coverage of a speech given by the MI5 chief and the death of a man in a tiger enclosure.",
+          "link": "https://www.bbc.co.uk/news/articles/cmze41x6l116o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmze41x6l116o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 04:53:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b242/live/60388590-c764-11f1-bc2e-018d645d8d21.png"
+            }
+          }
+        },
+        {
+          "title": "Our memorial garden helps us grieve - a cemetery felt too far away",
+          "description": "Emma Moore shares how creating a special place at home has helped her family.",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 00:06:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f2/live/acc20ab0-c6ee-11f1-a64c-550be9e3c66b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Three things we've learnt about the UK economy from the IMF",
+          "description": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+          "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 11:58:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9039/live/426755d0-c6fd-11f1-b4dd-e786ec6f11b1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+          "description": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe. ",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 18:25:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bfb/live/6e2d8910-c738-11f1-9a39-31b474234113.jpg"
+            }
+          }
+        },
+        {
+          "title": "Saudi Arabia overturns death sentence for man over Facebook comment",
+          "description": "Anojan Sivarasa's case sent shockwaves through Sri Lanka, spurring diplomatic efforts to seek clemency.",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 06:11:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23b6/live/874d66c0-c794-11f1-82aa-013df2d771f8.png"
+            }
+          }
+        },
+        {
+          "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
+          "description": "Thomas Woldbye tells the Today progamme it would be \"good to know\" the government's position on the project, after comments made by the prime minister.",
+          "link": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 04:59:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/645d/live/6faaea30-c74c-11f1-a64c-550be9e3c66b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Robot seized by German police after allegedly groping teenage girl",
+          "description": "Police have launched an investigation on suspicion of sexual harassment after the robot's owner, 16, and his companion are said to have streamed the incident.",
+          "link": "https://www.bbc.co.uk/news/articles/ck9dzj40nzj5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ck9dzj40nzj5o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 23:50:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8156/live/62cbcee0-c749-11f1-b4d5-87f9c6c95a29.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+          "description": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996. ",
+          "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 19:51:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f6/live/8c0f8020-c73b-11f1-a64c-550be9e3c66b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Russell T Davies criticises BBC boss's 'clumsy' AI Doctor Who comments",
+          "description": "BBC director general Matt Brittin said he had seen a \"pretty good\" AI-generated episode of the show.",
+          "link": "https://www.bbc.co.uk/news/articles/c8040531w45eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c8040531w45eo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 04:58:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd57/live/99daefe0-c741-11f1-9085-f95bdc648acc.jpg"
+            }
+          }
+        },
+        {
+          "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+          "description": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 02:05:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d37/live/18ad5d80-c797-11f1-b506-c77373b53604.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC News app",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Martinez issues scathing attack on Man Utd board - has he made things worse?",
+          "description": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 21:43:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f810/live/6b054b60-c756-11f1-8157-e5961116a2ed.jpg"
+            }
+          }
+        },
+        {
+          "title": "Saka responds to Arteta's challenge with 'huge impact'",
+          "description": "Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the bench to change the game against Lille in the Champions League.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 23:03:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0cddb1d0-c751-11f1-b4d5-87f9c6c95a29.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
+          "description": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 22:15:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/6f952e60-c743-11f1-b4d5-87f9c6c95a29.jpg"
+            }
+          }
+        },
+        {
+          "title": "'No excuses' - but is Villa's stadium rebuild affecting team?",
+          "description": "With Villa Park's North Stand currently closed for building work, is the reduced capacity affecting Aston Villa's performances?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx054n684g7do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cx054n684g7do#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 14 Oct 2026 05:41:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4f/live/5fa81060-c6eb-11f1-bc1b-8dfa7c975faa.jpg"
+            }
+          }
+        },
+        {
+          "title": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
+          "description": "How Rwanda has succeeded where Morocco and South Africa, among others, have failed by agreeing a deal to stage the African Grand Prix.",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 13 Oct 2026 15:01:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c63/live/b5e87b10-c702-11f1-b4dd-e786ec6f11b1.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

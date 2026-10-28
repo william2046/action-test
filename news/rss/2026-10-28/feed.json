@@ -1,0 +1,662 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Wed, 28 Oct 2026 07:45:03 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
+          "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 07:39:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: What happens now after close vote in Israeli election?",
+          "description": "Polls have closed in the Israeli election, but there is no clear winner.\n",
+          "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 04:22:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5351/live/42654eb0-d29d-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports, sources say",
+          "description": "The defeated presidential candidate's apparent arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.",
+          "link": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 02:47:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65cf/live/0c187e30-d2a3-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+          "description": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 04:32:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e4/live/7d77ba00-d249-11f1-8ba3-9fd3e261415f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+          "description": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
+          "link": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 27 Oct 2026 21:46:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d705/live/81506150-d23e-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Landline switchover could cut people off in emergency, minister warned",
+          "description": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
+          "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 27 Oct 2026 20:54:48 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cce/live/f32ec320-d22f-11f1-a1ed-ffd83ae54f7c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Multiple sclerosis patient living in 'horrific pain' due to UK-wide drugs shortage",
+          "description": "Jill Kenning says she has been unable to get a drug she uses to manage her condition.",
+          "link": "https://www.bbc.co.uk/news/articles/cr20w5vx39peo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cr20w5vx39peo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 00:01:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c1/live/a72f6590-d1f5-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Thick fog to create dangerous driving conditions for UK commuters",
+          "description": "After storms across the UK, the weather is set to turn calmer with mist and fog at times over the coming week.",
+          "link": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 03:29:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac35/live/641cb4d0-d1fd-11f1-b30f-21253679b290.jpg"
+            }
+          }
+        },
+        {
+          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+          "description": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+          "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwj342k62exyo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 07:38:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+          "description": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
+          "link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 27 Oct 2026 22:30:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a8f/live/dbace880-d298-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "What to expect from this year's Budget",
+          "description": "The BBC's political correspondent Harry Farley explains what to expect ahead of John Healey's first Budget.",
+          "link": "https://www.bbc.co.uk/news/videos/c6p9gv5vd70lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/c6p9gv5vd70lo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 07:12:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccc/live/27f209d0-d2a0-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+          "description": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+          "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 00:03:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1484/live/60f61940-d225-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+          "description": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table. ",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 25 Oct 2026 06:00:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4709/live/59ef3fb0-ceff-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory",
+          "description": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.",
+          "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 06:53:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c2b/live/e44a9b80-d299-11f1-b255-6fc3b99d1334.jpg"
+            }
+          }
+        },
+        {
+          "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+          "description": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
+          "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 01:01:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f6/live/c49501d0-cdf4-11f1-a64c-550be9e3c66b.jpg"
+            }
+          }
+        },
+        {
+          "title": "China's families are now supporting more old people than kids",
+          "description": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
+          "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 27 Oct 2026 23:16:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39b9/live/b1569840-d105-11f1-8441-f1b8954c52d9.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Budget for a difficult moment' and Netanyahu's 'fate in balance'",
+          "description": "Most of the papers focus on the Budget, ahead of its delivery at lunchtime on Wednesday.",
+          "link": "https://www.bbc.co.uk/news/articles/c6r7y3dyv382o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6r7y3dyv382o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 05:18:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58f8/live/d9d32f00-d262-11f1-9fb8-81df04238bb4.png"
+            }
+          }
+        },
+        {
+          "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+          "description": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 27 Oct 2026 23:35:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3415/live/1c1ff480-d257-11f1-aea4-e9d772bed98c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+          "description": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+          "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqn498mng08ro#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 02:20:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Neil Young sues Trump campaign again for playing Rockin' in the Free World at rally",
+          "description": "The Canadian-American musician sued Trump in 2020 over unauthorised use of song at a political event.",
+          "link": "https://www.bbc.co.uk/news/articles/cqr7y3d0dvm5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqr7y3d0dvm5o#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 02:44:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de00/live/637d2790-d24c-11f1-8ba3-9fd3e261415f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Serial killer Ted Bundy linked to teenage girl's murder after 52 years",
+          "description": "Authorities in Utah used advanced DNA technology to solve the cold case decades after the notorious killer was executed.",
+          "link": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 27 Oct 2026 19:56:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c4e/live/e382eae0-d23a-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+          "description": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.",
+          "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 27 Oct 2026 18:32:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/518d/live/4f6be1e0-d221-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+          "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+          "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 27 Oct 2026 15:01:27 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4419/live/b4233800-d211-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK and EU officials to discuss freedom of movement",
+          "description": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month.",
+          "link": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 27 Oct 2026 17:20:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9def/live/df52aa20-d1f7-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Healey to promise £15m to tackle misogyny in Budget",
+          "description": "The Conservatives doubt whether women and girls will feel safer as a result of the funding.",
+          "link": "https://www.bbc.co.uk/news/articles/cme36gez2d3qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cme36gez2d3qo#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 27 Oct 2026 18:23:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d316/live/00dde230-d23f-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Download now",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "'Biggest night in club's history' for fearless Fleetwood",
+          "description": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 00:39:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5033/live/74cba6c0-d256-11f1-aea4-e9d772bed98c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+          "description": "A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao Cup.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 00:34:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23b8/live/73dea320-d260-11f1-b2d5-7de31c6a8089.jpg"
+            }
+          }
+        },
+        {
+          "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
+          "description": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 07:14:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/880c4810-d257-11f1-aea4-e9d772bed98c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why Hurts played with blood clot and what it means for NFL",
+          "description": "Philadelphia Eagles quarterback Jalen Hurts is recovering from a life-threatening condition which developed after he was cleared to play with a blood clot and board a long-haul flight.",
+          "link": "https://www.bbc.co.uk/sport/american-football/articles/cm0qk37933nno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/american-football/articles/cm0qk37933nno#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 06:49:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a65/live/52752d00-d29f-11f1-b255-6fc3b99d1334.jpg"
+            }
+          }
+        },
+        {
+          "title": "Cundy 'no spring chicken' but nears 20-year unbeaten run",
+          "description": "Jody Cundy says he is \"no spring chicken\", yet at the age of 48 he could make it 20 years unbeaten in the kilo at the Para-cycling Track World Championships.",
+          "link": "https://www.bbc.co.uk/sport/cycling/articles/cjn5vql4z137o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/cycling/articles/cjn5vql4z137o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 28 Oct 2026 06:12:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aef/live/a91aedb0-d14c-11f1-b587-a3ec61e669b1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+          "description": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 27 Oct 2026 23:35:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3415/live/1c1ff480-d257-11f1-aea4-e9d772bed98c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford",
+          "description": "BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 27 Oct 2026 18:56:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0191/live/aa944b90-d22e-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

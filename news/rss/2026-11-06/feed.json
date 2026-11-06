@@ -1,0 +1,662 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Fri, 06 Nov 2026 08:46:26 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Did a data centre revolt affect the US mid-term election results?",
+          "description": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
+          "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 06:01:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66b/live/909d6da0-d90b-11f1-b72c-d16cdc75f35f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Met chief warns policing 'heading for failure' without reform",
+          "description": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+          "link": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvglww2r307ko#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 01:13:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfe/live/66892280-d9b4-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+          "description": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
+          "link": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 06:06:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf29/live/36853c60-d9b7-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: Met Police release Brand interview footage",
+          "description": "Brand was found guilty of one count of rape and three sexual assaults at Southwark Crown Court.",
+          "link": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/c693ze38vywxo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 05 Nov 2026 16:01:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d4b/live/2f491270-d938-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+          "description": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+          "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 01:22:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107a/live/0dde0950-d9b1-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Firms should publish salaries in job adverts ahead of new law, says PM",
+          "description": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+          "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 07:36:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e611/live/c517e390-d90f-11f1-94c6-3f8050561bf5.jpg"
+            }
+          }
+        },
+        {
+          "title": "Thatcher's Right to Buy split my council estate. Now its days could be numbered",
+          "description": "Labour is weakening Margaret Thatcher's landmark housing policy. Will it really fix Britain's social housing woes?",
+          "link": "https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c699zde85xn7o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 00:09:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71bf/live/e1a42f80-d92f-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Home Office investigating after BBC catches lawyer offering to make fines go away",
+          "description": "The Home Office said it will be investigating the allegations to see whether there has been a breach of immigration rules.",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 05:53:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29d7/live/52d2c7e0-d9a6-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+          "description": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 02:08:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee7/live/6a397360-d97f-11f1-9ef8-af6a44fd33d8.jpg"
+            }
+          }
+        },
+        {
+          "title": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
+          "description": "The income went to the former prince rather than his landlord the Crown Estate.",
+          "link": "https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 00:39:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b8/live/57b68600-01a4-11f1-a8b8-bdd2c5f9bcad.jpg"
+            }
+          }
+        },
+        {
+          "title": "Trump signs order to preserve Oval Office as national monument",
+          "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 04:29:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ff/live/e5957760-d9b2-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+          "description": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
+          "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 06:00:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/424f/live/eb19eb30-d9ad-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "U2 on Dolly Parton's final duet; and the 'grudge match' behind their new album",
+          "description": "The rock group discuss Parton's final recording before her death, and why they refuse to be censored on stage.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 00:50:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59ff/live/10ee2560-d936-11f1-8bce-2396c9c50357.png"
+            }
+          }
+        },
+        {
+          "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
+          "description": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
+          "link": "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 00:42:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc48/live/b35f36c0-d2f8-11f1-8d86-83eebc838351.png"
+            }
+          }
+        },
+        {
+          "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+          "description": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest. ",
+          "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 07:33:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5589/live/461d3e00-d879-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers:  'Justice' and 'Predatory' Brand faces jail",
+          "description": "Russell Brand's rape and sexual assault conviction leads many of Friday's papers.",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly00v3qwpdo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c8ly00v3qwpdo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 01:10:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9b8/live/3c9180a0-d96c-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+          "description": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
+          "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 00:02:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4ec/live/3550b220-d845-11f1-93e1-3b657b665bcf.png"
+            }
+          }
+        },
+        {
+          "title": "Weekly quiz: How did Rice Krispies lose their snap, crackle and pop?",
+          "description": "How much attention did you pay to what happened in the world over the past seven days?",
+          "link": "https://www.bbc.co.uk/news/articles/cqy0rzz0w9wlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqy0rzz0w9wlo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 05 Nov 2026 19:38:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "142",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17d2/live/05939b50-d940-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Glasgow children's hospital begins robot-assisted surgeries in world first",
+          "description": "The Royal Hospital for Children is to use the Versius Plus surgical robot for paediatric surgery.",
+          "link": "https://www.bbc.co.uk/news/articles/c8x23z3wqwppo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c8x23z3wqwppo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 06:17:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f231/live/b83f6c10-d919-11f1-ad94-e17fee4cd332.jpg"
+            }
+          }
+        },
+        {
+          "title": "Russell Brand being investigated over rape allegations from two more women, police say",
+          "description": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts. ",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 08:30:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005c/live/e6fc6c50-d9b0-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Seven arrested and police van set alight during Bonfire Night violence in Scotland",
+          "description": "Seven arrests were made during disorder in parts of Scotland, with fireworks thrown at emergency workers, police say.  ",
+          "link": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 08:18:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0546/live/fbd37a30-d9b3-11f1-bbc7-9574ed12e2df.jpg"
+            }
+          }
+        },
+        {
+          "title": "AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark",
+          "description": "MPs and peers have urged retailers to remove AI toys from sale ahead of Black Friday and Christmas.",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2w4ej245ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6x2w4ej245ko#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 06:08:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg"
+            }
+          }
+        },
+        {
+          "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+          "description": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru. ",
+          "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 00:02:57 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f5/live/a7b86be0-d96d-11f1-9fd0-cdf612d1539f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Australian woman shot during Bondi Beach attack dies almost a year later",
+          "description": "The 90-year-old was among those seriously injured after gunmen opened fire at a Jewish event last year.",
+          "link": "https://www.bbc.co.uk/news/articles/c65ynn9x50d0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c65ynn9x50d0o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 05:32:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc1/live/00dc0fa0-d9a1-11f1-af19-c16945e5c218.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Major milestone' as beavers released into Loch Ness area",
+          "description": "The family of six beavers have been released 500 years after they were last recorded in the area.",
+          "link": "https://www.bbc.co.uk/news/articles/ckjwe5xw0jy3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckjwe5xw0jy3o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 06:26:33 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70ed/live/b57238c0-d90d-11f1-94c6-3f8050561bf5.png"
+            }
+          }
+        },
+        {
+          "title": "Download now",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Trump Blamed As Democrats Win Big In The US Midterms",
+          "description": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0pkvyvy?at_mid=LfDQDjR67S&at_campaign=Newscast_Trump_Blamed_As_Democrats_Win_Big_In_The_US_Midterms_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Trump_Blamed_As_Democrats_Win_Big_In_The_US_Midterms_news_rail&at_bbc_team=BBC&at_creation=News",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0pkvyvy?at_mid=LfDQDjR67S&at_campaign=Newscast_Trump_Blamed_As_Democrats_Win_Big_In_The_US_Midterms_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Trump_Blamed_As_Democrats_Win_Big_In_The_US_Midterms_news_rail&at_bbc_team=BBC&at_creation=News#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 25 Oct 2026 00:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+          "description": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend. ",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 05 Nov 2026 14:29:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"
+            }
+          }
+        },
+        {
+          "title": "England check on Palmer - what are Tuchel's other big choices?",
+          "description": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 05 Nov 2026 19:00:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46d7/live/5b9e86d0-d946-11f1-b2ee-87d22b17ac74.jpg"
+            }
+          }
+        },
+        {
+          "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
+          "description": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 00:10:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/2cdec430-d96f-11f1-9fd0-cdf612d1539f.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+          "description": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 06:22:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png"
+            }
+          }
+        },
+        {
+          "title": "Australia recruit Hussey for Ashes build-up",
+          "description": "Australia recruit Michael Hussey as a long-term batting consultant to help them prepare for the 2027 Ashes and 2028 Los Angeles Olympics.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 08:05:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c78f/live/9ed8c3b0-d9b5-11f1-bbc7-9574ed12e2df.jpg"
+            }
+          }
+        },
+        {
+          "title": "Lampard looks for Coventry progress as belief grows",
+          "description": "Coventry City could move 11th in the Premier League with victory at Everton on Friday as Frank Lampard returns to the Toffees with his side growing in confidence.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 06 Nov 2026 08:11:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f10/live/07e8baa0-d95b-11f1-a800-d9dce9e5aa21.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

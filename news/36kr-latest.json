@@ -17,7 +17,7 @@
         "link": "https://www.bbc.co.uk/news"
       },
       "generator": "RSS for Node",
-      "lastBuildDate": "Sun, 08 Nov 2026 06:53:19 GMT",
+      "lastBuildDate": "Mon, 09 Nov 2026 07:33:51 GMT",
       "atom:link": {
         "$": {
           "href": "https://feeds.bbci.co.uk/news/rss.xml",
@@ -30,439 +30,401 @@
       "ttl": "15",
       "item": [
         {
-          "title": "Briton among six killed in Krakow shooting as three more bodies found at suspect's home",
-          "description": "Authorities say the attacker, described as being \"fascinated by far-right ideologies\", drove into a popular city centre square and opened fire.",
-          "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+          "title": "Will Jensen Huang’s rockstar reputation survive after scandal?",
+          "description": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+          "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o#1",
+            "_": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 08 Nov 2026 00:55:17 GMT",
+          "pubDate": "Mon, 09 Nov 2026 07:10:11 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d7f/live/340fa0a0-daf8-11f1-b9a2-091c4f802785.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0343/live/157fc790-dc0c-11f1-b441-2b33b063138f.jpg"
             }
           }
         },
         {
-          "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-          "description": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
-          "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+          "title": "Inside the French drug gangs recruiting children to kill",
+          "description": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+          "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko#1",
+            "_": "https://www.bbc.co.uk/news/articles/cq62y01r2313o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 08 Nov 2026 00:48:59 GMT",
+          "pubDate": "Mon, 09 Nov 2026 06:00:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5447/live/ec9efd90-d9fa-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
+          "description": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 09 Nov 2026 00:57:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c24/live/f91b8bd0-d863-11f1-85ab-b3cc3b5498c6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Krakow shooting suspect has died in hospital, police say",
+          "description": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6y434dw8319o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 09 Nov 2026 07:26:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b131/live/b7c6ce50-dc06-11f1-b6f4-7b86d13131ad.jpg"
+            }
+          }
+        },
+        {
+          "title": "Dense fog threatens Monday morning rush-hour disruption",
+          "description": "Fog could disrupt Monday morning’s commute",
+          "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 09 Nov 2026 06:17:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9653/live/b4771f60-dc0c-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Government's EV targets expected to be reduced this week",
+          "description": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+          "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 09 Nov 2026 07:20:17 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/81eb37e0-d877-11f1-a701-fddedf244c16.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg"
             }
           }
         },
         {
-          "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
-          "description": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
-          "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
+          "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+          "description": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast. ",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo#1",
+            "_": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 08 Nov 2026 03:34:22 GMT",
+          "pubDate": "Mon, 09 Nov 2026 02:50:13 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5e/live/9a627e50-dae8-11f1-93e1-3b657b665bcf.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc95/live/fa87f0c0-dc0b-11f1-b441-2b33b063138f.jpg"
             }
           }
         },
         {
-          "title": "Royal Family join veterans and families at Festival of Remembrance",
-          "description": "The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance Sunday.",
-          "link": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss",
+          "title": "Maya Jama steps down as host of reality TV show Love Island",
+          "description": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
+          "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o#1",
+            "_": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 08 Nov 2026 01:24:58 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2980/live/0d4070d0-db11-11f1-a8c7-49f7fad62676.jpg"
-            }
-          }
-        },
-        {
-          "title": "Two seriously injured after M20 crash involving more than 30 vehicles in Kent",
-          "description": "Police say more than 30 vehicles were involved in the incident on the M20 around 18:40 on Saturday.",
-          "link": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 08 Nov 2026 04:09:21 GMT",
+          "pubDate": "Sun, 08 Nov 2026 21:19:48 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9db/live/1a0c2d60-db23-11f1-a701-fddedf244c16.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f2c/live/327b8220-dbb3-11f1-b35d-8ff000e4934a.jpg"
             }
           }
         },
         {
-          "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
-          "description": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
-          "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
+          "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
+          "description": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
+          "link": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo#1",
+            "_": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 07 Nov 2026 17:32:42 GMT",
+          "pubDate": "Mon, 09 Nov 2026 02:34:09 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce4/live/95ac7ac0-da00-11f1-93e1-3b657b665bcf.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faca/live/23423a10-db77-11f1-b1f1-3be4e895d0fe.jpg"
             }
           }
         },
         {
-          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-          "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-          "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+          "title": "Society needs to act to help white working-class pupils, inquiry says",
+          "description": "The education secretary says she is backing the inquiry to \"get to the heart of the barriers holding children back\".",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyqql26xe8o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo#1",
+            "_": "https://www.bbc.co.uk/news/articles/cmwyqql26xe8o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 07 Nov 2026 22:19:59 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"
-            }
-          }
-        },
-        {
-          "title": "My parents chose to die together and I was left to grieve alone ",
-          "description": "Jan and Els sought medical intervention to end their lives together after 50 happy years of marriage, leaving behind their only child. ",
-          "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c81dwllzv113o#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 08 Nov 2026 01:10:21 GMT",
+          "pubDate": "Mon, 09 Nov 2026 01:52:32 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bdf/live/66ee1fc0-d90d-11f1-b441-2b33b063138f.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e30/live/1657c480-d9fd-11f1-84c1-dbcae60402d7.jpg"
             }
           }
         },
         {
-          "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-          "description": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-          "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+          "title": "A glimmer of good news for Britain's sleepy dormouse",
+          "description": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
+          "link": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cmvg652l927lo#2",
+            "_": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 07 Nov 2026 23:02:35 GMT",
+          "pubDate": "Mon, 09 Nov 2026 00:56:43 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2715/live/c8a0e160-da0e-11f1-bbd1-cf41b7fd4e9b.jpg"
             }
           }
         },
         {
-          "title": "Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors ",
-          "description": "The actress joins the cast of Black Doves for the second season of Netflix's spy thriller.",
-          "link": "https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&at_campaign=rss",
+          "title": "What's your love language - and does it actually mean anything?",
+          "description": "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating.",
+          "link": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo#2",
+            "_": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 08 Nov 2026 00:49:00 GMT",
+          "pubDate": "Mon, 09 Nov 2026 00:55:35 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e970/live/32960de0-d864-11f1-b51e-f15a706e887c.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6efb/live/24613860-d9e7-11f1-bbe5-797ee05bee69.jpg"
             }
           }
         },
         {
-          "title": "The rise of microdramas: The 'snackable' shows made for the scrolling age",
-          "description": "The snappy, high-octane episodes - viewed on your phone - are huge in China and on the up in the UK.",
-          "link": "https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&at_campaign=rss",
+          "title": "Doing these things now will help you save money at Christmas",
+          "description": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+          "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cm87zv70jg9no#2",
+            "_": "https://www.bbc.co.uk/news/articles/ck7vppll151mo#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 08 Nov 2026 00:45:45 GMT",
+          "pubDate": "Mon, 09 Nov 2026 00:09:14 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b15/live/9cf3fa20-d9e1-11f1-a701-fddedf244c16.png"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903c/live/8d645510-d9ef-11f1-bb10-cdca6001fbcf.jpg"
             }
           }
         },
         {
-          "title": "Can the Zelda remake capture the magic of the original?",
-          "description": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
-          "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+          "title": "The Silicon Valley superstar engulfed by personal scandal",
+          "description": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o#2",
+            "_": "https://www.bbc.co.uk/news/articles/ckgel338xql3o#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 08 Nov 2026 00:37:45 GMT",
+          "pubDate": "Mon, 09 Nov 2026 06:01:52 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
             }
           }
         },
         {
-          "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-          "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+          "title": "The Papers:  'There are more like Brand' and 'Steep cuts to EV targets'",
+          "description": "A minister warns \"there are more like [Russell] Brand\" and the government plans \"cuts to EV targets\" - some of Monday's headlines. ",
+          "link": "https://www.bbc.co.uk/news/articles/cx30eg5593gmo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo#3",
+            "_": "https://www.bbc.co.uk/news/articles/cx30eg5593gmo#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 07 Nov 2026 21:36:16 GMT",
+          "pubDate": "Mon, 09 Nov 2026 06:01:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d7a/live/5feb5110-dbca-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "James Bond: What we know so far about the next 007 film",
+          "description": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
+          "link": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ck79p0lev47po#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 09 Nov 2026 06:47:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb2/live/e5e231a0-d9cf-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+          "description": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 08 Nov 2026 21:37:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png"
+            }
+          }
+        },
+        {
+          "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+          "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 08 Nov 2026 13:05:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4c/live/354198e0-db64-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event",
+          "description": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow. ",
+          "link": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 08 Nov 2026 17:42:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d42/live/5bcb9e00-db7a-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+          "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 08 Nov 2026 19:58:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Secondary schools told to stop teaching GCSEs before Year 10",
+          "description": "The government says pupils in Year 7 to 9 should have \"richer, more engaging\" learning than preparing for GCSEs. ",
+          "link": "https://www.bbc.co.uk/news/articles/c680z89dk827o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c680z89dk827o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 08 Nov 2026 19:00:32 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg"
-            }
-          }
-        },
-        {
-          "title": "Property, football and politics: The links between Manchester and Abu Dhabi explained",
-          "description": "A closer look at the relationship between Man City's owners and the Manchester political scene.",
-          "link": "https://www.bbc.co.uk/news/articles/ckpqg13710wjo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/ckpqg13710wjo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 08 Nov 2026 01:11:26 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98f2/live/b9122f70-ce23-11f1-a64c-550be9e3c66b.jpg"
-            }
-          }
-        },
-        {
-          "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-          "description": "It was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet. ",
-          "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 08 Nov 2026 00:31:53 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg"
-            }
-          }
-        },
-        {
-          "title": "The Papers: 'Briton dies in Krakow shootings' and 'Royals honour the fallen'",
-          "description": "The Royal Family are pictured attending the Festival of Remembrance on a number of Sunday's front pages.",
-          "link": "https://www.bbc.co.uk/news/articles/cr9dz7jqel02o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cr9dz7jqel02o#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 08 Nov 2026 06:40:02 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2c8/live/b0f2a080-db30-11f1-b441-2b33b063138f.jpg"
-            }
-          }
-        },
-        {
-          "title": "Gaza wedding festival sees 250 couples married at the same time",
-          "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-          "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 07 Nov 2026 17:58:41 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/354f/live/49a10e60-daba-11f1-b441-2b33b063138f.jpg"
-            }
-          }
-        },
-        {
-          "title": "The Trump coalition is shattered - what will Republicans do now?",
-          "description": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
-          "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 08 Nov 2026 00:52:39 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa4b/live/74e0bf70-dae8-11f1-93e1-3b657b665bcf.jpg"
-            }
-          }
-        },
-        {
-          "title": "Thousands watch elaborate carnival cart procession",
-          "description": "The event in Bridgwater, Somerset, attracted people from all over the country to watch.",
-          "link": "https://www.bbc.co.uk/news/articles/cm62ypz1ywk1o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cm62ypz1ywk1o#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 07 Nov 2026 23:05:17 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e82/live/1fa9aa70-dafd-11f1-85c9-d35cc76a1759.jpg"
-            }
-          }
-        },
-        {
-          "title": "Secondary school teacher to crofter - life on the UK's most remote island",
-          "description": " Katy Phenix relocated to Fair Isle from Redcar in North Yorkshire with her partner Josh Moore and their children Teddy, 11, and Hetty, six. ",
-          "link": "https://www.bbc.co.uk/news/articles/cjkgepq3dv3no?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cjkgepq3dv3no#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Tue, 03 Nov 2026 06:08:05 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f16/live/79fab150-d764-11f1-a956-ff083523ef77.jpg"
-            }
-          }
-        },
-        {
-          "title": "How computer game Worms went from classroom to classic ",
-          "description": "Creator Andy Davidson speaks to the BBC about how he created a game that sold 70 million copies.",
-          "link": "https://www.bbc.co.uk/news/articles/cmp8gd6l03g3o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cmp8gd6l03g3o#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Fri, 06 Nov 2026 06:21:21 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e0a/live/89f1c130-d9bb-11f1-88eb-21fbf261176d.png"
-            }
-          }
-        },
-        {
-          "title": "Crochet novices create cascading poppy memorial",
-          "description": "The friends took up crocheting a year ago before getting the whole village involved.",
-          "link": "https://www.bbc.co.uk/news/articles/c6d7qwr12eg4o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c6d7qwr12eg4o#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 01 Nov 2026 12:47:32 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b992/live/7ebb0dc0-dac0-11f1-b441-2b33b063138f.png"
-            }
-          }
-        },
-        {
-          "title": "New pictures released ahead of The Other Bennet Sister Christmas special",
-          "description": "Little has been shared about the plot of the upcoming The Other Bennet Sister Christmas special.",
-          "link": "https://www.bbc.co.uk/news/articles/c670pvxyp2pko?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c670pvxyp2pko#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Tue, 03 Nov 2026 06:13:17 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9148/live/3000fa80-d6f8-11f1-b983-c357054e4d1e.png"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb03/live/b91ea880-db8a-11f1-93e1-3b657b665bcf.jpg"
             }
           }
         },
@@ -471,7 +433,7 @@
           "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
           "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/10628994#6",
+            "_": "https://www.bbc.co.uk/news/10628994#5",
             "$": {
               "isPermaLink": "false"
             }
@@ -486,11 +448,11 @@
           }
         },
         {
-          "title": "What Trump's Midterms Defeat Means For Everyone Else",
+          "title": "Are There More Russell Brands In The Media Industry?",
           "description": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
-          "link": "https://www.bbc.co.uk/sounds/play/p0pkvz4v?at_mid=yhF6v4viux&at_campaign=Newscast_What_Trumps_Midterms_Defeat_Means_For_Everyone_Else_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_What_Trumps_Midterms_Defeat_Means_For_Everyone_Else_news_rail&at_bbc_team=BBC&at_creation=News",
+          "link": "https://www.bbc.co.uk/sounds/play/p0pkvzl8?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0pkvz4v?at_mid=yhF6v4viux&at_campaign=Newscast_What_Trumps_Midterms_Defeat_Means_For_Everyone_Else_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_What_Trumps_Midterms_Defeat_Means_For_Everyone_Else_news_rail&at_bbc_team=BBC&at_creation=News#7",
+            "_": "https://www.bbc.co.uk/sounds/play/p0pkvzl8#6",
             "$": {
               "isPermaLink": "false"
             }
@@ -509,7 +471,7 @@
           "description": "Elinor and Marianne Dashwood are thrown into sudden hardship on the death of their father.",
           "link": "https://www.bbc.co.uk/iplayer/episode/m0027nc1/sense-and-sensibility?at_mid=CzprLxMc6q&at_campaign=Sense_and_Sensibility&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=iplayer&at_brand=m0027nc1&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Sense_and_Sensibility&at_bbc_team=BBC",
           "guid": {
-            "_": "https://www.bbc.co.uk/iplayer/episode/m0027nc1/sense-and-sensibility?at_mid=CzprLxMc6q&at_campaign=Sense_and_Sensibility&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=iplayer&at_brand=m0027nc1&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Sense_and_Sensibility&at_bbc_team=BBC#8",
+            "_": "https://www.bbc.co.uk/iplayer/episode/m0027nc1/sense-and-sensibility?at_mid=CzprLxMc6q&at_campaign=Sense_and_Sensibility&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=iplayer&at_brand=m0027nc1&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Sense_and_Sensibility&at_bbc_team=BBC#7",
             "$": {
               "isPermaLink": "false"
             }
@@ -524,116 +486,135 @@
           }
         },
         {
-          "title": "Maresca's dream start turns into nightmare as title hopes hit",
-          "description": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
+          "title": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
+          "description": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo#9",
+            "_": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 07 Nov 2026 20:54:12 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f6a/live/bd923d40-daf0-11f1-827e-c7e7ee102257.jpg"
-            }
-          }
-        },
-        {
-          "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
-          "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o#9",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sat, 07 Nov 2026 19:34:32 GMT",
+          "pubDate": "Sun, 08 Nov 2026 21:50:05 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07a/live/a49461b0-daf0-11f1-827e-c7e7ee102257.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf2/live/f5d8ac10-dbb4-11f1-b35d-8ff000e4934a.jpg"
             }
           }
         },
         {
-          "title": "Qualifying conditions borderline - but Norris and Russell hoping for more rain",
-          "description": "Polesitter Lando Norris says qualifying for the Sao Paulo Grand Prix brought \"some of the wettest conditions\" in which he had ever driven.",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/cmde81d9nkxko?at_medium=RSS&at_campaign=rss",
+          "title": "England make massive step up in Australia victory",
+          "description": "In his latest column, England World Cup winner Matt Dawson reflects on an impressive win for Steve Borthwick's side against Australia in the Nations Championship.",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqev33zn20vdo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/formula1/articles/cmde81d9nkxko#9",
+            "_": "https://www.bbc.co.uk/sport/rugby-union/articles/cqev33zn20vdo#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 07 Nov 2026 23:53:30 GMT",
+          "pubDate": "Mon, 09 Nov 2026 06:49:22 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85f6/live/ade06d60-db02-11f1-969c-27c4482e95aa.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8a/live/e4531aa0-f1de-11ef-9e61-71ee71f26eb1.png"
             }
           }
         },
         {
-          "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
-          "description": "BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&at_campaign=rss",
+          "title": "Sports Personality of the Year returns - with five awards decided by public",
+          "description": "BBC Sports Personality of the Year will be held on 13 December - and audiences will have more influence than ever over the awards.",
+          "link": "https://www.bbc.co.uk/sport/articles/cqj9kd00y0wko?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o#9",
+            "_": "https://www.bbc.co.uk/sport/articles/cqj9kd00y0wko#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 08 Nov 2026 00:17:56 GMT",
+          "pubDate": "Mon, 09 Nov 2026 07:30:05 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e50/live/d7267220-db00-11f1-969c-27c4482e95aa.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdbf/live/8a123c50-d9cd-11f1-bb8e-efaa31738708.jpg"
             }
           }
         },
         {
-          "title": "Hutchinson beats Buatsi to win WBC light-heavyweight title",
-          "description": "Willy Hutchinson is crowned WBC light-heavyweight champion as he produces the performance of his career against Joshua Buatsi in Manchester.",
-          "link": "https://www.bbc.co.uk/sport/boxing/articles/cqx2vw8demexo?at_medium=RSS&at_campaign=rss",
+          "title": "Norris sparkles in Sao Paulo despite firework mishap",
+          "description": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/boxing/articles/cqx2vw8demexo#9",
+            "_": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 07 Nov 2026 23:26:08 GMT",
+          "pubDate": "Sun, 08 Nov 2026 23:44:53 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2e3/live/7f200090-db01-11f1-969c-27c4482e95aa.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd44/live/561b1180-dbc9-11f1-a639-8fd896d95a18.jpg"
             }
           }
         },
         {
-          "title": "The oldest club in London making FA Cup history",
-          "description": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss",
+          "title": "Packers & Bengals win in style - NFL week nine",
+          "description": "The Chicago Bears and Denver Broncos grind out wins while the Cincinnati Bengals and Green Bay Packers put on a show as the NFL season reaches the halfway point.",
+          "link": "https://www.bbc.co.uk/sport/american-football/articles/cmdxwxry2pr8o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o#9",
+            "_": "https://www.bbc.co.uk/sport/american-football/articles/cmdxwxry2pr8o#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 08 Nov 2026 06:28:56 GMT",
+          "pubDate": "Mon, 09 Nov 2026 07:21:24 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f765/live/7f024030-d860-11f1-85ab-b3cc3b5498c6.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225c/live/71321f90-dc0a-11f1-a701-fddedf244c16.png"
+            }
+          }
+        },
+        {
+          "title": "Gauff opens WTA Finals with gritty win over Pegula",
+          "description": "Former champion Coco Gauff beats fellow American Jessica Pegula in her opening match of the WTA Finals at Indian Wells.",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/c3x2w9w078kko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/tennis/articles/c3x2w9w078kko#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 09 Nov 2026 07:20:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcc0/live/dc06f760-dc04-11f1-9292-932e681b2914.jpg"
+            }
+          }
+        },
+        {
+          "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
+          "description": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 08 Nov 2026 19:24:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/2f31e2f0-db93-11f1-9029-d35c55297624.jpg"
             }
           }
         }

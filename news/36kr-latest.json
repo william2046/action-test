@@ -17,7 +17,7 @@
         "link": "https://www.bbc.co.uk/news"
       },
       "generator": "RSS for Node",
-      "lastBuildDate": "Mon, 09 Nov 2026 07:33:51 GMT",
+      "lastBuildDate": "Tue, 10 Nov 2026 07:57:13 GMT",
       "atom:link": {
         "$": {
           "href": "https://feeds.bbci.co.uk/news/rss.xml",
@@ -30,401 +30,458 @@
       "ttl": "15",
       "item": [
         {
-          "title": "Will Jensen Huang’s rockstar reputation survive after scandal?",
-          "description": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
-          "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+          "title": "Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
+          "description": "Goldsmith accuses the disgraced entertainer of \"violence, coercive control and abuse\" while the two were together.",
+          "link": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko#1",
+            "_": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 09 Nov 2026 07:10:11 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0343/live/157fc790-dc0c-11f1-b441-2b33b063138f.jpg"
-            }
-          }
-        },
-        {
-          "title": "Inside the French drug gangs recruiting children to kill",
-          "description": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
-          "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cq62y01r2313o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 09 Nov 2026 06:00:26 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5447/live/ec9efd90-d9fa-11f1-93e1-3b657b665bcf.jpg"
-            }
-          }
-        },
-        {
-          "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
-          "description": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
-          "link": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 09 Nov 2026 00:57:05 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c24/live/f91b8bd0-d863-11f1-85ab-b3cc3b5498c6.jpg"
-            }
-          }
-        },
-        {
-          "title": "Krakow shooting suspect has died in hospital, police say",
-          "description": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
-          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c6y434dw8319o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 09 Nov 2026 07:26:09 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b131/live/b7c6ce50-dc06-11f1-b6f4-7b86d13131ad.jpg"
-            }
-          }
-        },
-        {
-          "title": "Dense fog threatens Monday morning rush-hour disruption",
-          "description": "Fog could disrupt Monday morning’s commute",
-          "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 09 Nov 2026 06:17:34 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9653/live/b4771f60-dc0c-11f1-93e1-3b657b665bcf.jpg"
-            }
-          }
-        },
-        {
-          "title": "Government's EV targets expected to be reduced this week",
-          "description": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
-          "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 09 Nov 2026 07:20:17 GMT",
+          "pubDate": "Tue, 10 Nov 2026 02:59:42 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc6f/live/9dd1bab0-dc78-11f1-b23d-9526db010e6c.jpg"
             }
           }
         },
         {
-          "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-          "description": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast. ",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+          "title": "What happened inside court as Brand was sentenced",
+          "description": "The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault.",
+          "link": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o#1",
+            "_": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 09 Nov 2026 02:50:13 GMT",
+          "pubDate": "Mon, 09 Nov 2026 20:13:41 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc95/live/fa87f0c0-dc0b-11f1-b441-2b33b063138f.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94fc/live/b02c65a0-dc75-11f1-bbe9-83c09cc9b23f.jpg"
             }
           }
         },
         {
-          "title": "Maya Jama steps down as host of reality TV show Love Island",
-          "description": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
-          "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
+          "title": "Trump says more US attacks on Iran 'highly unlikely'",
+          "description": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+          "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo#1",
+            "_": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 08 Nov 2026 21:19:48 GMT",
+          "pubDate": "Tue, 10 Nov 2026 05:33:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0baa/live/f351b160-dcd8-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+          "description": "The government says it is strengthening its guidance for schools in England, which came into force in June.",
+          "link": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 09 Nov 2026 22:51:09 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f2c/live/327b8220-dbb3-11f1-b35d-8ff000e4934a.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b9/live/31f56850-dc5a-11f1-8fe6-5becaee5408f.jpg"
             }
           }
         },
         {
-          "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
-          "description": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
-          "link": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss",
+          "title": "The superpower battle over energy – and what it means for your bills",
+          "description": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+          "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo#1",
+            "_": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 09 Nov 2026 02:34:09 GMT",
+          "pubDate": "Tue, 10 Nov 2026 00:08:28 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faca/live/23423a10-db77-11f1-b1f1-3be4e895d0fe.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg"
             }
           }
         },
         {
-          "title": "Society needs to act to help white working-class pupils, inquiry says",
-          "description": "The education secretary says she is backing the inquiry to \"get to the heart of the barriers holding children back\".",
-          "link": "https://www.bbc.co.uk/news/articles/cmwyqql26xe8o?at_medium=RSS&at_campaign=rss",
+          "title": "Polish unity on show in silent march to honour Krakow shooting victims",
+          "description": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
+          "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cmwyqql26xe8o#1",
+            "_": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 09 Nov 2026 01:52:32 GMT",
+          "pubDate": "Tue, 10 Nov 2026 05:38:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2788/live/5536cf80-dcdb-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
+          "description": "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.",
+          "link": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw0737kv52lko#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 09 Nov 2026 22:16:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1686/live/6fa51a10-dcd2-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "I took Vinted to court to get my money back",
+          "description": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
+          "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 10 Nov 2026 00:27:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de22/live/e53d0e50-c7c3-11f1-bc2e-018d645d8d21.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hundreds more offenders to leave jail on Tuesday",
+          "description": "At least 1,350 offenders have been released from jail early under the scheme so far.",
+          "link": "https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 10 Nov 2026 01:06:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015a/live/f00f7850-dcd0-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+          "description": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+          "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 10 Nov 2026 00:14:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9349/live/97006970-dc5a-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "Man Utd expected to sack head coach Carrick ",
+          "description": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years. ",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 09 Nov 2026 23:13:31 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e30/live/1657c480-d9fd-11f1-84c1-dbcae60402d7.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dcf/live/306777b0-dc8e-11f1-8a0c-79d3a3fe49e0.jpg"
             }
           }
         },
         {
-          "title": "A glimmer of good news for Britain's sleepy dormouse",
-          "description": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
-          "link": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
+          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "description": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o#1",
+            "_": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 09 Nov 2026 00:56:43 GMT",
+          "pubDate": "Tue, 10 Nov 2026 00:09:49 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2715/live/c8a0e160-da0e-11f1-bbd1-cf41b7fd4e9b.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg"
             }
           }
         },
         {
-          "title": "What's your love language - and does it actually mean anything?",
-          "description": "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating.",
-          "link": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
+          "title": "How a civil servant got away with juggling five jobs for so long",
+          "description": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+          "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o#2",
+            "_": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 09 Nov 2026 00:55:35 GMT",
+          "pubDate": "Mon, 09 Nov 2026 18:40:31 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6efb/live/24613860-d9e7-11f1-bbe5-797ee05bee69.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7c/live/f86c8280-db55-11f1-b441-2b33b063138f.jpg"
             }
           }
         },
         {
-          "title": "Doing these things now will help you save money at Christmas",
-          "description": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
-          "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+          "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+          "description": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/ck7vppll151mo#2",
+            "_": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 09 Nov 2026 00:09:14 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903c/live/8d645510-d9ef-11f1-bb10-cdca6001fbcf.jpg"
-            }
-          }
-        },
-        {
-          "title": "The Silicon Valley superstar engulfed by personal scandal",
-          "description": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
-          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/ckgel338xql3o#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 09 Nov 2026 06:01:52 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
-            }
-          }
-        },
-        {
-          "title": "The Papers:  'There are more like Brand' and 'Steep cuts to EV targets'",
-          "description": "A minister warns \"there are more like [Russell] Brand\" and the government plans \"cuts to EV targets\" - some of Monday's headlines. ",
-          "link": "https://www.bbc.co.uk/news/articles/cx30eg5593gmo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cx30eg5593gmo#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 09 Nov 2026 06:01:37 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d7a/live/5feb5110-dbca-11f1-b441-2b33b063138f.jpg"
-            }
-          }
-        },
-        {
-          "title": "James Bond: What we know so far about the next 007 film",
-          "description": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
-          "link": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/ck79p0lev47po#2",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Mon, 09 Nov 2026 06:47:09 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb2/live/e5e231a0-d9cf-11f1-a701-fddedf244c16.jpg"
-            }
-          }
-        },
-        {
-          "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-          "description": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
-          "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 08 Nov 2026 21:37:36 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png"
-            }
-          }
-        },
-        {
-          "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-          "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
-          "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 08 Nov 2026 13:05:30 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4c/live/354198e0-db64-11f1-b441-2b33b063138f.jpg"
-            }
-          }
-        },
-        {
-          "title": "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event",
-          "description": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow. ",
-          "link": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 08 Nov 2026 17:42:28 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d42/live/5bcb9e00-db7a-11f1-a701-fddedf244c16.jpg"
-            }
-          }
-        },
-        {
-          "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-          "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 08 Nov 2026 19:58:02 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"
-            }
-          }
-        },
-        {
-          "title": "Secondary schools told to stop teaching GCSEs before Year 10",
-          "description": "The government says pupils in Year 7 to 9 should have \"richer, more engaging\" learning than preparing for GCSEs. ",
-          "link": "https://www.bbc.co.uk/news/articles/c680z89dk827o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c680z89dk827o#4",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 08 Nov 2026 19:00:32 GMT",
+          "pubDate": "Tue, 10 Nov 2026 06:01:44 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb03/live/b91ea880-db8a-11f1-93e1-3b657b665bcf.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg"
+            }
+          }
+        },
+        {
+          "title": "My life as the UK's youngest lighthouse keeper",
+          "description": "Jeri Cormack, 28, looks after three historic lighthouses in Caithness on the edge of the British mainland.",
+          "link": "https://www.bbc.co.uk/news/videos/cr3elxyq7x3zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cr3elxyq7x3zo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 10 Nov 2026 00:24:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38d5/live/623097f0-d38c-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica",
+          "description": "Stephanie Case makes history by becoming the first woman to complete extreme 100-mile race in Antarctica.",
+          "link": "https://www.bbc.co.uk/sport/articles/cm98z8w9kx02o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/articles/cm98z8w9kx02o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 10 Nov 2026 06:20:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0705/live/c4462280-dc6e-11f1-a36b-c52bf1cef2c5.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Brand jailed for 10 years' and 'shamed star caged'",
+          "description": "Russell Brand's sentencing after being convicted of rape and sexual assault dominates Tuesday's front pages.",
+          "link": "https://www.bbc.co.uk/news/articles/c69vzv7llen7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c69vzv7llen7o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 10 Nov 2026 04:45:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/564d/live/2d734ee0-dc97-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "FBI investigating Nvidia boss's affair with alleged Chinese spy, Trump says",
+          "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 10 Nov 2026 03:58:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png"
+            }
+          }
+        },
+        {
+          "title": "'Cruise for life' ship seized in Singapore ",
+          "description": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
+          "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 10 Nov 2026 01:49:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54ec/live/78680920-dca3-11f1-93a0-e3acb3757eea.jpg"
+            }
+          }
+        },
+        {
+          "title": "Severe travel disruption possible as dense fog returns",
+          "description": "Dense fog is once again threatening travel disruption into Tuesday, as Elizabeth Rizzini explains.",
+          "link": "https://www.bbc.co.uk/weather/articles/cmzxlxkw4p4lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/cmzxlxkw4p4lo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 10 Nov 2026 07:12:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca51/live/7cd21fd0-dc3c-11f1-95cf-a38331e6cb4b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Oxford museum returns ancestral  Naga skulls to India",
+          "description": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
+          "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 10 Nov 2026 06:23:42 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c57/live/c6a27780-dcba-11f1-bc9a-d176db862bf0.jpg"
+            }
+          }
+        },
+        {
+          "title": "Prince William wants more protection from harassment for service women",
+          "description": "The Prince of Wales says he wants to stop sexual harassment against women in the armed forces.",
+          "link": "https://www.bbc.co.uk/news/articles/cqp8g85pxe9ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqp8g85pxe9ro#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 10 Nov 2026 00:41:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7795/live/b8b44480-dc67-11f1-8fe6-5becaee5408f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+          "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year. ",
+          "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 10 Nov 2026 01:38:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
+            }
+          }
+        },
+        {
+          "title": "Ground Force and Homes Under the Hammer star Tommy Walsh dies aged 69",
+          "description": "The building and DIY expert also appeared on TV shows like Challenge Tommy Walsh and Clean It, Fix It.",
+          "link": "https://www.bbc.co.uk/news/articles/ck0e0elq4ndpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ck0e0elq4ndpo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Mon, 09 Nov 2026 15:27:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b38/live/d00f14e0-dc5b-11f1-93e1-3b657b665bcf.jpg"
             }
           }
         },
@@ -448,11 +505,11 @@
           }
         },
         {
-          "title": "Are There More Russell Brands In The Media Industry?",
+          "title": "The Most Expensive Affair In History?",
           "description": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
-          "link": "https://www.bbc.co.uk/sounds/play/p0pkvzl8?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/p0pm3rwk?at_mid=n3UOo1rZFF&at_campaign=Newscast_The_Most_Expensive_Affair_In_History_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_Most_Expensive_Affair_In_History_news_rail&at_bbc_team=BBC&at_creation=News",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0pkvzl8#6",
+            "_": "https://www.bbc.co.uk/sounds/play/p0pm3rwk?at_mid=n3UOo1rZFF&at_campaign=Newscast_The_Most_Expensive_Affair_In_History_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_Most_Expensive_Affair_In_History_news_rail&at_bbc_team=BBC&at_creation=News#6",
             "$": {
               "isPermaLink": "false"
             }
@@ -467,154 +524,135 @@
           }
         },
         {
-          "title": "Emma Thompson, Kate Winslet and Hugh Grant star in a 1995 adaptation",
-          "description": "Elinor and Marianne Dashwood are thrown into sudden hardship on the death of their father.",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m0027nc1/sense-and-sensibility?at_mid=CzprLxMc6q&at_campaign=Sense_and_Sensibility&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=iplayer&at_brand=m0027nc1&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Sense_and_Sensibility&at_bbc_team=BBC",
+          "title": "Man Utd expected to sack head coach Carrick ",
+          "description": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years. ",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/iplayer/episode/m0027nc1/sense-and-sensibility?at_mid=CzprLxMc6q&at_campaign=Sense_and_Sensibility&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=iplayer&at_brand=m0027nc1&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Sense_and_Sensibility&at_bbc_team=BBC#7",
+            "_": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sat, 31 Oct 2026 15:35:30 GMT",
+          "pubDate": "Mon, 09 Nov 2026 23:13:31 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e997/live/d07a55f0-d88e-11f1-b441-2b33b063138f.jpg"
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dcf/live/306777b0-dc8e-11f1-8a0c-79d3a3fe49e0.jpg"
             }
           }
         },
         {
-          "title": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
-          "description": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+          "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
+          "description": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo#8",
+            "_": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 08 Nov 2026 21:50:05 GMT",
+          "pubDate": "Tue, 10 Nov 2026 06:24:50 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf2/live/f5d8ac10-dbb4-11f1-b35d-8ff000e4934a.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
             }
           }
         },
         {
-          "title": "England make massive step up in Australia victory",
-          "description": "In his latest column, England World Cup winner Matt Dawson reflects on an impressive win for Steve Borthwick's side against Australia in the Nations Championship.",
-          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqev33zn20vdo?at_medium=RSS&at_campaign=rss",
+          "title": "'No reason' to reopen sandpaper investigation",
+          "description": "Cricket Australia CEO Todd Greenberg says he does not see \"any compelling reason\" to reopen the investigation into the 2018 Australia ball-tampering scandal.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/rugby-union/articles/cqev33zn20vdo#8",
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/cjzxlxrp3335o#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 09 Nov 2026 06:49:22 GMT",
+          "pubDate": "Tue, 10 Nov 2026 07:31:01 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8a/live/e4531aa0-f1de-11ef-9e61-71ee71f26eb1.png"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff6a/live/9ca0e190-dcd5-11f1-9592-2505157ecaa0.jpg"
             }
           }
         },
         {
-          "title": "Sports Personality of the Year returns - with five awards decided by public",
-          "description": "BBC Sports Personality of the Year will be held on 13 December - and audiences will have more influence than ever over the awards.",
-          "link": "https://www.bbc.co.uk/sport/articles/cqj9kd00y0wko?at_medium=RSS&at_campaign=rss",
+          "title": "How Germany's greatest goalscorer is guiding the next generation",
+          "description": "Miroslav Klose rose from amateur to World Cup winner as a player - now the German is forging a similar path as a coach.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmq8nnddpllqo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/articles/cqj9kd00y0wko#8",
+            "_": "https://www.bbc.co.uk/sport/football/articles/cmq8nnddpllqo#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 09 Nov 2026 07:30:05 GMT",
+          "pubDate": "Tue, 10 Nov 2026 07:34:07 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdbf/live/8a123c50-d9cd-11f1-bb8e-efaa31738708.jpg"
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dc1/live/d2819320-d9f8-11f1-84c1-dbcae60402d7.jpg"
             }
           }
         },
         {
-          "title": "Norris sparkles in Sao Paulo despite firework mishap",
-          "description": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss",
+          "title": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica",
+          "description": "Stephanie Case makes history by becoming the first woman to complete extreme 100-mile race in Antarctica.",
+          "link": "https://www.bbc.co.uk/sport/articles/cm98z8w9kx02o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo#8",
+            "_": "https://www.bbc.co.uk/sport/articles/cm98z8w9kx02o#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Sun, 08 Nov 2026 23:44:53 GMT",
+          "pubDate": "Tue, 10 Nov 2026 06:20:04 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd44/live/561b1180-dbc9-11f1-a639-8fd896d95a18.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0705/live/c4462280-dc6e-11f1-a36b-c52bf1cef2c5.jpg"
             }
           }
         },
         {
-          "title": "Packers & Bengals win in style - NFL week nine",
-          "description": "The Chicago Bears and Denver Broncos grind out wins while the Cincinnati Bengals and Green Bay Packers put on a show as the NFL season reaches the halfway point.",
-          "link": "https://www.bbc.co.uk/sport/american-football/articles/cmdxwxry2pr8o?at_medium=RSS&at_campaign=rss",
+          "title": "Watch: Rivals - Fury v Joshua on BBC iPlayer",
+          "description": "The inside story of heavyweight boxing's long-awaited showdown",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m0034cyd?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/american-football/articles/cmdxwxry2pr8o#8",
+            "_": "https://www.bbc.co.uk/iplayer/episode/m0034cyd#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 09 Nov 2026 07:21:24 GMT",
+          "pubDate": "Tue, 10 Nov 2026 06:00:00 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225c/live/71321f90-dc0a-11f1-a701-fddedf244c16.png"
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl19jc.jpg"
             }
           }
         },
         {
-          "title": "Gauff opens WTA Finals with gritty win over Pegula",
-          "description": "Former champion Coco Gauff beats fellow American Jessica Pegula in her opening match of the WTA Finals at Indian Wells.",
-          "link": "https://www.bbc.co.uk/sport/tennis/articles/c3x2w9w078kko?at_medium=RSS&at_campaign=rss",
+          "title": "Kane and Bellingham air strong views in England World Cup review",
+          "description": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/tennis/articles/c3x2w9w078kko#8",
+            "_": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Mon, 09 Nov 2026 07:20:06 GMT",
+          "pubDate": "Mon, 09 Nov 2026 17:30:23 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcc0/live/dc06f760-dc04-11f1-9292-932e681b2914.jpg"
-            }
-          }
-        },
-        {
-          "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
-          "description": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o#8",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Sun, 08 Nov 2026 19:24:36 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/2f31e2f0-db93-11f1-9029-d35c55297624.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d453cf00-dc51-11f1-a869-656dc96bd12d.jpg"
             }
           }
         }

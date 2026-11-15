@@ -1,0 +1,681 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Sun, 15 Nov 2026 08:38:53 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+          "description": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
+          "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 06:01:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9b/live/b551c6d0-e010-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+          "description": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+          "link": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 07:19:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a7f/live/9f8b6970-dcf8-11f1-9ef0-4b5930e2f80e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
+          "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+          "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Nov 2026 22:09:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+          "description": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
+          "link": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Nov 2026 12:22:43 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fc/live/6c07bc50-df75-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
+          "description": "The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties. ",
+          "link": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 00:09:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ca/live/a5a42090-e06d-11f1-99e6-531f8829f5a3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+          "description": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+          "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 08:17:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "Judo champion shakes up French  presidential race with surprise candidacy",
+          "description": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+          "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 00:06:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1901/live/c7db8b90-df5e-11f1-a8af-15d7a25dc0d1.jpg"
+            }
+          }
+        },
+        {
+          "title": "How to shake hands and make eye contact - the lessons preparing pupils for the world of work",
+          "description": "Year 10 pupils are learning employability skills to reduce the number of young people who end up \"Neet\".",
+          "link": "https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 00:05:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68be/live/3b72e800-df50-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+          "description": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+          "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqn83l442724o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 00:01:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg"
+            }
+          }
+        },
+        {
+          "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+          "description": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 00:06:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d8/live/8fe15d90-df82-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
+          "description": "The singer felt forced to compete with her female peers, until she realised the power of longevity.",
+          "link": "https://www.bbc.co.uk/news/articles/cw77p7yj42k5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw77p7yj42k5o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 00:07:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e68f/live/3aa58e70-dcf6-11f1-9ef0-4b5930e2f80e.jpg"
+            }
+          }
+        },
+        {
+          "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+          "description": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+          "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 02:49:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK papers: 'I was only 16' says alleged Brand victim, as disgraced comedian 'moved to soft jail'",
+          "description": "Russell Brand continues to feature on Sunday's front pages, nearly a week after he was jailed.",
+          "link": "https://www.bbc.co.uk/news/articles/ckq6elm8lj2zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckq6elm8lj2zo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 05:16:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6895/live/d9cc4b40-e086-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\". ",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Nov 2026 22:37:25 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg"
+            }
+          }
+        },
+        {
+          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision ",
+          "description": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages. ",
+          "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Nov 2026 22:27:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+          "description": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+          "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Nov 2026 18:00:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg"
+            }
+          }
+        },
+        {
+          "title": "Milder day in store before more cold health alerts take effect",
+          "description": "A short-lived milder spell is on the way for Sunday before more cold health alerts come into force.",
+          "link": "https://www.bbc.co.uk/weather/articles/cqe879916895o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/cqe879916895o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 08:24:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61a7/live/9782cb80-df5d-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+          "description": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+          "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 03:21:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
+            }
+          }
+        },
+        {
+          "title": "Intelligence officer's rare Aston Martin to be sold",
+          "description": "The Aston Martin DB5, a model made famous by James Bond films, will be sold in Esher in December.",
+          "link": "https://www.bbc.co.uk/news/articles/cqrmgwg4dndro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqrmgwg4dndro#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 12 Nov 2026 11:51:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51f9/live/e9ed24a0-de87-11f1-b88b-3f1671ea859d.jpg"
+            }
+          }
+        },
+        {
+          "title": "Handwritten 200-year-old dismissal letter found on roof tile",
+          "description": "The tile informs a worker that he is no longer needed and was signed by Thomas Austin.",
+          "link": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 12 Nov 2026 06:14:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1236/live/64ff8440-ddf1-11f1-bb8c-51310f5678ed.jpg"
+            }
+          }
+        },
+        {
+          "title": "I took Vinted to court to get my money back",
+          "description": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
+          "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 10 Nov 2026 00:27:37 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de22/live/e53d0e50-c7c3-11f1-bc2e-018d645d8d21.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why are these purple flowers shutting down streets in Sydney?",
+          "description": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
+          "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 10 Nov 2026 18:03:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0efd/live/81d21790-dcca-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Download now",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Welfare Plans and EU Deals",
+          "description": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0pm3sfz?at_mid=i6Gf40TZKZ&at_campaign=Newscast_The_Week_Welfare_Plans_and_EU_Deals_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_Week_Welfare_Plans_and_EU_Deals_news_rail&at_bbc_team=BBC&at_creation=News",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sounds/play/p0pm3sfz?at_mid=i6Gf40TZKZ&at_campaign=Newscast_The_Week_Welfare_Plans_and_EU_Deals_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_Week_Welfare_Plans_and_EU_Deals_news_rail&at_bbc_team=BBC&at_creation=News#7",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 25 Oct 2026 00:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+            }
+          }
+        },
+        {
+          "title": "Rumpelstiltskin fools Shrek into being erased from existence",
+          "description": "The fairy tale is ogre. Fooled by Rumpelstiltskin, Shrek's world is turned upside down",
+          "link": "https://www.bbc.co.uk/iplayer/episode/p01191m5/shrek-forever-after?at_mid=TlzQpz1XYq&at_campaign=Shrek_Forever_After&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p01191m5&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Shrek_Forever_After&at_bbc_team=BBC",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/p01191m5/shrek-forever-after?at_mid=TlzQpz1XYq&at_campaign=Shrek_Forever_After&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p01191m5&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Shrek_Forever_After&at_bbc_team=BBC#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 18 Oct 2026 14:25:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82ed/live/c17af520-6a1e-11f1-8546-8f19e4fe30f4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
+          "description": "Australia bowler Chadd Sayers says he helped take sandpaper from the field in the match prior to the Cape Town Test and backs Usman Khawaja's recollection over Pat Cummins'.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 07:32:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61b/live/4f120640-e0c0-11f1-970d-f5d89da8a1ad.jpg"
+            }
+          }
+        },
+        {
+          "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+          "description": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Nov 2026 20:22:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a93/live/1896ea50-e038-11f1-9ca9-b3b288fceb81.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Spain's humble superstar Simon became world's best keeper",
+          "description": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 15 Nov 2026 07:29:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41cb/live/396f38d0-dddc-11f1-b865-d17d8611efca.jpg"
+            }
+          }
+        },
+        {
+          "title": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
+          "description": "Wales end a 73-year hoodoo against New Zealand with a win hailed as their greatest of all time. ",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Nov 2026 19:33:46 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5668/live/7585ebc0-e05c-11f1-9e26-b3b65586122f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Highlights: Wales beat New Zealand for first time in 73 years",
+          "description": "Watch the best of the action as Wales beat New Zealand for the first time in 73 years",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/videos/ckdd10y25mm1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/rugby-union/videos/ckdd10y25mm1o#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Nov 2026 16:35:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0b3/live/31db9fa0-e048-11f1-a701-fddedf244c16.png"
+            }
+          }
+        },
+        {
+          "title": "Joseph enjoys dream return as England thrash Japan at Twickenham",
+          "description": "After four years away from international rugby, Will Joseph marks his return in style by scoring a record-equalling five tries as England humiliate Japan at Twickenham, scoring 13 tries in a 78-15 victory in the Nations Championship. ",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/videos/cmn0d1w0ry0no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/rugby-union/videos/cmn0d1w0ry0no#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Nov 2026 19:32:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/801c/live/1d8ca750-e062-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Watch: Seven-try Ireland secure win over Fiji",
+          "description": "Watch the tries as Ireland secure a 43-15 victory over Fiji in the Nations Championship in Dublin. ",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/videos/cm4gnxew18z3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/rugby-union/videos/cm4gnxew18z3o#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Nov 2026 22:53:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02ab/live/4a9796c0-e075-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        },
+        {
+          "title": "Haaland helps Norway to win over Wales in Nations League",
+          "description": "Watch the best of the action as Norway beat Wales in the Nations League in Oslo. ",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Nov 2026 19:23:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6958/live/cbfec630-e060-11f1-9e26-b3b65586122f.png"
+            }
+          }
+        },
+        {
+          "title": "Chelsea go top with 1-0 win against Man City",
+          "description": "Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half.",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 14 Nov 2026 15:50:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ee/live/76b3b1a0-e041-11f1-93e1-3b657b665bcf.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

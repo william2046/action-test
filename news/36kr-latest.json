@@ -17,7 +17,7 @@
         "link": "https://www.bbc.co.uk/news"
       },
       "generator": "RSS for Node",
-      "lastBuildDate": "Wed, 18 Nov 2026 08:09:05 GMT",
+      "lastBuildDate": "Thu, 19 Nov 2026 08:19:14 GMT",
       "atom:link": {
         "$": {
           "href": "https://feeds.bbci.co.uk/news/rss.xml",
@@ -30,439 +30,439 @@
       "ttl": "15",
       "item": [
         {
-          "title": "Burnham promises to 'move quickly' on Neets report",
-          "description": "The prime minister tells the BBC he wants to get \"stuck in\" after the Milburn report proposes wide-ranging changes to help unemployed young people.",
-          "link": "https://www.bbc.co.uk/news/articles/c8n50457edd4o?at_medium=RSS&at_campaign=rss",
+          "title": "Trump says he and Putin have a 'great relationship' at meeting",
+          "description": "US President Donald Trump has met Russian President Vladimir Putin on the sidelines of the Asia-Pacific Economic Co-operation (Apec) summit in the southern Chinese city of Shenzhen.",
+          "link": "https://www.bbc.co.uk/news/videos/cm4gn31yn0x9o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c8n50457edd4o#0",
+            "_": "https://www.bbc.co.uk/news/videos/cm4gn31yn0x9o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 18 Nov 2026 06:00:24 GMT",
+          "pubDate": "Thu, 19 Nov 2026 06:52:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aa8/live/2a469140-e3f0-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+          "description": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6x2eve321jno#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Nov 2026 00:00:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc2e/live/1e9dd410-e3e2-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Feudal' leasehold system set to be scrapped in England and Wales",
+          "description": "The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at £250. ",
+          "link": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Nov 2026 02:02:23 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e983/live/c8f15bb0-e36c-11f1-9f51-4bfc31543510.jpg"
+            }
+          }
+        },
+        {
+          "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
+          "description": "This comes after Brand's wife shared a message from him in which he claimed his innocence.",
+          "link": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Nov 2026 08:11:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2584/live/19193c60-e3eb-11f1-99b6-a35a62fa4264.jpg"
+            }
+          }
+        },
+        {
+          "title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
+          "description": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Nov 2026 02:20:15 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6d5/live/68b519f0-e31a-11f1-a094-5fdc692f3e33.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
             }
           }
         },
         {
-          "title": "Chris Mason: Milburn may have gifted Labour MPs a moral argument for welfare reform",
-          "description": "There is hope his Neets report has created a case on benefits which MPs can back, writes political editor Chris Mason.",
-          "link": "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo?at_medium=RSS&at_campaign=rss",
+          "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+          "description": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+          "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo#0",
+            "_": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 18 Nov 2026 06:00:38 GMT",
+          "pubDate": "Wed, 18 Nov 2026 21:28:08 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c40a/live/e0de26f0-e320-11f1-99a1-253766e7ad8b.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg"
             }
           }
         },
         {
-          "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-          "description": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
-          "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+          "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+          "description": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
+          "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o#0",
+            "_": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 17 Nov 2026 23:02:12 GMT",
+          "pubDate": "Thu, 19 Nov 2026 00:05:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aec/live/3ca33b80-6077-11ef-aea1-e764981585c4.jpg"
+            }
+          }
+        },
+        {
+          "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+          "description": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+          "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Nov 2026 00:49:19 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg"
             }
           }
         },
         {
-          "title": "Home secretary plans to tackle 'perception of two-tier policing'",
-          "description": "Shabana Mahmood will announce stronger guidance on police impartiality.",
-          "link": "https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&at_campaign=rss",
+          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+          "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+          "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c3vg24wpg040o#0",
+            "_": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo#1",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 17 Nov 2026 22:31:32 GMT",
+          "pubDate": "Wed, 18 Nov 2026 17:00:40 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4035/live/d90bfb90-e2c2-11f1-a9da-01a195e70ea0.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg"
             }
           }
         },
         {
-          "title": "Harry Styles, Sam Fender and Billie Eilish to headline Glastonbury 2027",
-          "description": "The festival will return after a fallow year with a pop-heavy line-up, led by Harry Styles and Cher.",
-          "link": "https://www.bbc.co.uk/news/articles/crwy4w381nlpo?at_medium=RSS&at_campaign=rss",
+          "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+          "description": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+          "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/crwy4w381nlpo#0",
+            "_": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 18 Nov 2026 07:59:54 GMT",
+          "pubDate": "Thu, 19 Nov 2026 04:42:52 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ff/live/dc5ef950-e2d1-11f1-99ed-7de3e5932968.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c722/live/3ea490d0-e3ee-11f1-a094-5fdc692f3e33.jpg"
             }
           }
         },
         {
-          "title": "AI used to find security flaw in Java, world's third-largest programming language",
-          "description": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-          "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+          "title": "Is your child lying to you? That might not be a bad thing ",
+          "description": "Parents may be annoyed when their kids lie but experts explain why it is part of their development.",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo#0",
+            "_": "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 18 Nov 2026 05:33:13 GMT",
+          "pubDate": "Thu, 19 Nov 2026 00:12:57 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/c9c932d0-e324-11f1-99a1-253766e7ad8b.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c92/live/965cda20-e273-11f1-99a1-253766e7ad8b.jpg"
             }
           }
         },
         {
-          "title": "The EU that Burnham is eyeing up is very different to the one Britain left ",
-          "description": "Andy Burnham wants \"steps\" towards a closer EU alignment. But the bloc has changed considerably since the UK left it",
-          "link": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss",
+          "title": "Who are the investors ready to jump on Anthropic?",
+          "description": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
+          "link": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo#0",
+            "_": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 18 Nov 2026 00:39:06 GMT",
+          "pubDate": "Thu, 19 Nov 2026 01:22:38 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0152/live/8197ef80-e282-11f1-99a1-253766e7ad8b.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d1a/live/8e8f8740-e3b6-11f1-a094-5fdc692f3e33.jpg"
             }
           }
         },
         {
-          "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-          "description": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
-          "link": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+          "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+          "description": "No state has ever been found guilty by an international court of committing genocide.",
+          "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o#0",
+            "_": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 18 Nov 2026 00:44:48 GMT",
+          "pubDate": "Wed, 18 Nov 2026 23:04:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'I'd rejoin the Army to fight Russia' and 'Boiling point'",
+          "description": "Dominating newspaper headlines is Prince Harry's declaration that he would  rejoin the army if needed.",
+          "link": "https://www.bbc.co.uk/news/articles/cqly45eymjeko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqly45eymjeko#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Nov 2026 05:54:25 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36bf/live/43e4a6f0-e29c-11f1-8dda-8925a81c3da5.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a48/live/56834f50-e3c3-11f1-b4e7-593563d738bb.jpg"
             }
           }
         },
         {
-          "title": "Watch: Millions of red crabs start annual migration on Christmas Island",
-          "description": "The crabs were seen migrating from forests to the sea to breed on the coast of the Australian territory.",
-          "link": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss",
+          "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+          "description": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+          "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o#0",
+            "_": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 17 Nov 2026 23:05:39 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2f/live/6faad2d0-e2da-11f1-99a1-253766e7ad8b.jpg"
-            }
-          }
-        },
-        {
-          "title": "What's gone wrong at Britain's worst bathing site? ",
-          "description": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
-          "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 18 Nov 2026 06:12:44 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ad3/live/f181e450-e1c3-11f1-8a52-0b287ff76f43.jpg"
-            }
-          }
-        },
-        {
-          "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
-          "description": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 18 Nov 2026 06:07:25 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8cf/live/8f9362f0-e317-11f1-99b6-a35a62fa4264.jpg"
-            }
-          }
-        },
-        {
-          "title": "How important are Nvidia and Jensen Huang to the US economy?",
-          "description": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-          "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c68798vdprwpo#1",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 18 Nov 2026 06:04:21 GMT",
+          "pubDate": "Wed, 18 Nov 2026 23:47:46 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg"
             }
           }
         },
         {
-          "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
-          "description": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
-          "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+          "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+          "description": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+          "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o#1",
+            "_": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po#2",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 17 Nov 2026 23:34:56 GMT",
+          "pubDate": "Wed, 18 Nov 2026 17:34:25 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8a6/live/48114450-e386-11f1-99a1-253766e7ad8b.jpg"
             }
           }
         },
         {
-          "title": "The Papers:  'Over-25s next in line' and 'Clean for Colleen'",
-          "description": "The possible implications of a major review into youth inactivity leads a number of Wednesday's papers.",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2ekyd43j5o?at_medium=RSS&at_campaign=rss",
+          "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+          "description": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+          "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cqx2ekyd43j5o#1",
+            "_": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o#4",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 18 Nov 2026 05:15:53 GMT",
+          "pubDate": "Thu, 19 Nov 2026 02:59:06 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cb1/live/170396f0-e2e7-11f1-a094-5fdc692f3e33.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg"
             }
           }
         },
         {
-          "title": "The 3pm football blackout: outdated or still relevant in 2026?",
-          "description": "After 60 years, is time finally running out on the 3pm blackout in football?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&at_campaign=rss",
+          "title": "Prince Harry says he would rejoin army as he warns of Russia threat",
+          "description": "The Duke of Sussex thought people should be ready to serve again for their country if needed.",
+          "link": "https://www.bbc.co.uk/news/articles/cm0qjw3edzkko?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o#1",
+            "_": "https://www.bbc.co.uk/news/articles/cm0qjw3edzkko#4",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 18 Nov 2026 06:27:11 GMT",
+          "pubDate": "Wed, 18 Nov 2026 20:55:15 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ac/live/9a53b3f0-e37d-11f1-b879-03485a55c082.jpg"
+            }
+          }
+        },
+        {
+          "title": "Crimean Bridge attacked again, Russia says",
+          "description": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+          "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Nov 2026 07:32:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
+            }
+          }
+        },
+        {
+          "title": "Joanna Page says male actor made 'awful' and 'inappropriate' comments to her on set",
+          "description": "Page spoke of the comments during Tuesday's episode of I'm a Celebrity... Get Me Out Of Here!",
+          "link": "https://www.bbc.co.uk/news/articles/cqj3kelenm0do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqj3kelenm0do#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 18 Nov 2026 11:00:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca06/live/582be290-e33c-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+          "description": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+          "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw8r7510degno#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 18 Nov 2026 22:34:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "Police investigate death of boy, 3, after nursery incident",
+          "description": "The boy died in hospital three days after an incident at Cosy Toes Nursery in Middleton, police say.",
+          "link": "https://www.bbc.co.uk/news/articles/cm8x0q1p2q8jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm8x0q1p2q8jo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 18 Nov 2026 16:51:58 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1959/live/65173c80-e287-11f1-b166-176de21e2352.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0797/live/c7d45720-e365-11f1-9f51-4bfc31543510.jpg"
             }
           }
         },
         {
-          "title": "William and Kate on Earthshot Prize green carpet in Mumbai",
-          "description": "The pair arrived at the ceremony where five £1m prizes were awarded to projects aimed at solving climate challenges.",
-          "link": "https://www.bbc.co.uk/news/videos/c6x2ev29v87no?at_medium=RSS&at_campaign=rss",
+          "title": "Council wins legal fight against flags on lamp-posts",
+          "description": "In her decision, Judge Emma Kelly says there was a \"compelling need\" to grant the interim injunction.",
+          "link": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/videos/c6x2ev29v87no#1",
+            "_": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo#4",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Tue, 17 Nov 2026 21:15:00 GMT",
+          "pubDate": "Wed, 18 Nov 2026 18:19:34 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac99/live/a44fd170-e2ad-11f1-a094-5fdc692f3e33.jpg"
-            }
-          }
-        },
-        {
-          "title": "Largest British study to check social media ban's effect on youth mental health",
-          "description": "Ten different research teams will look at how well teenagers are coping without social media.",
-          "link": "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 18 Nov 2026 00:49:31 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/6ddfb5f0-e2bd-11f1-a094-5fdc692f3e33.jpg"
-            }
-          }
-        },
-        {
-          "title": "'Human' is Cambridge Dictionary Word of the Year",
-          "description": "The growth of AI means we need to say when something is made by humans, says the book's editor.",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 18 Nov 2026 05:39:39 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9606/live/60cdf4b0-e274-11f1-99b6-a35a62fa4264.jpg"
-            }
-          }
-        },
-        {
-          "title": "Waymo pulls driverless taxis from all US freeways",
-          "description": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-          "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 18 Nov 2026 03:07:22 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg"
-            }
-          }
-        },
-        {
-          "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-          "description": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-          "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 18 Nov 2026 07:00:25 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8202/live/39cdb760-dc7a-11f1-b23d-9526db010e6c.jpg"
-            }
-          }
-        },
-        {
-          "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-          "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations. ",
-          "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 18 Nov 2026 07:48:18 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg"
-            }
-          }
-        },
-        {
-          "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-          "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations. ",
-          "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Tue, 17 Nov 2026 22:46:30 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png"
-            }
-          }
-        },
-        {
-          "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
-          "description": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
-          "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o#3",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 18 Nov 2026 04:00:54 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05a0/live/e737dbc0-e381-11f1-99b6-a35a62fa4264.jpg"
             }
           }
         },
@@ -471,7 +471,7 @@
           "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
           "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/news/10628994#4",
+            "_": "https://www.bbc.co.uk/news/10628994#5",
             "$": {
               "isPermaLink": "false"
             }
@@ -490,7 +490,7 @@
           "description": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
           "link": "https://www.bbc.co.uk/sounds/play/p0pn991s?at_mid=HRXOiJv79e&at_campaign=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_bbc_team=BBC&at_creation=News",
           "guid": {
-            "_": "https://www.bbc.co.uk/sounds/play/p0pn991s?at_mid=HRXOiJv79e&at_campaign=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_bbc_team=BBC&at_creation=News#5",
+            "_": "https://www.bbc.co.uk/sounds/play/p0pn991s?at_mid=HRXOiJv79e&at_campaign=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_bbc_team=BBC&at_creation=News#6",
             "$": {
               "isPermaLink": "false"
             }
@@ -505,116 +505,116 @@
           }
         },
         {
-          "title": "The 3pm football blackout: outdated or still relevant in 2026?",
-          "description": "After 60 years, is time finally running out on the 3pm blackout in football?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&at_campaign=rss",
+          "title": "Vote for the first BBC Men's Footballer of the Year",
+          "description": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
           "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o#7",
+            "_": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o#8",
             "$": {
               "isPermaLink": "false"
             }
           },
-          "pubDate": "Wed, 18 Nov 2026 06:27:11 GMT",
+          "pubDate": "Thu, 19 Nov 2026 06:30:04 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca1/live/e82d49d0-e335-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Premier League's big six keep getting richer",
+          "description": "Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Nov 2026 07:38:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c612/live/1f6a6e00-e291-11f1-b166-176de21e2352.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK firms owed thousands as Saudi-backed LIV paid golfers millions",
+          "description": "A BBC Sport investigation has found bills to UK companies were already overdue when LIV Golf made its final payments to players and executives before filing for bankruptcy.",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/cw7vpv793n24o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/golf/articles/cw7vpv793n24o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Nov 2026 06:37:40 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f393/live/1b107640-dfbe-11f1-a785-cd5ce5e90c71.jpg"
+            }
+          }
+        },
+        {
+          "title": "Littler shocked by brilliant Wattimena at Grand Slam",
+          "description": "Defending champion Luke Littler suffers a shock early exit at the Grand Slam of Darts after a stunning display from Jermaine Wattimena.",
+          "link": "https://www.bbc.co.uk/sport/darts/articles/crlyenxw18d7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/darts/articles/crlyenxw18d7o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 18 Nov 2026 22:33:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5960/live/a91fb6e0-e39b-11f1-9290-8f31de41e6ea.jpg"
+            }
+          }
+        },
+        {
+          "title": "No trust problem with Ferrari team - Hamilton",
+          "description": "Lewis Hamilton says Ferrari are \"super united\" despite two recent incidents in which the British driver ignored a team call to pit for fresh tyres.",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/cr8683z1wdp2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/formula1/articles/cr8683z1wdp2o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Nov 2026 06:56:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c266/live/9e264580-e3da-11f1-a23c-d3123181bddb.jpg"
+            }
+          }
+        },
+        {
+          "title": "Tennis the saviour for player who tried to take own life before Wimbledon",
+          "description": "Swiss player Leandro Riedi tried to take his own life days before playing at Wimbledon in 2024. Now he wants to tell his story.",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/cm5y18p5v12yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/tennis/articles/cm5y18p5v12yo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 19 Nov 2026 06:17:35 GMT",
           "media:thumbnail": {
             "$": {
               "width": "240",
               "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1959/live/65173c80-e287-11f1-b166-176de21e2352.jpg"
-            }
-          }
-        },
-        {
-          "title": "From one of Ajax's future stars to quitting football for music",
-          "description": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro#7",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 18 Nov 2026 07:02:42 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "134",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg"
-            }
-          }
-        },
-        {
-          "title": "Cowboy boots, cocktails and casinos - how do three US grands prix compare?",
-          "description": "F1 struggled to establish itself in the United States, but now hosts three grands prix. We compare the merits of Austin, Miami and Las Vegas.",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/c6d91xl13pggo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/formula1/articles/c6d91xl13pggo#7",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 18 Nov 2026 07:50:26 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3148/live/d7883600-e2a7-11f1-99b6-a35a62fa4264.png"
-            }
-          }
-        },
-        {
-          "title": "Josh Kerr: The making of the man behind the shades",
-          "description": "People know Josh Kerr the athlete. But are there two Josh Kerrs? The mile world record holder talks about disguising alcohol-free cider, entering races under a false name and his granny keeping him humble.",
-          "link": "https://www.bbc.co.uk/sport/athletics/articles/cwe8506v754yo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/athletics/articles/cwe8506v754yo#7",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 18 Nov 2026 07:18:18 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260b/live/4dcbbf80-dddf-11f1-b465-b9821c2582d4.jpg"
-            }
-          }
-        },
-        {
-          "title": "Belief and bench help Northern Ireland scale new heights as promotion secured",
-          "description": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po#7",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Tue, 17 Nov 2026 23:49:31 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg"
-            }
-          }
-        },
-        {
-          "title": "Cricket Australia sets up 'safe space' for players to share sandpapergate experiences",
-          "description": "The 2018 scandal has resurfaced this month after Usman Khawaja claimed the entire team knew about the cheating plot.",
-          "link": "https://www.bbc.co.uk/sport/cricket/articles/c58j48elrwvyo?at_medium=RSS&at_campaign=rss",
-          "guid": {
-            "_": "https://www.bbc.co.uk/sport/cricket/articles/c58j48elrwvyo#7",
-            "$": {
-              "isPermaLink": "false"
-            }
-          },
-          "pubDate": "Wed, 18 Nov 2026 04:48:56 GMT",
-          "media:thumbnail": {
-            "$": {
-              "width": "240",
-              "height": "135",
-              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f06/live/70d8cee0-e303-11f1-ab28-8b9b038f8766.jpg"
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19a/live/2292bef0-e374-11f1-9f51-4bfc31543510.jpg"
             }
           }
         }

@@ -1,0 +1,662 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Sun, 22 Nov 2026 09:06:39 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
+          "description": "Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.",
+          "link": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 06:01:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d1/live/bf55afa0-e4ea-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "How a teen gamer and his mother helped rescue a missing girl",
+          "description": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+          "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 00:09:58 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e06/live/d8778490-e503-11f1-9e2f-7fb5281f0b3c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
+          "description": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 06:27:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c5/live/4cf95270-e631-11f1-9a7b-83df752dd747.jpg"
+            }
+          }
+        },
+        {
+          "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+          "description": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
+          "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 21 Nov 2026 12:00:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg"
+            }
+          }
+        },
+        {
+          "title": "BBC apologises for 'any offence caused' by Strictly noise disruption ",
+          "description": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
+          "link": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 04:39:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a1/live/9ea5a0c0-e621-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Employers are being asked to give interview feedback - here's what applicants want",
+          "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant? ",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 00:04:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg"
+            }
+          }
+        },
+        {
+          "title": "The real people finding their work copied and stolen by AI characters",
+          "description": "Musicians, comedians and dancers are among those finding their videos cloned with AI generated characters.",
+          "link": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 05:00:38 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf0/live/25e92f10-e4f7-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
+          "description": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
+          "link": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 00:01:27 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a9/live/aa5abbb0-e50b-11f1-b40b-5f46e8cf687c.jpg"
+            }
+          }
+        },
+        {
+          "title": "From pit-stops to go-to destinations: The transformation of service stations",
+          "description": "Once a quick pause on a long trip, service stations are becoming destinations in their own right.",
+          "link": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 00:06:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ac1/live/e2886580-e4d6-11f1-ae38-71bf515761f1.jpg"
+            }
+          }
+        },
+        {
+          "title": "Russia-bound ship attacked in Gulf of Finland",
+          "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cj752ddve27ko#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 21 Nov 2026 19:20:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg"
+            }
+          }
+        },
+        {
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+          "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 01:25:03 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Parents urged to spot online stalking warning signs as cases rise",
+          "description": "From fake profiles to unwanted contact, specialists explain the signs parents should take seriously.",
+          "link": "https://www.bbc.co.uk/news/articles/c674pejp1110o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c674pejp1110o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 00:07:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6755/live/028a3f80-e1de-11f1-911e-f985fea51b18.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: Kate's 'road to recovery' and 'Brave princess'",
+          "description": "Catherine, Princess of Wales is pictured on several front pages following news of her new documentary.",
+          "link": "https://www.bbc.co.uk/news/articles/c81dvrqe1zv0o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c81dvrqe1zv0o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 00:43:19 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267d/live/ee856a40-e602-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+          "description": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness. ",
+          "link": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 21 Nov 2026 21:39:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5613/live/accb12d0-e5e4-11f1-9ab8-8737221634d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Baby thriving after 3D-printed model used to save her heart",
+          "description": "A 3D printed model of Penny's heart was used to help her parents and medics see what was needed.",
+          "link": "https://www.bbc.co.uk/news/articles/cq892gz0e8lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cq892gz0e8lo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 11 Nov 2026 06:05:49 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd73/live/95857970-dd2f-11f1-ab46-9fae224bbf6f.jpg"
+            }
+          }
+        },
+        {
+          "title": "How one teenager's alpacas are helping children with additional needs",
+          "description": "The farm's alpacas and Valais Blacknose sheep make the pupils at the local school relaxed and happy.",
+          "link": "https://www.bbc.co.uk/news/articles/cr2klx1ke5dgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cr2klx1ke5dgo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 18 Nov 2026 06:05:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1856/live/8bba3d60-e1d8-11f1-b8c8-67fa35f5afdb.jpg"
+            }
+          }
+        },
+        {
+          "title": "Police dogs named after officers killed in crash",
+          "description": "Cleveland Police's dog unit calls the five-month-old cocker spaniels PD Bladesy and PD Tommy.",
+          "link": "https://www.bbc.co.uk/news/articles/c63eg3ynwgqyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c63eg3ynwgqyo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 17 Nov 2026 09:33:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6652/live/ecdef140-e254-11f1-8199-439bbe0918ee.jpg"
+            }
+          }
+        },
+        {
+          "title": "Download now",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Thrilling dark comedy starring Blake Lively and Anna Kendrick",
+          "description": "Anna Kendrick stars. Every friendship has its secrets - some are worth dying for...",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m000pbnd?at_mid=nQHTb1sAnD&at_campaign=A_Simple_Favour&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000pbnd&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=A_Simple_Favour&at_bbc_team=BBC&at_creation=film",
+          "guid": {
+            "_": "https://www.bbc.co.uk/iplayer/episode/m000pbnd?at_mid=nQHTb1sAnD&at_campaign=A_Simple_Favour&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000pbnd&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=A_Simple_Favour&at_bbc_team=BBC&at_creation=film#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 31 Mar 2026 05:00:00 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12d9/live/73c4efa0-2d17-11f1-a79a-77e93010d956.jpg"
+            }
+          }
+        },
+        {
+          "title": "Verstappen wins extraordinary race as Ferraris collide",
+          "description": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 06:27:06 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c5/live/4cf95270-e631-11f1-9a7b-83df752dd747.jpg"
+            }
+          }
+        },
+        {
+          "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
+          "description": "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with his squad.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 06:21:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b56b/live/6a92bb70-e44a-11f1-9192-3924a59e54c7.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+          "description": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future.\n",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 08:41:20 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/104e/live/c689eea0-e64b-11f1-a563-e14cd8b02601.jpg"
+            }
+          }
+        },
+        {
+          "title": "Can win over All Blacks finally break England's boom-bust cycle?",
+          "description": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 21 Nov 2026 22:27:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f051/live/35e3ad90-e5de-11f1-9ab8-8737221634d6.jpg"
+            }
+          }
+        },
+        {
+          "title": "Wales coach Tandy frustrated by Australia defeat",
+          "description": "Wales head coach Steve Tandy said he was frustrated after his side failed to back up their epic win over New Zealand with victory against Australia.",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregq87258o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregq87258o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 04:50:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/365e/live/e459fc70-e62f-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why Arsenal are behind in race for Women's Champions League spots",
+          "description": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 07:17:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf84/live/b3a1cf10-e01f-11f1-ad34-45f8f10f7c55.jpg"
+            }
+          }
+        },
+        {
+          "title": "‘Showing off for Selena Gomez’ - Wembanyama hits 50 points in Spurs win",
+          "description": "San Antonio Spurs star Victor Wembanyama hits 50 points as his side beats the New Orleans Pelicans 114-91.",
+          "link": "https://www.bbc.co.uk/sport/basketball/articles/c6x20yeqg18vo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/basketball/articles/c6x20yeqg18vo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sun, 22 Nov 2026 07:42:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2f6/live/9c2a9300-e63f-11f1-9f30-29998dff46e7.jpg"
+            }
+          }
+        },
+        {
+          "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999 ",
+          "description": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge.  They move up to sixth in the Premier League.\n\n\n",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 21 Nov 2026 19:59:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed41/live/db5e04d0-e5d6-11f1-99b6-a35a62fa4264.jpg"
+            }
+          }
+        },
+        {
+          "title": "Arsenal go six points clear after lively draw at Newcastle",
+          "description": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.\n\n\n",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 21 Nov 2026 19:59:35 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d9/live/fcb7f580-e5e2-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich ",
+          "description": "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town.",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 21 Nov 2026 19:59:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67dd/live/c58c8e30-e5cf-11f1-99b6-a35a62fa4264.jpg"
+            }
+          }
+        },
+        {
+          "title": "Coventry beat Palace in Frank's first game after late own goal",
+          "description": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League.",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 21 Nov 2026 19:58:52 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca40/live/81c33140-e5cf-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "Man City drop points to Fulham despite superb Anderson volley",
+          "description": "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham.",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 21 Nov 2026 19:59:08 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aed1/live/772ed3d0-e5cd-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Evanilson strikes again as Bournemouth beat Forest ",
+          "description": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium.",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 21 Nov 2026 19:59:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0efb/live/0c0d5f70-e5cf-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "Villa's home woes continue as Sunderland earn point",
+          "description": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League. \n\n\n",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do#10",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 21 Nov 2026 19:58:56 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0228/live/9a476370-e5e4-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

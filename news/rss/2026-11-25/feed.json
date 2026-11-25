@@ -1,0 +1,643 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Wed, 25 Nov 2026 10:42:56 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Energy bills to rise by 26% from January after gas prices surge",
+          "description": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+          "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 09:54:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb60/live/6bdfdbb0-e8ba-11f1-99b6-a35a62fa4264.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+          "description": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+          "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 10:04:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "Two men charged with trespass at Prince and Princess of Wales's Norfolk home",
+          "description": "The charges come after police were called to reports of suspicious activity on the Sandringham estate.",
+          "link": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 10:12:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ecc/live/c4219c10-e80a-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+          "description": "More young people in Britain have never had sex, but many are sexting and watching porn. ",
+          "link": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Nov 2026 23:38:39 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c04/live/270d0cc0-e8b4-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+          "description": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
+          "link": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Nov 2026 22:49:41 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bd5/live/97a497b0-e89a-11f1-99b6-a35a62fa4264.jpg"
+            }
+          }
+        },
+        {
+          "title": "Why has China sent the first Pakistani astronaut to space?",
+          "description": "Pakistan's Muhammad Zeeshan Ali has become the first foreign national to board China's Tiangong space station.",
+          "link": "https://www.bbc.co.uk/news/videos/cj5y1p067kxno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cj5y1p067kxno#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 10:26:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c45/live/c86e5fb0-e8b4-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Racism, misogyny and homophobia remain in Met force, report finds",
+          "description": "A new report has found institutional racism, misogyny and homophobia still exist in the Metropolitan Police, three years after a damning review.",
+          "link": "https://www.bbc.co.uk/news/articles/cvwy0rg343j7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvwy0rg343j7o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 05:45:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d47/live/e62c6e50-e8a7-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "Missed chances to save boy, 2, murdered by grandparents despite dad's concerns, review finds",
+          "description": "Safeguarding board apologises \"unreservedly\" after a review into the death of the Flintshire toddler.",
+          "link": "https://www.bbc.co.uk/news/articles/c63egnjyy5dno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c63egnjyy5dno#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 10:00:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/e8a0fc00-10b7-11f1-b048-c9424b2cf5fd.png"
+            }
+          }
+        },
+        {
+          "title": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
+          "description": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+          "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 00:56:51 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ministers ask public for views on changing age of consent",
+          "description": "Some campaigners have argued that different limits should apply, depending on the age gap between the people involved. ",
+          "link": "https://www.bbc.co.uk/news/articles/cwgkl31kmnddo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwgkl31kmnddo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 09:48:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ee/live/e0add070-e8b8-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Festive market cancels bookings after backlash over misleading AI images",
+          "description": "Visitors and stallholders say the event did not match the promotional AI pictures.",
+          "link": "https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 06:02:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f99/live/91fcead0-e8a7-11f1-99a1-253766e7ad8b.png"
+            }
+          }
+        },
+        {
+          "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+          "description": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+          "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 00:54:13 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849c/live/4d5b1c90-e815-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+          "description": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
+          "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 10:03:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg"
+            }
+          }
+        },
+        {
+          "title": "Three reasons why your energy bill is so high",
+          "description": "Ofgem has announced a 26% rise in the energy price cap - here's why Britons pay more for power than many other European nations.",
+          "link": "https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 09:36:47 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aba1/live/b7c93710-8519-11f1-926f-c90d1bcfbc84.png"
+            }
+          }
+        },
+        {
+          "title": "Why tiny cars are taking off across Europe",
+          "description": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+          "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 00:34:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg"
+            }
+          }
+        },
+        {
+          "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
+          "description": "More than 14,000 hours of CCTV evidence helped convict former police officer Beau Lamarre of killing his ex-partner and the man's new boyfriend in 2024.",
+          "link": "https://www.bbc.co.uk/news/videos/c6z9dk30880zo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/c6z9dk30880zo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 06:58:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a39/live/eef14440-e89b-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Clashing political visions reflect a divided Spain ahead of election",
+          "description": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
+          "link": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 00:58:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cda/live/86305ac0-e811-11f1-ab42-55d8d8278025.jpg"
+            }
+          }
+        },
+        {
+          "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+          "description": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+          "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Nov 2026 23:03:59 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "131",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b2/live/3e03d020-e824-11f1-99b6-a35a62fa4264.jpg"
+            }
+          }
+        },
+        {
+          "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+          "description": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 06:00:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abbb/live/4b2b41d0-e8a5-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "US preparing to unveil plan for new tariffs on global trading partners",
+          "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+          "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 00:38:01 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg"
+            }
+          }
+        },
+        {
+          "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+          "description": "The verdict follows a months-long trial in New York.",
+          "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 02:59:27 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
+            }
+          }
+        },
+        {
+          "title": "Protesters call on Israel to free Palestinian student held without charge",
+          "description": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
+          "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 10:03:42 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3883/live/d69e8c10-e8b7-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK sent sex offender refugee to African country in undisclosed deal ",
+          "description": "The deal is said to be the first known case of the UK government forcibly resettling a refugee permanently overseas. ",
+          "link": "https://www.bbc.co.uk/news/articles/c6z7407zrgwvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6z7407zrgwvo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 06:00:45 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b2/live/e454de40-e89e-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
+          "description": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+          "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Nov 2026 23:05:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+          "description": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+          "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 09:06:02 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg"
+            }
+          }
+        },
+        {
+          "title": "Download now",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#5",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "Bellingham plays down Zidane comparison after wonder goal",
+          "description": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Nov 2026 23:54:10 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/204f/live/561f0780-e85e-11f1-8c24-5f78b2492e15.jpg"
+            }
+          }
+        },
+        {
+          "title": "Khawaja 'disappointed' by Cummins' personal attack",
+          "description": "Former Australia batter Usman Khawaja says it was \"never about me versus Pat\" as the 2018 sandpapergate scandal rumbles on.",
+          "link": "https://www.bbc.co.uk/sport/cricket/articles/c6grexq2jpero?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/cricket/articles/c6grexq2jpero#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 08:37:44 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa7/live/c9ab1150-e8a7-11f1-869a-f96fd5660210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Are Man Utd this season's Tottenham?",
+          "description": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 06:22:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6874/live/00c21c60-e8b2-11f1-869a-f96fd5660210.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+          "description": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Tue, 24 Nov 2026 23:17:42 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc72/live/fbc81740-e853-11f1-aa88-031e8213533d.jpg"
+            }
+          }
+        },
+        {
+          "title": "How Fin Smith's carrying is giving England an extra dimension",
+          "description": "Fin Smith is only 5ft 10in tall and less than 14 stone, but the fly-half has become one of England's most prolific ball carriers.",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckr5gvr5yz24o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/rugby-union/articles/ckr5gvr5yz24o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 07:51:31 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf9/live/5ba20700-e8a1-11f1-869a-f96fd5660210.jpg"
+            }
+          }
+        },
+        {
+          "title": "Players in limbo after NZ netball league collapses",
+          "description": "Parris Mason on concerns about her netball future after the collapse of the domestic league in New Zealand.",
+          "link": "https://www.bbc.co.uk/sport/netball/articles/cq0k6gjgrzn4o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/netball/articles/cq0k6gjgrzn4o#8",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 07:17:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c940/live/9a915be0-e730-11f1-8294-033bd8ee7e95.jpg"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,624 @@
+{
+  "rss": {
+    "$": {
+      "xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "BBC News",
+      "description": "BBC News - News Front Page",
+      "link": "https://www.bbc.co.uk/news",
+      "image": {
+        "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news"
+      },
+      "generator": "RSS for Node",
+      "lastBuildDate": "Sat, 28 Nov 2026 09:38:00 GMT",
+      "atom:link": {
+        "$": {
+          "href": "https://feeds.bbci.co.uk/news/rss.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+      "language": "en-gb",
+      "ttl": "15",
+      "item": [
+        {
+          "title": "Pensions and benefits services still down after 'cyber incident'",
+          "description": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+          "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 09:10:32 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg"
+            }
+          }
+        },
+        {
+          "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+          "description": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Nov 2026 22:03:22 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa6/live/05399b00-ea84-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+          "description": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 06:52:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg"
+            }
+          }
+        },
+        {
+          "title": "Pharmacies get new powers to swap prescriptions during shortages",
+          "description": "If a medicine is out of stock, staff can offer the same drug in a different strength or form, like a capsule instead of a pill.",
+          "link": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 06:00:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9964/live/c4852fb0-eb06-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Set time aside for children to read for pleasure, schools to be told",
+          "description": "The government says its new cirriculum hopes to reverse declining literacy rates and combat \"mindless scrolling\".",
+          "link": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 08:27:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135c/live/334e1f80-eac9-11f1-b4f7-a59fcb94e161.jpg"
+            }
+          }
+        },
+        {
+          "title": "Charity founded in Captain Tom's name bids to be struck off",
+          "description": "The charity is now known as the 1189808 Foundation, having dropped the late fundraiser's name.",
+          "link": "https://www.bbc.co.uk/news/articles/c6jeqyqzy1y7o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6jeqyqzy1y7o#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Nov 2026 21:26:30 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7337/live/caba0040-a77e-11ef-a968-c7efee733ac0.jpg"
+            }
+          }
+        },
+        {
+          "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+          "description": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+          "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko#1",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 07:31:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297c/live/0c5c0a20-eafd-11f1-83de-2b6b9d423090.jpg"
+            }
+          }
+        },
+        {
+          "title": "‘Everything under one roof you didn't even know you needed’: Is this the end for Poundland?",
+          "description": "With baskets loaded full of bargains, shoppers at the much-loved chain tell the BBC the high street doesn't need more empty shops.",
+          "link": "https://www.bbc.co.uk/news/articles/c65y1l9j7j9ko?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c65y1l9j7j9ko#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 01:12:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bf6/live/878d30a0-ea4b-11f1-b220-b9f21129b546.jpg"
+            }
+          }
+        },
+        {
+          "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+          "description": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+          "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 00:05:17 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg"
+            }
+          }
+        },
+        {
+          "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+          "description": "With an official PC version potentially still months away, fans are getting impatient.",
+          "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 01:30:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98a4/live/a2c48d10-e97d-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Carly Rae Jepsen's viral hit proves what fans knew all along",
+          "description": "The Call Me Maybe star returns to the UK Top 40 as her single Run Away With Me gets a GTA VI boost.",
+          "link": "https://www.bbc.co.uk/news/articles/cq3dgp88p744o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cq3dgp88p744o#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 03:03:36 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f840/live/b254cec0-e9b9-11f1-8d2a-f5d2aabc11cb.jpg"
+            }
+          }
+        },
+        {
+          "title": "Who should get the flu vaccine this winter and why?",
+          "description": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
+          "link": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo#2",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 01:03:11 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267a/live/e3b37190-ea74-11f1-a828-d384c0290f6b.jpg"
+            }
+          }
+        },
+        {
+          "title": "UK set for break from harsh cold as temperatures climb into next week",
+          "description": "Met Office data shows that November so far has been colder than normal, but temperatures are set to rise as December approaches.",
+          "link": "https://www.bbc.co.uk/weather/articles/ckq5v8pgxx1qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/weather/articles/ckq5v8pgxx1qo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 06:41:14 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe63/live/ab0ef300-eb0a-11f1-99b6-a35a62fa4264.jpg"
+            }
+          }
+        },
+        {
+          "title": "Actor and comedian PJ Gallagher dies aged 51",
+          "description": "PJ Gallagher appeared on Irish television for more than two decades with shows including Naked Camera and The Young Offenders.",
+          "link": "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 08:34:16 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b7/live/11b79e90-eb0b-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "New satellite data shows how fast some African cities are sinking",
+          "description": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
+          "link": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cq074p95z4llo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Nov 2026 19:03:18 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3110/live/92589920-e988-11f1-9d1c-4dcc8fcde666.jpg"
+            }
+          }
+        },
+        {
+          "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+          "description": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+          "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Nov 2026 21:55:53 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e8/live/30e639e0-eb0e-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Christian wins discrimination case over LGBT views",
+          "description": "The Court of Appeal found Felix Ngole, from Barnsley, was discriminated against by his Leeds-based potential employer.",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gnm4d573jo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cw4gnm4d573jo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Nov 2026 17:29:12 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef1e/live/2fc94ce0-ea79-11f1-9888-1b7e4a7a7390.jpg"
+            }
+          }
+        },
+        {
+          "title": "The Papers: 'Catherine on cancer fight' and 'Benefits and pensions chaos'",
+          "description": "The Princess of Wales opening up on her \"cancer battle\" and a cyber incident hitting the pensions department lead Saturday's papers.",
+          "link": "https://www.bbc.co.uk/news/articles/ck792l9q07xro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/ck792l9q07xro#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 05:21:07 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71d1/live/110ecd50-eabc-11f1-a094-5fdc692f3e33.jpg"
+            }
+          }
+        },
+        {
+          "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+          "description": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions. ",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo#3",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 00:56:55 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
+            }
+          }
+        },
+        {
+          "title": "Bellingham's backing of reporter praised after viral clip",
+          "description": "A clip of Jude Bellingham preventing someone from interrupting a reporter has gone viral.",
+          "link": "https://www.bbc.co.uk/news/articles/cqkg5d3078zro?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cqkg5d3078zro#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Nov 2026 06:25:29 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c58/live/d7661500-e96b-11f1-99b6-a35a62fa4264.png"
+            }
+          }
+        },
+        {
+          "title": "Robotic exoskeleton helps boy, 7, take first steps",
+          "description": "Seeing Ellison Fishwick, who has a condition affecting strength, walk was amazing, his family says.",
+          "link": "https://www.bbc.co.uk/news/articles/c6m2517m8804o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/c6m2517m8804o#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Nov 2026 12:09:27 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef8e/live/f0735810-e9a6-11f1-b880-15b494ba858d.jpg"
+            }
+          }
+        },
+        {
+          "title": "Alaskan flying team airdrops Thanksgiving turkeys to remote communities",
+          "description": "For the last few years, the \"turkey bombers\" have taken to the skies for the benefit of residents in off-grid communities.",
+          "link": "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Thu, 26 Nov 2026 09:22:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d0/live/9e59d600-e927-11f1-99b6-a35a62fa4264.jpg"
+            }
+          }
+        },
+        {
+          "title": "Jilted bride who went ahead with her wedding alone finally walks down the aisle",
+          "description": "Guests burst into applause as Swansea bride Kayley Stead, jilted in 2022, finally says \"I do\".",
+          "link": "https://www.bbc.co.uk/news/articles/cxp80yln85nyo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/articles/cxp80yln85nyo#4",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 25 Nov 2026 06:06:26 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd3b/live/eb05f500-e806-11f1-95bb-3f37d3e026b0.jpg"
+            }
+          }
+        },
+        {
+          "title": "Download now",
+          "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+          "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/news/10628994#6",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Wed, 30 Apr 2025 14:04:28 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+            }
+          }
+        },
+        {
+          "title": "'You're not welcome here' - fans turn on Fofana as Chelsea lose again",
+          "description": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Nov 2026 21:31:54 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f7/live/58c8c760-eaa6-11f1-9541-edfa153772c7.jpg"
+            }
+          }
+        },
+        {
+          "title": "How a football team rebuilt after 19 players died in plane crash",
+          "description": "How a Brazilian football team rose again after a plane crash that killed most of their players and staff on the way to what should have been the biggest match of their lives.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 06:30:34 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "134",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5321/live/168241f0-e98a-11f1-9d1c-4dcc8fcde666.jpg"
+            }
+          }
+        },
+        {
+          "title": "Are these three brothers British skiing's next family dynasty?",
+          "description": "With their Olympian mum and ski instructor dad as their coaches, Freddy, Zak and Luca Carrick-Smith are tipped as British skiing's next big things.",
+          "link": "https://www.bbc.co.uk/sport/articles/c61wrqxgyd2no?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/articles/c61wrqxgyd2no#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 06:17:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe03/live/9d76d680-e278-11f1-b4f7-1f4d673c7508.jpg"
+            }
+          }
+        },
+        {
+          "title": "'I was trying to be someone I wasn't' – Steward on All Blacks shot",
+          "description": "Freddie Steward says he has previously been distracted by comparisons with different sorts of players on previous England starts.",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c67420k9jyxgo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/rugby-union/articles/c67420k9jyxgo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 09:11:50 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b392/live/8b7dcfe0-eb08-11f1-a1b8-23a74ada3757.jpg"
+            }
+          }
+        },
+        {
+          "title": "'It doesn't come from me' - Eckert irked by Southampton jibes at Boro",
+          "description": "Southampton head coach Tonda Eckert stresses that taunts from the club aimed at Championship opponents Middlesbrough do not come from him. ",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq8e0xrk2gwno?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cq8e0xrk2gwno#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 06:54:09 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c79/live/c6402090-eace-11f1-99a1-253766e7ad8b.jpg"
+            }
+          }
+        },
+        {
+          "title": "Decline of deities - the long game the All Blacks cannot afford to lose",
+          "description": "Statistically, this generation of All Blacks is the weakest in decades. How has a sporting shorthand for success slipped so far?",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkgkl7de60go?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkgkl7de60go#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Fri, 27 Nov 2026 18:42:05 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a029/live/a52b97c0-ea8a-11f1-a739-457c2295eaba.jpg"
+            }
+          }
+        },
+        {
+          "title": "Ranking the Premier League's ultimate free-kick specialists",
+          "description": "Who are the greatest free-kick specialists in Premier League history? BBC Sport delves into the stats and ranks the top 10.",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo?at_medium=RSS&at_campaign=rss",
+          "guid": {
+            "_": "https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo#9",
+            "$": {
+              "isPermaLink": "false"
+            }
+          },
+          "pubDate": "Sat, 28 Nov 2026 08:14:24 GMT",
+          "media:thumbnail": {
+            "$": {
+              "width": "240",
+              "height": "135",
+              "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d9c/live/aafa5b20-e8fd-11f1-99a1-253766e7ad8b.png"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
